@@ -1,0 +1,8 @@
+{
+  "name": "epg",
+  "version": "0.0.0",
+  "description": "EPG generator",
+  "author": "ghokun",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
