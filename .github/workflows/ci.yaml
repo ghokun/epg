@@ -1,0 +1,59 @@
+name: Generate TV playlist and EPG
+on:
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch: null
+  push:
+    paths:
+      - .github/workflows/ci.yml
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 21
+          cache: npm
+      - name: Download channels xml files
+        run: |
+          mkdir -p bin
+          mkdir -p bin/tvplus.com.tr
+          wget -O bin/tvplus.com.tr/channels.xml https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvplus.com.tr/tvplus.com.tr.channels.xml
+          mkdir -p bin/dsmart.com.tr
+          wget -O bin/dsmart.com.tr/channels.xml https://raw.githubusercontent.com/iptv-org/epg/master/sites/dsmart.com.tr/dsmart.com.tr.channels.xml
+          mkdir -p bin/digiturk.com.tr
+          wget -O bin/digiturk.com.tr/channels.xml https://raw.githubusercontent.com/iptv-org/epg/master/sites/digiturk.com.tr/digiturk.com.tr.channels.xml
+          mkdir -p bin/turksatkablo.com.tr
+          wget -O bin/turksatkablo.com.tr/channels.xml https://raw.githubusercontent.com/iptv-org/epg/master/sites/turksatkablo.com.tr/turksatkablo.com.tr.channels.xml
+          mkdir -p bin/ziggogo.tv
+          wget -O bin/ziggogo.tv/channels.xml https://raw.githubusercontent.com/iptv-org/epg/master/sites/ziggogo.tv/ziggogo.tv.channels.xml
+      - name: Grab guides
+        run: |
+          npm install
+          npm run start
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git
+          cd epg
+          npm install
+          npm run grab -- --channels=../bin/tvplus.com.tr/channels.xml --output=../bin/tvplus.com.tr/guide.xml
+          npm run grab -- --channels=../bin/dsmart.com.tr/channels.xml --output=../bin/dsmart.com.tr/guide.xml
+          npm run grab -- --channels=../bin/digiturk.com.tr/channels.xml --output=../bin/digiturk.com.tr/guide.xml
+          npm run grab -- --channels=../bin/turksatkablo.com.tr/channels.xml --output=../bin/turksatkablo.com.tr/guide.xml
+          npm run grab -- --channels=../bin/ziggogo.tv/channels.xml --output=../bin/ziggogo.tv/guide.xml
+          cd ..
+          rm -rf epg
+      - name: Commit and push
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes"
+          else
+            git config --global user.name github-actions
+            git config --global user.email github-actions@github.com
+            git add bin/*
+            git commit -m "Update EPG"
+            git push
+          fi
