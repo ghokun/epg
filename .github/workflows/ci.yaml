@@ -1,4 +1,4 @@
-name: Generate TV playlist and EPG
+name: Generate EPG
 on:
   schedule:
     - cron: 0 * * * *
@@ -34,8 +34,6 @@ jobs:
           wget -O bin/ziggogo.tv/channels.xml https://raw.githubusercontent.com/iptv-org/epg/master/sites/ziggogo.tv/ziggogo.tv.channels.xml
       - name: Grab guides
         run: |
-          npm install
-          npm run start
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git
           cd epg
           npm install
