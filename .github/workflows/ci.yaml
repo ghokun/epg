@@ -5,7 +5,7 @@ on:
   workflow_dispatch: null
   push:
     paths:
-      - .github/workflows/ci.yml
+      - .github/workflows/ci.yaml
 permissions:
   contents: write
 jobs:
