@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251221">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaKomedi2.tr@SD"><display-name>Sinema TV Comedy 2</display-name><icon src="https://i.imgur.com/XsjPusN.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062ba"><display-name>FilmScreen</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="MinikaGo.tr@SD"><display-name>Minika GO</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTCocuk.tr@SD"><display-name>TRT Çocuk</display-name><icon src="https://i.postimg.cc/1z9vRz14/trtcocuk.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="DiscoveryChannel.tr@SD"><display-name>Discovery</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="360.tr@SD"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="67e5c4c6cfef0b3744c556fa"><display-name>DMAX</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="CNBCEurope.uk@SD"><display-name>CNBC-e</display-name><icon src="https://i.imgur.com/B6sfpDa.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="6540d968cfef0b02d2dbb177"><display-name>Moonbug</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="683d6eafcfef0b3744e79132"><display-name>RT International</display-name><url>https://dsmart.com.tr</url></channel>
@@ -38,14 +36,15 @@
 <channel id="TRT2.tr@SD"><display-name>trt 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="StarTV.tr@SD"><display-name>Star</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="KanalD.tr@SD"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/9o1atM6.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaKomedi.tr@SD"><display-name>Sinema TV Comedy</display-name><icon src="https://i.imgur.com/U4C7JId.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="CNNInternational.us@MENA"><display-name>CNN International</display-name><icon src="https://i.imgur.com/dfxefQw.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="MinikaGo.tr@SD"><display-name>Minika GO</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTCocuk.tr@SD"><display-name>TRT Çocuk</display-name><icon src="https://i.postimg.cc/1z9vRz14/trtcocuk.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="DiscoveryChannel.tr@SD"><display-name>Discovery</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="360.tr@SD"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c606231"><display-name>TRT 3 Spor</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="UlkeTV.tr@SD"><display-name>Ülke TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="BabyTV.uk@France"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TVNET.tr@SD"><display-name>TV Net</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="HaberturkTV.tr@SD"><display-name>Haber Türk</display-name><icon src="https://i.imgur.com/6Tw3rUp.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Kanal7.tr@SD"><display-name>Kanal 7</display-name><icon src="https://i.imgur.com/0gq9xOm.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="ShowTV.tr@SD"><display-name>Show TV</display-name><icon src="https://i.imgur.com/1l7SCCu.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="MovieSmartClassic.tr@SD"><display-name>MovieSmart Classic</display-name><icon src="https://i.imgur.com/e6qYcCS.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="InvestigationDiscoveryEurope.us@SD"><display-name>Discovery ID</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://dsmart.com.tr</url></channel>
@@ -69,15 +68,15 @@
 <channel id="58d29bb0eefad3db9c6062bf"><display-name>Azoomee</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="ViasatHistory.tr@SD"><display-name>Viasat History</display-name><icon src="https://i.imgur.com/wRP9XA7.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c6062bc"><display-name>BBC Earth</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="Sinema1001.tr@SD"><display-name>Sinema TV 1001</display-name><icon src="https://i.imgur.com/OOMEELj.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062ba"><display-name>FilmScreen</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="CNNInternational.us@MENA"><display-name>CNN International</display-name><icon src="https://i.imgur.com/dfxefQw.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="BabyTV.uk@France"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DaVinci.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Kanal7.tr@SD"><display-name>Kanal 7</display-name><icon src="https://i.imgur.com/0gq9xOm.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c6062b4"><display-name>CosmoSports</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaAile2.tr@SD"><display-name>Sinema TV Aile 2</display-name><icon src="https://i.imgur.com/EMJiBSb.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c6062aa"><display-name>Eurosport</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://i.postimg.cc/xTwwXgp7/ekoturk.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://i.postimg.cc/rwZbxkJf/lovenature.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSpor.tr@SD"><display-name>TRT Spor</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTBelgesel.tr@SD"><display-name>TRT Belgesel</display-name><icon src="https://i.postimg.cc/Qdg6rTPR/trtbelgesel.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NationalGeographicWild.tr@SD"><display-name>National Geographic WILD</display-name><icon src="https://i.postimg.cc/cL2mQJfD/nationalgeographicwild.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NationalGeographic.tr@SD"><display-name>National Geographic</display-name><icon src="https://i.postimg.cc/FsPGHpzX/nationalgeographic.png"/><url>https://dsmart.com.tr</url></channel>
@@ -85,20 +84,21 @@
 <channel id="NOWTV.tr@SD"><display-name>NOW</display-name><icon src="https://i.imgur.com/5EYjWK7.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DisneyJr.tr@SD"><display-name>Disney Junior</display-name><icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema1002.tr@SD"><display-name>Sinema TV 1002</display-name><icon src="https://i.imgur.com/BEFyizf.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaKomedi2.tr@SD"><display-name>Sinema TV Comedy 2</display-name><icon src="https://i.imgur.com/XsjPusN.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaKomedi.tr@SD"><display-name>Sinema TV Comedy</display-name><icon src="https://i.imgur.com/U4C7JId.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Sinema1001.tr@SD"><display-name>Sinema TV 1001</display-name><icon src="https://i.imgur.com/OOMEELj.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaAile2.tr@SD"><display-name>Sinema TV Aile 2</display-name><icon src="https://i.imgur.com/EMJiBSb.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaAile.tr@SD"><display-name>Sinema TV Aile</display-name><icon src="https://i.imgur.com/2gTUEEC.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSpor.tr@SD"><display-name>TRT Spor</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaAksiyon2.tr@SD"><display-name>Sinema TV Aksiyon 2</display-name><icon src="https://i.imgur.com/oy8Nq1r.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaAksiyon.tr@SD"><display-name>Sinema TV Aksiyon</display-name><icon src="https://i.imgur.com/kd1PUID.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema2.tr@SD"><display-name>Sinema TV 2</display-name><icon src="https://i.imgur.com/mUjeqJM.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="67e5c4c6cfef0b3744c556fa"><display-name>DMAX</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://i.postimg.cc/rwZbxkJf/lovenature.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://i.postimg.cc/xTwwXgp7/ekoturk.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20251220223000 +0000" stop="20251220233000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Kayakla Atlama</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20251220233000 +0000" stop="20251221003000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20251221003000 +0000" stop="20251221030000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
@@ -1917,17 +1917,6 @@
 <programme start="20251221183000 +0000" stop="20251221192000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Birlikte Keyifli</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20251221192000 +0000" stop="20251221200000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">America&apos;s Got Talent</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20251221200000 +0000" stop="20251221230000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Belgesel Williams Sisters</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251220220000 +0000" stop="20251220231500 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gece Haberleri</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251220231500 +0000" stop="20251221030000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">CNN TÜRK Masası</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221030000 +0000" stop="20251221040000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221040000 +0000" stop="20251221060000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Güne Merhaba Hafta Sonu</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221060000 +0000" stop="20251221070000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221070000 +0000" stop="20251221083600 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221083600 +0000" stop="20251221120000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">5N1K</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221130000 +0000" stop="20251221150000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221150000 +0000" stop="20251221174500 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Hafta Sonu Ana Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20251221174500 +0000" stop="20251221204500 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Ne Oluyor?</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20251221220000 +0000" stop="20251221231500 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gece Haberleri</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20251221231500 +0000" stop="20251222021500 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Ne Oluyor?</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20251220210000 +0000" stop="20251220214800 +0000" channel="DaVinci.de@SD"><title lang="tr">Teknolojinin Nabzı</title><desc lang="tr">NASA tarafından yapılan uzay araştırmaları, dünya finans ağından yediğimiz yiyeceğe kadar günlük yaşamlarımız üzerinde bir etkiye sahiptir.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
