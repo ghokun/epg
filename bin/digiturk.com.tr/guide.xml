@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251227">
 <channel id="193"><display-name>beIN SPORTS 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
@@ -109,6 +108,7 @@
 <channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
 <programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title></programme>
 <programme start="20251226230000 +0000" stop="20251227010000 +0000" channel="24TV.tr@SD"><title lang="tr">Esas Mesele</title></programme>
 <programme start="20251227010000 +0000" stop="20251227020000 +0000" channel="24TV.tr@SD"><title lang="tr">8. Etap</title></programme>
@@ -1794,20 +1794,20 @@
 <programme start="20251228011800 +0000" stop="20251228025200 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Saint-Exupery (2024)</title></programme>
 <programme start="20251228025200 +0000" stop="20251228025700 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228025700 +0000" stop="20251228045000 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Convert, The (2023)</title></programme>
-<programme start="20251228045000 +0000" stop="20251228045800 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228045800 +0000" stop="20251228063500 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">We Live in Time (2024)</title></programme>
-<programme start="20251228063500 +0000" stop="20251228064400 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228064400 +0000" stop="20251228085300 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Gran Turismo (2023)</title></programme>
-<programme start="20251228085300 +0000" stop="20251228090300 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228090300 +0000" stop="20251228104300 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Man with No Past (2025)</title></programme>
-<programme start="20251228104300 +0000" stop="20251228105100 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228105100 +0000" stop="20251228121100 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Heist 88 (2023)</title></programme>
-<programme start="20251228121100 +0000" stop="20251228121900 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228121900 +0000" stop="20251228135400 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Wicked Little Letters (2023)</title></programme>
-<programme start="20251228135400 +0000" stop="20251228140200 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228140200 +0000" stop="20251228154600 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Equalizer 3, The (2023)</title></programme>
-<programme start="20251228154600 +0000" stop="20251228160300 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228170000 +0000" stop="20251228182600 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Savages (2024)</title></programme>
+<programme start="20251228045000 +0000" stop="20251228051500 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228051500 +0000" stop="20251228065200 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">We Live in Time (2024)</title></programme>
+<programme start="20251228065200 +0000" stop="20251228070600 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228070600 +0000" stop="20251228091500 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Gran Turismo (2023)</title></programme>
+<programme start="20251228091500 +0000" stop="20251228093000 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228093000 +0000" stop="20251228111100 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Man with No Past (2025)</title></programme>
+<programme start="20251228111100 +0000" stop="20251228112600 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228112600 +0000" stop="20251228124700 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Heist 88 (2023)</title></programme>
+<programme start="20251228124700 +0000" stop="20251228130200 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228130200 +0000" stop="20251228143600 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Wicked Little Letters (2023)</title></programme>
+<programme start="20251228143600 +0000" stop="20251228145200 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228145200 +0000" stop="20251228163600 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Equalizer 3, The (2023)</title></programme>
+<programme start="20251228163600 +0000" stop="20251228170000 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228170000 +0000" stop="20251228182700 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Savages (2024)</title></programme>
 <programme start="20251226220700 +0000" stop="20251226221600 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251226221600 +0000" stop="20251226234800 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Buddy Games: Spring Awakening (2023)</title></programme>
 <programme start="20251226234800 +0000" stop="20251226235700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
@@ -1832,23 +1832,23 @@
 <programme start="20251227224000 +0000" stop="20251228000400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Pet Sematary: Bloodlines (2023)</title></programme>
 <programme start="20251228000400 +0000" stop="20251228000800 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228000800 +0000" stop="20251228020100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Last Vermeer, The (2019)</title></programme>
-<programme start="20251228020800 +0000" stop="20251228021500 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228021500 +0000" stop="20251228034100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Jungle Bunch: World Tour, The (2023)</title></programme>
-<programme start="20251228034100 +0000" stop="20251228034800 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228034800 +0000" stop="20251228055000 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">LA LA LAND (2016)</title></programme>
-<programme start="20251228055000 +0000" stop="20251228055800 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228055800 +0000" stop="20251228072900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">THE APRIL FOOLS, THE (</title></programme>
-<programme start="20251228072900 +0000" stop="20251228073600 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228073600 +0000" stop="20251228092700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">LIFE IS BEAUTIFUL (1997)</title></programme>
-<programme start="20251228092700 +0000" stop="20251228093500 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228093500 +0000" stop="20251228111400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">DRAGON BLADE (2015)</title></programme>
-<programme start="20251228111400 +0000" stop="20251228112100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228112100 +0000" stop="20251228131300 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Fan, The (1996)</title></programme>
-<programme start="20251228131300 +0000" stop="20251228131900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228131900 +0000" stop="20251228151700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">INDIANA JONES AND THE KINGDOM OF THE CRYSTAL SKULL (2008)</title></programme>
-<programme start="20251228151700 +0000" stop="20251228152400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228152400 +0000" stop="20251228170100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">MORTDECAI (2015)</title></programme>
-<programme start="20251228170100 +0000" stop="20251228171600 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228020100 +0000" stop="20251228020800 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228020800 +0000" stop="20251228033400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Jungle Bunch: World Tour, The (2023)</title></programme>
+<programme start="20251228033400 +0000" stop="20251228034100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228034100 +0000" stop="20251228054400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">LA LA LAND (2016)</title></programme>
+<programme start="20251228054400 +0000" stop="20251228055100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228055100 +0000" stop="20251228072200 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">THE APRIL FOOLS, THE (</title></programme>
+<programme start="20251228072200 +0000" stop="20251228072900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228072900 +0000" stop="20251228092100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">LIFE IS BEAUTIFUL (1997)</title></programme>
+<programme start="20251228092100 +0000" stop="20251228092800 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228092800 +0000" stop="20251228110700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">DRAGON BLADE (2015)</title></programme>
+<programme start="20251228110700 +0000" stop="20251228111400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228111400 +0000" stop="20251228130600 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Fan, The (1996)</title></programme>
+<programme start="20251228130600 +0000" stop="20251228131200 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228131200 +0000" stop="20251228151000 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">INDIANA JONES AND THE KINGDOM OF THE CRYSTAL SKULL (2008)</title></programme>
+<programme start="20251228151000 +0000" stop="20251228151700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228151700 +0000" stop="20251228165400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">MORTDECAI (2015)</title></programme>
+<programme start="20251228165400 +0000" stop="20251228170900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251226213500 +0000" stop="20251226214500 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251226214500 +0000" stop="20251226225200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Kafesteki Kadın</title></programme>
 <programme start="20251226225200 +0000" stop="20251226233300 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
