@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251227">
 <channel id="193"><display-name>beIN SPORTS 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlkeTV.tr@SD"><display-name>ÜLKE TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="495"><display-name>beIN SPORTS 4</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="TVNET.tr@SD"><display-name>TVNET</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TV100.tr@SD"><display-name>tv100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TV85.tr@SD"><display-name>TV8,5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://digiturk.com.tr</url></channel>
@@ -104,11 +105,10 @@
 <channel id="508"><display-name>beIN SPORTS MAX 2</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="507"><display-name>beIN SPORTS MAX 1</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="506"><display-name>beIN SPORTS 5</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="495"><display-name>beIN SPORTS 4</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlkeTV.tr@SD"><display-name>ÜLKE TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
 <programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title></programme>
 <programme start="20251226230000 +0000" stop="20251227010000 +0000" channel="24TV.tr@SD"><title lang="tr">Esas Mesele</title></programme>
 <programme start="20251227010000 +0000" stop="20251227020000 +0000" channel="24TV.tr@SD"><title lang="tr">8. Etap</title></programme>
@@ -1491,49 +1491,49 @@
 <programme start="20251228025000 +0000" stop="20251228032300 +0000" channel="beINGurme.tr@SD"><title lang="tr">Bedri ve Dostları S1 B5</title></programme>
 <programme start="20251228032300 +0000" stop="20251228032500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228032500 +0000" stop="20251228035200 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yabancı Şef S1 B11</title></programme>
-<programme start="20251228035200 +0000" stop="20251228035400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228040000 +0000" stop="20251228043000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B24</title></programme>
-<programme start="20251228043000 +0000" stop="20251228043400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228035200 +0000" stop="20251228040000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228040000 +0000" stop="20251228043100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B24</title></programme>
+<programme start="20251228043100 +0000" stop="20251228044000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228044000 +0000" stop="20251228051000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Sinan Büdeyri ile Lezz’et S1 B39</title></programme>
-<programme start="20251228051000 +0000" stop="20251228051100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228051000 +0000" stop="20251228051500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228051500 +0000" stop="20251228054700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Görevimiz Yemek S2 B154</title></programme>
-<programme start="20251228054700 +0000" stop="20251228054900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228054700 +0000" stop="20251228055500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228055500 +0000" stop="20251228061200 +0000" channel="beINGurme.tr@SD"><title lang="tr">Lezzetin Ustaları S4 B112</title></programme>
-<programme start="20251228061200 +0000" stop="20251228061400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228061200 +0000" stop="20251228062000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228062000 +0000" stop="20251228064900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ekmek Arası Muhabbet S1 B 10</title></programme>
-<programme start="20251228064900 +0000" stop="20251228065000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228064900 +0000" stop="20251228065500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228065500 +0000" stop="20251228072600 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 15</title></programme>
-<programme start="20251228072600 +0000" stop="20251228072900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228072600 +0000" stop="20251228073500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228073500 +0000" stop="20251228080500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B23</title></programme>
-<programme start="20251228080500 +0000" stop="20251228080900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228081500 +0000" stop="20251228084300 +0000" channel="beINGurme.tr@SD"><title lang="tr">Sinan Büdeyri ile Lezz’et S1 B2</title></programme>
-<programme start="20251228084300 +0000" stop="20251228085000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228085500 +0000" stop="20251228092900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gastronomi Maceraları S6 B119</title></programme>
-<programme start="20251228092900 +0000" stop="20251228093000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228093500 +0000" stop="20251228100200 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gece Lezzetleri S1 B4</title></programme>
-<programme start="20251228100200 +0000" stop="20251228100400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228080500 +0000" stop="20251228081500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228081500 +0000" stop="20251228084400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Sinan Büdeyri ile Lezz’et S1 B2</title></programme>
+<programme start="20251228084400 +0000" stop="20251228085600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228085600 +0000" stop="20251228092900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gastronomi Maceraları S6 B119</title></programme>
+<programme start="20251228092900 +0000" stop="20251228093500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228093500 +0000" stop="20251228100300 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gece Lezzetleri S1 B4</title></programme>
+<programme start="20251228100300 +0000" stop="20251228101000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228101000 +0000" stop="20251228104000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Dünyanın En İyi Şefleri S1 B 3</title></programme>
-<programme start="20251228104000 +0000" stop="20251228104400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228104000 +0000" stop="20251228105000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228105000 +0000" stop="20251228112900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Hazer Amani ile Keşfe Değer S3 B6</title></programme>
-<programme start="20251228112900 +0000" stop="20251228113000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228113500 +0000" stop="20251228120600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ateşin Sırrı S1 B 11</title></programme>
-<programme start="20251228120600 +0000" stop="20251228120900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228112900 +0000" stop="20251228113600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228113600 +0000" stop="20251228120700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ateşin Sırrı S1 B 11</title></programme>
+<programme start="20251228120700 +0000" stop="20251228121500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228121500 +0000" stop="20251228124700 +0000" channel="beINGurme.tr@SD"><title lang="tr">10 Şef 10 Tabak S1 B2</title></programme>
-<programme start="20251228124700 +0000" stop="20251228124900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228125500 +0000" stop="20251228132800 +0000" channel="beINGurme.tr@SD"><title lang="tr">Evdeki Restoran S1 B11</title></programme>
-<programme start="20251228132800 +0000" stop="20251228133300 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228124700 +0000" stop="20251228125500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228125500 +0000" stop="20251228132900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Evdeki Restoran S1 B11</title></programme>
+<programme start="20251228132900 +0000" stop="20251228134000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228134000 +0000" stop="20251228140800 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 13</title></programme>
-<programme start="20251228140800 +0000" stop="20251228141500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228142000 +0000" stop="20251228144900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B25</title></programme>
-<programme start="20251228144900 +0000" stop="20251228145500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228150000 +0000" stop="20251228152800 +0000" channel="beINGurme.tr@SD"><title lang="tr">Sinan Büdeyri ile Lezz’et S1 B38</title></programme>
-<programme start="20251228152800 +0000" stop="20251228153300 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228140800 +0000" stop="20251228142100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228142100 +0000" stop="20251228144900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B25</title></programme>
+<programme start="20251228144900 +0000" stop="20251228150000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228150000 +0000" stop="20251228152900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Sinan Büdeyri ile Lezz’et S1 B38</title></programme>
+<programme start="20251228152900 +0000" stop="20251228154000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228154000 +0000" stop="20251228160700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Hesap Lütfen S1 B10</title></programme>
-<programme start="20251228160700 +0000" stop="20251228161400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228160700 +0000" stop="20251228162000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228162000 +0000" stop="20251228164500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Açık Ateş Başında S1 B10</title></programme>
-<programme start="20251228164500 +0000" stop="20251228165400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228170000 +0000" stop="20251228173000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Bedri ve Dostları S1 B6</title></programme>
-<programme start="20251228173000 +0000" stop="20251228173400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228164500 +0000" stop="20251228170000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228170000 +0000" stop="20251228173100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Bedri ve Dostları S1 B6</title></programme>
+<programme start="20251228173100 +0000" stop="20251228174000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228174000 +0000" stop="20251228180600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yabancı Şef S1 B12</title></programme>
 <programme start="20251226210000 +0000" stop="20251226212200 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 35</title></programme>
 <programme start="20251226212200 +0000" stop="20251226213100 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
@@ -1597,43 +1597,43 @@
 <programme start="20251228020000 +0000" stop="20251228022100 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 29</title></programme>
 <programme start="20251228022100 +0000" stop="20251228023100 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228023100 +0000" stop="20251228025200 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 30</title></programme>
-<programme start="20251228025200 +0000" stop="20251228025300 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228030000 +0000" stop="20251228032100 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 31</title></programme>
-<programme start="20251228032100 +0000" stop="20251228032200 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228025300 +0000" stop="20251228030000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228030000 +0000" stop="20251228032200 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 31</title></programme>
+<programme start="20251228032200 +0000" stop="20251228033000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228033000 +0000" stop="20251228035200 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 32</title></programme>
-<programme start="20251228035200 +0000" stop="20251228035200 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228035200 +0000" stop="20251228040000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228040000 +0000" stop="20251228042100 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 33</title></programme>
-<programme start="20251228042100 +0000" stop="20251228042200 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228042100 +0000" stop="20251228043000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228043000 +0000" stop="20251228045200 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 34</title></programme>
-<programme start="20251228045200 +0000" stop="20251228045300 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228045200 +0000" stop="20251228050000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228050000 +0000" stop="20251228052200 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 35</title></programme>
-<programme start="20251228052200 +0000" stop="20251228052300 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228053000 +0000" stop="20251228055100 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 36</title></programme>
-<programme start="20251228055100 +0000" stop="20251228055200 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228052200 +0000" stop="20251228053000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228053000 +0000" stop="20251228055200 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 36</title></programme>
+<programme start="20251228055200 +0000" stop="20251228060000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228060000 +0000" stop="20251228064600 +0000" channel="beINHE.tr@SD"><title lang="tr">James Martin’s Spanish Adventure S1 EP 3</title></programme>
-<programme start="20251228064600 +0000" stop="20251228064700 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228064600 +0000" stop="20251228070000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228070000 +0000" stop="20251228074600 +0000" channel="beINHE.tr@SD"><title lang="tr">James Martin’s Spanish Adventure S1 EP 4</title></programme>
-<programme start="20251228074600 +0000" stop="20251228074700 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228074600 +0000" stop="20251228080000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228080000 +0000" stop="20251228084500 +0000" channel="beINHE.tr@SD"><title lang="tr">Jamie &amp; Jimmy&apos;s Food Fight Club S7 Ep10</title></programme>
-<programme start="20251228084500 +0000" stop="20251228084700 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228084500 +0000" stop="20251228090000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228090000 +0000" stop="20251228094400 +0000" channel="beINHE.tr@SD"><title lang="tr">Jamie Oliver: Cooking For Less S1 EP 4</title></programme>
-<programme start="20251228094400 +0000" stop="20251228094500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228094400 +0000" stop="20251228100000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228100000 +0000" stop="20251228104700 +0000" channel="beINHE.tr@SD"><title lang="tr">Jamie Oliver: Fast &amp; Simple S1 EP 3</title></programme>
-<programme start="20251228104700 +0000" stop="20251228104800 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228104700 +0000" stop="20251228105500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228105500 +0000" stop="20251228115200 +0000" channel="beINHE.tr@SD"><title lang="tr">Grand Designs Australia S12 Ep 1</title></programme>
-<programme start="20251228115200 +0000" stop="20251228115300 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228120000 +0000" stop="20251228124600 +0000" channel="beINHE.tr@SD"><title lang="tr">Grand Designs S24 EP 6</title></programme>
-<programme start="20251228124600 +0000" stop="20251228124700 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228130000 +0000" stop="20251228133600 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 6</title></programme>
-<programme start="20251228133600 +0000" stop="20251228133700 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228115200 +0000" stop="20251228120100 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228120100 +0000" stop="20251228124700 +0000" channel="beINHE.tr@SD"><title lang="tr">Grand Designs S24 EP 6</title></programme>
+<programme start="20251228124700 +0000" stop="20251228130100 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228130100 +0000" stop="20251228133700 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 6</title></programme>
+<programme start="20251228133700 +0000" stop="20251228140000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228140000 +0000" stop="20251228144800 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 7</title></programme>
-<programme start="20251228144800 +0000" stop="20251228144900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20251228150000 +0000" stop="20251228153600 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 8</title></programme>
-<programme start="20251228153600 +0000" stop="20251228153800 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228144800 +0000" stop="20251228150100 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228150100 +0000" stop="20251228153700 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 8</title></programme>
+<programme start="20251228153700 +0000" stop="20251228160000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228160000 +0000" stop="20251228164600 +0000" channel="beINHE.tr@SD"><title lang="tr">James Martin’s Spanish Adventure S1 EP 3</title></programme>
-<programme start="20251228164600 +0000" stop="20251228164700 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228164600 +0000" stop="20251228170000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251228170000 +0000" stop="20251228174600 +0000" channel="beINHE.tr@SD"><title lang="tr">James Martin’s Spanish Adventure S1 EP 4</title></programme>
-<programme start="20251228174600 +0000" stop="20251228174700 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20251228174600 +0000" stop="20251228180000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251226210100 +0000" stop="20251226213700 +0000" channel="beINIZ.tr@SD"><title lang="tr">Kesişen Kültürler S3 EP1</title></programme>
 <programme start="20251226213700 +0000" stop="20251226214500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251226214500 +0000" stop="20251226221400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Baharatın Yolculuğu S1 B3</title></programme>
