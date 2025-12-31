@@ -153,10 +153,10 @@
 <programme start="20251231084500 +0000" stop="20251231090000 +0000" channel="193"><title lang="tr">Süper Lig Haftanın Golleri</title></programme>
 <programme start="20251231090000 +0000" stop="20251231110000 +0000" channel="193"><title lang="tr">beIN 1. Lig</title></programme>
 <programme start="20251231110000 +0000" stop="20251231113000 +0000" channel="193"><title lang="tr">Tenis 2025</title></programme>
-<programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="193"><title lang="tr">Dünyada Spor 2025</title></programme>
-<programme start="20251231120000 +0000" stop="20251231123000 +0000" channel="193"><title lang="tr">Türk Sporu 2025</title></programme>
-<programme start="20251231123000 +0000" stop="20251231133000 +0000" channel="193"><title lang="tr">Formula 1 2025</title></programme>
-<programme start="20251231133000 +0000" stop="20251231140000 +0000" channel="193"><title lang="tr">Dünyada Futbol 2025</title></programme>
+<programme start="20251231113000 +0000" stop="20251231120400 +0000" channel="193"><title lang="tr">Dünyada Spor 2025</title></programme>
+<programme start="20251231120400 +0000" stop="20251231123400 +0000" channel="193"><title lang="tr">Türk Sporu 2025</title></programme>
+<programme start="20251231123400 +0000" stop="20251231133200 +0000" channel="193"><title lang="tr">Formula 1 2025</title></programme>
+<programme start="20251231133200 +0000" stop="20251231140000 +0000" channel="193"><title lang="tr">Dünyada Futbol 2025</title></programme>
 <programme start="20251231140000 +0000" stop="20251231143000 +0000" channel="193"><title lang="tr">Türk Futbolu 2025</title></programme>
 <programme start="20251231143000 +0000" stop="20251231150000 +0000" channel="193"><title lang="tr">Ligue 1 2025</title></programme>
 <programme start="20251231150000 +0000" stop="20251231160000 +0000" channel="193"><title lang="tr">Premier League 2025</title></programme>
@@ -1389,78 +1389,6 @@
 <programme start="20251231010000 +0000" stop="20251231013000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Newsday</title></programme>
 <programme start="20251231013000 +0000" stop="20251231020000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: The Royal Year</title></programme>
 <programme start="20251231020000 +0000" stop="20251231023000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Newsday</title></programme>
-<programme start="20251231023000 +0000" stop="20251231030000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Talking Movies</title></programme>
-<programme start="20251231030000 +0000" stop="20251231033000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Newsday</title></programme>
-<programme start="20251231033000 +0000" stop="20251231040000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Syria to Omagh: Lost - Missing</title></programme>
-<programme start="20251231040000 +0000" stop="20251231043000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231043000 +0000" stop="20251231050000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">One Week, One Title:...</title></programme>
-<programme start="20251231050000 +0000" stop="20251231053000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231053000 +0000" stop="20251231060000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: We Remember</title></programme>
-<programme start="20251231060000 +0000" stop="20251231063000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Signed: BBC News</title></programme>
-<programme start="20251231063000 +0000" stop="20251231070000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Interview - Cynthia...</title></programme>
-<programme start="20251231070000 +0000" stop="20251231073000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Signed: BBC News</title></programme>
-<programme start="20251231073000 +0000" stop="20251231080000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The President&apos;s Path: A...</title></programme>
-<programme start="20251231080000 +0000" stop="20251231083000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231083000 +0000" stop="20251231090000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Talking Movies</title></programme>
-<programme start="20251231090000 +0000" stop="20251231093000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231093000 +0000" stop="20251231100000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Syria to Omagh: Lost - Missing</title></programme>
-<programme start="20251231100000 +0000" stop="20251231103000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231103000 +0000" stop="20251231110000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: The Royal Year</title></programme>
-<programme start="20251231110000 +0000" stop="20251231113000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231120000 +0000" stop="20251231123000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Signed: BBC News</title></programme>
-<programme start="20251231123000 +0000" stop="20251231130000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: We Remember</title></programme>
-<programme start="20251231130000 +0000" stop="20251231133000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231133000 +0000" stop="20251231140000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: The Year in Sport</title></programme>
-<programme start="20251231140000 +0000" stop="20251231143000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231143000 +0000" stop="20251231150000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Interview: Cynthia...</title></programme>
-<programme start="20251231150000 +0000" stop="20251231153000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231153000 +0000" stop="20251231160000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Aristocrat, the...</title></programme>
-<programme start="20251231160000 +0000" stop="20251231163000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231163000 +0000" stop="20251231170000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231170000 +0000" stop="20251231173000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231173000 +0000" stop="20251231180000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: We Remember</title></programme>
-<programme start="20251231210000 +0000" stop="20251231213000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231213000 +0000" stop="20251231220000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: The Royal Year</title></programme>
-<programme start="20251231220000 +0000" stop="20251231223000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20251231223000 +0000" stop="20251231230000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">New Year&apos;s Eve Live</title></programme>
-<programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">New Year&apos;s Eve Live</title></programme>
-<programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101003000 +0000" stop="20260101010000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Interview - Sundar...</title></programme>
-<programme start="20260101010000 +0000" stop="20260101013000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Newsday</title></programme>
-<programme start="20260101013000 +0000" stop="20260101020000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: We Remember</title></programme>
-<programme start="20260101020000 +0000" stop="20260101023000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Newsday</title></programme>
-<programme start="20260101023000 +0000" stop="20260101030000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Talking Movies</title></programme>
-<programme start="20260101030000 +0000" stop="20260101033000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Newsday</title></programme>
-<programme start="20260101033000 +0000" stop="20260101040000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">AI Decoded</title></programme>
-<programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Nile Rodgers: This...</title></programme>
-<programme start="20260101050000 +0000" stop="20260101053000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101053000 +0000" stop="20260101060000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Talking Movies: Review of 2025</title></programme>
-<programme start="20260101060000 +0000" stop="20260101063000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Signed: BBC News</title></programme>
-<programme start="20260101063000 +0000" stop="20260101070000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Interview - Sundar...</title></programme>
-<programme start="20260101070000 +0000" stop="20260101073000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Signed: BBC News</title></programme>
-<programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: The Biggest...</title></programme>
-<programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101083000 +0000" stop="20260101090000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Talking Movies</title></programme>
-<programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">AI Decoded</title></programme>
-<programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: We Remember</title></programme>
-<programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Signed: BBC News</title></programme>
-<programme start="20260101123000 +0000" stop="20260101130000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: The Royal Year</title></programme>
-<programme start="20260101130000 +0000" stop="20260101133000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101133000 +0000" stop="20260101140000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Review 2025: The Biggest...</title></programme>
-<programme start="20260101140000 +0000" stop="20260101143000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101143000 +0000" stop="20260101150000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Interview - Sundar...</title></programme>
-<programme start="20260101150000 +0000" stop="20260101153000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Botox Black Market</title></programme>
-<programme start="20260101160000 +0000" stop="20260101163000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101163000 +0000" stop="20260101170000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101170000 +0000" stop="20260101173000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">BBC News</title></programme>
-<programme start="20260101173000 +0000" stop="20260101180000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">Talking Movies: Review of 2025</title></programme>
 <programme start="20251230210100 +0000" stop="20251230212800 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gece Lezzetleri S1 B4</title></programme>
 <programme start="20251230212800 +0000" stop="20251230214500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20251230214500 +0000" stop="20251230221100 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 9</title></programme>
@@ -2555,135 +2483,6 @@
 <programme start="20251231015000 +0000" stop="20251231020000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bahçemizden Öyküler</title></programme>
 <programme start="20251231020000 +0000" stop="20251231021500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Evcil Hayvanım ve Ben:...</title></programme>
 <programme start="20251231021500 +0000" stop="20251231022500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231022500 +0000" stop="20251231023500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Hey Duggee</title></programme>
-<programme start="20251231023500 +0000" stop="20251231024500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231024500 +0000" stop="20251231025000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231025000 +0000" stop="20251231030000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231030000 +0000" stop="20251231031500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Andy&apos;nin Dünya Maceraları</title></programme>
-<programme start="20251231031500 +0000" stop="20251231033000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Ranger Hamza&apos;nın Doğa Arayışı</title></programme>
-<programme start="20251231033000 +0000" stop="20251231034000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231034000 +0000" stop="20251231035000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231035000 +0000" stop="20251231040500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231040500 +0000" stop="20251231041500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231041500 +0000" stop="20251231042000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231042000 +0000" stop="20251231043000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231043000 +0000" stop="20251231044000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231044000 +0000" stop="20251231044500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20251231044500 +0000" stop="20251231050000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Grace&apos;in Harika Makineleri</title></programme>
-<programme start="20251231050000 +0000" stop="20251231051500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Gigglebiz</title></programme>
-<programme start="20251231051500 +0000" stop="20251231054000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Kabadayılar</title></programme>
-<programme start="20251231054000 +0000" stop="20251231055000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Hey Duggee</title></programme>
-<programme start="20251231055000 +0000" stop="20251231055500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231055500 +0000" stop="20251231060500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231060500 +0000" stop="20251231061500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231061500 +0000" stop="20251231062500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Jojo ve Büyükanne</title></programme>
-<programme start="20251231062500 +0000" stop="20251231063500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231063500 +0000" stop="20251231064000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231064000 +0000" stop="20251231064500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231064500 +0000" stop="20251231070000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231070000 +0000" stop="20251231071500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Andy&apos;nin Dünya Maceraları</title></programme>
-<programme start="20251231071500 +0000" stop="20251231072000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Andy&apos;nin Dinozor Oyuncak...</title></programme>
-<programme start="20251231072000 +0000" stop="20251231073500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Evcil Hayvanım ve Ben:...</title></programme>
-<programme start="20251231073500 +0000" stop="20251231074000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Steve ve Aneeshwar Yaban...</title></programme>
-<programme start="20251231074000 +0000" stop="20251231074500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231074500 +0000" stop="20251231075000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231075000 +0000" stop="20251231080500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Catie&apos;nin Harika Makineleri</title></programme>
-<programme start="20251231080500 +0000" stop="20251231081500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20251231081500 +0000" stop="20251231082500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Benim Dünya Mutfağım</title></programme>
-<programme start="20251231082500 +0000" stop="20251231084000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Andy&apos;nin Dünya Maceraları</title></programme>
-<programme start="20251231084000 +0000" stop="20251231085500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Ranger Hamza&apos;nın Doğa Arayışı</title></programme>
-<programme start="20251231085500 +0000" stop="20251231090500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231090500 +0000" stop="20251231091000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231091000 +0000" stop="20251231092500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231092500 +0000" stop="20251231093500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231093500 +0000" stop="20251231094500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231094500 +0000" stop="20251231095000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231095000 +0000" stop="20251231100000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231100000 +0000" stop="20251231101000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231101000 +0000" stop="20251231101500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20251231101500 +0000" stop="20251231103000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Grace&apos;in Harika Makineleri</title></programme>
-<programme start="20251231103000 +0000" stop="20251231104500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Gigglebiz</title></programme>
-<programme start="20251231104500 +0000" stop="20251231111000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Kabadayılar</title></programme>
-<programme start="20251231111000 +0000" stop="20251231111500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Hey Duggee</title></programme>
-<programme start="20251231111500 +0000" stop="20251231112500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231112500 +0000" stop="20251231113500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231113500 +0000" stop="20251231114000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231114000 +0000" stop="20251231115000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231115000 +0000" stop="20251231115500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231115500 +0000" stop="20251231120000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231120000 +0000" stop="20251231121500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Andy&apos;nin Dünya Maceraları</title></programme>
-<programme start="20251231121500 +0000" stop="20251231123000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Ranger Hamza&apos;nın Doğa Arayışı</title></programme>
-<programme start="20251231123000 +0000" stop="20251231124000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231124000 +0000" stop="20251231125000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231125000 +0000" stop="20251231130500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231130500 +0000" stop="20251231131500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231131500 +0000" stop="20251231132000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231132000 +0000" stop="20251231133000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231133000 +0000" stop="20251231134000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231134000 +0000" stop="20251231134500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20251231134500 +0000" stop="20251231140000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Grace&apos;in Harika Makineleri</title></programme>
-<programme start="20251231140000 +0000" stop="20251231141500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Gigglebiz</title></programme>
-<programme start="20251231141500 +0000" stop="20251231144000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Kabadayılar</title></programme>
-<programme start="20251231144000 +0000" stop="20251231145000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Hey Duggee</title></programme>
-<programme start="20251231145000 +0000" stop="20251231145500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231145500 +0000" stop="20251231150500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231150500 +0000" stop="20251231151500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231151500 +0000" stop="20251231152500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Jojo ve Büyükanne</title></programme>
-<programme start="20251231152500 +0000" stop="20251231153500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231153500 +0000" stop="20251231154000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231154000 +0000" stop="20251231154500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231154500 +0000" stop="20251231160000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231160000 +0000" stop="20251231161000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Jojo ve Büyükanne</title></programme>
-<programme start="20251231161000 +0000" stop="20251231162500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Jojo ve Büyükanne</title></programme>
-<programme start="20251231162500 +0000" stop="20251231163000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Nelly ve Nora</title></programme>
-<programme start="20251231163000 +0000" stop="20251231164000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Nelly ve Nora</title></programme>
-<programme start="20251231164000 +0000" stop="20251231165000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231165000 +0000" stop="20251231165500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20251231165500 +0000" stop="20251231170500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bahçemizden Öyküler</title></programme>
-<programme start="20251231170500 +0000" stop="20251231171500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231171500 +0000" stop="20251231172000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231172000 +0000" stop="20251231173000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231173000 +0000" stop="20251231174000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231174000 +0000" stop="20251231174500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Newton Avenue</title></programme>
-<programme start="20251231174500 +0000" stop="20251231175500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231175500 +0000" stop="20251231180000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231210000 +0000" stop="20251231210500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231210500 +0000" stop="20251231211500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20251231211500 +0000" stop="20251231213000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Grace&apos;in Harika Makineleri</title></programme>
-<programme start="20251231213000 +0000" stop="20251231214500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Gigglebiz</title></programme>
-<programme start="20251231214500 +0000" stop="20251231221000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Kabadayılar</title></programme>
-<programme start="20251231221000 +0000" stop="20251231221500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Hey Duggee</title></programme>
-<programme start="20251231221500 +0000" stop="20251231222500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231222500 +0000" stop="20251231223500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231223500 +0000" stop="20251231224000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20251231224000 +0000" stop="20251231225500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Jojo ve Büyükanne</title></programme>
-<programme start="20251231225500 +0000" stop="20251231230000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20251231230000 +0000" stop="20251231231000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231231000 +0000" stop="20251231231500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20251231231500 +0000" stop="20251231232500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20251231232500 +0000" stop="20251231233500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231233500 +0000" stop="20251231234500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231234500 +0000" stop="20251231235000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20251231235000 +0000" stop="20260101000000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20260101000000 +0000" stop="20260101000500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Hey Duggee</title></programme>
-<programme start="20260101000500 +0000" stop="20260101001500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Dog Kitapları Sever</title></programme>
-<programme start="20260101001500 +0000" stop="20260101002500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Stan Can</title></programme>
-<programme start="20260101002500 +0000" stop="20260101003000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Nelly ve Nora</title></programme>
-<programme start="20260101003000 +0000" stop="20260101004000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Nelly ve Nora</title></programme>
-<programme start="20260101004000 +0000" stop="20260101005000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Jojo ve Büyükanne</title></programme>
-<programme start="20260101005000 +0000" stop="20260101010500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Jojo ve Büyükanne</title></programme>
-<programme start="20260101010500 +0000" stop="20260101011000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20260101011000 +0000" stop="20260101012000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20260101012000 +0000" stop="20260101013000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Tinpo</title></programme>
-<programme start="20260101013000 +0000" stop="20260101013500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Yakka Dee</title></programme>
-<programme start="20260101013500 +0000" stop="20260101015000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Ranger Hamza&apos;nın Doğa Arayışı</title></programme>
-<programme start="20260101015000 +0000" stop="20260101020000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bahçemizden Öyküler</title></programme>
-<programme start="20260101020000 +0000" stop="20260101021500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Evcil Hayvanım ve Ben:...</title></programme>
-<programme start="20260101021500 +0000" stop="20260101022500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Köpek Takımı</title></programme>
-<programme start="20260101022500 +0000" stop="20260101023500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Hey Duggee</title></programme>
-<programme start="20260101023500 +0000" stop="20260101024500 +0000" channel="CBeebies.uk@SD"><title lang="tr">Süper Patates</title></programme>
-<programme start="20260101024500 +0000" stop="20260101025000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
-<programme start="20260101025000 +0000" stop="20260101065000 +0000" channel="CBeebies.uk@SD"><title lang="tr">Bluey</title></programme>
 <programme start="20251230210000 +0000" stop="20251230213000 +0000" channel="CGTN.cn@SD"><title lang="tr">Global Business</title></programme>
 <programme start="20251230213000 +0000" stop="20251230220000 +0000" channel="CGTN.cn@SD"><title lang="tr">The Hub With Wang Guan</title></programme>
 <programme start="20251230220000 +0000" stop="20251230223000 +0000" channel="CGTN.cn@SD"><title lang="tr">The World Today</title></programme>
@@ -3506,28 +3305,6 @@
 <programme start="20251230224500 +0000" stop="20251231004500 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçe 2025</title></programme>
 <programme start="20251231004500 +0000" stop="20251231010000 +0000" channel="FBTV.tr@SD"><title lang="tr">Gece Haberi</title></programme>
 <programme start="20251231010000 +0000" stop="20251231024500 +0000" channel="FBTV.tr@SD"><title lang="tr">Ünye Kadın SK - FB Arsavev</title></programme>
-<programme start="20251231024500 +0000" stop="20251231030000 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerium Saati</title></programme>
-<programme start="20251231030000 +0000" stop="20251231040000 +0000" channel="FBTV.tr@SD"><title lang="tr">FB Opet - Ogm Ormanspor</title></programme>
-<programme start="20251231040000 +0000" stop="20251231050000 +0000" channel="FBTV.tr@SD"><title lang="tr">Teknik Analiz</title></programme>
-<programme start="20251231050000 +0000" stop="20251231054500 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçemiz 2025-26...</title></programme>
-<programme start="20251231054500 +0000" stop="20251231061500 +0000" channel="FBTV.tr@SD"><title lang="tr">Dünya Sporu 2025</title></programme>
-<programme start="20251231061500 +0000" stop="20251231063000 +0000" channel="FBTV.tr@SD"><title lang="tr">Yılın Golleri 2025</title></programme>
-<programme start="20251231063000 +0000" stop="20251231064500 +0000" channel="FBTV.tr@SD"><title lang="tr">Tarihte Bugün</title></programme>
-<programme start="20251231064500 +0000" stop="20251231070000 +0000" channel="FBTV.tr@SD"><title lang="tr">Yılın Golleri 2025</title></programme>
-<programme start="20251231070000 +0000" stop="20251231090000 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçe 2025</title></programme>
-<programme start="20251231090000 +0000" stop="20251231091500 +0000" channel="FBTV.tr@SD"><title lang="tr">Haber</title></programme>
-<programme start="20251231091500 +0000" stop="20251231100000 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçemiz 2025-26...</title></programme>
-<programme start="20251231100000 +0000" stop="20251231110000 +0000" channel="FBTV.tr@SD"><title lang="tr">Teknik Analiz</title></programme>
-<programme start="20251231110000 +0000" stop="20251231111500 +0000" channel="FBTV.tr@SD"><title lang="tr">Haber</title></programme>
-<programme start="20251231111500 +0000" stop="20251231113000 +0000" channel="FBTV.tr@SD"><title lang="tr">Yılın Golleri 2025</title></programme>
-<programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="FBTV.tr@SD"><title lang="tr">Dünya Sporu 2025</title></programme>
-<programme start="20251231120000 +0000" stop="20251231130000 +0000" channel="FBTV.tr@SD"><title lang="tr">Analiz Euroleague</title></programme>
-<programme start="20251231130000 +0000" stop="20251231131500 +0000" channel="FBTV.tr@SD"><title lang="tr">Haber</title></programme>
-<programme start="20251231131500 +0000" stop="20251231151500 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçe 2025</title></programme>
-<programme start="20251231151500 +0000" stop="20251231160700 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçemiz 2025-26...</title></programme>
-<programme start="20251231160700 +0000" stop="20251231163000 +0000" channel="FBTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
-<programme start="20251231163000 +0000" stop="20251231170000 +0000" channel="FBTV.tr@SD"><title lang="tr">Dünya Sporu 2025</title></programme>
-<programme start="20251231170000 +0000" stop="20251231180000 +0000" channel="FBTV.tr@SD"><title lang="tr">Yıldız Takımı</title></programme>
 <programme start="20251230220000 +0000" stop="20251230223000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Haber</title></programme>
 <programme start="20251230223000 +0000" stop="20251230225900 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Almanak</title></programme>
 <programme start="20251230225900 +0000" stop="20251230230000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Kuş Bakışı</title></programme>
@@ -3804,15 +3581,6 @@
 <programme start="20251230213000 +0000" stop="20251230220000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Night</title></programme>
 <programme start="20251230220000 +0000" stop="20251230230000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Night</title></programme>
 <programme start="20251230230000 +0000" stop="20251231050000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
-<programme start="20251231050000 +0000" stop="20251231090000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
-<programme start="20251231090000 +0000" stop="20251231150000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
-<programme start="20251231150000 +0000" stop="20251231200000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
-<programme start="20251231213000 +0000" stop="20251231220000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Night</title></programme>
-<programme start="20251231220000 +0000" stop="20251231230000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Night</title></programme>
-<programme start="20251231230000 +0000" stop="20260101050000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
-<programme start="20260101050000 +0000" stop="20260101090000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
-<programme start="20260101090000 +0000" stop="20260101150000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
-<programme start="20260101150000 +0000" stop="20260101200000 +0000" channel="MCMTop.ru@SD"><title lang="tr">Top Mix</title></programme>
 <programme start="20251230211000 +0000" stop="20251230225500 +0000" channel="Mezzo.fr@SD"><title lang="tr">Classical</title></programme>
 <programme start="20251230225500 +0000" stop="20251231002500 +0000" channel="Mezzo.fr@SD"><title lang="tr">Classical</title></programme>
 <programme start="20251231002500 +0000" stop="20251231042000 +0000" channel="Mezzo.fr@SD"><title lang="tr">Opera</title></programme>
@@ -4068,21 +3836,6 @@
 <programme start="20251231003000 +0000" stop="20251231010000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Hits!</title></programme>
 <programme start="20251231010000 +0000" stop="20251231020000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Rock.</title></programme>
 <programme start="20251231020000 +0000" stop="20251231024500 +0000" channel="MTVLive.uk@SD"><title lang="tr">Isle of MTV: Malta 2025...</title></programme>
-<programme start="20251231024500 +0000" stop="20251231033000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Shawn Mendes: MTV Unplugged</title></programme>
-<programme start="20251231033000 +0000" stop="20251231050000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Hits!</title></programme>
-<programme start="20251231050000 +0000" stop="20251231060000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Eat, Sleep, Dance, Repeat!</title></programme>
-<programme start="20251231060000 +0000" stop="20251231070000 +0000" channel="MTVLive.uk@SD"><title lang="tr">MTV Rewind: 2021</title></programme>
-<programme start="20251231070000 +0000" stop="20251231083000 +0000" channel="MTVLive.uk@SD"><title lang="tr">MTV&apos;s 20 Chill Vibes</title></programme>
-<programme start="20251231083000 +0000" stop="20251231090000 +0000" channel="MTVLive.uk@SD"><title lang="tr">MTV Live Vault!</title></programme>
-<programme start="20251231090000 +0000" stop="20251231100000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Global Beats!</title></programme>
-<programme start="20251231100000 +0000" stop="20251231110000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Rock.</title></programme>
-<programme start="20251231110000 +0000" stop="20251231114500 +0000" channel="MTVLive.uk@SD"><title lang="tr">Isle of MTV: Malta 2025...</title></programme>
-<programme start="20251231114500 +0000" stop="20251231123000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Shawn Mendes: MTV Unplugged</title></programme>
-<programme start="20251231123000 +0000" stop="20251231140000 +0000" channel="MTVLive.uk@SD"><title lang="tr">Hits!</title></programme>
-<programme start="20251231140000 +0000" stop="20251231153000 +0000" channel="MTVLive.uk@SD"><title lang="tr">MTV&apos;s 20 Soundtrack Essentials</title></programme>
-<programme start="20251231153000 +0000" stop="20251231191000 +0000" channel="MTVLive.uk@SD"><title lang="tr">MTV&apos;s 50 Greatest Albums...</title></programme>
-<programme start="20251231220000 +0000" stop="20251231230000 +0000" channel="MTVLive.uk@SD"><title lang="tr">MTV Rewind: 2021</title></programme>
-<programme start="20251231230000 +0000" stop="20260101003000 +0000" channel="MTVLive.uk@SD"><title lang="tr">MTV&apos;s 20 Chill Vibes</title></programme>
 <programme start="20251230210000 +0000" stop="20251230215000 +0000" channel="NationalGeographic.tr@SD"><title lang="tr">Uçak Kazası Raporu</title></programme>
 <programme start="20251230215000 +0000" stop="20251230224000 +0000" channel="NationalGeographic.tr@SD"><title lang="tr">Uçak Kazası Raporu</title></programme>
 <programme start="20251230224000 +0000" stop="20251230232500 +0000" channel="NationalGeographic.tr@SD"><title lang="tr">Araba S.O.S.</title></programme>
