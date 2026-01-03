@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260103">
 <channel id="193"><display-name>beIN SPORTS 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlkeTV.tr@SD"><display-name>ÜLKE TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TVNET.tr@SD"><display-name>TVNET</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>tv100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TV85.tr@SD"><display-name>TV8,5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTWorld.tr@SD"><display-name>TRT WORLD</display-name><icon src="https://i.postimg.cc/pLBgJ42h/trtworld.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTTurk.tr@SD"><display-name>TRT TURK</display-name><icon src="https://i.postimg.cc/mg4vMBGW/trtturk.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>TRT SPOR YILDIZ</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTSpor.tr@SD"><display-name>TRT SPOR</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTMuzik.tr@SD"><display-name>TRT MÜZİK</display-name><icon src="https://i.imgur.com/JgUzRH8.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTKurdi.tr@SD"><display-name>TRT KURDI</display-name><icon src="https://i.postimg.cc/nVjff31g/trtkurdi.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTHaber.tr@SD"><display-name>TRT HABER</display-name><icon src="https://i.postimg.cc/RhnRp6Kp/trthaber.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTEBA.tr@SD"><display-name>TRT EBA TV ORTAOKUL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/400px-TRT_EBA_TV_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTCocuk.tr@SD"><display-name>TRT ÇOCUK</display-name><icon src="https://i.postimg.cc/1z9vRz14/trtcocuk.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTBelgesel.tr@SD"><display-name>TRT BELGESEL</display-name><icon src="https://i.postimg.cc/Qdg6rTPR/trtbelgesel.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTAvaz.tr@SD"><display-name>TRT AVAZ</display-name><icon src="https://i.postimg.cc/Hk1SK2Sw/trtavaz.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTArabi.tr@SD"><display-name>TRT ARABI</display-name><icon src="https://i.imgur.com/dEfI2M9.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRT3.tr@SD"><display-name>TRT 3 / TRT SPOR</display-name><icon src="https://i.imgur.com/JrWFwBd.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRT2.tr@SD"><display-name>TRT 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRT1.tr@SD"><display-name>TRT 1</display-name><icon src="https://i.postimg.cc/D0WjVYkg/trt1.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TGRTHaber.tr@SD"><display-name>TGRT HABER</display-name><icon src="https://i.imgur.com/PrxwKDw.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="Teve2.tr@SD"><display-name>TEVE2</display-name><icon src="https://i.imgur.com/rsoSLih.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="Tele1.tr@SD"><display-name>TELE 1</display-name><icon src="https://i.postimg.cc/ZY7bcVmn/tele1.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TarihTV.tr@SD"><display-name>TARİH TV</display-name><icon src="https://i.imgur.com/HbIGZUt.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="StarTV.tr@SD"><display-name>STAR TV</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="SozcuTV.tr@SD"><display-name>SÖZCÜ TV</display-name><icon src="https://i.imgur.com/BxpdvsG.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="ShowTV.tr@SD"><display-name>SHOW TV</display-name><icon src="https://i.imgur.com/1l7SCCu.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="Rai1.it@SD"><display-name>RAI1</display-name><icon src="https://i.postimg.cc/cCKBnvsm/rai1.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="NTV.tr@SD"><display-name>NTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="NickJr.tr@SD"><display-name>NICK JR</display-name><icon src="https://i.postimg.cc/tJB6gpQj/nickjr.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="507"><display-name>beIN SPORTS MAX 1</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="556"><display-name>AKİT TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="BBCNews.uk@Europe"><display-name>BBC WORLD NEWS</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BabyTV.uk@France"><display-name>BABY TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="555"><display-name>EUROSPORT 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="ATV.tr@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/HyVUwFC.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="ASpor.tr@SD"><display-name>A SPOR</display-name><icon src="https://i.imgur.com/ZhkZzLf.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="506"><display-name>beIN SPORTS 5</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="554"><display-name>EUROSPORT 1</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="APara.tr@SD"><display-name>A PARA</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="ANews.tr@SD"><display-name>A NEWS</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="552"><display-name>HT SPOR</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>AL JAZEERA CHANNEL</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="AHaber.tr@SD"><display-name>AHABER</display-name><icon src="https://i.postimg.cc/vBxR19z3/ahaber.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="495"><display-name>beIN SPORTS 4</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="551"><display-name>GZT</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="A2TV.tr@SD"><display-name>A2</display-name><icon src="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="360.tr@SD"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="550"><display-name>EKOL Sports</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="24TV.tr@SD"><display-name>24 TV</display-name><icon src="https://i.imgur.com/8FO41es.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="562"><display-name>EKOL TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="513"><display-name>BBC EARTH</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="561"><display-name>CNBC-e</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="560"><display-name>TYT TÜRK</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="508"><display-name>beIN SPORTS MAX 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="558"><display-name>BRT 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="557"><display-name>BRT 1</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="beINHE.tr@SD"><display-name>beIN H&amp;E</display-name><icon src="https://i.imgur.com/QmVitgD.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="beINGurme.tr@SD"><display-name>beIN GURME</display-name><icon src="https://i.imgur.com/Q8ITIMl.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="Nickelodeon.tr@SD"><display-name>NICKELODEON HD</display-name><icon src="https://i.postimg.cc/VkdqdrkH/nickelodeon.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="NationalGeographicWild.tr@SD"><display-name>NAT.GEO.WILD</display-name><icon src="https://i.postimg.cc/cL2mQJfD/nationalgeographicwild.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="NationalGeographic.tr@SD"><display-name>NATIONAL GEO.</display-name><icon src="https://i.postimg.cc/FsPGHpzX/nationalgeographic.png"/><url>https://digiturk.com.tr</url></channel>
@@ -76,39 +76,39 @@
 <channel id="beINMoviesStars.tr@SD"><display-name>beIN MOVIES STARS</display-name><icon src="https://i.imgur.com/eryPkrT.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="beINMoviesPremiere.tr@SD"><display-name>beIN MOVIES PREMIERE</display-name><icon src="https://i.imgur.com/SVwK50e.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="beINIZ.tr@SD"><display-name>beIN İZ</display-name><icon src="https://i.imgur.com/K8HU6aQ.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="beINHE.tr@SD"><display-name>beIN H&amp;E</display-name><icon src="https://i.imgur.com/QmVitgD.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="beINGurme.tr@SD"><display-name>beIN GURME</display-name><icon src="https://i.imgur.com/Q8ITIMl.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="BBCNews.uk@Europe"><display-name>BBC WORLD NEWS</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="BabyTV.uk@France"><display-name>BABY TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="ATV.tr@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/HyVUwFC.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="ASpor.tr@SD"><display-name>A SPOR</display-name><icon src="https://i.imgur.com/ZhkZzLf.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="APara.tr@SD"><display-name>A PARA</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="ANews.tr@SD"><display-name>A NEWS</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>AL JAZEERA CHANNEL</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="AHaber.tr@SD"><display-name>AHABER</display-name><icon src="https://i.postimg.cc/vBxR19z3/ahaber.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="A2TV.tr@SD"><display-name>A2</display-name><icon src="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="360.tr@SD"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="24TV.tr@SD"><display-name>24 TV</display-name><icon src="https://i.imgur.com/8FO41es.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="562"><display-name>EKOL TV</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="561"><display-name>CNBC-e</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="560"><display-name>TYT TÜRK</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="558"><display-name>BRT 2</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="557"><display-name>BRT 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="556"><display-name>AKİT TV</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="555"><display-name>EUROSPORT 2</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="554"><display-name>EUROSPORT 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="552"><display-name>HT SPOR</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="551"><display-name>GZT</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="550"><display-name>EKOL Sports</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="513"><display-name>BBC EARTH</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="508"><display-name>beIN SPORTS MAX 2</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="507"><display-name>beIN SPORTS MAX 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="506"><display-name>beIN SPORTS 5</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="495"><display-name>beIN SPORTS 4</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="SozcuTV.tr@SD"><display-name>SÖZCÜ TV</display-name><icon src="https://i.imgur.com/BxpdvsG.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="ShowTV.tr@SD"><display-name>SHOW TV</display-name><icon src="https://i.imgur.com/1l7SCCu.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="Rai1.it@SD"><display-name>RAI1</display-name><icon src="https://i.postimg.cc/cCKBnvsm/rai1.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlkeTV.tr@SD"><display-name>ÜLKE TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TVNET.tr@SD"><display-name>TVNET</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>tv100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTWorld.tr@SD"><display-name>TRT WORLD</display-name><icon src="https://i.postimg.cc/pLBgJ42h/trtworld.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTTurk.tr@SD"><display-name>TRT TURK</display-name><icon src="https://i.postimg.cc/mg4vMBGW/trtturk.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTSpor.tr@SD"><display-name>TRT SPOR</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTMuzik.tr@SD"><display-name>TRT MÜZİK</display-name><icon src="https://i.imgur.com/JgUzRH8.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTKurdi.tr@SD"><display-name>TRT KURDI</display-name><icon src="https://i.postimg.cc/nVjff31g/trtkurdi.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTEBA.tr@SD"><display-name>TRT EBA TV ORTAOKUL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/400px-TRT_EBA_TV_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTCocuk.tr@SD"><display-name>TRT ÇOCUK</display-name><icon src="https://i.postimg.cc/1z9vRz14/trtcocuk.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTBelgesel.tr@SD"><display-name>TRT BELGESEL</display-name><icon src="https://i.postimg.cc/Qdg6rTPR/trtbelgesel.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTArabi.tr@SD"><display-name>TRT ARABI</display-name><icon src="https://i.imgur.com/dEfI2M9.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRT3.tr@SD"><display-name>TRT 3 / TRT SPOR</display-name><icon src="https://i.imgur.com/JrWFwBd.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRT2.tr@SD"><display-name>TRT 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TGRTHaber.tr@SD"><display-name>TGRT HABER</display-name><icon src="https://i.imgur.com/PrxwKDw.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="Teve2.tr@SD"><display-name>TEVE2</display-name><icon src="https://i.imgur.com/rsoSLih.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="Tele1.tr@SD"><display-name>TELE 1</display-name><icon src="https://i.postimg.cc/ZY7bcVmn/tele1.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TarihTV.tr@SD"><display-name>TARİH TV</display-name><icon src="https://i.imgur.com/HbIGZUt.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="StarTV.tr@SD"><display-name>STAR TV</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TV85.tr@SD"><display-name>TV8,5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>TRT SPOR YILDIZ</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTAvaz.tr@SD"><display-name>TRT AVAZ</display-name><icon src="https://i.postimg.cc/Hk1SK2Sw/trtavaz.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="NTV.tr@SD"><display-name>NTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTHaber.tr@SD"><display-name>TRT HABER</display-name><icon src="https://i.postimg.cc/RhnRp6Kp/trthaber.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRT1.tr@SD"><display-name>TRT 1</display-name><icon src="https://i.postimg.cc/D0WjVYkg/trt1.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="NickJr.tr@SD"><display-name>NICK JR</display-name><icon src="https://i.postimg.cc/tJB6gpQj/nickjr.png"/><url>https://digiturk.com.tr</url></channel>
 <programme start="20260102220000 +0000" stop="20260103010000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title></programme>
 <programme start="20260103010000 +0000" stop="20260103020000 +0000" channel="24TV.tr@SD"><title lang="tr">Esas Mesele</title></programme>
 <programme start="20260103020000 +0000" stop="20260103030000 +0000" channel="24TV.tr@SD"><title lang="tr">Bu Ülke</title></programme>
@@ -494,26 +494,6 @@
 <programme start="20260103071100 +0000" stop="20260103073900 +0000" channel="551"><title lang="tr">Rota Hazır</title></programme>
 <programme start="20260103073900 +0000" stop="20260103075600 +0000" channel="551"><title lang="tr">Sweet Village</title></programme>
 <programme start="20260103075600 +0000" stop="20260103082500 +0000" channel="551"><title lang="tr">Amerika Depo Savaşları</title></programme>
-<programme start="20260103082500 +0000" stop="20260103090000 +0000" channel="551"><title lang="tr">Hisseden Adam</title></programme>
-<programme start="20260103090000 +0000" stop="20260103093100 +0000" channel="551"><title lang="tr">Lesnoy Craft</title></programme>
-<programme start="20260103093100 +0000" stop="20260103095200 +0000" channel="551"><title lang="tr">Short Akışı</title></programme>
-<programme start="20260103095200 +0000" stop="20260103101900 +0000" channel="551"><title lang="tr">Meaty Cheesy</title></programme>
-<programme start="20260103101900 +0000" stop="20260103104600 +0000" channel="551"><title lang="tr">Vapor 03</title></programme>
-<programme start="20260103104600 +0000" stop="20260103111200 +0000" channel="551"><title lang="tr">Visual Walk Uk</title></programme>
-<programme start="20260103111200 +0000" stop="20260103113200 +0000" channel="551"><title lang="tr">Short Akışı</title></programme>
-<programme start="20260103113200 +0000" stop="20260103121300 +0000" channel="551"><title lang="tr">Avrupalı Gezgin</title></programme>
-<programme start="20260103121300 +0000" stop="20260103123700 +0000" channel="551"><title lang="tr">Watcheyes</title></programme>
-<programme start="20260103123700 +0000" stop="20260103131900 +0000" channel="551"><title lang="tr">Crazy Bushcraft</title></programme>
-<programme start="20260103131900 +0000" stop="20260103133900 +0000" channel="551"><title lang="tr">Short Akışı</title></programme>
-<programme start="20260103133900 +0000" stop="20260103135500 +0000" channel="551"><title lang="tr">Rota Hazır</title></programme>
-<programme start="20260103135500 +0000" stop="20260103142300 +0000" channel="551"><title lang="tr">Wood Wolf</title></programme>
-<programme start="20260103142300 +0000" stop="20260103151200 +0000" channel="551"><title lang="tr">Sweet Village</title></programme>
-<programme start="20260103151200 +0000" stop="20260103153300 +0000" channel="551"><title lang="tr">Short Akışı</title></programme>
-<programme start="20260103153300 +0000" stop="20260103160600 +0000" channel="551"><title lang="tr">Antik Seyyah</title></programme>
-<programme start="20260103160600 +0000" stop="20260103163200 +0000" channel="551"><title lang="tr">Kanan Badalov</title></programme>
-<programme start="20260103163200 +0000" stop="20260103165200 +0000" channel="551"><title lang="tr">Hasan Ada</title></programme>
-<programme start="20260103165200 +0000" stop="20260103170100 +0000" channel="551"><title lang="tr">Mutfak İşleri Müdürü</title></programme>
-<programme start="20260103170100 +0000" stop="20260103185000 +0000" channel="551"><title lang="tr">Amerika Depo Savaşları</title></programme>
 <programme start="20260102220000 +0000" stop="20260103000000 +0000" channel="552"><title lang="tr">Basketbol Maçı</title></programme>
 <programme start="20260103000000 +0000" stop="20260103020000 +0000" channel="552"><title lang="tr">Gece Yarısı</title></programme>
 <programme start="20260103020000 +0000" stop="20260103030000 +0000" channel="552"><title lang="tr">HT Spor Magazin</title></programme>
@@ -581,31 +561,6 @@
 <programme start="20260103050000 +0000" stop="20260103073000 +0000" channel="556"><title lang="tr">Gün Başlıyor</title></programme>
 <programme start="20260103073000 +0000" stop="20260103080000 +0000" channel="556"><title lang="tr">Sağlık Vakti</title></programme>
 <programme start="20260103080000 +0000" stop="20260103090000 +0000" channel="556"><title lang="tr">Eğitim Atlası</title></programme>
-<programme start="20260103090000 +0000" stop="20260103093000 +0000" channel="556"><title lang="tr">Haber</title></programme>
-<programme start="20260103093000 +0000" stop="20260103100000 +0000" channel="556"><title lang="tr">Gündem Haber</title></programme>
-<programme start="20260103100000 +0000" stop="20260103104500 +0000" channel="556"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20260103104500 +0000" stop="20260103120000 +0000" channel="556"><title lang="tr">Spor Aktüel</title></programme>
-<programme start="20260103120000 +0000" stop="20260103123000 +0000" channel="556"><title lang="tr">Haber</title></programme>
-<programme start="20260103123000 +0000" stop="20260103140000 +0000" channel="556"><title lang="tr">Aile Vakti</title></programme>
-<programme start="20260103140000 +0000" stop="20260103150000 +0000" channel="556"><title lang="tr">Akşama Doğru</title></programme>
-<programme start="20260103150000 +0000" stop="20260103153000 +0000" channel="556"><title lang="tr">Teknolifes</title></programme>
-<programme start="20260103153000 +0000" stop="20260103160000 +0000" channel="556"><title lang="tr">Ana Habere Doğru</title></programme>
-<programme start="20260103160000 +0000" stop="20260103173000 +0000" channel="556"><title lang="tr">Ana Haber</title></programme>
-<programme start="20260103173000 +0000" stop="20260103193000 +0000" channel="556"><title lang="tr">Kırmızı Masa</title></programme>
-<programme start="20260104033000 +0000" stop="20260104050000 +0000" channel="556"><title lang="tr">Başka Açıdan</title></programme>
-<programme start="20260104050000 +0000" stop="20260104080000 +0000" channel="556"><title lang="tr">Gün Başlıyor</title></programme>
-<programme start="20260104080000 +0000" stop="20260104090000 +0000" channel="556"><title lang="tr">Gündeme Bakış</title></programme>
-<programme start="20260104090000 +0000" stop="20260104100000 +0000" channel="556"><title lang="tr">Haber</title></programme>
-<programme start="20260104100000 +0000" stop="20260104110000 +0000" channel="556"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20260104110000 +0000" stop="20260104120000 +0000" channel="556"><title lang="tr">Haber</title></programme>
-<programme start="20260104120000 +0000" stop="20260104123000 +0000" channel="556"><title lang="tr">Haber</title></programme>
-<programme start="20260104123000 +0000" stop="20260104130000 +0000" channel="556"><title lang="tr">Rotamız Anadolu</title></programme>
-<programme start="20260104130000 +0000" stop="20260104140000 +0000" channel="556"><title lang="tr">Haber</title></programme>
-<programme start="20260104140000 +0000" stop="20260104143000 +0000" channel="556"><title lang="tr">Akşama Doğru</title></programme>
-<programme start="20260104143000 +0000" stop="20260104153000 +0000" channel="556"><title lang="tr">İlimden İrfana</title></programme>
-<programme start="20260104153000 +0000" stop="20260104160000 +0000" channel="556"><title lang="tr">Ana Habere Doğru</title></programme>
-<programme start="20260104160000 +0000" stop="20260104173000 +0000" channel="556"><title lang="tr">Ana Haber</title></programme>
-<programme start="20260104173000 +0000" stop="20260104193000 +0000" channel="556"><title lang="tr">Kayıt Dışı Tarih</title></programme>
 <programme start="20260102210000 +0000" stop="20260102220000 +0000" channel="557"><title lang="tr">BRT 1</title></programme>
 <programme start="20260102220000 +0000" stop="20260102230000 +0000" channel="557"><title lang="tr">BRT 1</title></programme>
 <programme start="20260102230000 +0000" stop="20260103000000 +0000" channel="557"><title lang="tr">BRT 1</title></programme>
@@ -750,108 +705,12 @@
 <programme start="20260103070000 +0000" stop="20260103080000 +0000" channel="561"><title lang="tr">Hayatın Gustosu</title></programme>
 <programme start="20260103080000 +0000" stop="20260103092000 +0000" channel="561"><title lang="tr">Ana Sahne Bocelli Live in...</title></programme>
 <programme start="20260103080000 +0000" stop="20260103092000 +0000" channel="561"><title lang="tr">Ana Sahne Bocelli Live in...</title></programme>
-<programme start="20260103092000 +0000" stop="20260103094000 +0000" channel="561"><title lang="tr">Unlocked</title></programme>
-<programme start="20260103092000 +0000" stop="20260103094000 +0000" channel="561"><title lang="tr">Unlocked</title></programme>
-<programme start="20260103094000 +0000" stop="20260103100000 +0000" channel="561"><title lang="tr">The Art of Appreciation Dubai</title></programme>
-<programme start="20260103094000 +0000" stop="20260103100000 +0000" channel="561"><title lang="tr">The Art of Appreciation Dubai</title></programme>
-<programme start="20260103100000 +0000" stop="20260103103000 +0000" channel="561"><title lang="tr">Gelecegimiz için Eğitim</title></programme>
-<programme start="20260103100000 +0000" stop="20260103103000 +0000" channel="561"><title lang="tr">Gelecegimiz için Eğitim</title></programme>
-<programme start="20260103103000 +0000" stop="20260103113000 +0000" channel="561"><title lang="tr">O&apos;dan 1&apos;e</title></programme>
-<programme start="20260103103000 +0000" stop="20260103113000 +0000" channel="561"><title lang="tr">O&apos;dan 1&apos;e</title></programme>
-<programme start="20260103113000 +0000" stop="20260103120000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260103113000 +0000" stop="20260103120000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260103120000 +0000" stop="20260103125000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260103120000 +0000" stop="20260103125000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260103125000 +0000" stop="20260103134000 +0000" channel="561"><title lang="tr">The Tonight Show Jimmy Fallon</title></programme>
-<programme start="20260103125000 +0000" stop="20260103134000 +0000" channel="561"><title lang="tr">The Tonight Show Jimmy Fallon</title></programme>
-<programme start="20260103134000 +0000" stop="20260103140000 +0000" channel="561"><title lang="tr">art-e</title></programme>
-<programme start="20260103134000 +0000" stop="20260103140000 +0000" channel="561"><title lang="tr">art-e</title></programme>
-<programme start="20260103140000 +0000" stop="20260103145000 +0000" channel="561"><title lang="tr">Documentary ED Sheeran</title></programme>
-<programme start="20260103140000 +0000" stop="20260103145000 +0000" channel="561"><title lang="tr">Documentary ED Sheeran</title></programme>
-<programme start="20260103145000 +0000" stop="20260103154000 +0000" channel="561"><title lang="tr">Serda ile Masadaki Sırlar</title></programme>
-<programme start="20260103145000 +0000" stop="20260103154000 +0000" channel="561"><title lang="tr">Serda ile Masadaki Sırlar</title></programme>
-<programme start="20260103154000 +0000" stop="20260103161000 +0000" channel="561"><title lang="tr">İş&apos;ten Sohbetler</title></programme>
-<programme start="20260103154000 +0000" stop="20260103161000 +0000" channel="561"><title lang="tr">İş&apos;ten Sohbetler</title></programme>
-<programme start="20260103161000 +0000" stop="20260103170000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260103161000 +0000" stop="20260103170000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260103170000 +0000" stop="20260103174500 +0000" channel="561"><title lang="tr">America&apos;s Got Talent</title></programme>
-<programme start="20260103170000 +0000" stop="20260103174500 +0000" channel="561"><title lang="tr">America&apos;s Got Talent</title></programme>
-<programme start="20260103174500 +0000" stop="20260103192000 +0000" channel="561"><title lang="tr">What We did on Our Holiday</title></programme>
-<programme start="20260103174500 +0000" stop="20260103192000 +0000" channel="561"><title lang="tr">What We did on Our Holiday</title></programme>
-<programme start="20260103211000 +0000" stop="20260103224000 +0000" channel="561"><title lang="tr">Ana Sahne Bocelli Live in...</title></programme>
-<programme start="20260103211000 +0000" stop="20260103224000 +0000" channel="561"><title lang="tr">Ana Sahne Bocelli Live in...</title></programme>
-<programme start="20260103224000 +0000" stop="20260103233000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260103224000 +0000" stop="20260103233000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260103233000 +0000" stop="20260104000000 +0000" channel="561"><title lang="tr">Hayatın Gustosu</title></programme>
-<programme start="20260103233000 +0000" stop="20260104000000 +0000" channel="561"><title lang="tr">Hayatın Gustosu</title></programme>
-<programme start="20260104000000 +0000" stop="20260104005000 +0000" channel="561"><title lang="tr">Birlikte Keyifli</title></programme>
-<programme start="20260104000000 +0000" stop="20260104005000 +0000" channel="561"><title lang="tr">Birlikte Keyifli</title></programme>
-<programme start="20260104005000 +0000" stop="20260104012000 +0000" channel="561"><title lang="tr">İş&apos;ten Sohbetler</title></programme>
-<programme start="20260104005000 +0000" stop="20260104012000 +0000" channel="561"><title lang="tr">İş&apos;ten Sohbetler</title></programme>
-<programme start="20260104012000 +0000" stop="20260104020000 +0000" channel="561"><title lang="tr">0&apos;dan 1&apos;e</title></programme>
-<programme start="20260104012000 +0000" stop="20260104020000 +0000" channel="561"><title lang="tr">0&apos;dan 1&apos;e</title></programme>
-<programme start="20260104020000 +0000" stop="20260104022000 +0000" channel="561"><title lang="tr">art-e</title></programme>
-<programme start="20260104020000 +0000" stop="20260104022000 +0000" channel="561"><title lang="tr">art-e</title></programme>
-<programme start="20260104022000 +0000" stop="20260104031000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260104022000 +0000" stop="20260104031000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260104031000 +0000" stop="20260104040000 +0000" channel="561"><title lang="tr">Sesli Defterler</title></programme>
-<programme start="20260104031000 +0000" stop="20260104040000 +0000" channel="561"><title lang="tr">Sesli Defterler</title></programme>
-<programme start="20260104040000 +0000" stop="20260104061000 +0000" channel="561"><title lang="tr">Ekonomi Tekrarları</title></programme>
-<programme start="20260104040000 +0000" stop="20260104061000 +0000" channel="561"><title lang="tr">Ekonomi Tekrarları</title></programme>
-<programme start="20260104061000 +0000" stop="20260104070000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260104061000 +0000" stop="20260104070000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260104070000 +0000" stop="20260104075000 +0000" channel="561"><title lang="tr">Hayatın Gustosu</title></programme>
-<programme start="20260104070000 +0000" stop="20260104075000 +0000" channel="561"><title lang="tr">Hayatın Gustosu</title></programme>
-<programme start="20260104075000 +0000" stop="20260104090000 +0000" channel="561"><title lang="tr">Ana Sahne Berlioz Concert...</title></programme>
-<programme start="20260104075000 +0000" stop="20260104090000 +0000" channel="561"><title lang="tr">Ana Sahne Berlioz Concert...</title></programme>
-<programme start="20260104090000 +0000" stop="20260104094000 +0000" channel="561"><title lang="tr">Documentary Cardi</title></programme>
-<programme start="20260104090000 +0000" stop="20260104094000 +0000" channel="561"><title lang="tr">Documentary Cardi</title></programme>
-<programme start="20260104094000 +0000" stop="20260104103000 +0000" channel="561"><title lang="tr">Serda ile Masadaki Sırlar</title></programme>
-<programme start="20260104094000 +0000" stop="20260104103000 +0000" channel="561"><title lang="tr">Serda ile Masadaki Sırlar</title></programme>
-<programme start="20260104103000 +0000" stop="20260104113000 +0000" channel="561"><title lang="tr">Birlikte Keyifli</title></programme>
-<programme start="20260104103000 +0000" stop="20260104113000 +0000" channel="561"><title lang="tr">Birlikte Keyifli</title></programme>
-<programme start="20260104113000 +0000" stop="20260104120000 +0000" channel="561"><title lang="tr">Documentary Junk</title></programme>
-<programme start="20260104113000 +0000" stop="20260104120000 +0000" channel="561"><title lang="tr">Documentary Junk</title></programme>
-<programme start="20260104120000 +0000" stop="20260104125000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260104120000 +0000" stop="20260104125000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260104125000 +0000" stop="20260104133000 +0000" channel="561"><title lang="tr">The Tonight Show Jimmy Fallon</title></programme>
-<programme start="20260104125000 +0000" stop="20260104133000 +0000" channel="561"><title lang="tr">The Tonight Show Jimmy Fallon</title></programme>
-<programme start="20260104133000 +0000" stop="20260104140000 +0000" channel="561"><title lang="tr">Yapay Zeka ve Ötesi</title></programme>
-<programme start="20260104133000 +0000" stop="20260104140000 +0000" channel="561"><title lang="tr">Yapay Zeka ve Ötesi</title></programme>
-<programme start="20260104140000 +0000" stop="20260104142000 +0000" channel="561"><title lang="tr">Oto Ekonomi</title></programme>
-<programme start="20260104140000 +0000" stop="20260104142000 +0000" channel="561"><title lang="tr">Oto Ekonomi</title></programme>
-<programme start="20260104142000 +0000" stop="20260104145000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260104142000 +0000" stop="20260104145000 +0000" channel="561"><title lang="tr">Kentler Dönüşüyor</title></programme>
-<programme start="20260104145000 +0000" stop="20260104154000 +0000" channel="561"><title lang="tr">0&apos;dan 1&apos;e</title></programme>
-<programme start="20260104145000 +0000" stop="20260104154000 +0000" channel="561"><title lang="tr">0&apos;dan 1&apos;e</title></programme>
-<programme start="20260104154000 +0000" stop="20260104161000 +0000" channel="561"><title lang="tr">Gelecegimiz için Eğitim</title></programme>
-<programme start="20260104154000 +0000" stop="20260104161000 +0000" channel="561"><title lang="tr">Gelecegimiz için Eğitim</title></programme>
-<programme start="20260104161000 +0000" stop="20260104170000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260104161000 +0000" stop="20260104170000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260104170000 +0000" stop="20260104174500 +0000" channel="561"><title lang="tr">America&apos;s Got Talent</title></programme>
-<programme start="20260104170000 +0000" stop="20260104174500 +0000" channel="561"><title lang="tr">America&apos;s Got Talent</title></programme>
-<programme start="20260104174500 +0000" stop="20260104183000 +0000" channel="561"><title lang="tr">Serda ile Masadaki Sırlar</title></programme>
-<programme start="20260104174500 +0000" stop="20260104183000 +0000" channel="561"><title lang="tr">Serda ile Masadaki Sırlar</title></programme>
 <programme start="20260102210000 +0000" stop="20260103010000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
 <programme start="20260102210000 +0000" stop="20260103010000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
 <programme start="20260103010000 +0000" stop="20260103050000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
 <programme start="20260103010000 +0000" stop="20260103050000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
 <programme start="20260103050000 +0000" stop="20260103090000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
 <programme start="20260103050000 +0000" stop="20260103090000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260103090000 +0000" stop="20260103130000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260103090000 +0000" stop="20260103130000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260103130000 +0000" stop="20260103170000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260103130000 +0000" stop="20260103170000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260103210000 +0000" stop="20260104010000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260103210000 +0000" stop="20260104010000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104010000 +0000" stop="20260104050000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104010000 +0000" stop="20260104050000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104050000 +0000" stop="20260104090000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104050000 +0000" stop="20260104090000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104090000 +0000" stop="20260104130000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104090000 +0000" stop="20260104130000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104130000 +0000" stop="20260104170000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
-<programme start="20260104130000 +0000" stop="20260104170000 +0000" channel="562"><title lang="tr">Ekol TV</title></programme>
 <programme start="20260102213000 +0000" stop="20260102232000 +0000" channel="A2TV.tr@SD"><title lang="tr">Benim Annem Bir Melek</title></programme>
 <programme start="20260102232000 +0000" stop="20260103020000 +0000" channel="A2TV.tr@SD"><title lang="tr">Hercai</title></programme>
 <programme start="20260103020000 +0000" stop="20260103040000 +0000" channel="A2TV.tr@SD"><title lang="tr">Canım Ailem</title></programme>
@@ -2161,24 +2020,6 @@
 <programme start="20260103055500 +0000" stop="20260103060000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Tekrar Programlar</title></programme>
 <programme start="20260103060000 +0000" stop="20260103080000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Hafta Sonu</title></programme>
 <programme start="20260103080000 +0000" stop="20260103090000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Sağlığa Dair</title></programme>
-<programme start="20260103090000 +0000" stop="20260103110000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103140000 +0000" stop="20260103160000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103160000 +0000" stop="20260103170000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
-<programme start="20260103170000 +0000" stop="20260103190000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Kızıl Elma</title></programme>
-<programme start="20260103210000 +0000" stop="20260103215500 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20260103215500 +0000" stop="20260104055500 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Tekrar Programlar</title></programme>
-<programme start="20260104055500 +0000" stop="20260104060000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Tekrar Programlar</title></programme>
-<programme start="20260104060000 +0000" stop="20260104080000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Hafta Sonu</title></programme>
-<programme start="20260104080000 +0000" stop="20260104090000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Vatandaşın Hukuku</title></programme>
-<programme start="20260104090000 +0000" stop="20260104110000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104110000 +0000" stop="20260104130000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104130000 +0000" stop="20260104153000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104153000 +0000" stop="20260104160000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Yerel Yönetimler</title></programme>
-<programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
-<programme start="20260104170000 +0000" stop="20260104203000 +0000" channel="BenguturkTV.tr@SD"><title lang="tr">Teknoloji ve Gelecek</title></programme>
 <programme start="20260102220000 +0000" stop="20260103000000 +0000" channel="BeyazTV.tr@SD"><title lang="tr">Kimliksiz</title></programme>
 <programme start="20260103000000 +0000" stop="20260103020000 +0000" channel="BeyazTV.tr@SD"><title lang="tr">Rambo 2</title></programme>
 <programme start="20260103020000 +0000" stop="20260103030000 +0000" channel="BeyazTV.tr@SD"><title lang="tr">Kurtlar Vadisi</title></programme>
@@ -3463,46 +3304,6 @@
 <programme start="20260103060000 +0000" stop="20260103070000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Fotoğrafın Öyküsü</title></programme>
 <programme start="20260103070000 +0000" stop="20260103080000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Akla Ziyan</title></programme>
 <programme start="20260103080000 +0000" stop="20260103083000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yapısal Parite</title></programme>
-<programme start="20260103083000 +0000" stop="20260103090000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yaşanabilir Dünya</title></programme>
-<programme start="20260103090000 +0000" stop="20260103100000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Alkin Lakin</title></programme>
-<programme start="20260103100000 +0000" stop="20260103103000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yönetim Katı</title></programme>
-<programme start="20260103103000 +0000" stop="20260103110000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Portreler</title></programme>
-<programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">İşimiz Sağlık</title></programme>
-<programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Enerji Arenası</title></programme>
-<programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Perspektif</title></programme>
-<programme start="20260103140000 +0000" stop="20260103143000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Marka Değeri</title></programme>
-<programme start="20260103143000 +0000" stop="20260103150000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Dış Ticarette Gündem</title></programme>
-<programme start="20260103150000 +0000" stop="20260103153000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Rapor</title></programme>
-<programme start="20260103153000 +0000" stop="20260103160000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yapay Zeka Kafası</title></programme>
-<programme start="20260103160000 +0000" stop="20260103170000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Akla Ziyan</title></programme>
-<programme start="20260103170000 +0000" stop="20260103173000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Davranışsal Ekonomi</title></programme>
-<programme start="20260103173000 +0000" stop="20260103183000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">İktisattan Çıkış</title></programme>
-<programme start="20260103210000 +0000" stop="20260103220000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Akla Ziyan</title></programme>
-<programme start="20260103220000 +0000" stop="20260103230000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Enerji Arenası</title></programme>
-<programme start="20260103230000 +0000" stop="20260103233000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Davranışsal Ekonomi</title></programme>
-<programme start="20260103233000 +0000" stop="20260104010000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yapısal Parite</title></programme>
-<programme start="20260104010000 +0000" stop="20260104020000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Soyut Şeyler Ekonomisi</title></programme>
-<programme start="20260104020000 +0000" stop="20260104033000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Perspektif</title></programme>
-<programme start="20260104033000 +0000" stop="20260104040000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Marka Değeri</title></programme>
-<programme start="20260104040000 +0000" stop="20260104043000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Davranışsal Ekonomi</title></programme>
-<programme start="20260104043000 +0000" stop="20260104050000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yapay Zeka Kafası</title></programme>
-<programme start="20260104050000 +0000" stop="20260104053000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Dış Ticarette Gündem</title></programme>
-<programme start="20260104053000 +0000" stop="20260104060000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Rapor</title></programme>
-<programme start="20260104060000 +0000" stop="20260104070000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Fotoğrafın Öyküsü</title></programme>
-<programme start="20260104070000 +0000" stop="20260104080000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Alkin Lakin</title></programme>
-<programme start="20260104080000 +0000" stop="20260104083000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Davranışsal Ekonomi</title></programme>
-<programme start="20260104083000 +0000" stop="20260104090000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yönetim Katı</title></programme>
-<programme start="20260104090000 +0000" stop="20260104100000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Soyut Şeyler Ekonomisi</title></programme>
-<programme start="20260104100000 +0000" stop="20260104110000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Enerji Arenası</title></programme>
-<programme start="20260104110000 +0000" stop="20260104120000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">İşimiz Sağlık</title></programme>
-<programme start="20260104120000 +0000" stop="20260104130000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">İş Dünyası</title></programme>
-<programme start="20260104130000 +0000" stop="20260104133000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Lojistik Dünyası</title></programme>
-<programme start="20260104133000 +0000" stop="20260104143000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Akla Ziyan</title></programme>
-<programme start="20260104143000 +0000" stop="20260104150000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Portreler</title></programme>
-<programme start="20260104150000 +0000" stop="20260104153000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Dış Ticarette Gündem</title></programme>
-<programme start="20260104153000 +0000" stop="20260104160000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Marka Değeri</title></programme>
-<programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Alkin Lakin</title></programme>
-<programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="Ekoturk.tr@SD"><title lang="tr">Yapay Zeka Kafası</title></programme>
 <programme start="20260102210000 +0000" stop="20260102211400 +0000" channel="EuronewsEnglish.fr@SD"><title lang="tr">The European debrief</title></programme>
 <programme start="20260102211400 +0000" stop="20260102213000 +0000" channel="EuronewsEnglish.fr@SD"><title lang="tr">The European debrief</title></programme>
 <programme start="20260102213000 +0000" stop="20260102214600 +0000" channel="EuronewsEnglish.fr@SD"><title lang="tr">The European debrief</title></programme>
@@ -3872,20 +3673,6 @@
 <programme start="20260103050000 +0000" stop="20260103080000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Kahvaltı Haberleri</title></programme>
 <programme start="20260103080000 +0000" stop="20260103081000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260103081000 +0000" stop="20260103090000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Poster</title></programme>
-<programme start="20260103090000 +0000" stop="20260103110000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103110000 +0000" stop="20260103150000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103150000 +0000" stop="20260103170000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Hafta Sonu Ana Haber</title></programme>
-<programme start="20260103210000 +0000" stop="20260103230000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Sıra Dışı Gündem</title></programme>
-<programme start="20260103230000 +0000" stop="20260104030000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104030000 +0000" stop="20260104050000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104050000 +0000" stop="20260104080000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Kahvaltı Haberleri</title></programme>
-<programme start="20260104080000 +0000" stop="20260104083000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104083000 +0000" stop="20260104090000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">İyi Olma Sanatı</title></programme>
-<programme start="20260104090000 +0000" stop="20260104091000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104091000 +0000" stop="20260104100000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Poster</title></programme>
-<programme start="20260104100000 +0000" stop="20260104110000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104110000 +0000" stop="20260104150000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104150000 +0000" stop="20260104170000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Hafta Sonu Ana Haber</title></programme>
 <programme start="20260102210000 +0000" stop="20260102220000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gece Bülteni</title></programme>
 <programme start="20260102220000 +0000" stop="20260102230000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260102220000 +0000" stop="20260102231500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
@@ -4022,35 +3809,6 @@
 <programme start="20260103060000 +0000" stop="20260103070000 +0000" channel="KRT.tr@SD"><title lang="tr">Enerjide Bilgi Net</title></programme>
 <programme start="20260103070000 +0000" stop="20260103080000 +0000" channel="KRT.tr@SD"><title lang="tr">Yaşamını Tasarla</title></programme>
 <programme start="20260103080000 +0000" stop="20260103090000 +0000" channel="KRT.tr@SD"><title lang="tr">Kaliteli Yaşamın Sırları</title></programme>
-<programme start="20260103090000 +0000" stop="20260103100000 +0000" channel="KRT.tr@SD"><title lang="tr">İşte Başarı</title></programme>
-<programme start="20260103100000 +0000" stop="20260103110000 +0000" channel="KRT.tr@SD"><title lang="tr">Estetik</title></programme>
-<programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="KRT.tr@SD"><title lang="tr">Enerjide Bilgi Net</title></programme>
-<programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="KRT.tr@SD"><title lang="tr">En İyisi</title></programme>
-<programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="KRT.tr@SD"><title lang="tr">Hafıza</title></programme>
-<programme start="20260103140000 +0000" stop="20260103150000 +0000" channel="KRT.tr@SD"><title lang="tr">Kaliteli Yaşamın Sırları</title></programme>
-<programme start="20260103150000 +0000" stop="20260103160000 +0000" channel="KRT.tr@SD"><title lang="tr">Yaşamını Tasarla</title></programme>
-<programme start="20260103160000 +0000" stop="20260103170000 +0000" channel="KRT.tr@SD"><title lang="tr">Zaman Dışı</title></programme>
-<programme start="20260103170000 +0000" stop="20260103180000 +0000" channel="KRT.tr@SD"><title lang="tr">Hafıza</title></programme>
-<programme start="20260103210000 +0000" stop="20260103220000 +0000" channel="KRT.tr@SD"><title lang="tr">Hafıza</title></programme>
-<programme start="20260103220000 +0000" stop="20260103230000 +0000" channel="KRT.tr@SD"><title lang="tr">Enerjide Bilgi Net</title></programme>
-<programme start="20260103230000 +0000" stop="20260104000000 +0000" channel="KRT.tr@SD"><title lang="tr">Zaman Dışı</title></programme>
-<programme start="20260104000000 +0000" stop="20260104010000 +0000" channel="KRT.tr@SD"><title lang="tr">En İyisi</title></programme>
-<programme start="20260104010000 +0000" stop="20260104020000 +0000" channel="KRT.tr@SD"><title lang="tr">Zirvedekiler</title></programme>
-<programme start="20260104020000 +0000" stop="20260104030000 +0000" channel="KRT.tr@SD"><title lang="tr">Estetik</title></programme>
-<programme start="20260104030000 +0000" stop="20260104040000 +0000" channel="KRT.tr@SD"><title lang="tr">Kaliteli Yaşamın Sırları</title></programme>
-<programme start="20260104040000 +0000" stop="20260104050000 +0000" channel="KRT.tr@SD"><title lang="tr">Yaşamını Tasarla</title></programme>
-<programme start="20260104050000 +0000" stop="20260104060000 +0000" channel="KRT.tr@SD"><title lang="tr">En İyisi</title></programme>
-<programme start="20260104060000 +0000" stop="20260104070000 +0000" channel="KRT.tr@SD"><title lang="tr">Estetik</title></programme>
-<programme start="20260104070000 +0000" stop="20260104080000 +0000" channel="KRT.tr@SD"><title lang="tr">Yaşamını Tasarla</title></programme>
-<programme start="20260104080000 +0000" stop="20260104090000 +0000" channel="KRT.tr@SD"><title lang="tr">Kaliteli Yaşamın Sırları</title></programme>
-<programme start="20260104090000 +0000" stop="20260104100000 +0000" channel="KRT.tr@SD"><title lang="tr">İş Dünyası</title></programme>
-<programme start="20260104100000 +0000" stop="20260104110000 +0000" channel="KRT.tr@SD"><title lang="tr">Enerjide Bilgi Net</title></programme>
-<programme start="20260104110000 +0000" stop="20260104130000 +0000" channel="KRT.tr@SD"><title lang="tr">En İyisi</title></programme>
-<programme start="20260104130000 +0000" stop="20260104140000 +0000" channel="KRT.tr@SD"><title lang="tr">Hafıza</title></programme>
-<programme start="20260104140000 +0000" stop="20260104150000 +0000" channel="KRT.tr@SD"><title lang="tr">Yaşamını Tasarla</title></programme>
-<programme start="20260104150000 +0000" stop="20260104160000 +0000" channel="KRT.tr@SD"><title lang="tr">Kaliteli Yaşamın Sırları</title></programme>
-<programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="KRT.tr@SD"><title lang="tr">Zaman Dışı</title></programme>
-<programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="KRT.tr@SD"><title lang="tr">Hafıza</title></programme>
 <programme start="20260102210000 +0000" stop="20260103050000 +0000" channel="LiderHaber.tr@SD"><title lang="tr">Yeşilçam Kuşağı</title></programme>
 <programme start="20260103050000 +0000" stop="20260103070000 +0000" channel="LiderHaber.tr@SD"><title lang="tr">Yeşilçam Kuşağı</title></programme>
 <programme start="20260103070000 +0000" stop="20260103074500 +0000" channel="LiderHaber.tr@SD"><title lang="tr">Hatırla Beni</title></programme>
@@ -4774,27 +4532,6 @@
 <programme start="20260103040000 +0000" stop="20260103050000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260103050000 +0000" stop="20260103070000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20260103070000 +0000" stop="20260103100000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">İyi ki Hafta Sonu</title></programme>
-<programme start="20260103100000 +0000" stop="20260103110000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103140000 +0000" stop="20260103143000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103143000 +0000" stop="20260103150000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Dünyanın Sesi</title></programme>
-<programme start="20260103150000 +0000" stop="20260103170000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
-<programme start="20260103213000 +0000" stop="20260103214500 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
-<programme start="20260103214500 +0000" stop="20260103220000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">S Raporu</title></programme>
-<programme start="20260103220000 +0000" stop="20260104023000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
-<programme start="20260104023000 +0000" stop="20260104040000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
-<programme start="20260104040000 +0000" stop="20260104050000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
-<programme start="20260104050000 +0000" stop="20260104070000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Sabah Kahvesi</title></programme>
-<programme start="20260104070000 +0000" stop="20260104100000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">İyi ki Hafta Sonu</title></programme>
-<programme start="20260104100000 +0000" stop="20260104110000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104110000 +0000" stop="20260104120000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104120000 +0000" stop="20260104130000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104130000 +0000" stop="20260104140000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104140000 +0000" stop="20260104143000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104143000 +0000" stop="20260104150000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Gökyüzü Sohbetleri</title></programme>
-<programme start="20260104150000 +0000" stop="20260104170000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260102210000 +0000" stop="20260102230000 +0000" channel="StarTV.tr@SD"><title lang="tr">Kocan Kadar Konuş: Diriliş</title></programme>
 <programme start="20260102230000 +0000" stop="20260103010000 +0000" channel="StarTV.tr@SD"><title lang="tr">Kaderimin Oyunu</title></programme>
 <programme start="20260103010000 +0000" stop="20260103040000 +0000" channel="StarTV.tr@SD"><title lang="tr">Söz</title></programme>
@@ -5419,69 +5156,6 @@
 <programme start="20260103063000 +0000" stop="20260103071500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Savunma Sanayiinin Yalnız...</title></programme>
 <programme start="20260103071500 +0000" stop="20260103081500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Lgs&apos;ye Doğru</title></programme>
 <programme start="20260103081500 +0000" stop="20260103083000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Olimpiyat Yıldızları</title></programme>
-<programme start="20260103083000 +0000" stop="20260103100000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Yks&apos;ye Doğru</title></programme>
-<programme start="20260103100000 +0000" stop="20260103101000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilim Merkezleri</title></programme>
-<programme start="20260103101000 +0000" stop="20260103103000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bizim Şehrin Çocukları</title></programme>
-<programme start="20260103103000 +0000" stop="20260103110000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilimin Ev Hali</title></programme>
-<programme start="20260103110000 +0000" stop="20260103113000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Mavi Tutku</title></programme>
-<programme start="20260103113000 +0000" stop="20260103120000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Genç Yetenekler</title></programme>
-<programme start="20260103120000 +0000" stop="20260103121500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Beslenme Çantası</title></programme>
-<programme start="20260103121500 +0000" stop="20260103130000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Savunma Sanayiinin Yalnız...</title></programme>
-<programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Lgs&apos;ye Doğru</title></programme>
-<programme start="20260103140000 +0000" stop="20260103141500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Olimpiyat Yıldızları</title></programme>
-<programme start="20260103141500 +0000" stop="20260103154500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Yks&apos;ye Doğru</title></programme>
-<programme start="20260103154500 +0000" stop="20260103160000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Okulda Sanat</title></programme>
-<programme start="20260103160000 +0000" stop="20260103161500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Evde Tek Başıma</title></programme>
-<programme start="20260103161500 +0000" stop="20260103163500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bizim Şehrin Çocukları</title></programme>
-<programme start="20260103163500 +0000" stop="20260103164500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilim Merkezleri</title></programme>
-<programme start="20260103164500 +0000" stop="20260103171500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Mavi Tutku</title></programme>
-<programme start="20260103171500 +0000" stop="20260103174500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Genç Yetenekler</title></programme>
-<programme start="20260103174500 +0000" stop="20260103180000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Beslenme Çantası</title></programme>
-<programme start="20260103213000 +0000" stop="20260103214500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Okulda Sanat</title></programme>
-<programme start="20260103214500 +0000" stop="20260103220000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Sporcu Günlüğü</title></programme>
-<programme start="20260103220000 +0000" stop="20260103223000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilimin Ev Hali</title></programme>
-<programme start="20260103223000 +0000" stop="20260103230000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Mavi Tutku</title></programme>
-<programme start="20260103230000 +0000" stop="20260103233000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Genç Yetenekler</title></programme>
-<programme start="20260103233000 +0000" stop="20260103234500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Beslenme Çantası</title></programme>
-<programme start="20260103234500 +0000" stop="20260104003000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Savunma Sanayiinin Yalnız...</title></programme>
-<programme start="20260104003000 +0000" stop="20260104013000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Lgs&apos;ye Doğru</title></programme>
-<programme start="20260104013000 +0000" stop="20260104014500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Olimpiyat Yıldızları</title></programme>
-<programme start="20260104014500 +0000" stop="20260104031500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Yks&apos;ye Doğru</title></programme>
-<programme start="20260104031500 +0000" stop="20260104033000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Okulda Sanat</title></programme>
-<programme start="20260104033000 +0000" stop="20260104034500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Sporcu Günlüğü</title></programme>
-<programme start="20260104034500 +0000" stop="20260104040000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Genç Kanatlar</title></programme>
-<programme start="20260104040000 +0000" stop="20260104045000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Trt Eba Anaokulu</title></programme>
-<programme start="20260104045000 +0000" stop="20260104050000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Kozalak Anaokulu</title></programme>
-<programme start="20260104050000 +0000" stop="20260104051500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Okulda Sanat</title></programme>
-<programme start="20260104051500 +0000" stop="20260104054500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Mavi Tutku</title></programme>
-<programme start="20260104054500 +0000" stop="20260104060500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilimin Ev Hali</title></programme>
-<programme start="20260104060500 +0000" stop="20260104061500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Hayatın Şifreleri Sayılar</title></programme>
-<programme start="20260104061500 +0000" stop="20260104063000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Beslenme Çantası</title></programme>
-<programme start="20260104063000 +0000" stop="20260104071500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Türk Okçuluğunun Serüveni</title></programme>
-<programme start="20260104071500 +0000" stop="20260104081500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Lgs&apos;ye Doğru</title></programme>
-<programme start="20260104081500 +0000" stop="20260104083000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Hayalin Mesleğin Olsun</title></programme>
-<programme start="20260104083000 +0000" stop="20260104094000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Yks&apos;ye Doğru</title></programme>
-<programme start="20260104094000 +0000" stop="20260104100000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Gündelik Hayatın Bilimi</title></programme>
-<programme start="20260104100000 +0000" stop="20260104101000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilim Merkezleri</title></programme>
-<programme start="20260104101000 +0000" stop="20260104103000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bizim Şehrin Çocukları</title></programme>
-<programme start="20260104103000 +0000" stop="20260104110000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Genç Yetenekler</title></programme>
-<programme start="20260104110000 +0000" stop="20260104113000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Mavi Tutku</title></programme>
-<programme start="20260104113000 +0000" stop="20260104115000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilimin Ev Hali</title></programme>
-<programme start="20260104115000 +0000" stop="20260104120000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Hayatın Şifreleri Sayılar</title></programme>
-<programme start="20260104120000 +0000" stop="20260104121500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Beslenme Çantası</title></programme>
-<programme start="20260104121500 +0000" stop="20260104130000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Türk Okçuluğunun Serüveni</title></programme>
-<programme start="20260104130000 +0000" stop="20260104140000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Lgs&apos;ye Doğru</title></programme>
-<programme start="20260104140000 +0000" stop="20260104141500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Hayalin Mesleğin Olsun</title></programme>
-<programme start="20260104141500 +0000" stop="20260104152500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Yks&apos;ye Doğru</title></programme>
-<programme start="20260104152500 +0000" stop="20260104154500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Gündelik Hayatın Bilimi</title></programme>
-<programme start="20260104154500 +0000" stop="20260104160000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Milli Parklar</title></programme>
-<programme start="20260104160000 +0000" stop="20260104161500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Genç Kanatlar</title></programme>
-<programme start="20260104161500 +0000" stop="20260104163500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bizim Şehrin Çocukları</title></programme>
-<programme start="20260104163500 +0000" stop="20260104164500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilim Merkezleri</title></programme>
-<programme start="20260104164500 +0000" stop="20260104171500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Genç Yetenekler</title></programme>
-<programme start="20260104171500 +0000" stop="20260104173500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Bilimin Ev Hali</title></programme>
-<programme start="20260104173500 +0000" stop="20260104174500 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Hayatın Şifreleri Sayılar</title></programme>
-<programme start="20260104174500 +0000" stop="20260104180000 +0000" channel="TRTEBA.tr@SD"><title lang="tr">Beslenme Çantası</title></programme>
 <programme start="20260102220000 +0000" stop="20260103005500 +0000" channel="TRTHaber.tr@SD"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20260103005500 +0000" stop="20260103010000 +0000" channel="TRTHaber.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260103010000 +0000" stop="20260103020000 +0000" channel="TRTHaber.tr@SD"><title lang="tr">Haber 04</title></programme>
@@ -5929,29 +5603,6 @@
 <programme start="20260103060000 +0000" stop="20260103070000 +0000" channel="TV100.tr@SD"><title lang="tr">Magazin Hattı</title></programme>
 <programme start="20260103070000 +0000" stop="20260103080000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260103080000 +0000" stop="20260103090000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103090000 +0000" stop="20260103100000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103100000 +0000" stop="20260103110000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103140000 +0000" stop="20260103150000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260103150000 +0000" stop="20260103170000 +0000" channel="TV100.tr@SD"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
-<programme start="20260103170000 +0000" stop="20260103203000 +0000" channel="TV100.tr@SD"><title lang="tr">Başak Şengül ile Doğru Yorum</title></programme>
-<programme start="20260103220000 +0000" stop="20260104020000 +0000" channel="TV100.tr@SD"><title lang="tr">Başak Şengül ile Doğru Yorum</title></programme>
-<programme start="20260104020000 +0000" stop="20260104030000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104030000 +0000" stop="20260104040000 +0000" channel="TV100.tr@SD"><title lang="tr">Gün&apos;den Kalan</title></programme>
-<programme start="20260104040000 +0000" stop="20260104060000 +0000" channel="TV100.tr@SD"><title lang="tr">Hafta Sonu Gün Uyanıyor</title></programme>
-<programme start="20260104060000 +0000" stop="20260104070000 +0000" channel="TV100.tr@SD"><title lang="tr">Magazin Hattı</title></programme>
-<programme start="20260104070000 +0000" stop="20260104080000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104080000 +0000" stop="20260104084500 +0000" channel="TV100.tr@SD"><title lang="tr">Talat Atilla İle Memleket</title></programme>
-<programme start="20260104084500 +0000" stop="20260104100000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104100000 +0000" stop="20260104110000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104110000 +0000" stop="20260104120000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104120000 +0000" stop="20260104130000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104130000 +0000" stop="20260104140000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104140000 +0000" stop="20260104150000 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260104150000 +0000" stop="20260104170000 +0000" channel="TV100.tr@SD"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
-<programme start="20260104170000 +0000" stop="20260104203000 +0000" channel="TV100.tr@SD"><title lang="tr">Şimdi Konuşalım</title></programme>
 <programme start="20260102210000 +0000" stop="20260102220000 +0000" channel="TVNET.tr@SD"><title lang="tr">Günün Ardından</title></programme>
 <programme start="20260102220000 +0000" stop="20260102230000 +0000" channel="TVNET.tr@SD"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20260102230000 +0000" stop="20260102233000 +0000" channel="TVNET.tr@SD"><title lang="tr">Olan Biten</title></programme>
