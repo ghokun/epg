@@ -118,30 +118,9 @@
 <programme start="20260105060000 +0000" stop="20260105075000 +0000" channel="24TV.tr@SD"><title lang="tr">Analiz Sentez</title></programme>
 <programme start="20260105075000 +0000" stop="20260105080000 +0000" channel="24TV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260105080000 +0000" stop="20260105090000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title></programme>
-<programme start="20260105090000 +0000" stop="20260105093500 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
-<programme start="20260105093500 +0000" stop="20260105100000 +0000" channel="24TV.tr@SD"><title lang="tr">Kahve Molası</title></programme>
-<programme start="20260105100000 +0000" stop="20260105130000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
-<programme start="20260105130000 +0000" stop="20260105150000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
 <programme start="20260105150000 +0000" stop="20260105170000 +0000" channel="24TV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
-<programme start="20260105170000 +0000" stop="20260105174500 +0000" channel="24TV.tr@SD"><title lang="tr">Brifing Saati</title></programme>
-<programme start="20260105174500 +0000" stop="20260105200000 +0000" channel="24TV.tr@SD"><title lang="tr">Masada Ne Var?</title></programme>
-<programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title></programme>
-<programme start="20260105230000 +0000" stop="20260105233000 +0000" channel="24TV.tr@SD"><title lang="tr">Brifing Saati</title></programme>
-<programme start="20260105233000 +0000" stop="20260106010000 +0000" channel="24TV.tr@SD"><title lang="tr">Arafta Sorular</title></programme>
-<programme start="20260106010000 +0000" stop="20260106020000 +0000" channel="24TV.tr@SD"><title lang="tr">24 Portre</title></programme>
-<programme start="20260106020000 +0000" stop="20260106040000 +0000" channel="24TV.tr@SD"><title lang="tr">Masada Ne Var?</title></programme>
-<programme start="20260106040000 +0000" stop="20260106060000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör Sabah</title></programme>
 <programme start="20260106060000 +0000" stop="20260106075000 +0000" channel="24TV.tr@SD"><title lang="tr">Analiz Sentez</title></programme>
-<programme start="20260106075000 +0000" stop="20260106080000 +0000" channel="24TV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title></programme>
-<programme start="20260106090000 +0000" stop="20260106093500 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
-<programme start="20260106093500 +0000" stop="20260106100000 +0000" channel="24TV.tr@SD"><title lang="tr">Kahve Molası</title></programme>
-<programme start="20260106100000 +0000" stop="20260106120000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
-<programme start="20260106120000 +0000" stop="20260106140000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
-<programme start="20260106140000 +0000" stop="20260106150000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
 <programme start="20260106150000 +0000" stop="20260106170000 +0000" channel="24TV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
-<programme start="20260106170000 +0000" stop="20260106174500 +0000" channel="24TV.tr@SD"><title lang="tr">Mercek</title></programme>
-<programme start="20260106174500 +0000" stop="20260106200000 +0000" channel="24TV.tr@SD"><title lang="tr">Basın Ekspres</title></programme>
 <programme start="20260104210000 +0000" stop="20260104224500 +0000" channel="193"><title lang="tr">Gençlerbirliği - Eyüpspor</title></programme>
 <programme start="20260104224500 +0000" stop="20260104230000 +0000" channel="193"><title lang="tr">Süper Lig Haftanın Golleri</title></programme>
 <programme start="20260104230000 +0000" stop="20260105004500 +0000" channel="193"><title lang="tr">Antalyaspor - Kayserispor</title></programme>
@@ -237,25 +216,6 @@
 <programme start="20260105040000 +0000" stop="20260105053000 +0000" channel="360.tr@SD"><title lang="tr">Samanyolu</title></programme>
 <programme start="20260105053000 +0000" stop="20260105074500 +0000" channel="360.tr@SD"><title lang="tr">Zamanı Geldi</title></programme>
 <programme start="20260105074500 +0000" stop="20260105093000 +0000" channel="360.tr@SD"><title lang="tr">Düşman</title></programme>
-<programme start="20260105093000 +0000" stop="20260105111500 +0000" channel="360.tr@SD"><title lang="tr">Reyhan</title></programme>
-<programme start="20260105111500 +0000" stop="20260105120000 +0000" channel="360.tr@SD"><title lang="tr">Gökyüzünden</title></programme>
-<programme start="20260105120000 +0000" stop="20260105124500 +0000" channel="360.tr@SD"><title lang="tr">Lezzet Peşinde</title></programme>
-<programme start="20260105124500 +0000" stop="20260105143000 +0000" channel="360.tr@SD"><title lang="tr">Turist Ömer Boğa Güreşçisi</title></programme>
-<programme start="20260105143000 +0000" stop="20260105160000 +0000" channel="360.tr@SD"><title lang="tr">Unutama Beni</title></programme>
-<programme start="20260105160000 +0000" stop="20260105180000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title></programme>
-<programme start="20260105213000 +0000" stop="20260105221500 +0000" channel="360.tr@SD"><title lang="tr">Lezzet Peşinde</title></programme>
-<programme start="20260105221500 +0000" stop="20260105233000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title></programme>
-<programme start="20260105233000 +0000" stop="20260106010000 +0000" channel="360.tr@SD"><title lang="tr">Unutama Beni</title></programme>
-<programme start="20260106010000 +0000" stop="20260106011500 +0000" channel="360.tr@SD"><title lang="tr">Gökyüzünden</title></programme>
-<programme start="20260106011500 +0000" stop="20260106024500 +0000" channel="360.tr@SD"><title lang="tr">Sonbahar Rüzgarları</title></programme>
-<programme start="20260106024500 +0000" stop="20260106031500 +0000" channel="360.tr@SD"><title lang="tr">Ataman ile Devr-i Alem</title></programme>
-<programme start="20260106031500 +0000" stop="20260106034500 +0000" channel="360.tr@SD"><title lang="tr">Gökyüzünden</title></programme>
-<programme start="20260106034500 +0000" stop="20260106040000 +0000" channel="360.tr@SD"><title lang="tr">Sağlık Olsun</title></programme>
-<programme start="20260106040000 +0000" stop="20260106053000 +0000" channel="360.tr@SD"><title lang="tr">Düşman</title></programme>
-<programme start="20260106053000 +0000" stop="20260106111500 +0000" channel="360.tr@SD"><title lang="tr">Zamanı Geldi</title></programme>
-<programme start="20260106111500 +0000" stop="20260106120000 +0000" channel="360.tr@SD"><title lang="tr">Gökyüzünden</title></programme>
-<programme start="20260106120000 +0000" stop="20260106160000 +0000" channel="360.tr@SD"><title lang="tr">Lezzet Peşinde</title></programme>
-<programme start="20260106160000 +0000" stop="20260106200000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title></programme>
 <programme start="20260104212000 +0000" stop="20260104220500 +0000" channel="459"><title lang="tr">Atlantis</title></programme>
 <programme start="20260104220500 +0000" stop="20260104230000 +0000" channel="459"><title lang="tr">Sessiz Tanık</title></programme>
 <programme start="20260104230000 +0000" stop="20260104235500 +0000" channel="459"><title lang="tr">Sessiz Tanık</title></programme>
@@ -954,104 +914,6 @@
 <programme start="20260105073000 +0000" stop="20260105080000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Listening Post: Smear....</title></programme>
 <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
 <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">All Hail The Planet:...</title></programme>
-<programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">All Hail The Planet:...</title></programme>
-<programme start="20260105090000 +0000" stop="20260105100000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105090000 +0000" stop="20260105100000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105100000 +0000" stop="20260105103000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105100000 +0000" stop="20260105103000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260105110000 +0000" stop="20260105120000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The El Masri Case</title></programme>
-<programme start="20260105110000 +0000" stop="20260105120000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The El Masri Case</title></programme>
-<programme start="20260105120000 +0000" stop="20260105130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105120000 +0000" stop="20260105130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105130000 +0000" stop="20260105133000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105130000 +0000" stop="20260105133000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105133000 +0000" stop="20260105140000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Talk to Al Jazeera:...</title></programme>
-<programme start="20260105133000 +0000" stop="20260105140000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Talk to Al Jazeera:...</title></programme>
-<programme start="20260105140000 +0000" stop="20260105150000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105140000 +0000" stop="20260105150000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105150000 +0000" stop="20260105153000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105150000 +0000" stop="20260105153000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105153000 +0000" stop="20260105160000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Al Jazeera Untangles - The...</title></programme>
-<programme start="20260105153000 +0000" stop="20260105160000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Al Jazeera Untangles - The...</title></programme>
-<programme start="20260105160000 +0000" stop="20260105163000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105160000 +0000" stop="20260105163000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105163000 +0000" stop="20260105170000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260105163000 +0000" stop="20260105170000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260105170000 +0000" stop="20260105180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105170000 +0000" stop="20260105180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105210000 +0000" stop="20260105213000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105210000 +0000" stop="20260105213000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105213000 +0000" stop="20260105220000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Witness: Neymar: Bolivia&apos;s...</title></programme>
-<programme start="20260105213000 +0000" stop="20260105220000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Witness: Neymar: Bolivia&apos;s...</title></programme>
-<programme start="20260105220000 +0000" stop="20260105223000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105220000 +0000" stop="20260105223000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260105223000 +0000" stop="20260105230000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260105223000 +0000" stop="20260105230000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260105230000 +0000" stop="20260106000000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260105230000 +0000" stop="20260106000000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106000000 +0000" stop="20260106010000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The El Masri Case</title></programme>
-<programme start="20260106000000 +0000" stop="20260106010000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The El Masri Case</title></programme>
-<programme start="20260106010000 +0000" stop="20260106013000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106010000 +0000" stop="20260106013000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106013000 +0000" stop="20260106020000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Listening Post: Smear....</title></programme>
-<programme start="20260106013000 +0000" stop="20260106020000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Listening Post: Smear....</title></programme>
-<programme start="20260106020000 +0000" stop="20260106023000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106020000 +0000" stop="20260106023000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106023000 +0000" stop="20260106030000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">All Hail The Planet:...</title></programme>
-<programme start="20260106023000 +0000" stop="20260106030000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">All Hail The Planet:...</title></programme>
-<programme start="20260106030000 +0000" stop="20260106033000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106030000 +0000" stop="20260106033000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106033000 +0000" stop="20260106040000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Stream: Music in the...</title></programme>
-<programme start="20260106033000 +0000" stop="20260106040000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Stream: Music in the...</title></programme>
-<programme start="20260106040000 +0000" stop="20260106043000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106040000 +0000" stop="20260106043000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106043000 +0000" stop="20260106050000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260106043000 +0000" stop="20260106050000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260106050000 +0000" stop="20260106053000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106050000 +0000" stop="20260106053000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">101 East: Rewilding...</title></programme>
-<programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">101 East: Rewilding...</title></programme>
-<programme start="20260106060000 +0000" stop="20260106063000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106060000 +0000" stop="20260106063000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106063000 +0000" stop="20260106070000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Bottom Line</title></programme>
-<programme start="20260106063000 +0000" stop="20260106070000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Bottom Line</title></programme>
-<programme start="20260106070000 +0000" stop="20260106073000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106070000 +0000" stop="20260106073000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106073000 +0000" stop="20260106080000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Talk to Al Jazeera:...</title></programme>
-<programme start="20260106073000 +0000" stop="20260106080000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Talk to Al Jazeera:...</title></programme>
-<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Witness: Neymar: Bolivia&apos;s...</title></programme>
-<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Witness: Neymar: Bolivia&apos;s...</title></programme>
-<programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106103000 +0000" stop="20260106110000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260106103000 +0000" stop="20260106110000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260106110000 +0000" stop="20260106120000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Witness: Remains</title></programme>
-<programme start="20260106110000 +0000" stop="20260106120000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Witness: Remains</title></programme>
-<programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106130000 +0000" stop="20260106133000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106130000 +0000" stop="20260106133000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106133000 +0000" stop="20260106140000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Stream: Music in the...</title></programme>
-<programme start="20260106133000 +0000" stop="20260106140000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">The Stream: Music in the...</title></programme>
-<programme start="20260106140000 +0000" stop="20260106150000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106140000 +0000" stop="20260106150000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106150000 +0000" stop="20260106153000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106150000 +0000" stop="20260106153000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106153000 +0000" stop="20260106160000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Counting the Cost</title></programme>
-<programme start="20260106153000 +0000" stop="20260106160000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Counting the Cost</title></programme>
-<programme start="20260106160000 +0000" stop="20260106163000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106160000 +0000" stop="20260106163000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">News Live</title></programme>
-<programme start="20260106163000 +0000" stop="20260106170000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260106163000 +0000" stop="20260106170000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Inside Story</title></programme>
-<programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
-<programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="tr">Newshour</title></programme>
 <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="ANews.tr@SD"><title lang="tr">Newsdesk</title></programme>
 <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="ANews.tr@SD"><title lang="tr">Newsdesk</title></programme>
 <programme start="20260104230000 +0000" stop="20260105000000 +0000" channel="ANews.tr@SD"><title lang="tr">Newsdesk</title></programme>
@@ -3758,32 +3620,6 @@
 <programme start="20260105070000 +0000" stop="20260105073000 +0000" channel="FBTV.tr@SD"><title lang="tr">Yaşayan Çınarlarımız</title></programme>
 <programme start="20260105073000 +0000" stop="20260105080000 +0000" channel="FBTV.tr@SD"><title lang="tr">Sarı Lacivert Hayatlar</title></programme>
 <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="FBTV.tr@SD"><title lang="tr">Head To Head</title></programme>
-<programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="FBTV.tr@SD"><title lang="tr">Euroleague Özel</title></programme>
-<programme start="20260105090000 +0000" stop="20260105091500 +0000" channel="FBTV.tr@SD"><title lang="tr">Haber</title></programme>
-<programme start="20260105091500 +0000" stop="20260105093000 +0000" channel="FBTV.tr@SD"><title lang="tr">Tarihte Bugün</title></programme>
-<programme start="20260105093000 +0000" stop="20260105100000 +0000" channel="FBTV.tr@SD"><title lang="tr">Efsaneler</title></programme>
-<programme start="20260105100000 +0000" stop="20260105110000 +0000" channel="FBTV.tr@SD"><title lang="tr">Futbol Dosyası</title></programme>
-<programme start="20260105110000 +0000" stop="20260105111500 +0000" channel="FBTV.tr@SD"><title lang="tr">Haber</title></programme>
-<programme start="20260105111500 +0000" stop="20260105113000 +0000" channel="FBTV.tr@SD"><title lang="tr">Tarihte Bugün</title></programme>
-<programme start="20260105113000 +0000" stop="20260105130000 +0000" channel="FBTV.tr@SD"><title lang="tr">FB Medicana-Aras Kargo</title></programme>
-<programme start="20260105130000 +0000" stop="20260105131500 +0000" channel="FBTV.tr@SD"><title lang="tr">Haber</title></programme>
-<programme start="20260105131500 +0000" stop="20260105133000 +0000" channel="FBTV.tr@SD"><title lang="tr">Tarihte Bugün</title></programme>
-<programme start="20260105133000 +0000" stop="20260105140000 +0000" channel="FBTV.tr@SD"><title lang="tr">Euroleague Özel</title></programme>
-<programme start="20260105140000 +0000" stop="20260105155000 +0000" channel="FBTV.tr@SD"><title lang="tr">Beşiktaş - Fenerbahçe</title></programme>
-<programme start="20260105155000 +0000" stop="20260105160700 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerıum Saati</title></programme>
-<programme start="20260105160700 +0000" stop="20260105163000 +0000" channel="FBTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
-<programme start="20260105163000 +0000" stop="20260105170000 +0000" channel="FBTV.tr@SD"><title lang="tr">Head To Head</title></programme>
-<programme start="20260105170000 +0000" stop="20260105173000 +0000" channel="FBTV.tr@SD"><title lang="tr">Euroleague Özel</title></programme>
-<programme start="20260105173000 +0000" stop="20260105183000 +0000" channel="FBTV.tr@SD"><title lang="tr">Futbol Dosyası</title></programme>
-<programme start="20260105210000 +0000" stop="20260105223000 +0000" channel="FBTV.tr@SD"><title lang="tr">Beşiktaş Gain -...</title></programme>
-<programme start="20260105223000 +0000" stop="20260105233000 +0000" channel="FBTV.tr@SD"><title lang="tr">Futbol Dosyası</title></programme>
-<programme start="20260105233000 +0000" stop="20260106011500 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçe - Kayserispor</title></programme>
-<programme start="20260106011500 +0000" stop="20260106013000 +0000" channel="FBTV.tr@SD"><title lang="tr">Gece Haberi</title></programme>
-<programme start="20260106013000 +0000" stop="20260106020000 +0000" channel="FBTV.tr@SD"><title lang="tr">Head To Head</title></programme>
-<programme start="20260106020000 +0000" stop="20260106033000 +0000" channel="FBTV.tr@SD"><title lang="tr">Baskonıa - Fenerbahçe Beko</title></programme>
-<programme start="20260106033000 +0000" stop="20260106034500 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerıum Saati</title></programme>
-<programme start="20260106034500 +0000" stop="20260106044500 +0000" channel="FBTV.tr@SD"><title lang="tr">Futbol Dosyası</title></programme>
-<programme start="20260106044500 +0000" stop="20260106084500 +0000" channel="FBTV.tr@SD"><title lang="tr">Brann - Fenerbahçe</title></programme>
 <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Haber</title></programme>
 <programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Donanım Günlüğü</title></programme>
 <programme start="20260104220000 +0000" stop="20260104223000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Haber</title></programme>
@@ -3850,22 +3686,6 @@
 <programme start="20260105043000 +0000" stop="20260105050000 +0000" channel="Fox.tr@SD"><title lang="tr">İlk Bakış</title></programme>
 <programme start="20260105050000 +0000" stop="20260105074500 +0000" channel="Fox.tr@SD"><title lang="tr">İlker Karagöz İle Çalar Saat</title></programme>
 <programme start="20260105074500 +0000" stop="20260105093000 +0000" channel="Fox.tr@SD"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
-<programme start="20260105093000 +0000" stop="20260105103000 +0000" channel="Fox.tr@SD"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20260105103000 +0000" stop="20260105133000 +0000" channel="Fox.tr@SD"><title lang="tr">En Hamarat Benim</title></programme>
-<programme start="20260105133000 +0000" stop="20260105160000 +0000" channel="Fox.tr@SD"><title lang="tr">Sahtekarlar</title></programme>
-<programme start="20260105160000 +0000" stop="20260105170000 +0000" channel="Fox.tr@SD"><title lang="tr">Selçuk Tepeli ile NOW Ana...</title></programme>
-<programme start="20260105170000 +0000" stop="20260105193000 +0000" channel="Fox.tr@SD"><title lang="tr">Çifte Milyon</title></programme>
-<programme start="20260105211500 +0000" stop="20260105231500 +0000" channel="Fox.tr@SD"><title lang="tr">Fazla Şaapma</title></programme>
-<programme start="20260105231500 +0000" stop="20260106014500 +0000" channel="Fox.tr@SD"><title lang="tr">Şevkat Yerimdar</title></programme>
-<programme start="20260106014500 +0000" stop="20260106030000 +0000" channel="Fox.tr@SD"><title lang="tr">Kefaret</title></programme>
-<programme start="20260106030000 +0000" stop="20260106043000 +0000" channel="Fox.tr@SD"><title lang="tr">Son Yaz</title></programme>
-<programme start="20260106043000 +0000" stop="20260106050000 +0000" channel="Fox.tr@SD"><title lang="tr">İlk Bakış</title></programme>
-<programme start="20260106050000 +0000" stop="20260106074500 +0000" channel="Fox.tr@SD"><title lang="tr">İlker Karagöz İle Çalar Saat</title></programme>
-<programme start="20260106074500 +0000" stop="20260106093000 +0000" channel="Fox.tr@SD"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
-<programme start="20260106093000 +0000" stop="20260106103000 +0000" channel="Fox.tr@SD"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20260106103000 +0000" stop="20260106133000 +0000" channel="Fox.tr@SD"><title lang="tr">En Hamarat Benim</title></programme>
-<programme start="20260106133000 +0000" stop="20260106160000 +0000" channel="Fox.tr@SD"><title lang="tr">Kıskanmak</title></programme>
-<programme start="20260106160000 +0000" stop="20260106170000 +0000" channel="Fox.tr@SD"><title lang="tr">Selçuk Tepeli ile NOW Ana...</title></programme>
 <programme start="20260104230000 +0000" stop="20260105030000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260105030000 +0000" stop="20260105050000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Türkiye&apos;de Sabah</title></programme>
 <programme start="20260105050000 +0000" stop="20260105065000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Yeni Gün</title></programme>
@@ -6231,37 +6051,4 @@
 <programme start="20260105060000 +0000" stop="20260105070000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Ustalardan</title></programme>
 <programme start="20260105070000 +0000" stop="20260105080000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Alaska&apos;nın Tuzakçıları</title></programme>
 <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Pedalla</title></programme>
-<programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Kim Daha Havalı</title></programme>
-<programme start="20260105090000 +0000" stop="20260105100000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Canavarın Peşinde</title></programme>
-<programme start="20260105100000 +0000" stop="20260105103000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Av Peşinde</title></programme>
-<programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Zirveyi Zorlayanlar</title></programme>
-<programme start="20260105110000 +0000" stop="20260105120000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Patika</title></programme>
-<programme start="20260105120000 +0000" stop="20260105130000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Sürek Avcıları</title></programme>
-<programme start="20260105130000 +0000" stop="20260105140000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Sizin Av Safariniz</title></programme>
-<programme start="20260105140000 +0000" stop="20260105150000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Ata Sporları Saati</title></programme>
-<programme start="20260105150000 +0000" stop="20260105160000 +0000" channel="YabanTV.tr@SD"><title lang="tr">İmpala Günlükleri</title></programme>
-<programme start="20260105160000 +0000" stop="20260105170000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Boğazın Oltacıları</title></programme>
-<programme start="20260105170000 +0000" stop="20260105180000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Outback</title></programme>
-<programme start="20260105210000 +0000" stop="20260105220000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Canavarın Peşinde</title></programme>
-<programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Sportif Balıkçılık</title></programme>
-<programme start="20260105230000 +0000" stop="20260106010000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Offroad Challenge</title></programme>
-<programme start="20260106010000 +0000" stop="20260106020000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Azılının Peşindeki Avcılar</title></programme>
-<programme start="20260106020000 +0000" stop="20260106030000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Aktüel</title></programme>
-<programme start="20260106030000 +0000" stop="20260106040000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Rastgele Ali Birerdinç</title></programme>
-<programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Anormal</title></programme>
-<programme start="20260106050000 +0000" stop="20260106060000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Afrika&apos;da Gizemli Gece</title></programme>
-<programme start="20260106060000 +0000" stop="20260106070000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Rastgele Ali Birerdinç</title></programme>
-<programme start="20260106070000 +0000" stop="20260106080000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Dünyanın En Büyük Dağları</title></programme>
-<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Yaban Afrika Safari</title></programme>
-<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Yaban Aile</title></programme>
-<programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Ustalardan</title></programme>
-<programme start="20260106100000 +0000" stop="20260106110000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Sizin Av Safariniz</title></programme>
-<programme start="20260106110000 +0000" stop="20260106120000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Sportif Balıkçılık</title></programme>
-<programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Rastgele Ali Birerdinç</title></programme>
-<programme start="20260106130000 +0000" stop="20260106133000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Av Peşinde</title></programme>
-<programme start="20260106133000 +0000" stop="20260106140000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Pedalla</title></programme>
-<programme start="20260106140000 +0000" stop="20260106150000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Aktüel</title></programme>
-<programme start="20260106150000 +0000" stop="20260106160000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Canavarın Peşinde</title></programme>
-<programme start="20260106160000 +0000" stop="20260106170000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Ata Sporları Saati</title></programme>
-<programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="YabanTV.tr@SD"><title lang="tr">Ormandaki Hayalet</title></programme>
 </tv>
