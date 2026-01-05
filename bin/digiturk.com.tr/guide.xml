@@ -137,8 +137,8 @@
 <programme start="20260106090000 +0000" stop="20260106093500 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
 <programme start="20260106093500 +0000" stop="20260106100000 +0000" channel="24TV.tr@SD"><title lang="tr">Kahve Molası</title></programme>
 <programme start="20260106100000 +0000" stop="20260106120000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
-<programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
-<programme start="20260106130000 +0000" stop="20260106150000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
+<programme start="20260106120000 +0000" stop="20260106140000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
+<programme start="20260106140000 +0000" stop="20260106150000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title></programme>
 <programme start="20260106150000 +0000" stop="20260106170000 +0000" channel="24TV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
 <programme start="20260106170000 +0000" stop="20260106174500 +0000" channel="24TV.tr@SD"><title lang="tr">Mercek</title></programme>
 <programme start="20260106174500 +0000" stop="20260106200000 +0000" channel="24TV.tr@SD"><title lang="tr">Basın Ekspres</title></programme>
@@ -159,7 +159,7 @@
 <programme start="20260105124500 +0000" stop="20260105130000 +0000" channel="193"><title lang="tr">Süper Lig Haftanın Golleri</title></programme>
 <programme start="20260105130000 +0000" stop="20260105144500 +0000" channel="193"><title lang="tr">Trabzonspor - Gaziantep FK</title></programme>
 <programme start="20260105144500 +0000" stop="20260105150000 +0000" channel="193"><title lang="tr">Süper Lig Haftanın Golleri</title></programme>
-<programme start="20260105150000 +0000" stop="20260105164500 +0000" channel="193"><title lang="tr">Göztepe - Beşiktaş</title></programme>
+<programme start="20260105150000 +0000" stop="20260105164500 +0000" channel="193"><title lang="tr">Galatasaray - Konyaspor</title></programme>
 <programme start="20260105164500 +0000" stop="20260105170000 +0000" channel="193"><title lang="tr">Süper Lig Haftanın Golleri</title></programme>
 <programme start="20260105170000 +0000" stop="20260105190000 +0000" channel="193"><title lang="tr">Kasımpaşa - Fenerbahçe</title></programme>
 <programme start="20260104210000 +0000" stop="20260104224500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 16. Hafta Serikspor - E.G.İ.A.Keçiörengücü Maçı Bant -</title></programme>
@@ -339,12 +339,12 @@
 <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="506"><title lang="tr">Tenis 2025</title></programme>
 <programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="506"><title lang="tr">TSBSL Top 50 Hareket 2025</title></programme>
 <programme start="20260105090000 +0000" stop="20260105101500 +0000" channel="506"><title lang="tr">FIM World Supercross...</title></programme>
-<programme start="20260105101500 +0000" stop="20260105110000 +0000" channel="506"><title lang="tr">Dünyada Spor 2025</title></programme>
-<programme start="20260105110000 +0000" stop="20260105114500 +0000" channel="506"><title lang="tr">TSBSL Maç Özetleri</title></programme>
-<programme start="20260105114500 +0000" stop="20260105134500 +0000" channel="506"><title lang="tr">Merkezefendi Bld.-Büyükçekmece</title></programme>
-<programme start="20260105134500 +0000" stop="20260105153000 +0000" channel="506"><title lang="tr">Manisa Basket - Galatasaray</title></programme>
-<programme start="20260105153000 +0000" stop="20260105171500 +0000" channel="506"><title lang="tr">Anadolu Efes - Mersin Spor</title></programme>
-<programme start="20260105171500 +0000" stop="20260105190000 +0000" channel="506"><title lang="tr">Beşiktaş - Fenerbahçe</title></programme>
+<programme start="20260105101500 +0000" stop="20260105104500 +0000" channel="506"><title lang="tr">Dünyada Spor 2025</title></programme>
+<programme start="20260105104500 +0000" stop="20260105113000 +0000" channel="506"><title lang="tr">TSBSL Maç Özetleri</title></programme>
+<programme start="20260105113000 +0000" stop="20260105133000 +0000" channel="506"><title lang="tr">Merkezefendi Bld.-Büyükçekmece</title></programme>
+<programme start="20260105133000 +0000" stop="20260105151500 +0000" channel="506"><title lang="tr">Manisa Basket - Galatasaray</title></programme>
+<programme start="20260105151500 +0000" stop="20260105170000 +0000" channel="506"><title lang="tr">Anadolu Efes - Mersin Spor</title></programme>
+<programme start="20260105170000 +0000" stop="20260105190000 +0000" channel="506"><title lang="tr">Beşiktaş - Fenerbahçe</title></programme>
 <programme start="20260104210000 +0000" stop="20260104230000 +0000" channel="507"><title lang="tr">beIN Sports Max 1</title></programme>
 <programme start="20260104230000 +0000" stop="20260105010000 +0000" channel="507"><title lang="tr">beIN Sports Max 1</title></programme>
 <programme start="20260105010000 +0000" stop="20260105030000 +0000" channel="507"><title lang="tr">beIN Sports Max 1</title></programme>
@@ -495,15 +495,24 @@
 <programme start="20260105093000 +0000" stop="20260105103000 +0000" channel="552"><title lang="tr">Kürsü</title></programme>
 <programme start="20260105103000 +0000" stop="20260105120000 +0000" channel="552"><title lang="tr">Bakış Açısı</title></programme>
 <programme start="20260105120000 +0000" stop="20260105150000 +0000" channel="552"><title lang="tr">Satır Arası</title></programme>
-<programme start="20260105150000 +0000" stop="20260105200000 +0000" channel="552"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20260105230000 +0000" stop="20260106030000 +0000" channel="552"><title lang="tr">Oyunun İçinden</title></programme>
-<programme start="20260106030000 +0000" stop="20260106050000 +0000" channel="552"><title lang="tr">Kürsü</title></programme>
-<programme start="20260106050000 +0000" stop="20260106080000 +0000" channel="552"><title lang="tr">Başlama Vuruşu</title></programme>
+<programme start="20260105150000 +0000" stop="20260105171500 +0000" channel="552"><title lang="tr">Maç Yolu</title></programme>
+<programme start="20260105171500 +0000" stop="20260105191500 +0000" channel="552"><title lang="tr">Bandırma-Göztepe</title></programme>
+<programme start="20260105210000 +0000" stop="20260105220000 +0000" channel="552"><title lang="tr">Gece Yarısı</title></programme>
+<programme start="20260105220000 +0000" stop="20260105234500 +0000" channel="552"><title lang="tr">Dakika 90</title></programme>
+<programme start="20260105234500 +0000" stop="20260106004500 +0000" channel="552"><title lang="tr">Gece Yarısı</title></programme>
+<programme start="20260106004500 +0000" stop="20260106010000 +0000" channel="552"><title lang="tr">Almanak 2025</title></programme>
+<programme start="20260106010000 +0000" stop="20260106030000 +0000" channel="552"><title lang="tr">Basketbol Maçı</title></programme>
+<programme start="20260106030000 +0000" stop="20260106040000 +0000" channel="552"><title lang="tr">Kürsü</title></programme>
+<programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="552"><title lang="tr">HT Basketbol</title></programme>
+<programme start="20260106050000 +0000" stop="20260106070000 +0000" channel="552"><title lang="tr">Başlama Vuruşu</title></programme>
+<programme start="20260106070000 +0000" stop="20260106080000 +0000" channel="552"><title lang="tr">Altın Set</title></programme>
 <programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="552"><title lang="tr">HT Spor Gündem</title></programme>
 <programme start="20260106093000 +0000" stop="20260106103000 +0000" channel="552"><title lang="tr">Kürsü</title></programme>
 <programme start="20260106103000 +0000" stop="20260106120000 +0000" channel="552"><title lang="tr">Bakış Açısı</title></programme>
-<programme start="20260106120000 +0000" stop="20260106150000 +0000" channel="552"><title lang="tr">Satır Arası</title></programme>
-<programme start="20260106150000 +0000" stop="20260106200000 +0000" channel="552"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260106120000 +0000" stop="20260106143000 +0000" channel="552"><title lang="tr">Satır Arası</title></programme>
+<programme start="20260106143000 +0000" stop="20260106163000 +0000" channel="552"><title lang="tr">Botaş-Çimsa ÇBK Mersin</title></programme>
+<programme start="20260106163000 +0000" stop="20260106170000 +0000" channel="552"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260106170000 +0000" stop="20260106190000 +0000" channel="552"><title lang="tr">FB Opet-Nesibe Aydın</title></programme>
 <programme start="20260105000000 +0000" stop="20260105040000 +0000" channel="554"><title lang="tr">Bi Hafta Sonu</title></programme>
 <programme start="20260105040000 +0000" stop="20260105053000 +0000" channel="554"><title lang="tr">Lale Devri</title></programme>
 <programme start="20260105053000 +0000" stop="20260105070000 +0000" channel="554"><title lang="tr">Yeşil Vadi&apos;nin Kızı</title></programme>
@@ -743,8 +752,8 @@
 <programme start="20260105173000 +0000" stop="20260105183000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
 <programme start="20260105210000 +0000" stop="20260105215000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
 <programme start="20260105210000 +0000" stop="20260105215000 +0000" channel="561"><title lang="tr">Saba Tümer&apos;le</title></programme>
-<programme start="20260105215000 +0000" stop="20260105233000 +0000" channel="561"><title lang="tr">Film Kuşağı Spencer</title></programme>
-<programme start="20260105215000 +0000" stop="20260105233000 +0000" channel="561"><title lang="tr">Film Kuşağı Spencer</title></programme>
+<programme start="20260105215000 +0000" stop="20260105233000 +0000" channel="561"><title lang="tr">Spencer</title></programme>
+<programme start="20260105215000 +0000" stop="20260105233000 +0000" channel="561"><title lang="tr">Spencer</title></programme>
 <programme start="20260105233000 +0000" stop="20260106001000 +0000" channel="561"><title lang="tr">The Tonight Show Jimmy Fallon</title></programme>
 <programme start="20260105233000 +0000" stop="20260106001000 +0000" channel="561"><title lang="tr">The Tonight Show Jimmy Fallon</title></programme>
 <programme start="20260106001000 +0000" stop="20260106005000 +0000" channel="561"><title lang="tr">Ece Sükan ile 3S</title></programme>
@@ -1286,9 +1295,9 @@
 <programme start="20260105160000 +0000" stop="20260105164500 +0000" channel="ATV.tr@SD"><title lang="tr">ATV Ana Haber</title></programme>
 <programme start="20260105164500 +0000" stop="20260105173000 +0000" channel="ATV.tr@SD"><title lang="tr">Finale Doğru</title></programme>
 <programme start="20260105173000 +0000" stop="20260105195000 +0000" channel="ATV.tr@SD"><title lang="tr">Galatasaray - Trabzonspor</title></programme>
-<programme start="20260105223000 +0000" stop="20260106003000 +0000" channel="ATV.tr@SD"><title lang="tr">Sinema</title></programme>
-<programme start="20260106003000 +0000" stop="20260106030000 +0000" channel="ATV.tr@SD"><title lang="tr">Kardeşlerim</title></programme>
-<programme start="20260106030000 +0000" stop="20260106050000 +0000" channel="ATV.tr@SD"><title lang="tr">Aldatmak</title></programme>
+<programme start="20260105220000 +0000" stop="20260106003000 +0000" channel="ATV.tr@SD"><title lang="tr">Bir Gece Masalı</title></programme>
+<programme start="20260106003000 +0000" stop="20260106023000 +0000" channel="ATV.tr@SD"><title lang="tr">Kardeşlerim</title></programme>
+<programme start="20260106023000 +0000" stop="20260106050000 +0000" channel="ATV.tr@SD"><title lang="tr">Aldatmak</title></programme>
 <programme start="20260106050000 +0000" stop="20260106070000 +0000" channel="ATV.tr@SD"><title lang="tr">Kahvaltı Haberleri</title></programme>
 <programme start="20260106070000 +0000" stop="20260106100000 +0000" channel="ATV.tr@SD"><title lang="tr">Müge Anlı ile Tatlı Sert</title></programme>
 <programme start="20260106100000 +0000" stop="20260106110000 +0000" channel="ATV.tr@SD"><title lang="tr">Gün Ortası</title></programme>
@@ -1521,8 +1530,8 @@
 <programme start="20260105102500 +0000" stop="20260105104900 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 19</title></programme>
 <programme start="20260105104900 +0000" stop="20260105105600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105105600 +0000" stop="20260105112800 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B31</title></programme>
-<programme start="20260105112800 +0000" stop="20260105113500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105113500 +0000" stop="20260105121000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Mutfak Sanatı S1 B6</title></programme>
+<programme start="20260105112800 +0000" stop="20260105113600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105113600 +0000" stop="20260105121000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Mutfak Sanatı S1 B6</title></programme>
 <programme start="20260105121000 +0000" stop="20260105121600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105121600 +0000" stop="20260105124700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Bedri ve Dostları S1 B7</title></programme>
 <programme start="20260105124700 +0000" stop="20260105125500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
@@ -1531,43 +1540,43 @@
 <programme start="20260105134000 +0000" stop="20260105141300 +0000" channel="beINGurme.tr@SD"><title lang="tr">Evdeki Restoran S1 B21</title></programme>
 <programme start="20260105141300 +0000" stop="20260105142500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105142500 +0000" stop="20260105144900 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 19</title></programme>
-<programme start="20260105144900 +0000" stop="20260105151100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105151100 +0000" stop="20260105154500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Mutfak Sanatı S1 B6</title></programme>
+<programme start="20260105144900 +0000" stop="20260105151000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105151000 +0000" stop="20260105154500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Mutfak Sanatı S1 B6</title></programme>
 <programme start="20260105154500 +0000" stop="20260105155500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105155500 +0000" stop="20260105162700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B31</title></programme>
 <programme start="20260105162700 +0000" stop="20260105163500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105163500 +0000" stop="20260105165100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Lezzetin Ustaları S5 B119</title></programme>
-<programme start="20260105165100 +0000" stop="20260105170100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105170100 +0000" stop="20260105173700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gastronomi Maceraları S6 B128</title></programme>
+<programme start="20260105163500 +0000" stop="20260105165000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Lezzetin Ustaları S5 B119</title></programme>
+<programme start="20260105165000 +0000" stop="20260105170000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105170000 +0000" stop="20260105173700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gastronomi Maceraları S6 B128</title></programme>
 <programme start="20260105173700 +0000" stop="20260105174500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105174500 +0000" stop="20260105181200 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gece Lezzetleri S1 B5</title></programme>
+<programme start="20260105174500 +0000" stop="20260105181100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Gece Lezzetleri S1 B5</title></programme>
 <programme start="20260105210600 +0000" stop="20260105211500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105211500 +0000" stop="20260105214800 +0000" channel="beINGurme.tr@SD"><title lang="tr">10 Şef 10 Tabak S1 B3</title></programme>
-<programme start="20260105214800 +0000" stop="20260105215600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105215600 +0000" stop="20260105222400 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 16</title></programme>
+<programme start="20260105211500 +0000" stop="20260105214700 +0000" channel="beINGurme.tr@SD"><title lang="tr">10 Şef 10 Tabak S1 B3</title></programme>
+<programme start="20260105214700 +0000" stop="20260105215500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105215500 +0000" stop="20260105222400 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 16</title></programme>
 <programme start="20260105222400 +0000" stop="20260105223000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105223000 +0000" stop="20260105230200 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B26</title></programme>
 <programme start="20260105230200 +0000" stop="20260105231000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105231000 +0000" stop="20260105233900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Mutfak Sanatı S1 B1</title></programme>
-<programme start="20260105233900 +0000" stop="20260105234500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105234500 +0000" stop="20260106002200 +0000" channel="beINGurme.tr@SD"><title lang="tr">Evdeki Restoran S1 B16</title></programme>
-<programme start="20260106002200 +0000" stop="20260106003000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106003000 +0000" stop="20260106005700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ekmek Arası Muhabbet S1 B 11</title></programme>
-<programme start="20260106005700 +0000" stop="20260106010000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105231000 +0000" stop="20260105233800 +0000" channel="beINGurme.tr@SD"><title lang="tr">Mutfak Sanatı S1 B1</title></programme>
+<programme start="20260105233800 +0000" stop="20260105234500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105234500 +0000" stop="20260106002100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Evdeki Restoran S1 B16</title></programme>
+<programme start="20260106002100 +0000" stop="20260106003000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106003000 +0000" stop="20260106005600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ekmek Arası Muhabbet S1 B 11</title></programme>
+<programme start="20260106005600 +0000" stop="20260106010000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106010000 +0000" stop="20260106012800 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 18</title></programme>
 <programme start="20260106012800 +0000" stop="20260106013100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106013100 +0000" stop="20260106020600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B30</title></programme>
-<programme start="20260106020600 +0000" stop="20260106021100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106021100 +0000" stop="20260106024100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ekmek Arası Muhabbet S1 B 15</title></programme>
-<programme start="20260106024100 +0000" stop="20260106024500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106020600 +0000" stop="20260106021000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106021000 +0000" stop="20260106024000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ekmek Arası Muhabbet S1 B 15</title></programme>
+<programme start="20260106024000 +0000" stop="20260106024500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106024500 +0000" stop="20260106032000 +0000" channel="beINGurme.tr@SD"><title lang="tr">Evdeki Restoran S1 B20</title></programme>
 <programme start="20260106032000 +0000" stop="20260106032500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106032500 +0000" stop="20260106040100 +0000" channel="beINGurme.tr@SD"><title lang="tr">Mutfak Sanatı S1 B5</title></programme>
 <programme start="20260106040100 +0000" stop="20260106040600 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106040500 +0000" stop="20260106043900 +0000" channel="beINGurme.tr@SD"><title lang="tr">Ekmek Arası Muhabbet S1 B 16</title></programme>
-<programme start="20260106043900 +0000" stop="20260106044400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106043900 +0000" stop="20260106044500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106044500 +0000" stop="20260106051800 +0000" channel="beINGurme.tr@SD"><title lang="tr">Evdeki Restoran S1 B21</title></programme>
-<programme start="20260106051800 +0000" stop="20260106052400 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106051800 +0000" stop="20260106052500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106052500 +0000" stop="20260106054900 +0000" channel="beINGurme.tr@SD"><title lang="tr">4 Lezzet S1 B 19</title></programme>
 <programme start="20260106054900 +0000" stop="20260106055500 +0000" channel="beINGurme.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106055500 +0000" stop="20260106062700 +0000" channel="beINGurme.tr@SD"><title lang="tr">Yağız ile Havalı Tarifler S1 B31</title></programme>
@@ -1676,41 +1685,41 @@
 <programme start="20260106023000 +0000" stop="20260106025100 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 48</title></programme>
 <programme start="20260106025100 +0000" stop="20260106030000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106030000 +0000" stop="20260106033800 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 14</title></programme>
-<programme start="20260106033800 +0000" stop="20260106035900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106033800 +0000" stop="20260106040000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106040000 +0000" stop="20260106044700 +0000" channel="beINHE.tr@SD"><title lang="tr">Jamie &amp; Jimmy&apos;s Food Fight Club S8 ep 2</title></programme>
 <programme start="20260106044700 +0000" stop="20260106050000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106050000 +0000" stop="20260106055700 +0000" channel="beINHE.tr@SD"><title lang="tr">Grand Designs Australia S12 Ep 7</title></programme>
-<programme start="20260106055700 +0000" stop="20260106060400 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106055700 +0000" stop="20260106060500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106060500 +0000" stop="20260106062600 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 47</title></programme>
-<programme start="20260106062600 +0000" stop="20260106063400 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106062600 +0000" stop="20260106063500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106063500 +0000" stop="20260106065600 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 48</title></programme>
-<programme start="20260106065600 +0000" stop="20260106070400 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106065600 +0000" stop="20260106070500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106070500 +0000" stop="20260106075100 +0000" channel="beINHE.tr@SD"><title lang="tr">James Martin’s Spanish Adventure S1 EP 10</title></programme>
-<programme start="20260106075100 +0000" stop="20260106075900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106075100 +0000" stop="20260106080000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106080000 +0000" stop="20260106083800 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 14</title></programme>
-<programme start="20260106083800 +0000" stop="20260106085800 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106083800 +0000" stop="20260106090000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106090000 +0000" stop="20260106094700 +0000" channel="beINHE.tr@SD"><title lang="tr">Jamie &amp; Jimmy&apos;s Food Fight Club S8 ep 2</title></programme>
-<programme start="20260106094700 +0000" stop="20260106095900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106094700 +0000" stop="20260106100000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106100000 +0000" stop="20260106105700 +0000" channel="beINHE.tr@SD"><title lang="tr">Grand Designs Australia S12 Ep 7</title></programme>
 <programme start="20260106105700 +0000" stop="20260106110500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106110500 +0000" stop="20260106112600 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 47</title></programme>
 <programme start="20260106112600 +0000" stop="20260106113500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106113500 +0000" stop="20260106115600 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 48</title></programme>
-<programme start="20260106115600 +0000" stop="20260106120400 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106115600 +0000" stop="20260106120500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106120500 +0000" stop="20260106125100 +0000" channel="beINHE.tr@SD"><title lang="tr">James Martin’s Spanish Adventure S1 EP 10</title></programme>
-<programme start="20260106125100 +0000" stop="20260106125900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106125100 +0000" stop="20260106130000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106130000 +0000" stop="20260106133800 +0000" channel="beINHE.tr@SD"><title lang="tr">America&apos;s Got Talent S20 Ep 14</title></programme>
-<programme start="20260106133800 +0000" stop="20260106135800 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106133800 +0000" stop="20260106135900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106140000 +0000" stop="20260106144700 +0000" channel="beINHE.tr@SD"><title lang="tr">Jamie &amp; Jimmy&apos;s Food Fight Club S8 ep 2</title></programme>
-<programme start="20260106144700 +0000" stop="20260106145900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106144700 +0000" stop="20260106150000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106150000 +0000" stop="20260106155700 +0000" channel="beINHE.tr@SD"><title lang="tr">Grand Designs Australia S12 Ep 7</title></programme>
-<programme start="20260106155700 +0000" stop="20260106160400 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106155700 +0000" stop="20260106160500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106160500 +0000" stop="20260106162700 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 49</title></programme>
-<programme start="20260106162700 +0000" stop="20260106163400 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106162700 +0000" stop="20260106163500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106163500 +0000" stop="20260106165600 +0000" channel="beINHE.tr@SD"><title lang="tr">Everyday Gourmet S11 ep 50</title></programme>
-<programme start="20260106165600 +0000" stop="20260106170400 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106165600 +0000" stop="20260106170500 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106170500 +0000" stop="20260106175000 +0000" channel="beINHE.tr@SD"><title lang="tr">James Martin’s Spanish Adventure S1 EP 11</title></programme>
-<programme start="20260106175000 +0000" stop="20260106175900 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106175000 +0000" stop="20260106180000 +0000" channel="beINHE.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104210400 +0000" stop="20260104211100 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104211100 +0000" stop="20260104213600 +0000" channel="beINIZ.tr@SD"><title lang="tr">Coğrafi İşaretler S1 EP 7</title></programme>
 <programme start="20260104213600 +0000" stop="20260104214500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
@@ -1753,8 +1762,8 @@
 <programme start="20260105084500 +0000" stop="20260105091500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Baharatın Yolculuğu S1 B4</title></programme>
 <programme start="20260105091500 +0000" stop="20260105092500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105092500 +0000" stop="20260105095100 +0000" channel="beINIZ.tr@SD"><title lang="tr">Şehre Umut Verenler S1 EP7</title></programme>
-<programme start="20260105095100 +0000" stop="20260105100100 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105100100 +0000" stop="20260105103000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Maceraperest Franziska S1 E 1</title></programme>
+<programme start="20260105095100 +0000" stop="20260105100000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105100000 +0000" stop="20260105103000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Maceraperest Franziska S1 E 1</title></programme>
 <programme start="20260105103000 +0000" stop="20260105104500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105104500 +0000" stop="20260105111400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Balkanlar S1 EP9</title></programme>
 <programme start="20260105111400 +0000" stop="20260105112500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
@@ -1762,9 +1771,9 @@
 <programme start="20260105120100 +0000" stop="20260105121000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105121000 +0000" stop="20260105123800 +0000" channel="beINIZ.tr@SD"><title lang="tr">Şehirli Köylüler S3 EP9</title></programme>
 <programme start="20260105123800 +0000" stop="20260105124500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105124500 +0000" stop="20260105131500 +0000" channel="beINIZ.tr@SD"><title lang="tr">3,2,1 Kayıt S1 EP 9</title></programme>
-<programme start="20260105131500 +0000" stop="20260105132600 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105132600 +0000" stop="20260105140100 +0000" channel="beINIZ.tr@SD"><title lang="tr">Erkan Can &amp; Güven Kıraç İle S2 EP4</title></programme>
+<programme start="20260105124500 +0000" stop="20260105131400 +0000" channel="beINIZ.tr@SD"><title lang="tr">3,2,1 Kayıt S1 EP 9</title></programme>
+<programme start="20260105131400 +0000" stop="20260105132500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105132500 +0000" stop="20260105140100 +0000" channel="beINIZ.tr@SD"><title lang="tr">Erkan Can &amp; Güven Kıraç İle S2 EP4</title></programme>
 <programme start="20260105140100 +0000" stop="20260105141000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105141000 +0000" stop="20260105143600 +0000" channel="beINIZ.tr@SD"><title lang="tr">Özel Gösterim 453</title></programme>
 <programme start="20260105143600 +0000" stop="20260105144000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
@@ -1774,8 +1783,8 @@
 <programme start="20260105155300 +0000" stop="20260105160000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105160000 +0000" stop="20260105162500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Bir Varmış Bir Yokmuş Anadolu S1 EP9</title></programme>
 <programme start="20260105162500 +0000" stop="20260105164000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105164000 +0000" stop="20260105170600 +0000" channel="beINIZ.tr@SD"><title lang="tr">İstanbul&apos;un Edebiyat Haritası S1 EP3</title></programme>
-<programme start="20260105170600 +0000" stop="20260105171500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105164000 +0000" stop="20260105170500 +0000" channel="beINIZ.tr@SD"><title lang="tr">İstanbul&apos;un Edebiyat Haritası S1 EP3</title></programme>
+<programme start="20260105170500 +0000" stop="20260105171500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105171500 +0000" stop="20260105174700 +0000" channel="beINIZ.tr@SD"><title lang="tr">Kesişen Kültürler S3 EP7</title></programme>
 <programme start="20260105174700 +0000" stop="20260105175500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105175500 +0000" stop="20260105182400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Bir Ege Hayali S1 EP4</title></programme>
@@ -1799,29 +1808,29 @@
 <programme start="20260106015500 +0000" stop="20260106022200 +0000" channel="beINIZ.tr@SD"><title lang="tr">Suyun Seferi 19</title></programme>
 <programme start="20260106022200 +0000" stop="20260106023000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106023000 +0000" stop="20260106030900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Sudaki İzler 121</title></programme>
-<programme start="20260106030900 +0000" stop="20260106031600 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106031600 +0000" stop="20260106034900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Balkanlar S1 EP8</title></programme>
-<programme start="20260106034900 +0000" stop="20260106035600 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106035600 +0000" stop="20260106043000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Erkan Can &amp; Güven Kıraç İle S2 EP3</title></programme>
-<programme start="20260106043000 +0000" stop="20260106044100 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106044100 +0000" stop="20260106051700 +0000" channel="beINIZ.tr@SD"><title lang="tr">Kesişen Kültürler S3 EP1</title></programme>
+<programme start="20260106030900 +0000" stop="20260106031500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106031500 +0000" stop="20260106034900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Balkanlar S1 EP8</title></programme>
+<programme start="20260106034900 +0000" stop="20260106035500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106035500 +0000" stop="20260106043000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Erkan Can &amp; Güven Kıraç İle S2 EP3</title></programme>
+<programme start="20260106043000 +0000" stop="20260106044000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106044000 +0000" stop="20260106051700 +0000" channel="beINIZ.tr@SD"><title lang="tr">Kesişen Kültürler S3 EP1</title></programme>
 <programme start="20260106051700 +0000" stop="20260106052500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106052500 +0000" stop="20260106055300 +0000" channel="beINIZ.tr@SD"><title lang="tr">3,2,1 Kayıt S1 EP 8</title></programme>
-<programme start="20260106055300 +0000" stop="20260106055900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106055300 +0000" stop="20260106060000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106060000 +0000" stop="20260106062400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Sırt Çantam 50</title></programme>
-<programme start="20260106062400 +0000" stop="20260106063400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106062400 +0000" stop="20260106063500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106063500 +0000" stop="20260106070300 +0000" channel="beINIZ.tr@SD"><title lang="tr">Tohum Toprak Dijital S1 EP10</title></programme>
-<programme start="20260106070300 +0000" stop="20260106071300 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106070300 +0000" stop="20260106071400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106071500 +0000" stop="20260106074600 +0000" channel="beINIZ.tr@SD"><title lang="tr">İki Göz Bir Şehir 46</title></programme>
-<programme start="20260106074600 +0000" stop="20260106075400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106074600 +0000" stop="20260106075500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106075500 +0000" stop="20260106083300 +0000" channel="beINIZ.tr@SD"><title lang="tr">Sudaki İzler 132</title></programme>
-<programme start="20260106083300 +0000" stop="20260106084400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106083300 +0000" stop="20260106084500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106084500 +0000" stop="20260106091200 +0000" channel="beINIZ.tr@SD"><title lang="tr">Coğrafi İşaretler S1 EP 8</title></programme>
-<programme start="20260106091200 +0000" stop="20260106091800 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106091200 +0000" stop="20260106091900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106092000 +0000" stop="20260106094800 +0000" channel="beINIZ.tr@SD"><title lang="tr">İmza Peyzajım S1 EP 1</title></programme>
 <programme start="20260106094800 +0000" stop="20260106095900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106100000 +0000" stop="20260106102500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Derin Mavi S2 EP 5</title></programme>
-<programme start="20260106102500 +0000" stop="20260106103400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106102500 +0000" stop="20260106103500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106103500 +0000" stop="20260106110000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Bir Varmış Bir Yokmuş Anadolu S1 EP9</title></programme>
 <programme start="20260106110000 +0000" stop="20260106110900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106111000 +0000" stop="20260106114200 +0000" channel="beINIZ.tr@SD"><title lang="tr">Kesişen Kültürler S3 EP7</title></programme>
@@ -1829,21 +1838,21 @@
 <programme start="20260106115000 +0000" stop="20260106122300 +0000" channel="beINIZ.tr@SD"><title lang="tr">Gerçek Tarihin İzinde S3 EP3</title></programme>
 <programme start="20260106122300 +0000" stop="20260106122900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106123000 +0000" stop="20260106125900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Bir Ege Hayali S1 EP4</title></programme>
-<programme start="20260106125900 +0000" stop="20260106130800 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106125900 +0000" stop="20260106130900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106131000 +0000" stop="20260106133500 +0000" channel="beINIZ.tr@SD"><title lang="tr">İstanbul&apos;un Edebiyat Haritası S1 EP3</title></programme>
 <programme start="20260106133500 +0000" stop="20260106134400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106134500 +0000" stop="20260106141200 +0000" channel="beINIZ.tr@SD"><title lang="tr">Yolun Bittiği Yer S1 E 2</title></programme>
 <programme start="20260106141200 +0000" stop="20260106141900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106142000 +0000" stop="20260106144800 +0000" channel="beINIZ.tr@SD"><title lang="tr">Tohum Toprak Dijital S1 EP10</title></programme>
-<programme start="20260106144800 +0000" stop="20260106145800 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106144800 +0000" stop="20260106145900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106150000 +0000" stop="20260106153900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Sudaki İzler 133</title></programme>
-<programme start="20260106153900 +0000" stop="20260106154900 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106153900 +0000" stop="20260106155000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106155000 +0000" stop="20260106161800 +0000" channel="beINIZ.tr@SD"><title lang="tr">İstanbul&apos;un İskeleleri S1 EP6</title></programme>
-<programme start="20260106161800 +0000" stop="20260106162800 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106161800 +0000" stop="20260106163000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106163000 +0000" stop="20260106170000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Baharatın Yolculuğu S1 B4</title></programme>
-<programme start="20260106170000 +0000" stop="20260106170800 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106170000 +0000" stop="20260106171000 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106171000 +0000" stop="20260106174500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Kesişen Kültürler S3 EP8</title></programme>
-<programme start="20260106174500 +0000" stop="20260106175300 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106174500 +0000" stop="20260106175500 +0000" channel="beINIZ.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106175500 +0000" stop="20260106182400 +0000" channel="beINIZ.tr@SD"><title lang="tr">Maceraperest Franziska S1 E 1</title></programme>
 <programme start="20260104213300 +0000" stop="20260104214200 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104214200 +0000" stop="20260104230800 +0000" channel="beINMoviesPremiere.tr@SD"><title lang="tr">Sheroes (2023)</title></programme>
@@ -1917,20 +1926,21 @@
 <programme start="20260106001900 +0000" stop="20260106014900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Humane (2024)</title></programme>
 <programme start="20260106014900 +0000" stop="20260106015300 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106015300 +0000" stop="20260106034100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">BABY DRIVER (2017)</title></programme>
-<programme start="20260106034100 +0000" stop="20260106034100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106042500 +0000" stop="20260106065400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">THE ENGLISH PATIENT, THE (</title></programme>
-<programme start="20260106065400 +0000" stop="20260106065400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106070500 +0000" stop="20260106085000 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Part 2: Walking Tall (1975)</title></programme>
-<programme start="20260106085000 +0000" stop="20260106085000 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106090000 +0000" stop="20260106104500 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Stir Crazy (1980)</title></programme>
-<programme start="20260106104500 +0000" stop="20260106104500 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106105500 +0000" stop="20260106130300 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Les Misérables (1998)</title></programme>
-<programme start="20260106130300 +0000" stop="20260106130300 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106131500 +0000" stop="20260106143400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">BLUE IN THE FACE (1995)</title></programme>
-<programme start="20260106143400 +0000" stop="20260106143400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106144500 +0000" stop="20260106162400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">REINDEER GAMES (2000)</title></programme>
-<programme start="20260106162400 +0000" stop="20260106162400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106164000 +0000" stop="20260106180900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Daliland (2022)</title></programme>
+<programme start="20260106034100 +0000" stop="20260106034700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106034700 +0000" stop="20260106061500 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">THE ENGLISH PATIENT, THE (</title></programme>
+<programme start="20260106061500 +0000" stop="20260106062200 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106062200 +0000" stop="20260106080700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Part 2: Walking Tall (1975)</title></programme>
+<programme start="20260106080700 +0000" stop="20260106081400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106081400 +0000" stop="20260106095900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Stir Crazy (1980)</title></programme>
+<programme start="20260106095900 +0000" stop="20260106100400 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106100400 +0000" stop="20260106121200 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Les Misérables (1998)</title></programme>
+<programme start="20260106121200 +0000" stop="20260106121700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106121700 +0000" stop="20260106133600 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">BLUE IN THE FACE (1995)</title></programme>
+<programme start="20260106133600 +0000" stop="20260106134200 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106134200 +0000" stop="20260106152100 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">REINDEER GAMES (2000)</title></programme>
+<programme start="20260106152100 +0000" stop="20260106152700 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106152700 +0000" stop="20260106165600 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Daliland (2022)</title></programme>
+<programme start="20260106165600 +0000" stop="20260106170900 +0000" channel="beINMoviesStars.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104220300 +0000" stop="20260104221000 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104221000 +0000" stop="20260104233200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Baldız</title></programme>
 <programme start="20260104233200 +0000" stop="20260104233800 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
@@ -1961,24 +1971,25 @@
 <programme start="20260106001000 +0000" stop="20260106013100 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Med Cezir Manzaraları</title></programme>
 <programme start="20260106013100 +0000" stop="20260106013500 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106013500 +0000" stop="20260106023300 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Yengeç Burcu</title></programme>
-<programme start="20260106024300 +0000" stop="20260106024300 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106030000 +0000" stop="20260106044700 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Masumiyet</title></programme>
-<programme start="20260106044700 +0000" stop="20260106044700 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106045000 +0000" stop="20260106063100 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Kader</title></programme>
-<programme start="20260106063100 +0000" stop="20260106063100 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106064000 +0000" stop="20260106081600 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">ASK UCGENI</title></programme>
-<programme start="20260106081600 +0000" stop="20260106081600 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106083500 +0000" stop="20260106101000 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Şahin</title></programme>
-<programme start="20260106101000 +0000" stop="20260106101000 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106102500 +0000" stop="20260106113200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Kördüğüm</title></programme>
-<programme start="20260106113200 +0000" stop="20260106113200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106115000 +0000" stop="20260106124600 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Evlatlık</title></programme>
-<programme start="20260106124600 +0000" stop="20260106124600 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106130500 +0000" stop="20260106145200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Masumiyet</title></programme>
-<programme start="20260106145200 +0000" stop="20260106145200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106151000 +0000" stop="20260106165100 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Kader</title></programme>
-<programme start="20260106165100 +0000" stop="20260106165100 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106171000 +0000" stop="20260106184300 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Üçüncü Sayfa</title></programme>
+<programme start="20260106023300 +0000" stop="20260106023800 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106023800 +0000" stop="20260106042500 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Masumiyet</title></programme>
+<programme start="20260106042500 +0000" stop="20260106043000 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106043000 +0000" stop="20260106061000 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Kader</title></programme>
+<programme start="20260106061000 +0000" stop="20260106061600 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106061600 +0000" stop="20260106075200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">ASK UCGENI</title></programme>
+<programme start="20260106075200 +0000" stop="20260106075900 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106075900 +0000" stop="20260106093400 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Şahin</title></programme>
+<programme start="20260106093400 +0000" stop="20260106093900 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106093900 +0000" stop="20260106104600 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Kördüğüm</title></programme>
+<programme start="20260106104600 +0000" stop="20260106105200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106105200 +0000" stop="20260106114800 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Evlatlık</title></programme>
+<programme start="20260106114800 +0000" stop="20260106115300 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106115300 +0000" stop="20260106134000 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Masumiyet</title></programme>
+<programme start="20260106134000 +0000" stop="20260106134600 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106134600 +0000" stop="20260106152700 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Kader</title></programme>
+<programme start="20260106152700 +0000" stop="20260106153200 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106153200 +0000" stop="20260106170500 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Üçüncü Sayfa</title></programme>
+<programme start="20260106170500 +0000" stop="20260106171100 +0000" channel="beINMoviesTurk.tr@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104210000 +0000" stop="20260104215500 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Long Bright River S1 EP 7</title></programme>
 <programme start="20260104215500 +0000" stop="20260104220000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104220000 +0000" stop="20260104225800 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Long Bright River S1 EP 8</title></programme>
@@ -2027,50 +2038,50 @@
 <programme start="20260105164400 +0000" stop="20260105170000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105170000 +0000" stop="20260105174400 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 3</title></programme>
 <programme start="20260105174400 +0000" stop="20260105180000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105210000 +0000" stop="20260105214400 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 3</title></programme>
+<programme start="20260105210100 +0000" stop="20260105214400 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 3</title></programme>
 <programme start="20260105214400 +0000" stop="20260105220100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260105220100 +0000" stop="20260105223600 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Twisted Metal S2 Ep 1</title></programme>
 <programme start="20260105223600 +0000" stop="20260105223900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105223900 +0000" stop="20260105230900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Twisted Metal S2 Ep 2</title></programme>
-<programme start="20260105230900 +0000" stop="20260105231300 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260105231300 +0000" stop="20260106000400 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Fight Night: The Million Dollar Heist S1 Ep 6</title></programme>
-<programme start="20260106000400 +0000" stop="20260106000700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106000700 +0000" stop="20260106004800 +0000" channel="beINSeries1.qa@SD"><title lang="tr">NCIS: New Orleans S7 Ep 1</title></programme>
-<programme start="20260106004800 +0000" stop="20260106010100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105223900 +0000" stop="20260105231000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Twisted Metal S2 Ep 2</title></programme>
+<programme start="20260105231000 +0000" stop="20260105231300 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260105231300 +0000" stop="20260106000600 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Fight Night: The Million Dollar Heist S1 Ep 6</title></programme>
+<programme start="20260106000600 +0000" stop="20260106000900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106000900 +0000" stop="20260106005000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">NCIS: New Orleans S7 Ep 1</title></programme>
+<programme start="20260106005000 +0000" stop="20260106010100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106010100 +0000" stop="20260106014300 +0000" channel="beINSeries1.qa@SD"><title lang="tr">S.W.A.T. S5 Ep 2</title></programme>
 <programme start="20260106014300 +0000" stop="20260106020100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106020100 +0000" stop="20260106024400 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 3</title></programme>
-<programme start="20260106024200 +0000" stop="20260106024200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106020100 +0000" stop="20260106024500 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 3</title></programme>
+<programme start="20260106024400 +0000" stop="20260106025200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106030000 +0000" stop="20260106034200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Accused S2 EP 3</title></programme>
-<programme start="20260106034200 +0000" stop="20260106034200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106034200 +0000" stop="20260106034900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106040000 +0000" stop="20260106044700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Day of the Jackal, The S1 Ep 9</title></programme>
-<programme start="20260106044700 +0000" stop="20260106044700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106044700 +0000" stop="20260106045500 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106050000 +0000" stop="20260106054000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">NCIS: New Orleans S7 Ep 1</title></programme>
-<programme start="20260106054000 +0000" stop="20260106054000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106054000 +0000" stop="20260106054700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106060000 +0000" stop="20260106063900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">S.W.A.T. S5 Ep 3</title></programme>
-<programme start="20260106063900 +0000" stop="20260106063900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106063900 +0000" stop="20260106064800 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106070000 +0000" stop="20260106074200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 3</title></programme>
-<programme start="20260106074200 +0000" stop="20260106074200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106074200 +0000" stop="20260106075100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106080000 +0000" stop="20260106084200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Accused S2 EP 3</title></programme>
-<programme start="20260106084200 +0000" stop="20260106084200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106084200 +0000" stop="20260106084900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106090000 +0000" stop="20260106094700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Day of the Jackal, The S1 Ep 9</title></programme>
-<programme start="20260106094700 +0000" stop="20260106094700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106094700 +0000" stop="20260106095500 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">NCIS: New Orleans S7 Ep 1</title></programme>
-<programme start="20260106104000 +0000" stop="20260106104000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106104000 +0000" stop="20260106104800 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106110000 +0000" stop="20260106113900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">S.W.A.T. S5 Ep 3</title></programme>
-<programme start="20260106113900 +0000" stop="20260106113900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106113900 +0000" stop="20260106114700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106120000 +0000" stop="20260106124200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 3</title></programme>
-<programme start="20260106124200 +0000" stop="20260106124200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106124200 +0000" stop="20260106124900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106130000 +0000" stop="20260106134200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Accused S2 EP 3</title></programme>
-<programme start="20260106134200 +0000" stop="20260106134200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106134200 +0000" stop="20260106134900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106140000 +0000" stop="20260106144700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Day of the Jackal, The S1 Ep 9</title></programme>
-<programme start="20260106144700 +0000" stop="20260106144700 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106150000 +0000" stop="20260106154000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">NCIS: New Orleans S7 Ep 1</title></programme>
-<programme start="20260106154000 +0000" stop="20260106154000 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106160000 +0000" stop="20260106163900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">S.W.A.T. S5 Ep 4</title></programme>
-<programme start="20260106163900 +0000" stop="20260106163900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106170000 +0000" stop="20260106174200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 4</title></programme>
-<programme start="20260106174200 +0000" stop="20260106174200 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106144700 +0000" stop="20260106145500 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106150000 +0000" stop="20260106154100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">NCIS: New Orleans S7 Ep 1</title></programme>
+<programme start="20260106154100 +0000" stop="20260106154900 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106160000 +0000" stop="20260106164100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">S.W.A.T. S5 Ep 4</title></programme>
+<programme start="20260106164100 +0000" stop="20260106164800 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106170000 +0000" stop="20260106174300 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Alert: Missing Persons Unit S2 EP 4</title></programme>
+<programme start="20260106174300 +0000" stop="20260106175100 +0000" channel="beINSeries1.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104210100 +0000" stop="20260104212200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">DMV S1 Ep 5</title></programme>
 <programme start="20260104212200 +0000" stop="20260104213000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104213000 +0000" stop="20260104215200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Neighborhood, The - S7 EP 17</title></programme>
@@ -2144,43 +2155,43 @@
 <programme start="20260106013100 +0000" stop="20260106015200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 9</title></programme>
 <programme start="20260106015200 +0000" stop="20260106020000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106020000 +0000" stop="20260106024200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">THE GOOD DOCTOR, THE S3</title></programme>
-<programme start="20260106024000 +0000" stop="20260106024000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106024200 +0000" stop="20260106025000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106030000 +0000" stop="20260106034100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Elsbeth S3 Ep 3</title></programme>
-<programme start="20260106034100 +0000" stop="20260106034100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106034100 +0000" stop="20260106035000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106040000 +0000" stop="20260106044100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Matlock S1 EP 16</title></programme>
-<programme start="20260106044100 +0000" stop="20260106044100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106044100 +0000" stop="20260106045000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106050000 +0000" stop="20260106054000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Law &amp; Order: SVU S26 EP 22</title></programme>
-<programme start="20260106054000 +0000" stop="20260106054000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106054000 +0000" stop="20260106054800 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106060000 +0000" stop="20260106062000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 10</title></programme>
-<programme start="20260106062000 +0000" stop="20260106062000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106062000 +0000" stop="20260106062500 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106063000 +0000" stop="20260106065000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 11</title></programme>
-<programme start="20260106065000 +0000" stop="20260106065000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106065000 +0000" stop="20260106065400 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106070000 +0000" stop="20260106074000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">THE GOOD DOCTOR, THE S3</title></programme>
-<programme start="20260106074000 +0000" stop="20260106074000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106074000 +0000" stop="20260106074800 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106080000 +0000" stop="20260106084100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Elsbeth S3 Ep 3</title></programme>
-<programme start="20260106084100 +0000" stop="20260106084100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106084100 +0000" stop="20260106084900 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106090000 +0000" stop="20260106094100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Matlock S1 EP 16</title></programme>
-<programme start="20260106094100 +0000" stop="20260106094100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106094100 +0000" stop="20260106094900 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Law &amp; Order: SVU S26 EP 22</title></programme>
-<programme start="20260106104000 +0000" stop="20260106104000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106104000 +0000" stop="20260106104800 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106110000 +0000" stop="20260106112000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 10</title></programme>
-<programme start="20260106112000 +0000" stop="20260106112000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106112000 +0000" stop="20260106112500 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106113000 +0000" stop="20260106115000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 11</title></programme>
-<programme start="20260106115000 +0000" stop="20260106115000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106115000 +0000" stop="20260106115400 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106120000 +0000" stop="20260106124000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">THE GOOD DOCTOR, THE S3</title></programme>
-<programme start="20260106124000 +0000" stop="20260106124000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106124000 +0000" stop="20260106124700 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106130000 +0000" stop="20260106134100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Elsbeth S3 Ep 3</title></programme>
-<programme start="20260106134100 +0000" stop="20260106134100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106134100 +0000" stop="20260106134900 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260106140000 +0000" stop="20260106144100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Matlock S1 EP 16</title></programme>
-<programme start="20260106144100 +0000" stop="20260106144100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106150000 +0000" stop="20260106154000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Law &amp; Order: SVU S26 EP 22</title></programme>
-<programme start="20260106154000 +0000" stop="20260106154000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106160000 +0000" stop="20260106162000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 10</title></programme>
-<programme start="20260106162000 +0000" stop="20260106162000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106163000 +0000" stop="20260106165000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 11</title></programme>
-<programme start="20260106165000 +0000" stop="20260106165000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260106170000 +0000" stop="20260106174100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">THE GOOD DOCTOR, THE S3</title></programme>
-<programme start="20260106174100 +0000" stop="20260106174100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106144100 +0000" stop="20260106144800 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106150000 +0000" stop="20260106154100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Law &amp; Order: SVU S26 EP 22</title></programme>
+<programme start="20260106154100 +0000" stop="20260106154900 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106160000 +0000" stop="20260106162100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 10</title></programme>
+<programme start="20260106162100 +0000" stop="20260106162700 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106163000 +0000" stop="20260106165100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 11</title></programme>
+<programme start="20260106165100 +0000" stop="20260106165600 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260106170000 +0000" stop="20260106174200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">THE GOOD DOCTOR, THE S3</title></programme>
+<programme start="20260106174200 +0000" stop="20260106175000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="beINSportsHaber.tr@SD"><title lang="tr">Premier League En Güzel...</title></programme>
 <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="beINSportsHaber.tr@SD"><title lang="tr">Ligue 1 En Güzel Goller 2025</title></programme>
 <programme start="20260104230000 +0000" stop="20260105000000 +0000" channel="beINSportsHaber.tr@SD"><title lang="tr">Süper Lig Top 100 Gol 2025</title></programme>
@@ -3759,11 +3770,20 @@
 <programme start="20260105131500 +0000" stop="20260105133000 +0000" channel="FBTV.tr@SD"><title lang="tr">Tarihte Bugün</title></programme>
 <programme start="20260105133000 +0000" stop="20260105140000 +0000" channel="FBTV.tr@SD"><title lang="tr">Euroleague Özel</title></programme>
 <programme start="20260105140000 +0000" stop="20260105155000 +0000" channel="FBTV.tr@SD"><title lang="tr">Beşiktaş - Fenerbahçe</title></programme>
-<programme start="20260105155000 +0000" stop="20260105160700 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerium Saati</title></programme>
+<programme start="20260105155000 +0000" stop="20260105160700 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerıum Saati</title></programme>
 <programme start="20260105160700 +0000" stop="20260105163000 +0000" channel="FBTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260105163000 +0000" stop="20260105170000 +0000" channel="FBTV.tr@SD"><title lang="tr">Head To Head</title></programme>
 <programme start="20260105170000 +0000" stop="20260105173000 +0000" channel="FBTV.tr@SD"><title lang="tr">Euroleague Özel</title></programme>
 <programme start="20260105173000 +0000" stop="20260105183000 +0000" channel="FBTV.tr@SD"><title lang="tr">Futbol Dosyası</title></programme>
+<programme start="20260105210000 +0000" stop="20260105223000 +0000" channel="FBTV.tr@SD"><title lang="tr">Beşiktaş Gain -...</title></programme>
+<programme start="20260105223000 +0000" stop="20260105233000 +0000" channel="FBTV.tr@SD"><title lang="tr">Futbol Dosyası</title></programme>
+<programme start="20260105233000 +0000" stop="20260106011500 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerbahçe - Kayserispor</title></programme>
+<programme start="20260106011500 +0000" stop="20260106013000 +0000" channel="FBTV.tr@SD"><title lang="tr">Gece Haberi</title></programme>
+<programme start="20260106013000 +0000" stop="20260106020000 +0000" channel="FBTV.tr@SD"><title lang="tr">Head To Head</title></programme>
+<programme start="20260106020000 +0000" stop="20260106033000 +0000" channel="FBTV.tr@SD"><title lang="tr">Baskonıa - Fenerbahçe Beko</title></programme>
+<programme start="20260106033000 +0000" stop="20260106034500 +0000" channel="FBTV.tr@SD"><title lang="tr">Fenerıum Saati</title></programme>
+<programme start="20260106034500 +0000" stop="20260106044500 +0000" channel="FBTV.tr@SD"><title lang="tr">Futbol Dosyası</title></programme>
+<programme start="20260106044500 +0000" stop="20260106084500 +0000" channel="FBTV.tr@SD"><title lang="tr">Brann - Fenerbahçe</title></programme>
 <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Haber</title></programme>
 <programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Donanım Günlüğü</title></programme>
 <programme start="20260104220000 +0000" stop="20260104223000 +0000" channel="FlashHaberTV.tr@SD"><title lang="tr">Haber</title></programme>
@@ -4924,9 +4944,11 @@
 <programme start="20260105103000 +0000" stop="20260105131500 +0000" channel="StarTV.tr@SD"><title lang="tr">Nur Viral ile Sen İstersen</title></programme>
 <programme start="20260105131500 +0000" stop="20260105160000 +0000" channel="StarTV.tr@SD"><title lang="tr">Söz</title></programme>
 <programme start="20260105160000 +0000" stop="20260105170000 +0000" channel="StarTV.tr@SD"><title lang="tr">Star Haber</title></programme>
-<programme start="20260105215000 +0000" stop="20260106003000 +0000" channel="StarTV.tr@SD"><title lang="tr">Dizi</title></programme>
-<programme start="20260106003000 +0000" stop="20260106004000 +0000" channel="StarTV.tr@SD"><title lang="tr">Hanım Köylü</title></programme>
-<programme start="20260106004000 +0000" stop="20260106040000 +0000" channel="StarTV.tr@SD"><title lang="tr">Söz</title></programme>
+<programme start="20260105170000 +0000" stop="20260105190000 +0000" channel="StarTV.tr@SD"><title lang="tr">Boneyard</title></programme>
+<programme start="20260105210000 +0000" stop="20260105233000 +0000" channel="StarTV.tr@SD"><title lang="tr">Sahipsizler</title></programme>
+<programme start="20260105233000 +0000" stop="20260106010000 +0000" channel="StarTV.tr@SD"><title lang="tr">Kaderimin Oyunu</title></programme>
+<programme start="20260106010000 +0000" stop="20260106022000 +0000" channel="StarTV.tr@SD"><title lang="tr">Söz</title></programme>
+<programme start="20260106022000 +0000" stop="20260106040000 +0000" channel="StarTV.tr@SD"><title lang="tr">Kiralık Aşk</title></programme>
 <programme start="20260106040000 +0000" stop="20260106063000 +0000" channel="StarTV.tr@SD"><title lang="tr">Aramızda Kalsın</title></programme>
 <programme start="20260106063000 +0000" stop="20260106103000 +0000" channel="StarTV.tr@SD"><title lang="tr">Songül ve Uğur ile Sana Değer</title></programme>
 <programme start="20260106103000 +0000" stop="20260106131500 +0000" channel="StarTV.tr@SD"><title lang="tr">Nur Viral ile Sen İstersen</title></programme>
@@ -5105,20 +5127,20 @@
 <programme start="20260105033000 +0000" stop="20260105062000 +0000" channel="TRT1.tr@SD"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20260105062000 +0000" stop="20260105073000 +0000" channel="TRT1.tr@SD"><title lang="tr">Adını Sen Koy</title></programme>
 <programme start="20260105073000 +0000" stop="20260105101500 +0000" channel="TRT1.tr@SD"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
-<programme start="20260105101500 +0000" stop="20260105114500 +0000" channel="TRT1.tr@SD"><title lang="tr">Seksenler</title></programme>
-<programme start="20260105114500 +0000" stop="20260105144500 +0000" channel="TRT1.tr@SD"><title lang="tr">Kasaba Doktoru</title></programme>
+<programme start="20260105101500 +0000" stop="20260105113000 +0000" channel="TRT1.tr@SD"><title lang="tr">Seksenler</title></programme>
+<programme start="20260105113000 +0000" stop="20260105144500 +0000" channel="TRT1.tr@SD"><title lang="tr">Kasaba Doktoru</title></programme>
 <programme start="20260105144500 +0000" stop="20260105160000 +0000" channel="TRT1.tr@SD"><title lang="tr">Lingo Türkiye</title></programme>
 <programme start="20260105160000 +0000" stop="20260105165500 +0000" channel="TRT1.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260105165500 +0000" stop="20260105170000 +0000" channel="TRT1.tr@SD"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20260105213000 +0000" stop="20260105230500 +0000" channel="TRT1.tr@SD"><title lang="tr">Dizi</title></programme>
-<programme start="20260105230500 +0000" stop="20260105235500 +0000" channel="TRT1.tr@SD"><title lang="tr">Seksenler</title></programme>
-<programme start="20260105235500 +0000" stop="20260106023000 +0000" channel="TRT1.tr@SD"><title lang="tr">Kasaba Doktoru</title></programme>
-<programme start="20260106023000 +0000" stop="20260106033000 +0000" channel="TRT1.tr@SD"><title lang="tr">Turgay Başyayla ile...</title></programme>
-<programme start="20260106033000 +0000" stop="20260106062000 +0000" channel="TRT1.tr@SD"><title lang="tr">Kalk Gidelim</title></programme>
-<programme start="20260106062000 +0000" stop="20260106073000 +0000" channel="TRT1.tr@SD"><title lang="tr">Adını Sen Koy</title></programme>
+<programme start="20260105211500 +0000" stop="20260105230000 +0000" channel="TRT1.tr@SD"><title lang="tr">Kovan</title></programme>
+<programme start="20260105230000 +0000" stop="20260106003500 +0000" channel="TRT1.tr@SD"><title lang="tr">Teşkilat</title></programme>
+<programme start="20260106003500 +0000" stop="20260106023000 +0000" channel="TRT1.tr@SD"><title lang="tr">Kasaba Doktoru</title></programme>
+<programme start="20260106023000 +0000" stop="20260106032000 +0000" channel="TRT1.tr@SD"><title lang="tr">Turgay Başyayla ile...</title></programme>
+<programme start="20260106032000 +0000" stop="20260106062500 +0000" channel="TRT1.tr@SD"><title lang="tr">Kalk Gidelim</title></programme>
+<programme start="20260106062500 +0000" stop="20260106073000 +0000" channel="TRT1.tr@SD"><title lang="tr">Adını Sen Koy</title></programme>
 <programme start="20260106073000 +0000" stop="20260106101500 +0000" channel="TRT1.tr@SD"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
-<programme start="20260106101500 +0000" stop="20260106114500 +0000" channel="TRT1.tr@SD"><title lang="tr">Seksenler</title></programme>
-<programme start="20260106114500 +0000" stop="20260106144500 +0000" channel="TRT1.tr@SD"><title lang="tr">Kasaba Doktoru</title></programme>
+<programme start="20260106101500 +0000" stop="20260106113000 +0000" channel="TRT1.tr@SD"><title lang="tr">Seksenler</title></programme>
+<programme start="20260106113000 +0000" stop="20260106144500 +0000" channel="TRT1.tr@SD"><title lang="tr">Kasaba Doktoru</title></programme>
 <programme start="20260106144500 +0000" stop="20260106160000 +0000" channel="TRT1.tr@SD"><title lang="tr">Lingo Türkiye</title></programme>
 <programme start="20260106160000 +0000" stop="20260106165500 +0000" channel="TRT1.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260106165500 +0000" stop="20260106170000 +0000" channel="TRT1.tr@SD"><title lang="tr">İddiaların Aksine</title></programme>
@@ -5325,18 +5347,18 @@
 <programme start="20260105113000 +0000" stop="20260105123000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Anneler</title></programme>
 <programme start="20260105123000 +0000" stop="20260105130000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Bir Millet Bin Tat</title></programme>
 <programme start="20260105130000 +0000" stop="20260105133000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Podcast Avaz</title></programme>
-<programme start="20260105133000 +0000" stop="20260105133500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kazakistan Haber</title></programme>
-<programme start="20260105133500 +0000" stop="20260105134000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kırgızca Haber</title></programme>
-<programme start="20260105134000 +0000" stop="20260105134500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Özbekçe Haber</title></programme>
-<programme start="20260105134500 +0000" stop="20260105135000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türkmence Haber</title></programme>
-<programme start="20260105135000 +0000" stop="20260105135500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Azerbaycan Haber</title></programme>
-<programme start="20260105135500 +0000" stop="20260105140000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Rusça Haber</title></programme>
+<programme start="20260105133000 +0000" stop="20260105133500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Oyun Avcıları</title></programme>
+<programme start="20260105133500 +0000" stop="20260105134500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Masalları</title></programme>
+<programme start="20260105134500 +0000" stop="20260105135500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Turanbot Ve Kardeş Takımı</title></programme>
+<programme start="20260105135500 +0000" stop="20260105140000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Sözlüğü</title></programme>
 <programme start="20260105140000 +0000" stop="20260105145900 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Avaz Haber</title></programme>
 <programme start="20260105145900 +0000" stop="20260105150000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260105150000 +0000" stop="20260105150500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Oyun Avcıları</title></programme>
-<programme start="20260105150500 +0000" stop="20260105151500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Masalları</title></programme>
-<programme start="20260105151500 +0000" stop="20260105152500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Turanbot Ve Kardeş Takımı</title></programme>
-<programme start="20260105152500 +0000" stop="20260105153000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Sözlüğü</title></programme>
+<programme start="20260105150000 +0000" stop="20260105150500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kazakistan Haber</title></programme>
+<programme start="20260105150500 +0000" stop="20260105151000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kırgızca Haber</title></programme>
+<programme start="20260105151000 +0000" stop="20260105151500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Özbekçe Haber</title></programme>
+<programme start="20260105151500 +0000" stop="20260105152000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türkmence Haber</title></programme>
+<programme start="20260105152000 +0000" stop="20260105152500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Azerbaycan Haber</title></programme>
+<programme start="20260105152500 +0000" stop="20260105153000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Rusça Haber</title></programme>
 <programme start="20260105153000 +0000" stop="20260105161500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Sence Bilir Mi?</title></programme>
 <programme start="20260105161500 +0000" stop="20260105162000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Bir Mekan Bir Hikaye</title></programme>
 <programme start="20260105162000 +0000" stop="20260105173000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Payitaht Abdülhamid</title></programme>
@@ -5349,7 +5371,57 @@
 <programme start="20260106005000 +0000" stop="20260106010000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">İzler</title></programme>
 <programme start="20260106010000 +0000" stop="20260106013000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Yiyeceğin Serüveni</title></programme>
 <programme start="20260106013000 +0000" stop="20260106023000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Anneler</title></programme>
-<programme start="20260106023000 +0000" stop="20260106063000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Şifa Yolculuğu</title></programme>
+<programme start="20260106023000 +0000" stop="20260106025800 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Şifa Yolculuğu</title></programme>
+<programme start="20260106025800 +0000" stop="20260106030000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20260106030000 +0000" stop="20260106030500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kazakistan Haber</title></programme>
+<programme start="20260106030500 +0000" stop="20260106031000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kırgızca Haber</title></programme>
+<programme start="20260106031000 +0000" stop="20260106031500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Özbekçe Haber</title></programme>
+<programme start="20260106031500 +0000" stop="20260106032000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türkmence Haber</title></programme>
+<programme start="20260106032000 +0000" stop="20260106032500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Azerbaycan Haber</title></programme>
+<programme start="20260106032500 +0000" stop="20260106033000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Rusça Haber</title></programme>
+<programme start="20260106033000 +0000" stop="20260106040000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Avaz Gündem</title></programme>
+<programme start="20260106040000 +0000" stop="20260106041500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Gezgin Çelebi [...</title></programme>
+<programme start="20260106041500 +0000" stop="20260106042000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Maysa Ve Bulut</title></programme>
+<programme start="20260106042000 +0000" stop="20260106043000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Canım Kardeşim</title></programme>
+<programme start="20260106043000 +0000" stop="20260106044000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Masalları</title></programme>
+<programme start="20260106044000 +0000" stop="20260106045000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Turanbot Ve Kardeş Takımı</title></programme>
+<programme start="20260106045000 +0000" stop="20260106045500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Oyun Avcıları</title></programme>
+<programme start="20260106045500 +0000" stop="20260106050000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Çizgilerle Tarih</title></programme>
+<programme start="20260106050000 +0000" stop="20260106062000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Leyla İle Mecnun</title></programme>
+<programme start="20260106062000 +0000" stop="20260106062500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Sözlüğü</title></programme>
+<programme start="20260106062500 +0000" stop="20260106063500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">İzler</title></programme>
+<programme start="20260106063500 +0000" stop="20260106070000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Tanıdık Kalpler</title></programme>
+<programme start="20260106070000 +0000" stop="20260106073000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Yiyeceğin Serüveni</title></programme>
+<programme start="20260106073000 +0000" stop="20260106074500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Çalakalem</title></programme>
+<programme start="20260106074500 +0000" stop="20260106083000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Sence Bilir Mi?</title></programme>
+<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Adım Adım Türkistan&apos;da</title></programme>
+<programme start="20260106090000 +0000" stop="20260106095900 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türkistan Gündemi</title></programme>
+<programme start="20260106095900 +0000" stop="20260106100000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260106100000 +0000" stop="20260106100500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Sözlüğü</title></programme>
+<programme start="20260106100500 +0000" stop="20260106103000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Şifa Yolculuğu</title></programme>
+<programme start="20260106103000 +0000" stop="20260106103500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Bir Mekan Bir Hikaye</title></programme>
+<programme start="20260106103500 +0000" stop="20260106104500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">İzler</title></programme>
+<programme start="20260106104500 +0000" stop="20260106110000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Çalakalem</title></programme>
+<programme start="20260106110000 +0000" stop="20260106113000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Diplomasi Masası</title></programme>
+<programme start="20260106113000 +0000" stop="20260106123000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Anneler</title></programme>
+<programme start="20260106123000 +0000" stop="20260106130000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Adım Adım Türkistan&apos;da</title></programme>
+<programme start="20260106130000 +0000" stop="20260106133000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk Dünyası Keşif Rotası</title></programme>
+<programme start="20260106133000 +0000" stop="20260106133500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Oyun Avcıları</title></programme>
+<programme start="20260106133500 +0000" stop="20260106134500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Masalları</title></programme>
+<programme start="20260106134500 +0000" stop="20260106135500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Turanbot Ve Kardeş Takımı</title></programme>
+<programme start="20260106135500 +0000" stop="20260106140000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türk&apos;ün Sözlüğü</title></programme>
+<programme start="20260106140000 +0000" stop="20260106145900 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Avaz Haber</title></programme>
+<programme start="20260106145900 +0000" stop="20260106150000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260106150000 +0000" stop="20260106150500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kazakistan Haber</title></programme>
+<programme start="20260106150500 +0000" stop="20260106151000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kırgızca Haber</title></programme>
+<programme start="20260106151000 +0000" stop="20260106151500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Özbekçe Haber</title></programme>
+<programme start="20260106151500 +0000" stop="20260106152000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Türkmence Haber</title></programme>
+<programme start="20260106152000 +0000" stop="20260106152500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Azerbaycan Haber</title></programme>
+<programme start="20260106152500 +0000" stop="20260106153000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Rusça Haber</title></programme>
+<programme start="20260106153000 +0000" stop="20260106161500 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Sence Bilir Mi?</title></programme>
+<programme start="20260106161500 +0000" stop="20260106162000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Bir Mekan Bir Hikaye</title></programme>
+<programme start="20260106162000 +0000" stop="20260106173000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Teşkilat</title></programme>
+<programme start="20260106173000 +0000" stop="20260106183000 +0000" channel="TRTAvaz.tr@SD"><title lang="tr">Kıbrıs Mücahitleri...</title></programme>
 <programme start="20260104214000 +0000" stop="20260104223500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Domatesin Zaferi</title></programme>
 <programme start="20260104223500 +0000" stop="20260104231000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Benim Sakin Dünyam</title></programme>
 <programme start="20260104231000 +0000" stop="20260105000500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Ailenin Yeni Üyesi Türkiye</title></programme>
@@ -5390,25 +5462,25 @@
 <programme start="20260106025000 +0000" stop="20260106035500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Şehirden Uzakta</title></programme>
 <programme start="20260106035500 +0000" stop="20260106035800 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Tanıtım</title></programme>
 <programme start="20260106035800 +0000" stop="20260106040000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">İstiklal Marşı</title></programme>
-<programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Türkiye&apos;nin Dev...</title></programme>
-<programme start="20260106050000 +0000" stop="20260106052500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yüzer Evim</title></programme>
-<programme start="20260106052500 +0000" stop="20260106055000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yüzer Evim</title></programme>
-<programme start="20260106055000 +0000" stop="20260106063500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Ulak</title></programme>
-<programme start="20260106063500 +0000" stop="20260106073500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Tuhaf Vahşi Ve Harikulade</title></programme>
+<programme start="20260106040000 +0000" stop="20260106045500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Türkiye&apos;nin Dev...</title></programme>
+<programme start="20260106045500 +0000" stop="20260106052000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yüzer Evim</title></programme>
+<programme start="20260106052000 +0000" stop="20260106054500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yüzer Evim</title></programme>
+<programme start="20260106054500 +0000" stop="20260106064000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Ulak</title></programme>
+<programme start="20260106064000 +0000" stop="20260106073500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Tuhaf Vahşi Ve Harikulade</title></programme>
 <programme start="20260106073500 +0000" stop="20260106083000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Mükemmel Gezegen</title></programme>
 <programme start="20260106083000 +0000" stop="20260106090500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Günlük Hayat Bilimi</title></programme>
 <programme start="20260106090500 +0000" stop="20260106100000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yırtıcı Kuşlar</title></programme>
-<programme start="20260106100000 +0000" stop="20260106104000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Antika Dedektifi</title></programme>
-<programme start="20260106104000 +0000" stop="20260106110500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Hurdadan Hazineye</title></programme>
-<programme start="20260106110500 +0000" stop="20260106120500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Ailenin Yeni Üyesi</title></programme>
-<programme start="20260106120500 +0000" stop="20260106123500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Gümrük 24 Saat</title></programme>
-<programme start="20260106123500 +0000" stop="20260106132500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Mavi Dünya</title></programme>
-<programme start="20260106132500 +0000" stop="20260106135500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Kronovizör</title></programme>
-<programme start="20260106135500 +0000" stop="20260106145000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yağmurların Peşinde</title></programme>
-<programme start="20260106145000 +0000" stop="20260106155500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Şehirden Uzakta</title></programme>
-<programme start="20260106155500 +0000" stop="20260106165000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Anadolu İnsanı</title></programme>
-<programme start="20260106165000 +0000" stop="20260106174500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yırtıcı Kuşlar</title></programme>
-<programme start="20260106174500 +0000" stop="20260106184500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Mükemmel Gezegen</title></programme>
+<programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Antika Dedektifi</title></programme>
+<programme start="20260106103000 +0000" stop="20260106105500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Hurdadan Hazineye</title></programme>
+<programme start="20260106105500 +0000" stop="20260106115000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Ailenin Yeni Üyesi</title></programme>
+<programme start="20260106115000 +0000" stop="20260106122000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Gümrük 24 Saat</title></programme>
+<programme start="20260106122000 +0000" stop="20260106131000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Mavi Dünya</title></programme>
+<programme start="20260106131000 +0000" stop="20260106134000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Kronovizör</title></programme>
+<programme start="20260106134000 +0000" stop="20260106143500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yağmurların Peşinde</title></programme>
+<programme start="20260106143500 +0000" stop="20260106154000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Şehirden Uzakta</title></programme>
+<programme start="20260106154000 +0000" stop="20260106163500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Anadolu İnsanı</title></programme>
+<programme start="20260106163500 +0000" stop="20260106173000 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Yırtıcı Kuşlar</title></programme>
+<programme start="20260106173000 +0000" stop="20260106182500 +0000" channel="TRTBelgesel.tr@SD"><title lang="tr">Mükemmel Gezegen</title></programme>
 <programme start="20260104211500 +0000" stop="20260104213500 +0000" channel="TRTCocuk.tr@SD"><title lang="tr">Maysa ve Bulut</title></programme>
 <programme start="20260104213500 +0000" stop="20260104220000 +0000" channel="TRTCocuk.tr@SD"><title lang="tr">Aslan</title></programme>
 <programme start="20260104220000 +0000" stop="20260104222500 +0000" channel="TRTCocuk.tr@SD"><title lang="tr">Elif ve Arkadaşları</title></programme>
@@ -5702,7 +5774,25 @@
 <programme start="20260106000000 +0000" stop="20260106010000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Sade</title></programme>
 <programme start="20260106010000 +0000" stop="20260106013000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Sümer Ezgü İle...</title></programme>
 <programme start="20260106013000 +0000" stop="20260106030000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Senin Şarkın</title></programme>
-<programme start="20260106030000 +0000" stop="20260106070000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Ezgiler</title></programme>
+<programme start="20260106030000 +0000" stop="20260106040000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Ezgiler</title></programme>
+<programme start="20260106040000 +0000" stop="20260106040500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20260106040500 +0000" stop="20260106050000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Klipark</title></programme>
+<programme start="20260106050000 +0000" stop="20260106054500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Nağmeler</title></programme>
+<programme start="20260106054500 +0000" stop="20260106064500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Ezgiler</title></programme>
+<programme start="20260106064500 +0000" stop="20260106074500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Günaydın</title></programme>
+<programme start="20260106074500 +0000" stop="20260106081500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Türkiye&apos;yi Dinliyorum</title></programme>
+<programme start="20260106081500 +0000" stop="20260106084500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Sahnemiz Sokak</title></programme>
+<programme start="20260106084500 +0000" stop="20260106093000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Melike İle Müziğin Ritmi</title></programme>
+<programme start="20260106093000 +0000" stop="20260106103000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Sinan&apos;la Sahnede</title></programme>
+<programme start="20260106103000 +0000" stop="20260106111500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Rotamız Müzik</title></programme>
+<programme start="20260106111500 +0000" stop="20260106120000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Yaren</title></programme>
+<programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Klipark</title></programme>
+<programme start="20260106130000 +0000" stop="20260106140000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Ahenk</title></programme>
+<programme start="20260106140000 +0000" stop="20260106141500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">3 Ses</title></programme>
+<programme start="20260106141500 +0000" stop="20260106150000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Neydi O Şarkı</title></programme>
+<programme start="20260106150000 +0000" stop="20260106160000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Zamane</title></programme>
+<programme start="20260106160000 +0000" stop="20260106170000 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Yıldızlar Altında</title></programme>
+<programme start="20260106170000 +0000" stop="20260106181500 +0000" channel="TRTMuzik.tr@SD"><title lang="tr">Doğudan Sesler</title></programme>
 <programme start="20260104210000 +0000" stop="20260104230000 +0000" channel="TRTSpor.tr@SD"><title lang="tr">Transfer Gündemi</title></programme>
 <programme start="20260104230000 +0000" stop="20260105004500 +0000" channel="TRTSpor.tr@SD"><title lang="tr">Barcelona - E. Frankfurt</title></programme>
 <programme start="20260105004500 +0000" stop="20260105023000 +0000" channel="TRTSpor.tr@SD"><title lang="tr">Tottenham - Slavia Prag</title></programme>
@@ -5798,7 +5888,7 @@
 <programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Gönül Verenler</title></programme>
 <programme start="20260105090000 +0000" stop="20260105100000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Aile</title></programme>
 <programme start="20260105100000 +0000" stop="20260105105000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Beni Böyle Sev</title></programme>
-<programme start="20260105105000 +0000" stop="20260105110000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Kıbrıs Sözlüğü</title></programme>
+<programme start="20260105105000 +0000" stop="20260105110000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Üzüldüğün Şeye Bak</title></programme>
 <programme start="20260105110000 +0000" stop="20260105115000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Öğle Ana Haber</title></programme>
 <programme start="20260105115000 +0000" stop="20260105120000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Yeni Hayatım Hakkında</title></programme>
 <programme start="20260105120000 +0000" stop="20260105130000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Sağlık Olsun</title></programme>
@@ -5821,7 +5911,33 @@
 <programme start="20260106025000 +0000" stop="20260106032000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Gönül Verenler</title></programme>
 <programme start="20260106032000 +0000" stop="20260106033500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Efendimizin 24 Saati</title></programme>
 <programme start="20260106033500 +0000" stop="20260106035500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Hollanda Ve Belçika&apos;da...</title></programme>
-<programme start="20260106035500 +0000" stop="20260106075500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">..........</title></programme>
+<programme start="20260106035500 +0000" stop="20260106040000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">İstiklal Marşı Çocuk</title></programme>
+<programme start="20260106040000 +0000" stop="20260106060000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Trt Haber&apos;de Dün Bugün</title></programme>
+<programme start="20260106060000 +0000" stop="20260106061000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Burak İle Bubu</title></programme>
+<programme start="20260106061000 +0000" stop="20260106062500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Gökten Üç Elma Düştü</title></programme>
+<programme start="20260106062500 +0000" stop="20260106063500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Güzel Türkçem</title></programme>
+<programme start="20260106063500 +0000" stop="20260106065000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Arkadaşım Kirpi</title></programme>
+<programme start="20260106065000 +0000" stop="20260106070000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Kıbrıs Masalları</title></programme>
+<programme start="20260106070000 +0000" stop="20260106073000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Haberdar</title></programme>
+<programme start="20260106073000 +0000" stop="20260106074500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Canıgönülden</title></programme>
+<programme start="20260106074500 +0000" stop="20260106080000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Tarifsiz Lezzetler</title></programme>
+<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Annem Yapardı</title></programme>
+<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Gönül Verenler</title></programme>
+<programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Aile</title></programme>
+<programme start="20260106100000 +0000" stop="20260106105000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Beni Böyle Sev</title></programme>
+<programme start="20260106105000 +0000" stop="20260106110000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Üzüldüğün Şeye Bak</title></programme>
+<programme start="20260106110000 +0000" stop="20260106115000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Öğle Ana Haber</title></programme>
+<programme start="20260106115000 +0000" stop="20260106120000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Yeni Hayatım Hakkında</title></programme>
+<programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Sağlık Olsun</title></programme>
+<programme start="20260106130000 +0000" stop="20260106140000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Avrupa&apos;nın Nabzı</title></programme>
+<programme start="20260106140000 +0000" stop="20260106144500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Rehber</title></programme>
+<programme start="20260106144500 +0000" stop="20260106150000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Fabrika Ayarı</title></programme>
+<programme start="20260106150000 +0000" stop="20260106153000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Temizlik Kulübü</title></programme>
+<programme start="20260106153000 +0000" stop="20260106154500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Kıbrıs Masalları</title></programme>
+<programme start="20260106154500 +0000" stop="20260106160000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Mikrofon Senin Köln</title></programme>
+<programme start="20260106160000 +0000" stop="20260106164500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Sıcak Haber</title></programme>
+<programme start="20260106164500 +0000" stop="20260106170000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Bir Hukukumuz Olsun</title></programme>
+<programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Temelli Misafir</title></programme>
 <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="TRTWorld.tr@SD"><title lang="tr">News</title></programme>
 <programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="TRTWorld.tr@SD"><title lang="tr">The Newsmakers</title></programme>
 <programme start="20260104220000 +0000" stop="20260104223000 +0000" channel="TRTWorld.tr@SD"><title lang="tr">News</title></programme>
@@ -5908,7 +6024,7 @@
 <programme start="20260105041500 +0000" stop="20260105060000 +0000" channel="TV8.tr@SD"><title lang="tr">Ebru ile 8&apos;de Sağlık</title></programme>
 <programme start="20260105060000 +0000" stop="20260105093000 +0000" channel="TV8.tr@SD"><title lang="tr">Gel Konuşalım</title></programme>
 <programme start="20260105093000 +0000" stop="20260105130000 +0000" channel="TV8.tr@SD"><title lang="tr">Zahide Yetiş&apos;le Sence?</title></programme>
-<programme start="20260105130000 +0000" stop="20260105170000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title></programme>
+<programme start="20260105130000 +0000" stop="20260105160000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title></programme>
 <programme start="20260105211500 +0000" stop="20260105223000 +0000" channel="TV8.tr@SD"><title lang="tr">Survivor Ekstra</title></programme>
 <programme start="20260105223000 +0000" stop="20260106003000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title></programme>
 <programme start="20260106003000 +0000" stop="20260106030000 +0000" channel="TV8.tr@SD"><title lang="tr">Zahide Yetiş&apos;le Sence?</title></programme>
