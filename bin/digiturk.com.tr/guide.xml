@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260107">
 <channel id="193"><display-name>beIN SPORTS 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="UlkeTV.tr@SD"><display-name>ÜLKE TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TVNET.tr@SD"><display-name>TVNET</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TV100.tr@SD"><display-name>tv100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://digiturk.com.tr</url></channel>
@@ -106,9 +106,9 @@
 <channel id="506"><display-name>beIN SPORTS 5</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="495"><display-name>beIN SPORTS 4</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
 <programme start="20260106220000 +0000" stop="20260106230000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title></programme>
 <programme start="20260106230000 +0000" stop="20260106233000 +0000" channel="24TV.tr@SD"><title lang="tr">Mercek</title></programme>
 <programme start="20260106233000 +0000" stop="20260107010000 +0000" channel="24TV.tr@SD"><title lang="tr">Bu Ülke</title></programme>
@@ -160,6 +160,13 @@
 <programme start="20260107150000 +0000" stop="20260107164500 +0000" channel="193"><title lang="tr">Gençlerbirliği - Fenerbahçe</title></programme>
 <programme start="20260107164500 +0000" stop="20260107170000 +0000" channel="193"><title lang="tr">Süper Lig Haftanın Golleri</title></programme>
 <programme start="20260107170000 +0000" stop="20260107184500 +0000" channel="193"><title lang="tr">Galatasaray - Rizespor</title></programme>
+<programme start="20260107030000 +0000" stop="20260107044500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 14. Hafta Boluspor - Amed S.F. Maçı Bant -</title></programme>
+<programme start="20260107050000 +0000" stop="20260107064500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 14. Hafta İstanbulspor - Sakaryaspor Maçı Bant -</title></programme>
+<programme start="20260107070000 +0000" stop="20260107084500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 14. Hafta A.H.Iğdır FK - Erzurumspor FK Maçı Bant -</title></programme>
+<programme start="20260107090000 +0000" stop="20260107104500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 14. Hafta E.Ümraniyespor - S.Bodrum FK Maçı Bant -</title></programme>
+<programme start="20260107130000 +0000" stop="20260107144500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 14. Hafta E.Erokspor - Ö.Sivasspor Maçı Bant -</title></programme>
+<programme start="20260107150000 +0000" stop="20260107164500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 14. Hafta Serikspor - S.G.Sarıyerspor Maçı Bant -</title></programme>
+<programme start="20260107170000 +0000" stop="20260107184500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 14. Hafta Manisa FK - AdanaDemirspor Maçı Bant -</title></programme>
 <programme start="20260106220000 +0000" stop="20260106223000 +0000" channel="312"><title lang="tr">Premier League Rewind</title></programme>
 <programme start="20260106223000 +0000" stop="20260106230000 +0000" channel="312"><title lang="tr">Premier League Netbusters</title></programme>
 <programme start="20260106230000 +0000" stop="20260107004500 +0000" channel="312"><title lang="tr">West Ham United-Nottingham F.</title></programme>
