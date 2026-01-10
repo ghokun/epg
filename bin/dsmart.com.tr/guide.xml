@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260110">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
@@ -98,7 +99,6 @@
 <channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://i.postimg.cc/xTwwXgp7/ekoturk.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20260109220000 +0000" stop="20260109230000 +0000" channel="24TV.tr@SD"><title lang="tr">GÜNÜN MANŞETİ</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc></programme>
 <programme start="20260109230000 +0000" stop="20260110010000 +0000" channel="24TV.tr@SD"><title lang="tr">ESAS MESELE</title><desc lang="tr">Murat Özer moderatörlüğünde her hafta &apos;Esas Mesele&apos; konuşuluyor.</desc></programme>
 <programme start="20260110010000 +0000" stop="20260110020000 +0000" channel="24TV.tr@SD"><title lang="tr">8. ETAP</title><desc lang="tr">Ekranların en uzun soluklu otomobil ve motor sporları programı &quot;8. Etap&quot; otomobil dünyasındaki yenilikleri ve son haberleri ekrana yansıtıyor.</desc></programme>
@@ -1908,9 +1908,9 @@
 <programme start="20260111015000 +0000" stop="20260111021500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Akıllı Tarım</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260111021500 +0000" stop="20260111031000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Ece Saruhan&apos;la Oyuna Devam</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260111031000 +0000" stop="20260111040000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Aslı Şafak&apos;la İşin Aslı</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260111040000 +0000" stop="20260111050000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Akustikhane</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260111050000 +0000" stop="20260111060000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Ece Saruhan&apos;la Oyuna Devam</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260111060000 +0000" stop="20260111073000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Pandora&apos;nın Merakı</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260111040000 +0000" stop="20260111044000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Akustikhane</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260111044000 +0000" stop="20260111053000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Ece Saruhan&apos;la Oyuna Devam</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260111053000 +0000" stop="20260111073000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Pandora&apos;nın Merakı</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260111073000 +0000" stop="20260111081500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Macerasever</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260111081500 +0000" stop="20260111085000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Boat Show 2024</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260111085000 +0000" stop="20260111093000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Great British Railway Journeys</title><desc lang="tr">Tekrar</desc></programme>
@@ -3475,13 +3475,16 @@
 <programme start="20260110173000 +0000" stop="20260110193000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Basketbol</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260110193000 +0000" stop="20260110223000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dakika 90</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260110220000 +0000" stop="20260111060000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Tekrar Yayın</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260111060000 +0000" stop="20260111090000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Kevser İme Şahin İle Hafta Sonu Haber</title></programme>
+<programme start="20260111060000 +0000" stop="20260111080000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Kevser İme Şahin İle Hafta Sonu Haber</title></programme>
+<programme start="20260111080000 +0000" stop="20260111090000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Zone press</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260111090000 +0000" stop="20260111100000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Magazin</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260111100000 +0000" stop="20260111110000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Spor Meddahı</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260111110000 +0000" stop="20260111150000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Spor Hattı</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260111150000 +0000" stop="20260111173000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Maç Yolu</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260111173000 +0000" stop="20260111193000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Basketbol</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260111193000 +0000" stop="20260111223000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dakika 90</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260111100000 +0000" stop="20260111120000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Spor Hattı</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260111120000 +0000" stop="20260111130000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Basketbol</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260111130000 +0000" stop="20260111150000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Canlı Basketbol</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260111150000 +0000" stop="20260111160000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Basketbol</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260111160000 +0000" stop="20260111170000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Sine Çakır İle HT Spor Ana Haber Bülteni</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260111170000 +0000" stop="20260111190000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260111190000 +0000" stop="20260111220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260109210000 +0000" stop="20260109230000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Gömülü Sırlar</title><desc lang="tr">Long Islandlı bir aile, yıllar önce kaybolan babaları George Carroll&apos;a dair gizemi çözmeye çalışırken karanlık ve karmaşık bir hikâyeyi açığa çıkarır.</desc></programme>
 <programme start="20260109230000 +0000" stop="20260110000000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Kiralık Katili Kim Tuttu?</title><desc lang="tr">Bir bilgisayar dehasının öldürülmesi, dedektifleri kayıp altınlar ve ölümcül bir uluslararası komployu içeren karmaşık bir yola sürükler.</desc></programme>
 <programme start="20260110000000 +0000" stop="20260110010000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Öldürebilir miyim, Anne?</title><desc lang="tr">Bir anne ıssız bir yolda öldürülür. Kadının velayet davasını araştıran polis, eski eşi ile kayınvalidesi arasındaki rahatsız edici bağı açığa çıkarır.</desc></programme>
