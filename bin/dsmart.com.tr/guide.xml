@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260111">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
@@ -98,7 +99,6 @@
 <channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://i.postimg.cc/xTwwXgp7/ekoturk.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20260110220000 +0000" stop="20260110233000 +0000" channel="24TV.tr@SD"><title lang="tr">BU ÜLKE</title><desc lang="tr">Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla &quot;Bu Ülke&quot;de analiz ediyor.</desc></programme>
 <programme start="20260110233000 +0000" stop="20260111002500 +0000" channel="24TV.tr@SD"><title lang="tr">DOĞRUSU NE ?</title></programme>
 <programme start="20260111002500 +0000" stop="20260111012000 +0000" channel="24TV.tr@SD"><title lang="tr">AN VE ZAMAN</title><desc lang="tr">Tarih 24 ekranlarında yeniden yazılıyor. Tarihin arka odalarında kalan önemli olayların ayrıntıları Özgenur Reyhan Güler&apos;in sunumuyla &quot;An ve Zaman&quot;da tartışılıyor.</desc></programme>
