@@ -1108,23 +1108,6 @@
 <programme start="20260114010000 +0000" stop="20260114011500 +0000" channel="360.tr@SD"><title lang="tr">Gökyüzünden</title><desc lang="tr">Türkiye&apos;ye hiç bu gözden bakmadınız. Anadolu&apos;nun eşsiz güzellikleri, doğa manzaraları, tarihi kentleri ve çok daha fazlası, drone ile çekildi. Ortaya harika bir belgesel çıktı.</desc></programme>
 <programme start="20260114011500 +0000" stop="20260114024500 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &apos;&apos;Küçük Hanımefendi&apos;&apos;</title></programme>
 <programme start="20260114024500 +0000" stop="20260114054500 +0000" channel="360.tr@SD"><title lang="tr">Ataman İle Devri Alem (Tekrar)</title></programme>
-<programme start="20260112212000 +0000" stop="20260112232000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260112232000 +0000" stop="20260113002000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113002000 +0000" stop="20260113022000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113022000 +0000" stop="20260113032000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113032000 +0000" stop="20260113052000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113052000 +0000" stop="20260113062000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113062000 +0000" stop="20260113070000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113070000 +0000" stop="20260113090000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Mevzu Ne</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113090000 +0000" stop="20260113110000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113110000 +0000" stop="20260113120000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113120000 +0000" stop="20260113140000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113140000 +0000" stop="20260113150000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113150000 +0000" stop="20260113160000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113160000 +0000" stop="20260113172000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Ana Haber</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113172000 +0000" stop="20260113182000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113182000 +0000" stop="20260113202000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260113202000 +0000" stop="20260113232000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
 <programme start="20260112210000 +0000" stop="20260112213000 +0000" channel="683d6eafcfef0b3744e79132"><title lang="tr">Headline News</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260112213000 +0000" stop="20260112220000 +0000" channel="683d6eafcfef0b3744e79132"><title lang="tr">Documentary</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260112220000 +0000" stop="20260112223000 +0000" channel="683d6eafcfef0b3744e79132"><title lang="tr">Headline News</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
@@ -3227,12 +3210,6 @@
 <programme start="20260114194500 +0000" stop="20260114200000 +0000" channel="DiziSmartPremium.tr@SD"><title lang="tr">Az Sonra...</title><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
 <programme start="20260114200000 +0000" stop="20260114205500 +0000" channel="DiziSmartPremium.tr@SD"><title lang="tr">O Kız</title><desc lang="tr">Nimet ve Kadir aralarındaki sırrı kimseye söylemeden birlikte vakit geçirirler. İpek, hamile olduğunu öğrenir. Doruk, babasının bakıcısından Sitare ile ilgili bir gerçeği öğrenir.</desc><category lang="tr">Sinema</category><category lang="tr">Dizi-filmi</category></programme>
 <programme start="20260114205500 +0000" stop="20260114210000 +0000" channel="DiziSmartPremium.tr@SD"><title lang="tr">Az Sonra...</title><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
-<programme start="20260112040000 +0000" stop="20260112070000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
-<programme start="20260112070000 +0000" stop="20260112100000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
-<programme start="20260112100000 +0000" stop="20260112120000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
-<programme start="20260112120000 +0000" stop="20260112160000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
-<programme start="20260112160000 +0000" stop="20260112190000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
-<programme start="20260112190000 +0000" stop="20260112220000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
 <programme start="20260113040000 +0000" stop="20260113070000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
 <programme start="20260113070000 +0000" stop="20260113100000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
 <programme start="20260113100000 +0000" stop="20260113120000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
