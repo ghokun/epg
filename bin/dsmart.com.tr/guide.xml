@@ -2672,15 +2672,6 @@
 <programme start="20260113130000 +0000" stop="20260113150000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Günlük</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260113150000 +0000" stop="20260113174500 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Ana Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260113174500 +0000" stop="20260113220000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Ne Oluyor?</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260113220000 +0000" stop="20260113230000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gece Haberleri</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260113230000 +0000" stop="20260114030000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Ne Oluyor?( T )</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260114030000 +0000" stop="20260114060000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">A&apos;dan Z&apos;ye</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260114060000 +0000" stop="20260114090000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gündem</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260114090000 +0000" stop="20260114110000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gün Ortası</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260114110000 +0000" stop="20260114130000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Bugün</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260114130000 +0000" stop="20260114150000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Günlük</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260114150000 +0000" stop="20260114173000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Ana Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260114173000 +0000" stop="20260114220000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Tarafsız Bölge</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260112210000 +0000" stop="20260112220000 +0000" channel="DaVinci.de@SD"><title lang="tr">Eşyanın Gizli Tarihi: Modern Çağın Malzemeleri</title><desc lang="tr">Madde bilimci Zoe Laughlin, hayatımızın altı kilit yönünü değiştirecek olan yeni malzemelerin arkasındaki bilimi anlatıyor.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260112220000 +0000" stop="20260112222100 +0000" channel="DaVinci.de@SD"><title lang="tr">Garaj Meraklıları 2</title><desc lang="tr">100 metre havaya kavunlar fırlatan devasa bir mancınık gibi, yerçekimine meydan okuyan çılgın bilim oyuncakları ve icatları yaratın.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260112222100 +0000" stop="20260112222400 +0000" channel="DaVinci.de@SD"><title lang="tr">Ayna</title><desc lang="tr">Yüzümüz gelecek kardiyovasküler krizlerin işaretlerini gösterebilir mi? Bu işaretleri dikkat çekmeyen bir yolla okumanın bir imkanı var mı?</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
@@ -4052,8 +4043,8 @@
 <programme start="20260114103000 +0000" stop="20260114133000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Kadir Ezildi İle En Hamarat Benim</title><desc lang="tr">Birbirinden eğlenceli ve becerikli beş yarışmacı önce temizlik dedektifi Kadir Ezildi’nin göz hapsinde kendi evlerinin temizliğini yapacaklar, evler temizlendikten sonra ise mutfakta hünerlerini sergileyecekler.</desc></programme>
 <programme start="20260114133000 +0000" stop="20260114160000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Sahtekarlar - Tekrar</title></programme>
 <programme start="20260114160000 +0000" stop="20260114170000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Selçuk Tepeli ile Now Ana Haber</title></programme>
-<programme start="20260114170000 +0000" stop="20260114200000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Halef : Köklerin Çağrısı - Tekrar</title></programme>
-<programme start="20260114200000 +0000" stop="20260114224500 +0000" channel="NOWTV.tr@SD"><title lang="tr">Çifte Milyon - Tekrar</title></programme>
+<programme start="20260114170000 +0000" stop="20260114193000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Erdal ile Ece</title></programme>
+<programme start="20260114193000 +0000" stop="20260114223000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Halef : Köklerin Çağrısı - Tekrar</title></programme>
 <programme start="20260112210000 +0000" stop="20260112215000 +0000" channel="NTV.tr@SD"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20260112215000 +0000" stop="20260112215500 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20260112215500 +0000" stop="20260112220000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
@@ -5127,6 +5118,28 @@
 <programme start="20260113170000 +0000" stop="20260113190000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI ‘’SATIN ALINAN KOCA’’</title></programme>
 <programme start="20260113190000 +0000" stop="20260113204500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI ‘’OĞLUM’’</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri tv4 ekranlarında seyircisiyle buluşuyor.</desc></programme>
 <programme start="20260113204500 +0000" stop="20260113234500 +0000" channel="TV4.tr@SD"><title lang="tr">ATAMAN İLE DEVR-İ ALEM (TEKRAR)</title></programme>
+<programme start="20260113210000 +0000" stop="20260113214500 +0000" channel="TV4.tr@SD"><title lang="tr">ŞEFLERİN MUTFAĞI</title></programme>
+<programme start="20260113214500 +0000" stop="20260113234500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;SATIN ALINAN KOCA&quot;</title></programme>
+<programme start="20260113234500 +0000" stop="20260114014500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;İSTANBUL 79&quot;</title></programme>
+<programme start="20260114014500 +0000" stop="20260114033000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;OĞLUM&quot;</title></programme>
+<programme start="20260114033000 +0000" stop="20260114034500 +0000" channel="TV4.tr@SD"><title lang="tr">MUTLU KAHVALTILAR &quot;TEKRAR&quot;</title></programme>
+<programme start="20260114034500 +0000" stop="20260114040000 +0000" channel="TV4.tr@SD"><title lang="tr">KOLAY MI SANDIN &quot;TEKRAR&quot;</title></programme>
+<programme start="20260114040000 +0000" stop="20260114041500 +0000" channel="TV4.tr@SD"><title lang="tr">ATAMAN İLE DEVR-İ ALEM</title></programme>
+<programme start="20260114041500 +0000" stop="20260114060000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;İKİMİZDE SEVDİK&quot;</title></programme>
+<programme start="20260114060000 +0000" stop="20260114064500 +0000" channel="TV4.tr@SD"><title lang="tr">TARİHİ ROTALAR &quot;TEKRAR&quot;</title></programme>
+<programme start="20260114064500 +0000" stop="20260114074500 +0000" channel="TV4.tr@SD"><title lang="tr">TUĞÇE&apos;NİN MUTFAĞI &quot;TEKRAR&quot;</title></programme>
+<programme start="20260114074500 +0000" stop="20260114083000 +0000" channel="TV4.tr@SD"><title lang="tr">METREKARE</title><desc lang="tr">Dekorasyon ve mimari meraklılarını buluşturup, ev dekorasyonundan, duvar renk seçimine, eşya yerleşiminden, huzurlu bir ev ortamı için küçük tüyolara kadar her şeyi ekranlara taşıyor.</desc></programme>
+<programme start="20260114083000 +0000" stop="20260114084500 +0000" channel="TV4.tr@SD"><title lang="tr">MUTLU KAHVALTILAR</title></programme>
+<programme start="20260114084500 +0000" stop="20260114090000 +0000" channel="TV4.tr@SD"><title lang="tr">KOLAY MI SANDIN</title></programme>
+<programme start="20260114090000 +0000" stop="20260114110000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;SATIN ALINAN KOCA&quot;</title></programme>
+<programme start="20260114110000 +0000" stop="20260114120000 +0000" channel="TV4.tr@SD"><title lang="tr">SÜPER KUMBARA &quot;TEKRAR&quot;</title></programme>
+<programme start="20260114120000 +0000" stop="20260114121500 +0000" channel="TV4.tr@SD"><title lang="tr">TATLI TUZLU &quot;TEKRAR&quot;</title></programme>
+<programme start="20260114121500 +0000" stop="20260114131500 +0000" channel="TV4.tr@SD"><title lang="tr">GEZMEK OLSUN &quot;TERKAR&quot;</title></programme>
+<programme start="20260114131500 +0000" stop="20260114150000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;SUÇLU&quot;</title></programme>
+<programme start="20260114150000 +0000" stop="20260114170000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;İKİMİZ DE SEVDİK&quot;</title></programme>
+<programme start="20260114170000 +0000" stop="20260114190000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;GÜNGÖRMÜŞLER&quot;</title></programme>
+<programme start="20260114190000 +0000" stop="20260114204500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;SUÇLU&quot;</title></programme>
+<programme start="20260114204500 +0000" stop="20260114234500 +0000" channel="TV4.tr@SD"><title lang="tr">ATAMAN İLE DEVR-İ ALEM</title></programme>
 <programme start="20260112211500 +0000" stop="20260112223000 +0000" channel="TV8.tr@SD"><title lang="tr">Survivor Ekstra</title><desc lang="tr">Dünyanın en zor ve heyecanlı yarışması ile ilgili tüm merak ettikleriniz “Survivor Ekstra” ile TV8&apos;de.</desc><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
 <programme start="20260112223000 +0000" stop="20260113003000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title><desc lang="tr">Efsane yarışma &quot;Zuhal Topal&apos;la Yemekteyiz&quot; hafta içi her gün 16.00&apos;da TV8 ekranlarında sizlerle!</desc><category lang="tr">Eglence</category><category lang="tr">Yarisma</category></programme>
 <programme start="20260113003000 +0000" stop="20260113030000 +0000" channel="TV8.tr@SD"><title lang="tr">Zahide Yetiş&apos;le Sence?</title><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
