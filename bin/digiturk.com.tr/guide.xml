@@ -162,8 +162,8 @@
 <programme start="20260112210000 +0000" stop="20260112224500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta Manisa FK - E.Ümraniyespor Maçı Bant -</title></programme>
 <programme start="20260112230000 +0000" stop="20260113004500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta İ.A.Vanspor FK - Boluspor Maçı Bant -</title></programme>
 <programme start="20260113010000 +0000" stop="20260113024500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta Amed S.F. - A.Çorum FK Maçı Bant -</title></programme>
-<programme start="20260113030000 +0000" stop="20260113044500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta Serikspor - İstanbulspor Maçı Bant -</title></programme>
-<programme start="20260113050000 +0000" stop="20260113064500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta AdanaDemirspor - E.Erokspor Maçı Bant -</title></programme>
+<programme start="20260113030000 +0000" stop="20260113050000 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta Serikspor - İstanbulspor Maçı Bant -</title></programme>
+<programme start="20260113050000 +0000" stop="20260113070000 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta AdanaDemirspor - E.Erokspor Maçı Bant -</title></programme>
 <programme start="20260113070000 +0000" stop="20260113084500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta Sakaryaspor - Bandırmaspor Maçı Bant -</title></programme>
 <programme start="20260113090000 +0000" stop="20260113104500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta E.G.İ.A.Keçiörengücü - A.Hatayspor Maçı Bant -</title></programme>
 <programme start="20260113110000 +0000" stop="20260113124500 +0000" channel="310"><title lang="tr">Trendyol 1. Lig Season 2025/2026 20. Hafta S.G.Sarıyerspor - A.H.Iğdır FK Maçı Bant -</title></programme>
@@ -2124,10 +2124,10 @@
 <programme start="20260114000000 +0000" stop="20260114004200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Law &amp; Order: SVU S27 Ep 6</title></programme>
 <programme start="20260114004200 +0000" stop="20260114010000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260114010000 +0000" stop="20260114012200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 16</title></programme>
-<programme start="20260114012200 +0000" stop="20260114013100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260114013100 +0000" stop="20260114015200 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 17</title></programme>
-<programme start="20260114015200 +0000" stop="20260114020100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
-<programme start="20260114020100 +0000" stop="20260114024300 +0000" channel="beINSeries2.qa@SD"><title lang="tr">THE GOOD DOCTOR, THE S3</title></programme>
+<programme start="20260114012200 +0000" stop="20260114013000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260114013000 +0000" stop="20260114015100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Ghosts - S4 EP 17</title></programme>
+<programme start="20260114015100 +0000" stop="20260114020000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
+<programme start="20260114020000 +0000" stop="20260114024300 +0000" channel="beINSeries2.qa@SD"><title lang="tr">THE GOOD DOCTOR, THE S3</title></programme>
 <programme start="20260114024100 +0000" stop="20260114024900 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
 <programme start="20260114030000 +0000" stop="20260114034100 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Watson S2 Ep 4</title></programme>
 <programme start="20260114034100 +0000" stop="20260114035000 +0000" channel="beINSeries2.qa@SD"><title lang="tr">Az sonra...</title></programme>
