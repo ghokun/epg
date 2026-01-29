@@ -80,7 +80,7 @@
 <channel id="TRTBelgesel.tr@SD"><display-name>TRT Belgesel</display-name><icon src="https://i.postimg.cc/Qdg6rTPR/trtbelgesel.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NationalGeographicWild.tr@SD"><display-name>National Geographic WILD</display-name><icon src="https://i.postimg.cc/cL2mQJfD/nationalgeographicwild.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NationalGeographic.tr@SD"><display-name>National Geographic</display-name><icon src="https://i.postimg.cc/FsPGHpzX/nationalgeographic.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Teve2.tr@SD"><display-name>teve2</display-name><icon src="https://i.imgur.com/rsoSLih.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Teve2.tr@SD"><display-name>teve2</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="NOWTV.tr@SD"><display-name>NOW</display-name><icon src="https://i.imgur.com/5EYjWK7.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DisneyJr.tr@SD"><display-name>Disney Junior</display-name><icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema1002.tr@SD"><display-name>Sinema TV 1002</display-name><icon src="https://i.imgur.com/BEFyizf.png"/><url>https://dsmart.com.tr</url></channel>
