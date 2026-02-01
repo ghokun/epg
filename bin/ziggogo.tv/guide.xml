@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260201">
 <channel id="NPO1.nl@SD"><display-name>NPO 1</display-name><icon src="https://i.imgur.com/HEtJEBa.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NPO2.nl@SD"><display-name>NPO 2</display-name><icon src="https://i.imgur.com/wmqaoXS.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NPO3.nl@SD"><display-name>NPO 3</display-name><icon src="https://i.imgur.com/lKcFUqi.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NL_900019_000000"><display-name>Ziggo TV</display-name><url>https://ziggogo.tv</url></channel>
 <channel id="ViaplayTV.nl@HD"><display-name>Viaplay TV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-tv-nl.png?raw=true"/><url>https://ziggogo.tv</url></channel>
 <channel id="ESPN.nl@HD"><display-name>ESPN</display-name><icon src="https://i.postimg.cc/tR5dZgSH/espn.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="Colors.in@SD"><display-name>Colors TV</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png"/><url>https://ziggogo.tv</url></channel>
@@ -151,7 +150,8 @@
 <channel id="SBS6.nl@SD"><display-name>SBS6</display-name><icon src="https://i.imgur.com/pCfKkqB.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="RTL5.nl@SD"><display-name>RTL 5</display-name><icon src="https://i.postimg.cc/7P2k4m45/rtl5.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="RTL4.nl@SD"><display-name>RTL 4</display-name><icon src="https://i.imgur.com/WPOcwO9.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NL_900019_000000"><display-name>Ziggo TV</display-name><url>https://ziggogo.tv</url></channel>
+<channel id="NPO3.nl@SD"><display-name>NPO 3</display-name><icon src="https://i.imgur.com/lKcFUqi.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NPO2.nl@SD"><display-name>NPO 2</display-name><icon src="https://i.imgur.com/wmqaoXS.png"/><url>https://ziggogo.tv</url></channel>
 <programme start="20260131223500 +0000" stop="20260201001500 +0000" channel="2MMonde.ma@SD"><title lang="en">Al Najm Al Sha&apos;bi</title><desc lang="en">Moroccan singers compete by performing traditional folk songs before a panel of prominent judges in order to move up in rounds and win the title.</desc><category lang="en">Reality</category><country lang="en">MA</country><episode-num system="xmltv_ns">20899999.449511862.0/1</episode-num><episode-num system="onscreen">S20900000E449511863</episode-num></programme>
 <programme start="20260201001500 +0000" stop="20260201013000 +0000" channel="2MMonde.ma@SD"><title lang="en">Rachid show</title><desc lang="en">Rachid Al Alali talks to celebrities to talk about their professional and private lives. They will talk about the rumours they have heard about themselves, their achievements and upcoming events.</desc><credits><director>Mostafa Al Omrani</director><actor>Rachid Allali</actor></credits><category lang="en">Samenleving</category><category lang="en">Komedie</category><episode-num system="xmltv_ns">78089999.449511863.0/1</episode-num><episode-num system="onscreen">S78090000E449511864</episode-num></programme>
 <programme start="20260201013000 +0000" stop="20260201025000 +0000" channel="2MMonde.ma@SD"><title lang="en">Kholkhal Wa Ghorbal</title><desc lang="en">A married man leaves his family to make his dreams come true. However, the family encounter various obstacles and struggles with his absence.</desc><category lang="en">Drama</category><country lang="en">MA</country></programme>
