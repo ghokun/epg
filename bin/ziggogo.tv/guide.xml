@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260202">
 <channel id="NPO1.nl@SD"><display-name>NPO 1</display-name><icon src="https://i.imgur.com/HEtJEBa.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NL_900019_000000"><display-name>Ziggo TV</display-name><url>https://ziggogo.tv</url></channel>
-<channel id="ViaplayTV.nl@HD"><display-name>Viaplay TV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-tv-nl.png?raw=true"/><url>https://ziggogo.tv</url></channel>
-<channel id="ESPN.nl@HD"><display-name>ESPN</display-name><icon src="https://i.postimg.cc/tR5dZgSH/espn.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="Colors.in@SD"><display-name>Colors TV</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="SonyMax.uk@SD"><display-name>Sony Max</display-name><icon src="https://i.imgur.com/LBICKI5.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NPO2.nl@SD"><display-name>NPO 2</display-name><icon src="https://i.imgur.com/wmqaoXS.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTL4.nl@SD"><display-name>RTL 4</display-name><icon src="https://i.imgur.com/WPOcwO9.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTL7.nl@SD"><display-name>RTL 7</display-name><icon src="https://i.imgur.com/k3NwiUB.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NPO3.nl@SD"><display-name>NPO 3</display-name><icon src="https://i.imgur.com/lKcFUqi.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="SBS6.nl@SD"><display-name>SBS6</display-name><icon src="https://i.imgur.com/pCfKkqB.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTL5.nl@SD"><display-name>RTL 5</display-name><icon src="https://i.postimg.cc/7P2k4m45/rtl5.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ZiggoSportExtra.nl@HD"><display-name>Ziggo Sport Extra</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg"/><url>https://ziggogo.tv</url></channel>
 <channel id="ViaplayTVPlus.nl@HD"><display-name>Viaplay TV+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg"/><url>https://ziggogo.tv</url></channel>
+<channel id="ViaplayTV.nl@HD"><display-name>Viaplay TV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-tv-nl.png?raw=true"/><url>https://ziggogo.tv</url></channel>
 <channel id="Top40TV.nl@HD"><display-name>Top 40 TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Top_40_2023_logo.svg"/><url>https://ziggogo.tv</url></channel>
 <channel id="MoonbugKids.uk@SD"><display-name>Moonbug</display-name><icon src="https://i.imgur.com/vZHtxQb.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="DorcelTV.nl@SD"><display-name>Dorcel TV</display-name><icon src="https://i.imgur.com/RkzyjEd.png"/><url>https://ziggogo.tv</url></channel>
@@ -73,6 +75,7 @@
 <channel id="ESPN4.nl@HD"><display-name>ESPN 4</display-name><icon src="https://i.postimg.cc/3xy2cFKK/espn4.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ESPN3.nl@HD"><display-name>ESPN 3</display-name><icon src="https://i.postimg.cc/157pBj1C/espn3.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ESPN2.nl@HD"><display-name>ESPN 2</display-name><icon src="https://i.postimg.cc/Wb1GMPCq/espn2.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="ESPN.nl@HD"><display-name>ESPN</display-name><icon src="https://i.postimg.cc/tR5dZgSH/espn.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="Eurosport2.fr@Netherlands"><display-name>Eurosport 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ZiggoSport6.nl@HD"><display-name>Ziggo Sport 6</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg"/><url>https://ziggogo.tv</url></channel>
 <channel id="ZiggoSport5.nl@HD"><display-name>Ziggo Sport 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg"/><url>https://ziggogo.tv</url></channel>
@@ -146,12 +149,9 @@
 <channel id="RTL8.nl@SD"><display-name>RTL 8</display-name><icon src="https://i.postimg.cc/MK0JMHvx/rtl8.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="NET5.nl@SD"><display-name>NET5</display-name><icon src="https://i.postimg.cc/Fsqc6B1z/net5.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="VeronicaDisneyJr.nl@SD"><display-name>Veronica / Disney Jr.</display-name><icon src="https://i.imgur.com/5L5TcYz.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="RTL7.nl@SD"><display-name>RTL 7</display-name><icon src="https://i.imgur.com/k3NwiUB.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="SBS6.nl@SD"><display-name>SBS6</display-name><icon src="https://i.imgur.com/pCfKkqB.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="RTL5.nl@SD"><display-name>RTL 5</display-name><icon src="https://i.postimg.cc/7P2k4m45/rtl5.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="RTL4.nl@SD"><display-name>RTL 4</display-name><icon src="https://i.imgur.com/WPOcwO9.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NPO3.nl@SD"><display-name>NPO 3</display-name><icon src="https://i.imgur.com/lKcFUqi.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NPO2.nl@SD"><display-name>NPO 2</display-name><icon src="https://i.imgur.com/wmqaoXS.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NL_900019_000000"><display-name>Ziggo TV</display-name><url>https://ziggogo.tv</url></channel>
+<channel id="Colors.in@SD"><display-name>Colors TV</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="SonyMax.uk@SD"><display-name>Sony Max</display-name><icon src="https://i.imgur.com/LBICKI5.png"/><url>https://ziggogo.tv</url></channel>
 <programme start="20260201233500 +0000" stop="20260202005500 +0000" channel="2MMonde.ma@SD"><title lang="en">Al Okhwat Al Thalathah</title><desc lang="en">Three sisters begin facing obstacles and challenges as they grow older and deal with life and realise that their childhood dreams may not come.</desc><category lang="en">Dramaseries</category><category lang="en">Documentaire</category><episode-num system="xmltv_ns">62309999.451643666.0/1</episode-num><episode-num system="onscreen">S62310000E451643667</episode-num></programme>
 <programme start="20260202005500 +0000" stop="20260202022500 +0000" channel="2MMonde.ma@SD"><title lang="en">Al Montaqem</title><desc lang="en">Omar Al Zeini, a young man, wants to take revenge on his best friend Assem Harun for betraying him and conspiring against him.</desc><credits><director>Fadel El Garhy</director><actor>Sameh El-Sereety</actor><actor>Amr Youssef</actor><actor>Ahmed El-Saadany</actor><actor>Horeya Farghaly</actor><actor>Ehab Fahmi</actor><actor>Ammar Shalaq</actor><actor>Enas Kamel</actor><actor>Ashraf Zaki</actor><actor>Hanan Suliman</actor><producer>Hosam Shaaban</producer></credits><category lang="en">Dramaseries</category><episode-num system="xmltv_ns">66919999.451643667.0/1</episode-num><episode-num system="onscreen">S66920000E451643668</episode-num></programme>
 <programme start="20260202022500 +0000" stop="20260202032000 +0000" channel="2MMonde.ma@SD"><title lang="en">Nas Al Kheer</title><desc lang="en">A group of volunteers travel to different parts of Morocco to renovate neglected places. These volunteers restore and bring love to these sites in an attempt to pay back to society.</desc><credits><actor>Nora Moden</actor></credits><category lang="en">Documentaire</category><country lang="en">MA</country><episode-num system="xmltv_ns">90939999.451643668.0/1</episode-num><episode-num system="onscreen">S90940000E451643669</episode-num></programme>
