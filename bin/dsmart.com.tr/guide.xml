@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260208">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://i.postimg.cc/xTwwXgp7/ekoturk.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://i.postimg.cc/rwZbxkJf/lovenature.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
@@ -95,10 +94,11 @@
 <channel id="Sinema2.tr@SD"><display-name>Sinema TV 2</display-name><icon src="https://i.imgur.com/mUjeqJM.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://i.postimg.cc/rwZbxkJf/lovenature.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://i.postimg.cc/xTwwXgp7/ekoturk.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20260207220000 +0000" stop="20260207233000 +0000" channel="24TV.tr@SD"><title lang="tr">BU ÜLKE</title><desc lang="tr">Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla &quot;Bu Ülke&quot;de analiz ediyor.</desc></programme>
 <programme start="20260207233000 +0000" stop="20260208002500 +0000" channel="24TV.tr@SD"><title lang="tr">DOĞRUSU NE?</title><desc lang="tr">Türkiye ve dünya gündemindeki en sıcak başlıklar “Doğrusu Ne?” programında ele alınıyor.</desc></programme>
 <programme start="20260208002500 +0000" stop="20260208012000 +0000" channel="24TV.tr@SD"><title lang="tr">OKUR - YAZAR</title></programme>
@@ -3957,19 +3957,6 @@
 <programme start="20260209164500 +0000" stop="20260209183000 +0000" channel="SinemaTV.tr@SD"><title lang="tr">Big Sky River</title><desc lang="tr">Tara, kötü bir boşanmanın ardından kendini en mutlu hissettiği yer olan Parable, Montana&apos;ya geri döner ve ona beklenmedik bir sürpriz yapan yakışıklı komşusuyla tanışır.</desc><category lang="tr">Sinema</category><category lang="tr">Genel</category></programme>
 <programme start="20260209183000 +0000" stop="20260209201500 +0000" channel="SinemaTV.tr@SD"><title lang="tr">Başkalarının Çocukları</title><desc lang="tr">40 yaşındaki Rachel’ın çocuğu yoktur. Çalıştığı lisedeki öğrencileri, arkadaşları, eski sevgilisi ve gitar dersleriyle dolu hayatından memnundur. Ali’ye aşık olduğunda, onun dört yaşındaki kızı Leila’ya da bağlanacaktır. Leila’yı yatağına yatırır, onunla ilgilenir, onu tıpkı kendi çocuğu gibi sevmeye başlar.</desc><category lang="tr">Sinema</category><category lang="tr">Genel</category></programme>
 <programme start="20260209201500 +0000" stop="20260209220000 +0000" channel="SinemaTV.tr@SD"><title lang="tr">Sizi Dinliyor</title><desc lang="tr">Curtis ve ailesi, devrim niteliğinde bir ev cihazını test etmek üzere seçilir: AIA adında bir dijital aile asistanı. Akıllı evi bir üst seviyeye taşıyan bu cihaz, evlerine kurulduktan sonra tüm sensörleri ve kameralarıyla birlikte, AIA her şeyi yapabiliyor gibi görünmektedir. Ailenin davranışlarını öğrenir ve ihtiyaçlarını tahmin etmeye başlar.</desc><category lang="tr">Sinema</category><category lang="tr">Bilim-kurgu</category></programme>
-<programme start="20260207213000 +0000" stop="20260207214500 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Yıldızları</title><desc lang="tr">Hayatın her alanında insanlara dokunan işler yapan tanıdık simalar, Türkiye’nin Yıldızları programında hatırlanıyor.</desc></programme>
-<programme start="20260207214500 +0000" stop="20260208004500 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Filtresiz 30 Dakika</title></programme>
-<programme start="20260208004500 +0000" stop="20260208030000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title><desc lang="tr">Ülke gündemine dair haberler ve son dakika gelişmeleri ekrana getiriliyor.</desc></programme>
-<programme start="20260208030000 +0000" stop="20260208050000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title><desc lang="tr">Gündemin öne çıkan haberleri ve olayları Sözcü Televizyonu&apos;nda ekrana getiriliyor. Haberlerde öne çıkan başlıklar, gözden kaçan detaylar analiz ediliyor.</desc></programme>
-<programme start="20260208050000 +0000" stop="20260208070000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Sabah Kahvesi</title><desc lang="tr">Sabahın ilk saatlerinde dünün ve bugünün gündemine dair haberler ekrana geliyor. Gazete manşetleri, donanımlı konuklar ve canlı bağlantılar ile gündemin nabzı tutuluyor.</desc></programme>
-<programme start="20260208070000 +0000" stop="20260208100000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">İyi ki Hafta Sonu</title><desc lang="tr">Haberler, gözden kaçanlar, spordan sanata tüm gelişmeler Simge Fıstıkoğlu&apos;nun sunumu ile İYİ Kİ HAFTA SONU&apos;nda ekrana geliyor.</desc></programme>
-<programme start="20260208100000 +0000" stop="20260208130000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title><desc lang="tr">Ülke gündemine dair haberler ve son dakika gelişmeleri ekrana getiriliyor.</desc></programme>
-<programme start="20260208130000 +0000" stop="20260208143000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ayşegül Çoruhlu ile Longevity</title></programme>
-<programme start="20260208143000 +0000" stop="20260208150000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Gökyüzü Sohbetleri</title><desc lang="tr">Simge Fıstıkoğlu moderatörlüğünde, astrolojiye dair merak edilen sorular uzman konuklar tarafından cevaplanıyor.</desc></programme>
-<programme start="20260208150000 +0000" stop="20260208170000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title><desc lang="tr">Gündemin öne çıkan haberleri ve olayları Sözcü Televizyonu&apos;nda ekrana getiriliyor. Haberlerde öne çıkan başlıklar, gözden kaçan detaylar analiz ediliyor.</desc></programme>
-<programme start="20260208170000 +0000" stop="20260208200000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Filtresiz 30 Dakika</title></programme>
-<programme start="20260208200000 +0000" stop="20260208204500 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ayşegül Çoruhlu ile Longevity</title></programme>
-<programme start="20260208204500 +0000" stop="20260208234500 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Bülteni</title><desc lang="tr">Ülke gündemine dair haberler ve son dakika gelişmeleri ekrana getiriliyor.</desc></programme>
 <programme start="20260207210000 +0000" stop="20260207230000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Bahia - Fluminense &quot;Tekrar&quot;</title></programme>
 <programme start="20260207230000 +0000" stop="20260208010000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Real Madrid-Zaragoza &quot;Tekrar&quot;</title></programme>
 <programme start="20260208010000 +0000" stop="20260208030000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Palmeiras - Vitoria &quot;Tekrar&quot;</title></programme>
@@ -4098,30 +4085,6 @@
 <programme start="20260208150000 +0000" stop="20260208170000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
 <programme start="20260208170000 +0000" stop="20260208203000 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
 <programme start="20260208203000 +0000" stop="20260208233000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
-<programme start="20260207223000 +0000" stop="20260208000000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;BIKTIM HERGÜN ÖLMEKTEN&quot;</title></programme>
-<programme start="20260208000000 +0000" stop="20260208004500 +0000" channel="TV4.tr@SD"><title lang="tr">TARİHİ ROTALAR (TEKRAR)</title><desc lang="tr">Ömer Kokal Anadolu Coğrafyasını tarihle harmanlıyor. Rivayetleri, söylenceleri ve efsaneleri Tarihi Rotalar’da anlatıyor. Tarihi Rotalar her Cumartesi tv4’de.</desc></programme>
-<programme start="20260208004500 +0000" stop="20260208011500 +0000" channel="TV4.tr@SD"><title lang="tr">BENİM HİKAYEM (TEKRAR)</title></programme>
-<programme start="20260208011500 +0000" stop="20260208014500 +0000" channel="TV4.tr@SD"><title lang="tr">KOLAY MI SANDIN</title></programme>
-<programme start="20260208014500 +0000" stop="20260208021500 +0000" channel="TV4.tr@SD"><title lang="tr">ŞEFLERİN MUTFAĞI</title></programme>
-<programme start="20260208021500 +0000" stop="20260208023000 +0000" channel="TV4.tr@SD"><title lang="tr">GÖKYÜZÜNDEN REHBER</title></programme>
-<programme start="20260208023000 +0000" stop="20260208040000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;UNUTMA BENİ&quot;</title></programme>
-<programme start="20260208040000 +0000" stop="20260208053000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;DEVLET KUŞU&quot;</title></programme>
-<programme start="20260208053000 +0000" stop="20260208063000 +0000" channel="TV4.tr@SD"><title lang="tr">SÜPER KUMBARA</title></programme>
-<programme start="20260208063000 +0000" stop="20260208064500 +0000" channel="TV4.tr@SD"><title lang="tr">ANNEM MUTFAKTA</title></programme>
-<programme start="20260208064500 +0000" stop="20260208083000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;YAD ELLER&quot;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri tv4 ekranlarında seyircisiyle buluşuyor.</desc></programme>
-<programme start="20260208083000 +0000" stop="20260208093000 +0000" channel="TV4.tr@SD"><title lang="tr">GEZMEK OLSUN (TEKRAR)</title></programme>
-<programme start="20260208093000 +0000" stop="20260208100000 +0000" channel="TV4.tr@SD"><title lang="tr">TARİHİ ROTALAR (TEKRAR)</title><desc lang="tr">Ömer Kokal Anadolu Coğrafyasını tarihle harmanlıyor. Rivayetleri, söylenceleri ve efsaneleri Tarihi Rotalar’da anlatıyor. Tarihi Rotalar her Cumartesi tv4’de.</desc></programme>
-<programme start="20260208100000 +0000" stop="20260208103000 +0000" channel="TV4.tr@SD"><title lang="tr">BENİM HİKAYEM (TEKRAR)</title></programme>
-<programme start="20260208103000 +0000" stop="20260208110000 +0000" channel="TV4.tr@SD"><title lang="tr">KOLAY MI SANDIN (TEKRAR)</title></programme>
-<programme start="20260208110000 +0000" stop="20260208111500 +0000" channel="TV4.tr@SD"><title lang="tr">MUTLU KAHVALTILAR</title></programme>
-<programme start="20260208111500 +0000" stop="20260208120000 +0000" channel="TV4.tr@SD"><title lang="tr">ŞEFLERİN MUTFAĞI (TEKRAR)</title></programme>
-<programme start="20260208120000 +0000" stop="20260208130000 +0000" channel="TV4.tr@SD"><title lang="tr">SÜPER KUMBARA (TEKRAR)</title></programme>
-<programme start="20260208130000 +0000" stop="20260208131500 +0000" channel="TV4.tr@SD"><title lang="tr">ANNEM MUTFAKTA (TEKRAR)</title></programme>
-<programme start="20260208131500 +0000" stop="20260208150000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;GERÇEK&quot;</title></programme>
-<programme start="20260208150000 +0000" stop="20260208170000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;ÜÇ ARKADAŞ&quot;</title></programme>
-<programme start="20260208170000 +0000" stop="20260208190000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;YAD ELLER&quot;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri tv4 ekranlarında seyircisiyle buluşuyor.</desc></programme>
-<programme start="20260208190000 +0000" stop="20260208204500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;GERÇEK&quot;</title></programme>
-<programme start="20260208204500 +0000" stop="20260208234500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;ÜÇ ARKADAŞ&quot;</title></programme>
 <programme start="20260208223000 +0000" stop="20260209000000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;YAD ELLER&quot;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri tv4 ekranlarında seyircisiyle buluşuyor.</desc></programme>
 <programme start="20260209000000 +0000" stop="20260209004500 +0000" channel="TV4.tr@SD"><title lang="tr">TARİHİ ROTALAR (TEKRAR)</title><desc lang="tr">Ömer Kokal Anadolu Coğrafyasını tarihle harmanlıyor. Rivayetleri, söylenceleri ve efsaneleri Tarihi Rotalar’da anlatıyor. Tarihi Rotalar her Cumartesi tv4’de.</desc></programme>
 <programme start="20260209004500 +0000" stop="20260209011500 +0000" channel="TV4.tr@SD"><title lang="tr">BENİM HİKAYEM (TEKRAR)</title></programme>
