@@ -3528,18 +3528,9 @@
 <programme start="20260217220000 +0000" stop="20260217231500 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dakika 90</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260217231500 +0000" stop="20260218003000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260218003000 +0000" stop="20260218013000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Kürsü</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218013000 +0000" stop="20260218014500 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Belgesel</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260218013000 +0000" stop="20260218014500 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Belgesel</title></programme>
 <programme start="20260218014500 +0000" stop="20260218034500 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Basketbol Maçı</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260218034500 +0000" stop="20260218050000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dakika 90</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260218050000 +0000" stop="20260218070000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Başlama Vuruşu</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218070000 +0000" stop="20260218080000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Otospor</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218080000 +0000" stop="20260218093000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HTSpor Gündem</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218093000 +0000" stop="20260218103000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Kürsü</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218103000 +0000" stop="20260218120000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Bakış Açısı</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218120000 +0000" stop="20260218150000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Satır Arası</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218150000 +0000" stop="20260218170000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218170000 +0000" stop="20260218190000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Futbol X</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260218190000 +0000" stop="20260218210000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260218034500 +0000" stop="20260218064500 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dakika 90</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260216210000 +0000" stop="20260216220000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Akıl Almaz Hikâyeler</title><desc lang="tr">Tuhaf masallar, sıra dışı dümenler ve karanlık planların derinden incelenmesi hayal gücünün sınırlarını zorlayan tüyler ürpertici gerçekleri ortaya çıkarıyor.</desc></programme>
 <programme start="20260216220000 +0000" stop="20260216230000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Bir Soygunun İçinde</title><desc lang="tr">Cüretkâr bir vurgunu askerî disiplinle uygulayan İsveçli bir hırsız çetesi polisi kandırarak bir milyonluk vurgunla ortadan kaybolur.</desc></programme>
 <programme start="20260216230000 +0000" stop="20260217000000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Bir Soygunun İçinde</title><desc lang="tr">Arjantinli bir sanatçı her detayı özenle düşünülmüş bir banka soygunu planlar ve polisi kandıracak bir blöf yapar.</desc></programme>
@@ -4491,7 +4482,7 @@
 <programme start="20260217111500 +0000" stop="20260217141500 +0000" channel="StarTV.tr@SD"><title lang="tr">Nur Viral İle Sen İstersen</title></programme>
 <programme start="20260217141500 +0000" stop="20260217160000 +0000" channel="StarTV.tr@SD"><title lang="tr">Erkenci Kuş</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260217160000 +0000" stop="20260217223000 +0000" channel="StarTV.tr@SD"><title lang="tr">Star Haber</title></programme>
-<programme start="20260217223000 +0000" stop="20260218003000 +0000" channel="StarTV.tr@SD"><title lang="tr">Sefirin Kızı</title><desc lang="tr">Mavi, hem karnındaki bebeğini hem de Melek’i kurtarmak için peşindeki psikopattan kurtulmaya çalışırken başlayan doğumla birlikte her şey kontrolden çıkar.</desc></programme>
+<programme start="20260217220000 +0000" stop="20260218003000 +0000" channel="StarTV.tr@SD"><title lang="tr">Sefirin Kızı</title><desc lang="tr">Mavi, hem karnındaki bebeğini hem de Melek’i kurtarmak için peşindeki psikopattan kurtulmaya çalışırken başlayan doğumla birlikte her şey kontrolden çıkar.</desc></programme>
 <programme start="20260218003000 +0000" stop="20260218023000 +0000" channel="StarTV.tr@SD"><title lang="tr">Ateşböceği</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260218023000 +0000" stop="20260218040000 +0000" channel="StarTV.tr@SD"><title lang="tr">Erkenci Kuş</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260218040000 +0000" stop="20260218063000 +0000" channel="StarTV.tr@SD"><title lang="tr">Sefirin Kızı</title><desc lang="tr">Mavi, hem karnındaki bebeğini hem de Melek’i kurtarmak için peşindeki psikopattan kurtulmaya çalışırken başlayan doğumla birlikte her şey kontrolden çıkar.</desc></programme>
@@ -4940,28 +4931,6 @@
 <programme start="20260217184500 +0000" stop="20260217193000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Diriliş &quot;Ertuğrul&quot; Bölüm 442</title></programme>
 <programme start="20260217193000 +0000" stop="20260217201500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Böyle Bitmesin Bölüm 105</title></programme>
 <programme start="20260217201500 +0000" stop="20260217231500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Gönlümdeki Köln Bölüm 11</title></programme>
-<programme start="20260216210000 +0000" stop="20260216214500 +0000" channel="TV4.tr@SD"><title lang="tr">ŞEFLERİN MUTFAĞI</title></programme>
-<programme start="20260216214500 +0000" stop="20260216234500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;DERT BENDE&quot;</title></programme>
-<programme start="20260216234500 +0000" stop="20260217014500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;VAZGEÇ GÖNLÜM&quot;</title></programme>
-<programme start="20260217014500 +0000" stop="20260217033000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI HIÇKIRIK&quot;</title></programme>
-<programme start="20260217033000 +0000" stop="20260217034500 +0000" channel="TV4.tr@SD"><title lang="tr">MUTLU KAHVALTILAR</title></programme>
-<programme start="20260217034500 +0000" stop="20260217040000 +0000" channel="TV4.tr@SD"><title lang="tr">KOLAY MI SANDIN</title></programme>
-<programme start="20260217040000 +0000" stop="20260217041500 +0000" channel="TV4.tr@SD"><title lang="tr">ATAMAN İLE DEVR-İ ALEM</title></programme>
-<programme start="20260217041500 +0000" stop="20260217060000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;TAŞRALI KIZ&quot;</title></programme>
-<programme start="20260217060000 +0000" stop="20260217064500 +0000" channel="TV4.tr@SD"><title lang="tr">TARİHİ ROTALAR</title><desc lang="tr">Ömer Kokal Anadolu Coğrafyasını tarihle harmanlıyor. Rivayetleri, söylenceleri ve efsaneleri Tarihi Rotalar’da anlatıyor. Tarihi Rotalar her Cumartesi tv4’de.</desc></programme>
-<programme start="20260217064500 +0000" stop="20260217074500 +0000" channel="TV4.tr@SD"><title lang="tr">TUĞÇE&apos;NİN MUTFAĞI</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260217074500 +0000" stop="20260217083000 +0000" channel="TV4.tr@SD"><title lang="tr">METREKARE</title><desc lang="tr">Dekorasyon ve mimari meraklılarını buluşturup, ev dekorasyonundan, duvar renk seçimine, eşya yerleşiminden, huzurlu bir ev ortamı için küçük tüyolara kadar her şeyi ekranlara taşıyor.</desc></programme>
-<programme start="20260217083000 +0000" stop="20260217084500 +0000" channel="TV4.tr@SD"><title lang="tr">MUTLU KAHVALTILAR</title></programme>
-<programme start="20260217084500 +0000" stop="20260217090000 +0000" channel="TV4.tr@SD"><title lang="tr">KOLAY MI SANDIN</title></programme>
-<programme start="20260217090000 +0000" stop="20260217110000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;DERT BENDE&quot;</title></programme>
-<programme start="20260217110000 +0000" stop="20260217120000 +0000" channel="TV4.tr@SD"><title lang="tr">SÜPER KUMBARA</title></programme>
-<programme start="20260217120000 +0000" stop="20260217121500 +0000" channel="TV4.tr@SD"><title lang="tr">TATLI TUZLU</title><desc lang="tr">Herkesin evinde rahatlıkla yapabileceği, birbirinden leziz &quot;Tatlı Tuzlu&quot; tarifleri tv4&apos;te.</desc></programme>
-<programme start="20260217121500 +0000" stop="20260217131500 +0000" channel="TV4.tr@SD"><title lang="tr">GEZMEK OLSUN</title></programme>
-<programme start="20260217131500 +0000" stop="20260217150000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;DÜNYANIN EN GÜZEL KADINI&quot;</title></programme>
-<programme start="20260217150000 +0000" stop="20260217170000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;TAŞRALI KIZ&quot;</title></programme>
-<programme start="20260217170000 +0000" stop="20260217190000 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;YERYÜZÜNDE BİR MELEK&quot;</title></programme>
-<programme start="20260217190000 +0000" stop="20260217204500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;DÜNYANIN EN GÜZEL KADINI&quot;</title></programme>
-<programme start="20260217204500 +0000" stop="20260217234500 +0000" channel="TV4.tr@SD"><title lang="tr">ATAMAN İLE DEVR-İ ALEM</title></programme>
 <programme start="20260217210000 +0000" stop="20260217214500 +0000" channel="TV4.tr@SD"><title lang="tr">ŞEFLERİN MUTFAĞI</title></programme>
 <programme start="20260217214500 +0000" stop="20260217234500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;YERYÜZÜNDE BİR MELEK&quot;</title></programme>
 <programme start="20260217234500 +0000" stop="20260218014500 +0000" channel="TV4.tr@SD"><title lang="tr">TÜRK SİNEMASI &quot;TAŞRALI KIZ&quot;</title></programme>
@@ -5029,16 +4998,6 @@
 <programme start="20260218134500 +0000" stop="20260218153000 +0000" channel="TV85.tr@SD"><title lang="tr">Cevap Ver Türkiye</title><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
 <programme start="20260218153000 +0000" stop="20260218170000 +0000" channel="TV85.tr@SD"><title lang="tr">Bir Demet Tiyatro</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260218170000 +0000" stop="20260218200000 +0000" channel="TV85.tr@SD"><title lang="tr">Jet Sosyete</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260216223000 +0000" stop="20260217003000 +0000" channel="TV100.tr@SD"><title lang="tr">Eşit Ağırlık</title><desc lang="tr">Erdoğan Aktaş Moderatörlüğünde Eşit Ağırlık Tv100&apos;de sizlerle...</desc></programme>
-<programme start="20260217003000 +0000" stop="20260217021500 +0000" channel="TV100.tr@SD"><title lang="tr">Kale Arkası</title><desc lang="tr">Çarpıcı Yorumlar, Analizler, Futbol gündemini belirleyen Yorumlar ile Murat Kosova, Haluk Yürekli ve İbrahim Seten Kale Arkası ile Tv100&apos;de...</desc></programme>
-<programme start="20260217021500 +0000" stop="20260217030000 +0000" channel="TV100.tr@SD"><title lang="tr">Gün&apos;den Kalan</title><desc lang="tr">Dün Akşam Konuşulanlar…</desc></programme>
-<programme start="20260217030000 +0000" stop="20260217070000 +0000" channel="TV100.tr@SD"><title lang="tr">Mesut Yar ile Gün Uyanıyor</title><desc lang="tr">HAFTA İÇİ HER SABAH DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN OLAYLAR, SİYASİ, EKONOMİK, SOSYAL GELİŞMELER, CANLI BAĞLANTILAR VE GAZETELERDE YER ALAN BAŞLIKLAR...</desc></programme>
-<programme start="20260217070000 +0000" stop="20260217100000 +0000" channel="TV100.tr@SD"><title lang="tr">Günün Rotası</title><desc lang="tr">Günün ve Gündemin Etkili Olaylarını, Ekonomik Gelişmleri TV100 Ekranlarında Konuklarıyla Sizler için Yorumluyoruz…</desc></programme>
-<programme start="20260217100000 +0000" stop="20260217130000 +0000" channel="TV100.tr@SD"><title lang="tr">Haberde Gün Ortası</title><desc lang="tr">DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN SİYASİ, EKONOMİK, SOSYAL GELİŞMELERİ, CANLI BAĞLANTILAR VE SON DAKİKA HABERLERİ &quot;TV 100&quot; KALİTESİYLE EKRANLARINIZA TAŞIYORUZ...</desc></programme>
-<programme start="20260217130000 +0000" stop="20260217153000 +0000" channel="TV100.tr@SD"><title lang="tr">Başlıklar</title><desc lang="tr">Günün Öne Çıkan Başlıklarını Değerlendiriyoruz...</desc></programme>
-<programme start="20260217153000 +0000" stop="20260217173000 +0000" channel="TV100.tr@SD"><title lang="tr">Kübra Par ile Ana Haber</title><desc lang="tr">Türkiye&apos;den Ve Dünyadan Siyasi, Ekonomik, Sosyal Gelişmelerin Yer Aldığı Geniş Haber Bülteni...</desc></programme>
-<programme start="20260217173000 +0000" stop="20260217203000 +0000" channel="TV100.tr@SD"><title lang="tr">Başak Şengül ile Doğru Yorum</title><desc lang="tr">Başak Şengül Modaretörlüğünde Doğru Yorum, Alanında Uzman Konukların Yorumlarıyla Siyaset, Ekonomi, Hukuk, Dış Politika Konularını Masaya Yatırıyor...</desc></programme>
-<programme start="20260217203000 +0000" stop="20260217233000 +0000" channel="TV100.tr@SD"><title lang="tr">Buket Aydın Soruyor</title><desc lang="tr">Buket Aydın Soruyor, Ünlü Konukları Cevaplıyor... Her Salı Tv100&apos;de...</desc></programme>
 <programme start="20260217220000 +0000" stop="20260218010000 +0000" channel="TV100.tr@SD"><title lang="tr">Başak Şengül ile Doğru Yorum</title><desc lang="tr">Başak Şengül Modaretörlüğünde Doğru Yorum, Alanında Uzman Konukların Yorumlarıyla Siyaset, Ekonomi, Hukuk, Dış Politika Konularını Masaya Yatırıyor...</desc></programme>
 <programme start="20260218010000 +0000" stop="20260218021500 +0000" channel="TV100.tr@SD"><title lang="tr">Buket Aydın Soruyor</title><desc lang="tr">Buket Aydın Soruyor, Ünlü Konukları Cevaplıyor... Her Salı Tv100&apos;de...</desc></programme>
 <programme start="20260218021500 +0000" stop="20260218030000 +0000" channel="TV100.tr@SD"><title lang="tr">Gün&apos;den Kalan</title><desc lang="tr">Dün Akşam Konuşulanlar…</desc></programme>
