@@ -136,22 +136,6 @@
 <programme start="20260225150000 +0000" stop="20260225170000 +0000" channel="24TV.tr@SD"><title lang="tr">AKŞAM HABERLERİ</title><desc lang="tr">Günün ve gündemin yoğun başlıklarını en sıcak haberlerle ekrana geliyor.</desc></programme>
 <programme start="20260225170000 +0000" stop="20260225200000 +0000" channel="24TV.tr@SD"><title lang="tr">AÇIK GÖRÜŞ</title><desc lang="tr">Siyasetin tecrübeli isimleri düşünce ve analizlerini Açık Görüş&quot;te paylaşıyor. Gündemdeki sıcak gelişmeler tüm yönleriyle ve uzman yorumlarıyla ele alınıyor.</desc></programme>
 <programme start="20260225200000 +0000" stop="20260225230000 +0000" channel="24TV.tr@SD"><title lang="tr">MODERATÖR GECE</title><desc lang="tr">Moderatör Gece’de Türkiye’nin ve dünyanın önemli başlıkları arasında yarını arıyoruz.</desc></programme>
-<programme start="20260223230000 +0000" stop="20260224000000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Olimpiyat Oyunları</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224000000 +0000" stop="20260224003000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Kayakla Atlama</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224003000 +0000" stop="20260224013000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224013000 +0000" stop="20260224023000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224023000 +0000" stop="20260224033000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Kayakla Atlama</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224033000 +0000" stop="20260224053000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224053000 +0000" stop="20260224063000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Olimpiyat Oyunları</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224063000 +0000" stop="20260224073000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Artistik Buz Pateni</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224073000 +0000" stop="20260224090000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Biatlon</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224090000 +0000" stop="20260224100000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224100000 +0000" stop="20260224110000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224110000 +0000" stop="20260224130000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224130000 +0000" stop="20260224170000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224170000 +0000" stop="20260224180000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Artistik Buz Pateni</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224180000 +0000" stop="20260224190000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224190000 +0000" stop="20260224230000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260224230000 +0000" stop="20260225003000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Kayaklı Koşu</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260225003000 +0000" stop="20260225013000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Serbest Stil Kayak</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260225013000 +0000" stop="20260225023000 +0000" channel="58d29bb0eefad3db9c6062aa"><title lang="tr">Biatlon</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
@@ -843,25 +827,6 @@
 <programme start="20260224170000 +0000" stop="20260224180000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Spor Akşamı</title></programme>
 <programme start="20260224180000 +0000" stop="20260224200000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Gündem Futbol</title></programme>
 <programme start="20260224200000 +0000" stop="20260224230000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Futbol Anadolu</title></programme>
-<programme start="20260223220000 +0000" stop="20260223233000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Buz Hokeyi</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260223233000 +0000" stop="20260224003000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Biatlon</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224003000 +0000" stop="20260224013000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Artistik Buz Pateni</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224013000 +0000" stop="20260224033000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224033000 +0000" stop="20260224043000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224043000 +0000" stop="20260224053000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224053000 +0000" stop="20260224070000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Kayakla Atlama</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224070000 +0000" stop="20260224090000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Snooker</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224090000 +0000" stop="20260224100000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Olimpiyat Oyunları</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224100000 +0000" stop="20260224113000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Artistik Buz Pateni</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224113000 +0000" stop="20260224123000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Biatlon</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224123000 +0000" stop="20260224133000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224133000 +0000" stop="20260224143000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224143000 +0000" stop="20260224153000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Olimpiyat Oyunları</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224153000 +0000" stop="20260224170000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Artistik Buz Pateni</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224170000 +0000" stop="20260224180000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224180000 +0000" stop="20260224190000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224190000 +0000" stop="20260224200000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Binicilik</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
-<programme start="20260224200000 +0000" stop="20260224210000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Olimpiyat Oyunları</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260224210000 +0000" stop="20260224220000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Artistik Buz Pateni</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260224220000 +0000" stop="20260224230000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260224230000 +0000" stop="20260225000000 +0000" channel="58d29bb0eefad3db9c606281"><title lang="tr">Alp Disiplini</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
@@ -3524,20 +3489,6 @@
 <programme start="20260225140000 +0000" stop="20260225160000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
 <programme start="20260225160000 +0000" stop="20260225170000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
 <programme start="20260225170000 +0000" stop="20260225213000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Açık ve Net</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260223210000 +0000" stop="20260223220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Çevre Kontrolü</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260223220000 +0000" stop="20260224000000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Basketbol Maçı</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260224000000 +0000" stop="20260224020000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dakika 90</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260224020000 +0000" stop="20260224030000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Çevre Kontrolü</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260224030000 +0000" stop="20260224050000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dakika 90</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260224050000 +0000" stop="20260224070000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Başlama Vuruşu</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224070000 +0000" stop="20260224080000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Basketbol</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224080000 +0000" stop="20260224093000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HTSpor Gündem</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224093000 +0000" stop="20260224103000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Kürsü</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224103000 +0000" stop="20260224120000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Bakış Açısı</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224120000 +0000" stop="20260224150000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Satır Arası</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224150000 +0000" stop="20260224170000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224170000 +0000" stop="20260224190000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Futbol X</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260224190000 +0000" stop="20260224210000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260224210000 +0000" stop="20260224220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Haber Bülteni</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260224220000 +0000" stop="20260225000000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Futbol X</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260225000000 +0000" stop="20260225020000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Canlı</desc></programme>
@@ -4486,21 +4437,6 @@
 <programme start="20260225150000 +0000" stop="20260225160000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">İçinizden Biri</title><desc lang="tr">Ekrem Açıkel, hafta içi her akşam memleketin nabzını, duygusunu ve gerçeğini en yalın haliyle ortaya koyuyor.</desc></programme>
 <programme start="20260225160000 +0000" stop="20260225170000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Serdar Cebe ile Ana Haber</title><desc lang="tr">Gündemin öne çıkan haberleri ve olayları Sözcü Televizyonu&apos;nda ekrana getiriliyor. Serdar Cebe haberlerde öne çıkan başlıkları, gözden kaçan detayları analiz ediliyor.</desc></programme>
 <programme start="20260225170000 +0000" stop="20260225210000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Sözü</title><desc lang="tr">Ülke gündeminde bulunan en önemli başlıklar masaya yatırılıyor.</desc></programme>
-<programme start="20260223213000 +0000" stop="20260223233000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Machida - Chengdu &quot;Tekrar&quot;</title></programme>
-<programme start="20260223233000 +0000" stop="20260224013000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Al Shorta - Al Duhail &quot;Tekrar&quot;</title></programme>
-<programme start="20260224013000 +0000" stop="20260224033000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Internacional-Palmeiras &quot;Tkr&quot;</title></programme>
-<programme start="20260224033000 +0000" stop="20260224050000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Yabancı At Yarışları 2026</title></programme>
-<programme start="20260224050000 +0000" stop="20260224060000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Monster Jam &apos;&apos;Yarış&apos;&apos;</title></programme>
-<programme start="20260224060000 +0000" stop="20260224080000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">ACB Final Kupa Maçı &quot;Tekrar&quot;</title></programme>
-<programme start="20260224080000 +0000" stop="20260224100000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Huracan-San Lorenzo &quot;Tekrar&quot;</title></programme>
-<programme start="20260224100000 +0000" stop="20260224120000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Rivadavia-Independiente &quot;Tkr&quot;</title></programme>
-<programme start="20260224120000 +0000" stop="20260224121500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Haber 15</title></programme>
-<programme start="20260224121500 +0000" stop="20260224141500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Boca Jr.-Racing Club &quot;Tekrar&quot;</title></programme>
-<programme start="20260224141500 +0000" stop="20260224160000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">ACB Final Kupa Maçı &quot;Tekrar&quot;</title></programme>
-<programme start="20260224160000 +0000" stop="20260224161500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Haber 19</title></programme>
-<programme start="20260224161500 +0000" stop="20260224181500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Velez - River Plate &quot;Tekrar&quot;</title></programme>
-<programme start="20260224181500 +0000" stop="20260224201500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Paranaense-Santos &quot;Tekrar&quot;</title></programme>
-<programme start="20260224201500 +0000" stop="20260224213000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">90&apos;lar Futbol Smart &quot;Tekrar&quot;</title></programme>
 <programme start="20260224213000 +0000" stop="20260224220000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Brezilya Ligi Özetler 2026</title></programme>
 <programme start="20260224220000 +0000" stop="20260225000000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Tampines - Cong An Ha &quot;Tkr&quot;</title></programme>
 <programme start="20260225000000 +0000" stop="20260225020000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Al Ahli-Shabab Al Ahli &quot;Tekrar&quot;</title></programme>
@@ -4519,22 +4455,6 @@
 <programme start="20260225190000 +0000" stop="20260225200000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">FoodBall &quot;Tekrar&quot;</title></programme>
 <programme start="20260225200000 +0000" stop="20260225203000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">İspanya Basketbol Ligi Özetler</title></programme>
 <programme start="20260225203000 +0000" stop="20260225220000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Monster Jam &apos;&apos;Yarış&apos;&apos;</title></programme>
-<programme start="20260223221500 +0000" stop="20260224001500 +0000" channel="SporSmart.tr@SD"><title lang="tr">R. Central - Talleres &quot;Tekrar&quot;</title></programme>
-<programme start="20260224001500 +0000" stop="20260224010000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Monster Jam &apos;&apos;Yarış&apos;&apos;</title></programme>
-<programme start="20260224010000 +0000" stop="20260224030000 +0000" channel="SporSmart.tr@SD"><title lang="tr">İspanya Kral Kupası Yarı Finali</title></programme>
-<programme start="20260224030000 +0000" stop="20260224050000 +0000" channel="SporSmart.tr@SD"><title lang="tr">ACB Kral Kupası 2. Yarı Finali</title></programme>
-<programme start="20260224050000 +0000" stop="20260224070000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Vitoria - Flamengo &quot;Tekrar&quot;</title></programme>
-<programme start="20260224070000 +0000" stop="20260224090000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Fluminense-Botafogo &quot;Tekrar&quot;</title></programme>
-<programme start="20260224090000 +0000" stop="20260224110000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Al Sharjah - Nasaf &quot;Tekrar&quot;</title></programme>
-<programme start="20260224110000 +0000" stop="20260224111500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Haber 14</title></programme>
-<programme start="20260224111500 +0000" stop="20260224131500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Tampines - Cong An Ha &quot;Tkr&quot;</title></programme>
-<programme start="20260224131500 +0000" stop="20260224140000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Monster Jam &apos;&apos;Yarış&apos;&apos;</title></programme>
-<programme start="20260224140000 +0000" stop="20260224141500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Haber 17</title></programme>
-<programme start="20260224141500 +0000" stop="20260224161500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Al Hüssein-Esteghlal &quot;Tekrar&quot;</title></programme>
-<programme start="20260224161500 +0000" stop="20260224181500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Gamba Osaka - Pohang &quot;Tkr&quot;</title></programme>
-<programme start="20260224181500 +0000" stop="20260224194500 +0000" channel="SporSmart.tr@SD"><title lang="tr">90&apos;lar Futbol Smart &quot;Yeni&quot;</title></programme>
-<programme start="20260224194500 +0000" stop="20260224203000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Brezilya Ligi Özetler 2026</title></programme>
-<programme start="20260224203000 +0000" stop="20260224223000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Rivadavia-Independiente &quot;Tkr&quot;</title></programme>
 <programme start="20260224223000 +0000" stop="20260225003000 +0000" channel="SporSmart.tr@SD"><title lang="tr">ACB Kral Kupası Final Maçı</title></programme>
 <programme start="20260225003000 +0000" stop="20260225023000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Internacional-Palmeiras &quot;Tkr&quot;</title></programme>
 <programme start="20260225023000 +0000" stop="20260225030000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Damla ile Kulvar Dışı</title></programme>
@@ -5335,23 +5255,6 @@
 <programme start="20260223173000 +0000" stop="20260223190000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Mustafa Yıldız İle Haber Servisi (Canlı)</title></programme>
 <programme start="20260223190000 +0000" stop="20260223200000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Sıradışı Strateji</title><desc lang="tr">Turgay Güler’in kendisine has üslubu, Savunma Strateji ve Güvenlik Uzmanı Yusuf Alabarda’nın uzman yorumlarıyla ‘Sıradışı Strateji’ her Salı Ülke TV’de</desc></programme>
 <programme start="20260223200000 +0000" stop="20260223230000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülkede Bu Gece (Canlı)</title></programme>
-<programme start="20260224040000 +0000" stop="20260224080000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bu Sabah&amp; Kanal 7 Ortak Yayın (Canlı)</title></programme>
-<programme start="20260224080000 +0000" stop="20260224094500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bugün (Canlı)</title></programme>
-<programme start="20260224094500 +0000" stop="20260224100000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’den Haberler (Canlı)</title></programme>
-<programme start="20260224100000 +0000" stop="20260224110000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
-<programme start="20260224110000 +0000" stop="20260224114500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
-<programme start="20260224114500 +0000" stop="20260224120000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Dünyadan Haberler (Canlı)</title></programme>
-<programme start="20260224120000 +0000" stop="20260224121500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
-<programme start="20260224121500 +0000" stop="20260224130000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Topraktan Sofraya (Tekrar)</title></programme>
-<programme start="20260224130000 +0000" stop="20260224131500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
-<programme start="20260224131500 +0000" stop="20260224134500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’nin Alın Teri (Tekrar)</title></programme>
-<programme start="20260224134500 +0000" stop="20260224143000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Son Çağrı</title></programme>
-<programme start="20260224143000 +0000" stop="20260224155000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Endülüs&apos;te İftar</title></programme>
-<programme start="20260224155000 +0000" stop="20260224164500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Gönül Sofrası</title></programme>
-<programme start="20260224164500 +0000" stop="20260224173000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Hz. Muhammed&apos;in Yolu</title></programme>
-<programme start="20260224173000 +0000" stop="20260224190000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Mustafa Yıldız İle Haber Servisi (Canlı)</title></programme>
-<programme start="20260224190000 +0000" stop="20260224200000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Dijital Mahalle</title></programme>
-<programme start="20260224200000 +0000" stop="20260225040000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülkede Bu Gece (Canlı)</title></programme>
 <programme start="20260223214500 +0000" stop="20260223224000 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Diktatörlerin Yükselişi</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260223224000 +0000" stop="20260223232500 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Gizli Nazi Üsleri</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260223232500 +0000" stop="20260224001000 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Gizli Nazi Bilimi</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
