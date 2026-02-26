@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260226">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
-<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="67e5c4c6cfef0b3744c556fa"><display-name>DMAX</display-name><url>https://dsmart.com.tr</url></channel>
@@ -94,11 +93,12 @@
 <channel id="SinemaAksiyon.tr@SD"><display-name>Sinema TV Aksiyon</display-name><icon src="https://i.imgur.com/kd1PUID.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema2.tr@SD"><display-name>Sinema TV 2</display-name><icon src="https://i.imgur.com/mUjeqJM.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20260225220000 +0000" stop="20260225230000 +0000" channel="24TV.tr@SD"><title lang="tr">GÜNÜN MANŞETİ</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc></programme>
 <programme start="20260225230000 +0000" stop="20260226013000 +0000" channel="24TV.tr@SD"><title lang="tr">AÇIK GÖRÜŞ (TEKRAR)</title></programme>
 <programme start="20260226013000 +0000" stop="20260226020000 +0000" channel="24TV.tr@SD"><title lang="tr">24 PORTRE</title><desc lang="tr">Zeynep Türkoğlu ile 24 Portre her hafta 24 TV’de.</desc></programme>
@@ -3828,8 +3828,8 @@
 <programme start="20260226154500 +0000" stop="20260226170000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260226170000 +0000" stop="20260226201500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Veliaht</title><desc lang="tr">Yeni Bölüm</desc></programme>
 <programme start="20260226201500 +0000" stop="20260226211500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Rüyanda Görürsün</title><desc lang="tr">Film, aşka ve evliliğe inanmayan Engin ile Pelin&apos;i bir rüyada buluşturuyor. Yolları bir partide kesişen ikili, ne olduğunu hatırlamadıkları gecenin sonunda kendilerini iki yıldır evli oldukları bir rüyada buluyorlar. Önceleri birbirine tahammül edemeyen Pelin ve Engin, bu kabustan uyanmak için türlü yollar denerken, yaşadıklarının etkisiyle giderek birbirine bağlanırlar.</desc></programme>
-<programme start="20260226214500 +0000" stop="20260227001500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Bekir Köse ile Ramazan Geceleri</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260227001500 +0000" stop="20260227020000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Alt Yazılı-Tekrar</desc></programme>
+<programme start="20260226211500 +0000" stop="20260226231500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Bekir Köse ile Ramazan Geceleri</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260226231500 +0000" stop="20260227020000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Alt Yazılı-Tekrar</desc></programme>
 <programme start="20260227020000 +0000" stop="20260227050000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Bahar</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260227050000 +0000" stop="20260227074500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Kuzey Yıldızı &apos;&apos; İlk Aşk&apos;&apos;</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260227074500 +0000" stop="20260227093000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Şükran Kaymak&apos;la Ramazan Sofrası</title><desc lang="tr">Yeni Bölüm</desc></programme>
@@ -4409,23 +4409,23 @@
 <programme start="20260227170000 +0000" stop="20260227174500 +0000" channel="TVNET.tr@SD"><title lang="tr">19. Saat</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260227174500 +0000" stop="20260227203000 +0000" channel="TVNET.tr@SD"><title lang="tr">Akıl Odası</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260227203000 +0000" stop="20260227210000 +0000" channel="TVNET.tr@SD"><title lang="tr">Günün Ardından</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260226040000 +0000" stop="20260226080000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bu Sabah&amp; Kanal 7 Ortak Yayın (Canlı)</title></programme>
-<programme start="20260226080000 +0000" stop="20260226094500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bugün (Canlı)</title></programme>
-<programme start="20260226094500 +0000" stop="20260226100000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’den Haberler (Canlı)</title></programme>
-<programme start="20260226100000 +0000" stop="20260226110000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
-<programme start="20260226110000 +0000" stop="20260226114500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
-<programme start="20260226114500 +0000" stop="20260226120000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Dünyadan Haberler (Canlı)</title></programme>
-<programme start="20260226120000 +0000" stop="20260226121500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
-<programme start="20260226121500 +0000" stop="20260226130000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Topraktan Sofraya (Tekrar)</title></programme>
-<programme start="20260226130000 +0000" stop="20260226131500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
-<programme start="20260226131500 +0000" stop="20260226134500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’nin Alın Teri (Tekrar)</title></programme>
-<programme start="20260226134500 +0000" stop="20260226143000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Son Çağrı</title></programme>
-<programme start="20260226143000 +0000" stop="20260226155000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Endülüs&apos;te İftar</title></programme>
-<programme start="20260226155000 +0000" stop="20260226164500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Gönül Sofrası</title></programme>
-<programme start="20260226164500 +0000" stop="20260226173000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Hz. Muhammed&apos;in Yolu</title></programme>
-<programme start="20260226173000 +0000" stop="20260226190000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Mustafa Yıldız İle Haber Servisi (Canlı)</title></programme>
-<programme start="20260226190000 +0000" stop="20260226200000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke&apos;de Başka Şeyler</title></programme>
-<programme start="20260226200000 +0000" stop="20260226230000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülkede Bu Gece (Canlı)</title></programme>
+<programme start="20260225040000 +0000" stop="20260225080000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bu Sabah&amp; Kanal 7 Ortak Yayın (Canlı)</title></programme>
+<programme start="20260225080000 +0000" stop="20260225094500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bugün (Canlı)</title></programme>
+<programme start="20260225094500 +0000" stop="20260225100000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’den Haberler (Canlı)</title></programme>
+<programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
+<programme start="20260225110000 +0000" stop="20260225114500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
+<programme start="20260225114500 +0000" stop="20260225120000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Dünyadan Haberler (Canlı)</title></programme>
+<programme start="20260225120000 +0000" stop="20260225121500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
+<programme start="20260225121500 +0000" stop="20260225130000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Topraktan Sofraya (Tekrar)</title></programme>
+<programme start="20260225130000 +0000" stop="20260225131500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
+<programme start="20260225131500 +0000" stop="20260225134500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’nin Alın Teri (Tekrar)</title></programme>
+<programme start="20260225134500 +0000" stop="20260225143000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Son Çağrı</title></programme>
+<programme start="20260225143000 +0000" stop="20260225155000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Endülüs&apos;te İftar</title></programme>
+<programme start="20260225155000 +0000" stop="20260225164500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Gönül Sofrası</title></programme>
+<programme start="20260225164500 +0000" stop="20260225173000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Hz. Muhammed&apos;in Yolu</title></programme>
+<programme start="20260225173000 +0000" stop="20260225190000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Mustafa Yıldız İle Haber Servisi (Canlı)</title></programme>
+<programme start="20260225190000 +0000" stop="20260225200000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">En Sıradışı</title><desc lang="tr">Sıradan olayların bile en sıra dışı şekilde ele alındığı ‘’En Sıradışı’’ her Perşembe canlı yayınla Ülke TV ekranlarında…</desc></programme>
+<programme start="20260225200000 +0000" stop="20260226040000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülkede Bu Gece (Canlı)</title></programme>
 <programme start="20260225214500 +0000" stop="20260225223000 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Ramses: Mısır&apos;ın Muhteşem Kralı</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260225223000 +0000" stop="20260225232000 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Mumyaların Gizli Yüzleri</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260225232000 +0000" stop="20260226000500 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">İmparator: Bir Hanedanın Yükselişi ve Çöküşü</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
