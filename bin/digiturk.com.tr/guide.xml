@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260304">
 <channel id="193"><display-name>beIN SPORTS 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="507"><display-name>beIN SPORTS MAX 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="506"><display-name>beIN SPORTS 5</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="554"><display-name>EUROSPORT 1</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="552"><display-name>HT SPOR</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="495"><display-name>beIN SPORTS 4</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="551"><display-name>GZT</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="550"><display-name>EKOL Sports</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="513"><display-name>BBC EARTH</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="508"><display-name>beIN SPORTS MAX 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlkeTV.tr@SD"><display-name>ÜLKE TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TVNET.tr@SD"><display-name>TVNET</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>tv100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TV85.tr@SD"><display-name>TV8,5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTWorld.tr@SD"><display-name>TRT WORLD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTTurk.tr@SD"><display-name>TRT TURK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>TRT SPOR YILDIZ</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TRTSpor.tr@SD"><display-name>TRT SPOR</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTMuzik.tr@SD"><display-name>TRT MÜZİK</display-name><icon src="https://i.imgur.com/JgUzRH8.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTKurdi.tr@SD"><display-name>TRT KURDI</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTHaber.tr@SD"><display-name>TRT HABER</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
@@ -62,7 +61,7 @@
 <channel id="Digiturk4K.tr@SD"><display-name>beIN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Digiturk4K_Logo.png/400px-Digiturk4K_Logo.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="DaVinci.de@SD"><display-name>Da Vinci</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="CNNTurk.tr@SD"><display-name>CNN TURK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="CNNInternational.us@MENA"><display-name>CNN INTERNATIONAL</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="CNNInternational.us@MENA"><display-name>CNN INTERNATIONAL</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://digiturk.com.tr</url></channel>
 <channel id="CGTN.cn@SD"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="CBeebies.uk@SD"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="CartoonNetwork.tr@SD"><display-name>CARTOON NETWORK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
@@ -79,7 +78,7 @@
 <channel id="beINIZ.tr@SD"><display-name>beIN İZ</display-name><icon src="https://i.imgur.com/K8HU6aQ.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="beINHE.tr@SD"><display-name>beIN H&amp;E</display-name><icon src="https://i.imgur.com/QmVitgD.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="beINGurme.tr@SD"><display-name>beIN GURME</display-name><icon src="https://i.imgur.com/Q8ITIMl.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="BBCNews.uk@Europe"><display-name>BBC WORLD NEWS</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="BBCNews.uk@Europe"><display-name>BBC WORLD NEWS</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://digiturk.com.tr</url></channel>
 <channel id="BabyTV.uk@France"><display-name>BABY TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="ATV.tr@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/HyVUwFC.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="ASpor.tr@SD"><display-name>A SPOR</display-name><icon src="https://i.imgur.com/ZhkZzLf.png"/><url>https://digiturk.com.tr</url></channel>
@@ -97,16 +96,17 @@
 <channel id="557"><display-name>BRT 1</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="556"><display-name>AKİT TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="555"><display-name>EUROSPORT 2</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="VavTV.tr@SD"><display-name>VAV TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlusalKanal.tr@SD"><display-name>ULUSAL TV</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlkeTV.tr@SD"><display-name>ÜLKE TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>tv100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TV85.tr@SD"><display-name>TV8,5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTWorld.tr@SD"><display-name>TRT WORLD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTTurk.tr@SD"><display-name>TRT TURK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>TRT SPOR YILDIZ</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="YabanTV.tr@SD"><display-name>YABAN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/240px-Yabantv_logo.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TRTSpor.tr@SD"><display-name>TRT SPOR</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TVNET.tr@SD"><display-name>TVNET</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="554"><display-name>EUROSPORT 1</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="552"><display-name>HT SPOR</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="551"><display-name>GZT</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="550"><display-name>EKOL Sports</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="513"><display-name>BBC EARTH</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="508"><display-name>beIN SPORTS MAX 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="507"><display-name>beIN SPORTS MAX 1</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="506"><display-name>beIN SPORTS 5</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="495"><display-name>beIN SPORTS 4</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="459"><display-name>BBC FIRST</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="313"><display-name>Sports TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="312"><display-name>beIN SPORTS 3</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="310"><display-name>beIN SPORTS 2</display-name><url>https://digiturk.com.tr</url></channel>
 </tv>
