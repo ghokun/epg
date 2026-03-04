@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260304">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaKomedi2.tr@SD"><display-name>Sinema TV Comedy 2</display-name><icon src="https://i.imgur.com/XsjPusN.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062ba"><display-name>FilmScreen</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="MinikaGo.tr@SD"><display-name>Minika GO</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTCocuk.tr@SD"><display-name>TRT Çocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="DiscoveryChannel.tr@SD"><display-name>Discovery</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="67e5c4c6cfef0b3744c556fa"><display-name>DMAX</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="CNBCEurope.uk@SD"><display-name>CNBC-e</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"/><url>https://dsmart.com.tr</url></channel>
@@ -39,13 +36,14 @@
 <channel id="TRT2.tr@SD"><display-name>trt 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="StarTV.tr@SD"><display-name>Star</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="KanalD.tr@SD"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/9o1atM6.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="MinikaGo.tr@SD"><display-name>Minika GO</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTCocuk.tr@SD"><display-name>TRT Çocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="DiscoveryChannel.tr@SD"><display-name>Discovery</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="360.tr@SD"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaKomedi.tr@SD"><display-name>Sinema TV Comedy</display-name><icon src="https://i.imgur.com/U4C7JId.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="CNNInternational.us@MENA"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c606231"><display-name>TRT 3 Spor</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="UlkeTV.tr@SD"><display-name>Ülke TV</display-name><icon src="https://i.imgur.com/wdWR7Qk.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="BabyTV.uk@France"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TVNET.tr@SD"><display-name>TV Net</display-name><icon src="https://i.imgur.com/mQo8yWQ.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberturkTV.tr@SD"><display-name>Haber Türk</display-name><icon src="https://i.imgur.com/6Tw3rUp.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Kanal7.tr@SD"><display-name>Kanal 7</display-name><icon src="https://i.imgur.com/0gq9xOm.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="ShowTV.tr@SD"><display-name>Show TV</display-name><icon src="https://i.imgur.com/1l7SCCu.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="MovieSmartClassic.tr@SD"><display-name>MovieSmart Classic</display-name><icon src="https://i.imgur.com/e6qYcCS.png"/><url>https://dsmart.com.tr</url></channel>
@@ -70,13 +68,14 @@
 <channel id="58d29bb0eefad3db9c6062bf"><display-name>Azoomee</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="ViasatHistory.tr@SD"><display-name>Viasat History</display-name><icon src="https://i.imgur.com/wRP9XA7.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c6062bc"><display-name>BBC Earth</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberturkTV.tr@SD"><display-name>Haber Türk</display-name><icon src="https://i.imgur.com/6Tw3rUp.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Sinema1001.tr@SD"><display-name>Sinema TV 1001</display-name><icon src="https://i.imgur.com/OOMEELj.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062ba"><display-name>FilmScreen</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="CNNInternational.us@MENA"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://dsmart.com.tr</url></channel>
+<channel id="BabyTV.uk@France"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DaVinci.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c6062b4"><display-name>CosmoSports</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaAile2.tr@SD"><display-name>Sinema TV Aile 2</display-name><icon src="https://i.imgur.com/EMJiBSb.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062aa"><display-name>Eurosport</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTSpor.tr@SD"><display-name>TRT Spor</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTBelgesel.tr@SD"><display-name>TRT Belgesel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NationalGeographicWild.tr@SD"><display-name>National Geographic WILD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
@@ -85,20 +84,21 @@
 <channel id="NOWTV.tr@SD"><display-name>NOW</display-name><icon src="https://i.imgur.com/5EYjWK7.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DisneyJr.tr@SD"><display-name>Disney Junior</display-name><icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema1002.tr@SD"><display-name>Sinema TV 1002</display-name><icon src="https://i.imgur.com/BEFyizf.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062aa"><display-name>Eurosport</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
-<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaKomedi2.tr@SD"><display-name>Sinema TV Comedy 2</display-name><icon src="https://i.imgur.com/XsjPusN.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaKomedi.tr@SD"><display-name>Sinema TV Comedy</display-name><icon src="https://i.imgur.com/U4C7JId.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Sinema1001.tr@SD"><display-name>Sinema TV 1001</display-name><icon src="https://i.imgur.com/OOMEELj.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaAile2.tr@SD"><display-name>Sinema TV Aile 2</display-name><icon src="https://i.imgur.com/EMJiBSb.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaAile.tr@SD"><display-name>Sinema TV Aile</display-name><icon src="https://i.imgur.com/2gTUEEC.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaAksiyon2.tr@SD"><display-name>Sinema TV Aksiyon 2</display-name><icon src="https://i.imgur.com/oy8Nq1r.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaAksiyon.tr@SD"><display-name>Sinema TV Aksiyon</display-name><icon src="https://i.imgur.com/kd1PUID.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema2.tr@SD"><display-name>Sinema TV 2</display-name><icon src="https://i.imgur.com/mUjeqJM.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20260303220000 +0000" stop="20260303230000 +0000" channel="24TV.tr@SD"><title lang="tr">GÜNÜN MANŞETİ</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc></programme>
 <programme start="20260303230000 +0000" stop="20260303233000 +0000" channel="24TV.tr@SD"><title lang="tr">MERCEK</title></programme>
 <programme start="20260303233000 +0000" stop="20260304010000 +0000" channel="24TV.tr@SD"><title lang="tr">BU ÜLKE</title><desc lang="tr">Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla &quot;Bu Ülke&quot;de analiz ediyor.</desc></programme>
@@ -1328,7 +1328,29 @@
 <programme start="20260304160000 +0000" stop="20260304170000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Ana Haber</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
 <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
 <programme start="20260304180000 +0000" stop="20260304200000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
-<programme start="20260304200000 +0000" stop="20260304230000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Ramazan Programı</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260304200000 +0000" stop="20260304210000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Ramazan Programı</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260304210000 +0000" stop="20260304220000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260304220000 +0000" stop="20260304230000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260304230000 +0000" stop="20260305000000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305000000 +0000" stop="20260305010000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305010000 +0000" stop="20260305020000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305020000 +0000" stop="20260305030000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305030000 +0000" stop="20260305040000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305040000 +0000" stop="20260305050000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Ana Haber Tekrar</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305050000 +0000" stop="20260305060000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Aybüke Taştan İle Güne Uyanırken</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305060000 +0000" stop="20260305070000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305070000 +0000" stop="20260305090000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Mevzu Ne</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Gezi Planı</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Sahne Arası</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Sahne Arası</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Ana Haber</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305180000 +0000" stop="20260305200000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Belgesel</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
+<programme start="20260305200000 +0000" stop="20260305230000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Ramazan Programı</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
 <programme start="20260303210000 +0000" stop="20260303213000 +0000" channel="683d6eafcfef0b3744e79132"><title lang="tr">Headline News</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260303213000 +0000" stop="20260303220000 +0000" channel="683d6eafcfef0b3744e79132"><title lang="tr">Documentary</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260303220000 +0000" stop="20260303223000 +0000" channel="683d6eafcfef0b3744e79132"><title lang="tr">Headline News</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
@@ -3945,6 +3967,23 @@
 <programme start="20260304182000 +0000" stop="20260304204000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Hz. Yusuf</title><desc lang="tr">Hazret-i Yusuf’un Kur’an-ı Kerim’de de geçen etkileyici ve dramatik hayat hikayesini anlatan dev prodüksiyon Yusuf’u özleyenler ve kuyudan çıkmak isteyenler için tekrar Kanal 7 ekranlarına geliyor...</desc></programme>
 <programme start="20260304204000 +0000" stop="20260304205000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Nurullah Genç&apos;le Gönül Sohbetleri</title></programme>
 <programme start="20260304205000 +0000" stop="20260304222000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Kan Çiçekleri (Tekrar)</title></programme>
+<programme start="20260304222000 +0000" stop="20260305000000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Zerhun (Yeni Bölüm)</title></programme>
+<programme start="20260305000000 +0000" stop="20260305004000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Hz. Yusuf</title><desc lang="tr">Hazret-i Yusuf’un Kur’an-ı Kerim’de de geçen etkileyici ve dramatik hayat hikayesini anlatan dev prodüksiyon Yusuf’u özleyenler ve kuyudan çıkmak isteyenler için tekrar Kanal 7 ekranlarına geliyor...</desc></programme>
+<programme start="20260305004000 +0000" stop="20260305032000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Sahur Vakti</title><desc lang="tr">Ekranların sevilen ismi Prof. Dr. Mustafa Karataş’ın sohbetleriyle Sahur Vakti, Ramazan ayı boyunca izleyicisinin Ramazan ve sahur heyecanına ortak olacak.</desc></programme>
+<programme start="20260305032000 +0000" stop="20260305042000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Mukabele</title></programme>
+<programme start="20260305042000 +0000" stop="20260305044500 +0000" channel="Kanal7.tr@SD"><title lang="tr">Kanal 7&apos;de Sabah</title><desc lang="tr">Kanal 7’de Sabah, siyasetin kalbi Ankara’daki gelişmelerden Anadolu insanının sorunlarına kadar her türlü konu ve gelişmeyi sabahın ilk ışıklarıyla ekrana taşıyor.</desc></programme>
+<programme start="20260305044500 +0000" stop="20260305070000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Elif (Tekrar)</title></programme>
+<programme start="20260305070000 +0000" stop="20260305085000 +0000" channel="Kanal7.tr@SD"><title lang="tr">TV Filmi</title></programme>
+<programme start="20260305085000 +0000" stop="20260305100000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Hz. Yusuf</title><desc lang="tr">Hazret-i Yusuf’un Kur’an-ı Kerim’de de geçen etkileyici ve dramatik hayat hikayesini anlatan dev prodüksiyon Yusuf’u özleyenler ve kuyudan çıkmak isteyenler için tekrar Kanal 7 ekranlarına geliyor...</desc></programme>
+<programme start="20260305100000 +0000" stop="20260305111500 +0000" channel="Kanal7.tr@SD"><title lang="tr">Arafta (Yeni Bölüm)</title></programme>
+<programme start="20260305111500 +0000" stop="20260305124500 +0000" channel="Kanal7.tr@SD"><title lang="tr">Dikkat Ayvaz Şef Çıkabilir (Yeni Bölüm)</title></programme>
+<programme start="20260305124500 +0000" stop="20260305144500 +0000" channel="Kanal7.tr@SD"><title lang="tr">Gönül Sözüm (Yeni Bölüm)</title></programme>
+<programme start="20260305144500 +0000" stop="20260305154000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Haber Saati</title><desc lang="tr">Tümer Doğru’nun sunumuyla ekrana gelen Kanal 7 Haber Saati, Haber Merkezinin güçlü ekibi tarafından hazırlanırken gündemdeki gelişmelere ayrıntılı ve en doğru şekilde yer veriyor...</desc></programme>
+<programme start="20260305154000 +0000" stop="20260305170000 +0000" channel="Kanal7.tr@SD"><title lang="tr">İftar Saati</title><desc lang="tr">Mübarek Ramazan ayının coşkusu bu yıl da Kanal 7 ekranlarında yaşanıyor. Muhsin Bay’ın sunumu Necmettin Nursaçan’ın sohbetiyle ekrana gelecek olan İftar Saati, iftarın tatlı telaşına eşlik edecek.</desc></programme>
+<programme start="20260305170000 +0000" stop="20260305182000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Gelin</title><desc lang="tr">Gözleri hançer gibi, adı Hançer olsun.</desc></programme>
+<programme start="20260305182000 +0000" stop="20260305204000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Hz. Yusuf</title><desc lang="tr">Hazret-i Yusuf’un Kur’an-ı Kerim’de de geçen etkileyici ve dramatik hayat hikayesini anlatan dev prodüksiyon Yusuf’u özleyenler ve kuyudan çıkmak isteyenler için tekrar Kanal 7 ekranlarına geliyor...</desc></programme>
+<programme start="20260305204000 +0000" stop="20260305205000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Nurullah Genç&apos;le Gönül Sohbetleri</title></programme>
+<programme start="20260305205000 +0000" stop="20260305222000 +0000" channel="Kanal7.tr@SD"><title lang="tr">Kan Çiçekleri (Tekrar)</title></programme>
 <programme start="20260303230000 +0000" stop="20260304011500 +0000" channel="KanalD.tr@SD"><title lang="tr">Beyaz&apos;la Joker</title><desc lang="tr">Yarışmacılar, 3 milyon TL&apos;lik büyük ödüle ulaşmak için genel kültürlerini ve bilgi seviyelerini ölçecek soruları yanıtlıyor.</desc></programme>
 <programme start="20260304011500 +0000" stop="20260304040000 +0000" channel="KanalD.tr@SD"><title lang="tr">M.Fatih Çıtlak&apos;la Sahur Vakti</title></programme>
 <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="KanalD.tr@SD"><title lang="tr">İkizler Memo Can</title></programme>
@@ -6005,6 +6044,23 @@
 <programme start="20260303173000 +0000" stop="20260303190000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Mustafa Yıldız İle Haber Servisi (Canlı)</title></programme>
 <programme start="20260303190000 +0000" stop="20260303200000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Dijital Mahalle</title></programme>
 <programme start="20260303200000 +0000" stop="20260303230000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülkede Bu Gece (Canlı)</title></programme>
+<programme start="20260304040000 +0000" stop="20260304080000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bu Sabah&amp; Kanal 7 Ortak Yayın (Canlı)</title></programme>
+<programme start="20260304080000 +0000" stop="20260304094500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’de Bugün (Canlı)</title></programme>
+<programme start="20260304094500 +0000" stop="20260304100000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’den Haberler (Canlı)</title></programme>
+<programme start="20260304100000 +0000" stop="20260304110000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
+<programme start="20260304110000 +0000" stop="20260304114500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Öğle Ajansı (Canlı)</title></programme>
+<programme start="20260304114500 +0000" stop="20260304120000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Dünyadan Haberler (Canlı)</title></programme>
+<programme start="20260304120000 +0000" stop="20260304121500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
+<programme start="20260304121500 +0000" stop="20260304130000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Topraktan Sofraya (Tekrar)</title></programme>
+<programme start="20260304130000 +0000" stop="20260304131500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Akşama Doğru (Canlı)</title></programme>
+<programme start="20260304131500 +0000" stop="20260304134500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülke’nin Alın Teri (Tekrar)</title></programme>
+<programme start="20260304134500 +0000" stop="20260304143000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Son Çağrı</title></programme>
+<programme start="20260304143000 +0000" stop="20260304155000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Endülüs&apos;te İftar</title></programme>
+<programme start="20260304155000 +0000" stop="20260304164500 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Gönül Sofrası</title></programme>
+<programme start="20260304164500 +0000" stop="20260304173000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Hz. Muhammed&apos;in Yolu</title></programme>
+<programme start="20260304173000 +0000" stop="20260304190000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Mustafa Yıldız İle Haber Servisi (Canlı)</title></programme>
+<programme start="20260304190000 +0000" stop="20260304200000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">En Sıradışı</title><desc lang="tr">Sıradan olayların bile en sıra dışı şekilde ele alındığı ‘’En Sıradışı’’ her Perşembe canlı yayınla Ülke TV ekranlarında…</desc></programme>
+<programme start="20260304200000 +0000" stop="20260305040000 +0000" channel="UlkeTV.tr@SD"><title lang="tr">Ülkede Bu Gece (Canlı)</title></programme>
 <programme start="20260303210000 +0000" stop="20260303215500 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">2. Dünya Savaşı: İmparatorluğun Bedeli</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260303215500 +0000" stop="20260303224500 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Antik Süper Yapılar</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260303224500 +0000" stop="20260303233000 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Yeraltı Dünyasının Şehirleri</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
