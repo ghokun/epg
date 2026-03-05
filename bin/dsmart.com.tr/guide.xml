@@ -1,42 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260305">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaKomedi2.tr@SD"><display-name>Sinema TV Comedy 2</display-name><icon src="https://i.imgur.com/XsjPusN.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062ba"><display-name>FilmScreen</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaKomedi.tr@SD"><display-name>Sinema TV Comedy</display-name><icon src="https://i.imgur.com/U4C7JId.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="CNNInternational.us@MENA"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://dsmart.com.tr</url></channel>
-<channel id="BabyTV.uk@France"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Sinema1001.tr@SD"><display-name>Sinema TV 1001</display-name><icon src="https://i.imgur.com/OOMEELj.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="DaVinci.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062b4"><display-name>CosmoSports</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaAile2.tr@SD"><display-name>Sinema TV Aile 2</display-name><icon src="https://i.imgur.com/EMJiBSb.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062aa"><display-name>Eurosport</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
-<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaAile.tr@SD"><display-name>Sinema TV Aile</display-name><icon src="https://i.imgur.com/2gTUEEC.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSpor.tr@SD"><display-name>TRT Spor</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTBelgesel.tr@SD"><display-name>TRT Belgesel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaAksiyon2.tr@SD"><display-name>Sinema TV Aksiyon 2</display-name><icon src="https://i.imgur.com/oy8Nq1r.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="NationalGeographicWild.tr@SD"><display-name>National Geographic WILD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="NationalGeographic.tr@SD"><display-name>National Geographic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SinemaAksiyon.tr@SD"><display-name>Sinema TV Aksiyon</display-name><icon src="https://i.imgur.com/kd1PUID.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Teve2.tr@SD"><display-name>teve2</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="NOWTV.tr@SD"><display-name>NOW</display-name><icon src="https://i.imgur.com/5EYjWK7.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="CartoonNetwork.tr@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="BBCNews.uk@Europe"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Sinema2.tr@SD"><display-name>Sinema TV 2</display-name><icon src="https://i.imgur.com/mUjeqJM.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="DisneyJr.tr@SD"><display-name>Disney Junior</display-name><icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="DreamTurk.tr@SD"><display-name>Dream Tv</display-name><icon src="https://i.imgur.com/vJ8VaZi.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062bf"><display-name>Azoomee</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="Sinema1002.tr@SD"><display-name>Sinema TV 1002</display-name><icon src="https://i.imgur.com/BEFyizf.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="ViasatHistory.tr@SD"><display-name>Viasat History</display-name><icon src="https://i.imgur.com/wRP9XA7.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c6062bc"><display-name>BBC Earth</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="67e5c4c6cfef0b3744c556fa"><display-name>DMAX</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="CNBCEurope.uk@SD"><display-name>CNBC-e</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"/><url>https://dsmart.com.tr</url></channel>
+<channel id="6540d968cfef0b02d2dbb177"><display-name>Moonbug</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="683d6eafcfef0b3744e79132"><display-name>RT International</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="679b51bdcfef0b3744a77893"><display-name>Tmb</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="67c063a6cfef0b3744b5ff9e"><display-name>TRT Diyanet Çocuk</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="67a3521bcfef0b3744abd66d"><display-name>Docu Screen</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="HTSporTV.tr@SD"><display-name>HT Spor</display-name><icon src="https://www.htspor.com/images/manifest/social-share-logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TarihTV.tr@SD"><display-name>Tarih Tv</display-name><icon src="https://i.imgur.com/HbIGZUt.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SozcuTV.tr@SD"><display-name>SZC</display-name><icon src="https://i.imgur.com/BxpdvsG.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="61a408d7cfef0b1593ed2812"><display-name>History Channel</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="EuroD.tr@SD"><display-name>Euro D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRT4K.tr@SD"><display-name>TRT 4K</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/512px-TRT_4K.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="A2TV.tr@SD"><display-name>a2</display-name><icon src="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Tele1.tr@SD"><display-name>Tele 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV4.tr@SD"><display-name>TV4</display-name><icon src="https://i.imgur.com/UpsQsbd.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="59dca29fcfef0b4d80a47a61"><display-name>Nature Escape</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="FashionTVEurope.fr@SD"><display-name>Fashion TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="CNNTurk.tr@SD"><display-name>CNN Türk SD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="MovieSmartTurk.tr@SD"><display-name>MovieSmart Türk</display-name><icon src="https://i.imgur.com/DWN9ulT.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTHaber.tr@SD"><display-name>TRT Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c606281"><display-name>Eurosport 2</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="DiziSmartMax.tr@SD"><display-name>Dizi Smart Max</display-name><icon src="https://i.imgur.com/mb3jM28.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRT1.tr@SD"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="FX.us@East"><display-name>FX</display-name><icon src="https://i.imgur.com/ZScwrpi.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTMuzik.tr@SD"><display-name>TRT Müzik</display-name><icon src="https://i.imgur.com/JgUzRH8.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRT2.tr@SD"><display-name>trt 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="StarTV.tr@SD"><display-name>Star</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="KanalD.tr@SD"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/9o1atM6.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="MinikaGo.tr@SD"><display-name>Minika GO</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTCocuk.tr@SD"><display-name>TRT Çocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DiscoveryChannel.tr@SD"><display-name>Discovery</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
@@ -63,42 +62,43 @@
 <channel id="24TV.tr@SD"><display-name>24</display-name><icon src="https://i.imgur.com/8FO41es.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="58d29bb0eefad3db9c6062cc"><display-name>TRT World</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="TV85.tr@SD"><display-name>TV 8,5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="FashionTVEurope.fr@SD"><display-name>Fashion TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="CNNTurk.tr@SD"><display-name>CNN Türk SD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="MovieSmartTurk.tr@SD"><display-name>MovieSmart Türk</display-name><icon src="https://i.imgur.com/DWN9ulT.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="58d29bb0eefad3db9c606281"><display-name>Eurosport 2</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="DiziSmartMax.tr@SD"><display-name>Dizi Smart Max</display-name><icon src="https://i.imgur.com/mb3jM28.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRT1.tr@SD"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="FX.us@East"><display-name>FX</display-name><icon src="https://i.imgur.com/ZScwrpi.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTMuzik.tr@SD"><display-name>TRT Müzik</display-name><icon src="https://i.imgur.com/JgUzRH8.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRT2.tr@SD"><display-name>trt 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="67e5c4c6cfef0b3744c556fa"><display-name>DMAX</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="CNBCEurope.uk@SD"><display-name>CNBC-e</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg"/><url>https://dsmart.com.tr</url></channel>
-<channel id="6540d968cfef0b02d2dbb177"><display-name>Moonbug</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="679b51bdcfef0b3744a77893"><display-name>Tmb</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="67c063a6cfef0b3744b5ff9e"><display-name>TRT Diyanet Çocuk</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="67a3521bcfef0b3744abd66d"><display-name>Docu Screen</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="TarihTV.tr@SD"><display-name>Tarih Tv</display-name><icon src="https://i.imgur.com/HbIGZUt.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SozcuTV.tr@SD"><display-name>SZC</display-name><icon src="https://i.imgur.com/BxpdvsG.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="61a408d7cfef0b1593ed2812"><display-name>History Channel</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="TRT4K.tr@SD"><display-name>TRT 4K</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/512px-TRT_4K.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="A2TV.tr@SD"><display-name>a2</display-name><icon src="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Tele1.tr@SD"><display-name>Tele 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="59dca29fcfef0b4d80a47a61"><display-name>Nature Escape</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="StarTV.tr@SD"><display-name>Star</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="683d6eafcfef0b3744e79132"><display-name>RT International</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="EuroD.tr@SD"><display-name>Euro D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTHaber.tr@SD"><display-name>TRT Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HTSporTV.tr@SD"><display-name>HT Spor</display-name><icon src="https://www.htspor.com/images/manifest/social-share-logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV4.tr@SD"><display-name>TV4</display-name><icon src="https://i.imgur.com/UpsQsbd.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="KanalD.tr@SD"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/9o1atM6.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="CartoonNetwork.tr@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="BBCNews.uk@Europe"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://dsmart.com.tr</url></channel>
+<channel id="DreamTurk.tr@SD"><display-name>Dream Tv</display-name><icon src="https://i.imgur.com/vJ8VaZi.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062bf"><display-name>Azoomee</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="ViasatHistory.tr@SD"><display-name>Viasat History</display-name><icon src="https://i.imgur.com/wRP9XA7.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062bc"><display-name>BBC Earth</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062ba"><display-name>FilmScreen</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="CNNInternational.us@MENA"><display-name>CNN International</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://dsmart.com.tr</url></channel>
+<channel id="BabyTV.uk@France"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/4BDJ5FT.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="DaVinci.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062b4"><display-name>CosmoSports</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="TV8.tr@SD"><display-name>TV8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="58d29bb0eefad3db9c6062aa"><display-name>Eurosport</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSpor.tr@SD"><display-name>TRT Spor</display-name><icon src="https://i.imgur.com/6tv0zxh.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTBelgesel.tr@SD"><display-name>TRT Belgesel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="NationalGeographicWild.tr@SD"><display-name>National Geographic WILD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="NationalGeographic.tr@SD"><display-name>National Geographic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Teve2.tr@SD"><display-name>teve2</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="NOWTV.tr@SD"><display-name>NOW</display-name><icon src="https://i.imgur.com/5EYjWK7.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="DisneyJr.tr@SD"><display-name>Disney Junior</display-name><icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Sinema1002.tr@SD"><display-name>Sinema TV 1002</display-name><icon src="https://i.imgur.com/BEFyizf.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaKomedi2.tr@SD"><display-name>Sinema TV Comedy 2</display-name><icon src="https://i.imgur.com/XsjPusN.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaKomedi.tr@SD"><display-name>Sinema TV Comedy</display-name><icon src="https://i.imgur.com/U4C7JId.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Sinema1001.tr@SD"><display-name>Sinema TV 1001</display-name><icon src="https://i.imgur.com/OOMEELj.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaAile2.tr@SD"><display-name>Sinema TV Aile 2</display-name><icon src="https://i.imgur.com/EMJiBSb.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaAile.tr@SD"><display-name>Sinema TV Aile</display-name><icon src="https://i.imgur.com/2gTUEEC.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaAksiyon2.tr@SD"><display-name>Sinema TV Aksiyon 2</display-name><icon src="https://i.imgur.com/oy8Nq1r.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaAksiyon.tr@SD"><display-name>Sinema TV Aksiyon</display-name><icon src="https://i.imgur.com/kd1PUID.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Sinema2.tr@SD"><display-name>Sinema TV 2</display-name><icon src="https://i.imgur.com/mUjeqJM.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20260304220000 +0000" stop="20260304230000 +0000" channel="24TV.tr@SD"><title lang="tr">GÜNÜN MANŞETİ</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc></programme>
 <programme start="20260304230000 +0000" stop="20260305013000 +0000" channel="24TV.tr@SD"><title lang="tr">AÇIK GÖRÜŞ (TEKRAR)</title></programme>
 <programme start="20260305013000 +0000" stop="20260305020000 +0000" channel="24TV.tr@SD"><title lang="tr">24 PORTRE</title><desc lang="tr">Zeynep Türkoğlu ile 24 Portre her hafta 24 TV’de.</desc></programme>
@@ -1072,119 +1072,119 @@
 <programme start="20260305032000 +0000" stop="20260305032700 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Ayrı Telden Bölüm 6</title></programme>
 <programme start="20260305032700 +0000" stop="20260305033000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">İstiklal Marşı Çocuk</title></programme>
 <programme start="20260305032700 +0000" stop="20260305033000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">İstiklal Marşı Çocuk</title></programme>
-<programme start="20260305033000 +0000" stop="20260305034500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Meraklı Hafiye (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305033000 +0000" stop="20260305034500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Meraklı Hafiye (Ramazan Özel) Bölüm 1</title></programme>
-<programme start="20260305034500 +0000" stop="20260305040000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Haklı Karınca Bölüm 8</title></programme>
+<programme start="20260305033000 +0000" stop="20260305034500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Meraklı Hafiye (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305034500 +0000" stop="20260305040000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Haklı Karınca Bölüm 11</title></programme>
-<programme start="20260305040000 +0000" stop="20260305041500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Küçük Hafız Emin Bölüm 19</title></programme>
+<programme start="20260305034500 +0000" stop="20260305040000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Haklı Karınca Bölüm 8</title></programme>
 <programme start="20260305040000 +0000" stop="20260305041500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Küçük Hafız Emin Bölüm 21</title></programme>
-<programme start="20260305041500 +0000" stop="20260305042000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Ayrı Telden Bölüm 9</title></programme>
+<programme start="20260305040000 +0000" stop="20260305041500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Küçük Hafız Emin Bölüm 19</title></programme>
 <programme start="20260305041500 +0000" stop="20260305042000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Ayrı Telden Bölüm 11</title></programme>
-<programme start="20260305042000 +0000" stop="20260305043000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Sevimli Sabahlar (Ramazan Özel) Bölüm 7</title></programme>
+<programme start="20260305041500 +0000" stop="20260305042000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Ayrı Telden Bölüm 9</title></programme>
 <programme start="20260305042000 +0000" stop="20260305043000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Sevimli Sabahlar (Ramazan Özel) Bölüm 1</title></programme>
-<programme start="20260305043000 +0000" stop="20260305044500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mercanya Bölüm 19</title></programme>
+<programme start="20260305042000 +0000" stop="20260305043000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Sevimli Sabahlar (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305043000 +0000" stop="20260305044500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mercanya Bölüm 21</title></programme>
-<programme start="20260305044500 +0000" stop="20260305050000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aylabera Bölüm 9</title></programme>
+<programme start="20260305043000 +0000" stop="20260305044500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mercanya Bölüm 19</title></programme>
 <programme start="20260305044500 +0000" stop="20260305050000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aylabera Bölüm 10</title></programme>
-<programme start="20260305050000 +0000" stop="20260305051000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Hay Hak (Ramazan Özel) Bölüm 29</title></programme>
+<programme start="20260305044500 +0000" stop="20260305050000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aylabera Bölüm 9</title></programme>
 <programme start="20260305050000 +0000" stop="20260305051000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Hay Hak (Ramazan Özel) Bölüm 2</title></programme>
-<programme start="20260305051000 +0000" stop="20260305052500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Yumurcalı Bölüm 4</title></programme>
+<programme start="20260305050000 +0000" stop="20260305051000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Hay Hak (Ramazan Özel) Bölüm 29</title></programme>
 <programme start="20260305051000 +0000" stop="20260305052500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Yumurcalı Bölüm 6</title></programme>
-<programme start="20260305052500 +0000" stop="20260305053500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Miş Mış Bölüm 9</title></programme>
+<programme start="20260305051000 +0000" stop="20260305052500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Yumurcalı Bölüm 4</title></programme>
 <programme start="20260305052500 +0000" stop="20260305053500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Miş Mış Bölüm 10</title></programme>
-<programme start="20260305053500 +0000" stop="20260305054500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mimikolar Bölüm 19</title></programme>
+<programme start="20260305052500 +0000" stop="20260305053500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Miş Mış Bölüm 9</title></programme>
 <programme start="20260305053500 +0000" stop="20260305054500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mimikolar Bölüm 22</title></programme>
-<programme start="20260305054500 +0000" stop="20260305060000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Geri Dön Çufi Bölüm 19</title></programme>
+<programme start="20260305053500 +0000" stop="20260305054500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mimikolar Bölüm 19</title></programme>
 <programme start="20260305054500 +0000" stop="20260305055500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Duyarlı Tilki Bölüm 11</title></programme>
+<programme start="20260305054500 +0000" stop="20260305060000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Geri Dön Çufi Bölüm 19</title></programme>
 <programme start="20260305055500 +0000" stop="20260305060000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Temel&apos;den Öğreniyorum Bölüm 5</title></programme>
-<programme start="20260305060000 +0000" stop="20260305061500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Oyun Dolu Bölüm 6</title></programme>
 <programme start="20260305060000 +0000" stop="20260305061500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şef Lina (Ramazan Özel) Bölüm 1</title></programme>
-<programme start="20260305061500 +0000" stop="20260305063000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şef Lina (Ramazan Özel) Bölüm 7</title></programme>
+<programme start="20260305060000 +0000" stop="20260305061500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Oyun Dolu Bölüm 6</title></programme>
 <programme start="20260305061500 +0000" stop="20260305062500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Benim Adım Mucize Bölüm 21</title></programme>
+<programme start="20260305061500 +0000" stop="20260305063000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şef Lina (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305062500 +0000" stop="20260305063500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şeker Hoca Bölüm 21</title></programme>
 <programme start="20260305063000 +0000" stop="20260305064000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Duyarlı Tilki Bölüm 8</title></programme>
 <programme start="20260305063500 +0000" stop="20260305065000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Geri Dön Çufi Bölüm 21</title></programme>
 <programme start="20260305064000 +0000" stop="20260305065000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Benim Adım Mucize Bölüm 19</title></programme>
-<programme start="20260305065000 +0000" stop="20260305070000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şeker Hoca Bölüm 19</title></programme>
 <programme start="20260305065000 +0000" stop="20260305070500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aslan Parçası Cesur Bölüm 21</title></programme>
+<programme start="20260305065000 +0000" stop="20260305070000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şeker Hoca Bölüm 19</title></programme>
 <programme start="20260305070000 +0000" stop="20260305071500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aslan Parçası Cesur Bölüm 19</title></programme>
 <programme start="20260305070500 +0000" stop="20260305071500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Kara İle Keçe (Ramazan Özel) Bölüm 3</title></programme>
-<programme start="20260305071500 +0000" stop="20260305072500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Kara İle Keçe (Ramazan Özel) Bölüm 1</title></programme>
 <programme start="20260305071500 +0000" stop="20260305072500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Galip Mülayim (Ramazan Özel) Bölüm 2</title></programme>
-<programme start="20260305072500 +0000" stop="20260305073500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Galip Mülayim (Ramazan Özel) Bölüm 11</title></programme>
+<programme start="20260305071500 +0000" stop="20260305072500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Kara İle Keçe (Ramazan Özel) Bölüm 1</title></programme>
 <programme start="20260305072500 +0000" stop="20260305074000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">7 Kıtadan İyilik Habercileri Bölüm 10</title></programme>
+<programme start="20260305072500 +0000" stop="20260305073500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Galip Mülayim (Ramazan Özel) Bölüm 11</title></programme>
 <programme start="20260305073500 +0000" stop="20260305075000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">7 Kıtadan İyilik Habercileri Bölüm 13</title></programme>
 <programme start="20260305074000 +0000" stop="20260305075500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Dikkat Balonu (Ramazan Özel) Bölüm 1</title></programme>
 <programme start="20260305075000 +0000" stop="20260305080500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Dikkat Balonu (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305075500 +0000" stop="20260305080500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gugular Bölüm 11</title></programme>
-<programme start="20260305080500 +0000" stop="20260305081000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Temel&apos;den Öğreniyorum Bölüm 29</title></programme>
 <programme start="20260305080500 +0000" stop="20260305082000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Cümbür Cemaat (Ramazan Özel) Bölüm 5</title></programme>
+<programme start="20260305080500 +0000" stop="20260305081000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Temel&apos;den Öğreniyorum Bölüm 29</title></programme>
 <programme start="20260305081000 +0000" stop="20260305082000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gugular Bölüm 8</title></programme>
-<programme start="20260305082000 +0000" stop="20260305083500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Cümbür Cemaat (Ramazan Özel) Bölüm 10</title></programme>
 <programme start="20260305082000 +0000" stop="20260305083500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Heybeli Tiyatro (Ramazan Özel) Bölüm 3</title></programme>
-<programme start="20260305083500 +0000" stop="20260305085000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Heybeli Tiyatro (Ramazan Özel) Bölüm 7</title></programme>
+<programme start="20260305082000 +0000" stop="20260305083500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Cümbür Cemaat (Ramazan Özel) Bölüm 10</title></programme>
 <programme start="20260305083500 +0000" stop="20260305084500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Zekice İşler Bölüm 11</title></programme>
+<programme start="20260305083500 +0000" stop="20260305085000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Heybeli Tiyatro (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305084500 +0000" stop="20260305090000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Manidar Bölüm 5</title></programme>
 <programme start="20260305085000 +0000" stop="20260305090000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Zekice İşler Bölüm 9</title></programme>
-<programme start="20260305090000 +0000" stop="20260305091500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Manidar Bölüm 15</title></programme>
 <programme start="20260305090000 +0000" stop="20260305091500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Fülfül Hac Yolunda Bölüm 21</title></programme>
-<programme start="20260305091500 +0000" stop="20260305093000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Fülfül Hac Yolunda Bölüm 19</title></programme>
+<programme start="20260305090000 +0000" stop="20260305091500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Manidar Bölüm 15</title></programme>
 <programme start="20260305091500 +0000" stop="20260305093000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gezgin Çelebi (Ramazan Özel) Bölüm 3</title></programme>
-<programme start="20260305093000 +0000" stop="20260305094500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gezgin Çelebi (Ramazan Özel) Bölüm 6</title></programme>
+<programme start="20260305091500 +0000" stop="20260305093000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Fülfül Hac Yolunda Bölüm 19</title></programme>
 <programme start="20260305093000 +0000" stop="20260305094000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Düş Fırçası Bölüm 11</title></programme>
+<programme start="20260305093000 +0000" stop="20260305094500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gezgin Çelebi (Ramazan Özel) Bölüm 6</title></programme>
 <programme start="20260305094000 +0000" stop="20260305095000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Sevimli Sabahlar (Ramazan Özel) Bölüm 1</title></programme>
 <programme start="20260305094500 +0000" stop="20260305095500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Düş Fırçası Bölüm 9</title></programme>
 <programme start="20260305095000 +0000" stop="20260305100500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Meraklı Hafiye (Ramazan Özel) Bölüm 1</title></programme>
 <programme start="20260305095500 +0000" stop="20260305100500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Sevimli Sabahlar (Ramazan Özel) Bölüm 7</title></programme>
-<programme start="20260305100500 +0000" stop="20260305102000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Meraklı Hafiye (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305100500 +0000" stop="20260305102000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Haklı Karınca Bölüm 10</title></programme>
-<programme start="20260305102000 +0000" stop="20260305103500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Haklı Karınca Bölüm 9</title></programme>
+<programme start="20260305100500 +0000" stop="20260305102000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Meraklı Hafiye (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305102000 +0000" stop="20260305103500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Küçük Hafız Emin Bölüm 20</title></programme>
-<programme start="20260305103500 +0000" stop="20260305105000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Küçük Hafız Emin Bölüm 20</title></programme>
+<programme start="20260305102000 +0000" stop="20260305103500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Haklı Karınca Bölüm 9</title></programme>
 <programme start="20260305103500 +0000" stop="20260305104000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Ayrı Telden Bölüm 10</title></programme>
+<programme start="20260305103500 +0000" stop="20260305105000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Küçük Hafız Emin Bölüm 20</title></programme>
 <programme start="20260305104000 +0000" stop="20260305105500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mercanya Bölüm 22</title></programme>
 <programme start="20260305105000 +0000" stop="20260305105500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Ayrı Telden Bölüm 8</title></programme>
-<programme start="20260305105500 +0000" stop="20260305111000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mercanya Bölüm 20</title></programme>
 <programme start="20260305105500 +0000" stop="20260305111000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aylabera Bölüm 11</title></programme>
-<programme start="20260305111000 +0000" stop="20260305112500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aylabera Bölüm 15</title></programme>
+<programme start="20260305105500 +0000" stop="20260305111000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mercanya Bölüm 20</title></programme>
 <programme start="20260305111000 +0000" stop="20260305112000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Hay Hak (Ramazan Özel) Bölüm 3</title></programme>
+<programme start="20260305111000 +0000" stop="20260305112500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aylabera Bölüm 15</title></programme>
 <programme start="20260305112000 +0000" stop="20260305113500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Yumurcalı Bölüm 7</title></programme>
 <programme start="20260305112500 +0000" stop="20260305113500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Hay Hak (Ramazan Özel) Bölüm 1</title></programme>
-<programme start="20260305113500 +0000" stop="20260305115000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Yumurcalı Bölüm 5</title></programme>
 <programme start="20260305113500 +0000" stop="20260305114500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Miş Mış Bölüm 11</title></programme>
+<programme start="20260305113500 +0000" stop="20260305115000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Yumurcalı Bölüm 5</title></programme>
 <programme start="20260305114500 +0000" stop="20260305115000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Temel&apos;den Öğreniyorum Bölüm 6</title></programme>
-<programme start="20260305115000 +0000" stop="20260305120000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Miş Mış Bölüm 8</title></programme>
 <programme start="20260305115000 +0000" stop="20260305120500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şef Lina (Ramazan Özel) Bölüm 1</title></programme>
+<programme start="20260305115000 +0000" stop="20260305120000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Miş Mış Bölüm 8</title></programme>
 <programme start="20260305120000 +0000" stop="20260305121500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şef Lina Bölüm 7</title></programme>
 <programme start="20260305120500 +0000" stop="20260305121500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mimikolar Bölüm 21</title></programme>
-<programme start="20260305121500 +0000" stop="20260305122500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mimikolar Bölüm 20</title></programme>
 <programme start="20260305121500 +0000" stop="20260305122500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Duyarlı Tilki Bölüm 10</title></programme>
-<programme start="20260305122500 +0000" stop="20260305123500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Duyarlı Tilki Bölüm 9</title></programme>
+<programme start="20260305121500 +0000" stop="20260305122500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Mimikolar Bölüm 20</title></programme>
 <programme start="20260305122500 +0000" stop="20260305123500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Benim Adım Mucize Bölüm 22</title></programme>
-<programme start="20260305123500 +0000" stop="20260305124500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Benim Adım Mucize Bölüm 20</title></programme>
+<programme start="20260305122500 +0000" stop="20260305123500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Duyarlı Tilki Bölüm 9</title></programme>
 <programme start="20260305123500 +0000" stop="20260305124500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şeker Hoca Bölüm 22</title></programme>
-<programme start="20260305124500 +0000" stop="20260305125500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şeker Hoca Bölüm 20</title></programme>
+<programme start="20260305123500 +0000" stop="20260305124500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Benim Adım Mucize Bölüm 20</title></programme>
 <programme start="20260305124500 +0000" stop="20260305130000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Geri Dön Çufi Bölüm 22</title></programme>
+<programme start="20260305124500 +0000" stop="20260305125500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Şeker Hoca Bölüm 20</title></programme>
 <programme start="20260305125500 +0000" stop="20260305131000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Geri Dön Çufi Bölüm 20</title></programme>
 <programme start="20260305130000 +0000" stop="20260305131500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aslan Parçası Cesur Bölüm 16</title></programme>
 <programme start="20260305131000 +0000" stop="20260305132500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Aslan Parçası Cesur Bölüm 20</title></programme>
 <programme start="20260305131500 +0000" stop="20260305132500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Kara İle Keçe (Ramazan Özel) Bölüm 4</title></programme>
-<programme start="20260305132500 +0000" stop="20260305133500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Kara İle Keçe (Ramazan Özel) Bölüm 2</title></programme>
 <programme start="20260305132500 +0000" stop="20260305133500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Galip Mülayim (Ramazan Özel) Bölüm 3</title></programme>
-<programme start="20260305133500 +0000" stop="20260305134500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Galip Mülayim (Ramazan Özel) Bölüm 1</title></programme>
+<programme start="20260305132500 +0000" stop="20260305133500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Kara İle Keçe (Ramazan Özel) Bölüm 2</title></programme>
 <programme start="20260305133500 +0000" stop="20260305135000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">7 Kıtadan İyilik Habercileri Bölüm 11</title></programme>
+<programme start="20260305133500 +0000" stop="20260305134500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Galip Mülayim (Ramazan Özel) Bölüm 1</title></programme>
 <programme start="20260305134500 +0000" stop="20260305140000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">7 Kıtadan İyilik Habercileri Bölüm 9</title></programme>
 <programme start="20260305135000 +0000" stop="20260305140500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Dikkat Balonu (Ramazan Özel) Bölüm 1</title></programme>
 <programme start="20260305140000 +0000" stop="20260305141500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Dikkat Balonu (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305140500 +0000" stop="20260305141500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gugular Bölüm 10</title></programme>
-<programme start="20260305141500 +0000" stop="20260305142500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gugular Bölüm 9</title></programme>
 <programme start="20260305141500 +0000" stop="20260305143000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Cümbür Cemaat (Ramazan Özel) Bölüm 6</title></programme>
+<programme start="20260305141500 +0000" stop="20260305142500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Gugular Bölüm 9</title></programme>
 <programme start="20260305142500 +0000" stop="20260305144000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Cümbür Cemaat (Ramazan Özel) Bölüm 11</title></programme>
 <programme start="20260305143000 +0000" stop="20260305144500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Heybeli Tiyatro (Ramazan Özel) Bölüm 4</title></programme>
 <programme start="20260305144000 +0000" stop="20260305145500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Heybeli Tiyatro (Ramazan Özel) Bölüm 7</title></programme>
 <programme start="20260305144500 +0000" stop="20260305145500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Zekice İşler Bölüm 10</title></programme>
-<programme start="20260305145500 +0000" stop="20260305150500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Zekice İşler Bölüm 8</title></programme>
 <programme start="20260305145500 +0000" stop="20260305151000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Manidar Bölüm 6</title></programme>
+<programme start="20260305145500 +0000" stop="20260305150500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Zekice İşler Bölüm 8</title></programme>
 <programme start="20260305150500 +0000" stop="20260305152000 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Manidar Bölüm 16</title></programme>
 <programme start="20260305151000 +0000" stop="20260305152500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Fülfül Hac Yolunda Bölüm 22</title></programme>
 <programme start="20260305152000 +0000" stop="20260305153500 +0000" channel="67c063a6cfef0b3744b5ff9e"><title lang="tr">Fülfül Hac Yolunda Bölüm 20</title></programme>
