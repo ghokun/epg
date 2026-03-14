@@ -82,7 +82,7 @@
 <channel id="NationalGeographic.tr@SD"><display-name>National Geographic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Teve2.tr@SD"><display-name>teve2</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="NOWTV.tr@SD"><display-name>NOW</display-name><icon src="https://i.imgur.com/5EYjWK7.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="DisneyJr.tr@SD"><display-name>Disney Junior</display-name><icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="DisneyJr.tr@SD"><display-name>Disney Junior</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema1002.tr@SD"><display-name>Sinema TV 1002</display-name><icon src="https://i.imgur.com/BEFyizf.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaKomedi2.tr@SD"><display-name>Sinema TV Comedy 2</display-name><icon src="https://i.imgur.com/XsjPusN.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaKomedi.tr@SD"><display-name>Sinema TV Comedy</display-name><icon src="https://i.imgur.com/U4C7JId.png"/><url>https://dsmart.com.tr</url></channel>
@@ -1403,6 +1403,15 @@
 <programme start="20260314160000 +0000" stop="20260314170000 +0000" channel="66337391cfef0b02d78776c8"><title lang="tr">Ana Haber</title><desc lang="tr">Haber neredeyse biz oradayız! Türkiye&apos;den ve dünyadan en güncel haberleri sizlere sunuyoruz.</desc><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260314170000 +0000" stop="20260314200000 +0000" channel="66337391cfef0b02d78776c8"><title lang="tr">Haber Bülteni</title><desc lang="tr">En güncel ve manşet haberleri siz seyircilerimize &quot;Haber Bülteni&quot; ile sunuyoruz.</desc></programme>
 <programme start="20260314200000 +0000" stop="20260314230000 +0000" channel="66337391cfef0b02d78776c8"><title lang="tr">Tekrar Programlar</title></programme>
+<programme start="20260313210000 +0000" stop="20260313230000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260313230000 +0000" stop="20260314000000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260314000000 +0000" stop="20260314030000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260314030000 +0000" stop="20260314060000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260314060000 +0000" stop="20260314080000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260314080000 +0000" stop="20260314100000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260314100000 +0000" stop="20260314130000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260314130000 +0000" stop="20260314150000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260314150000 +0000" stop="20260314180000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260314210000 +0000" stop="20260314230000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260314230000 +0000" stop="20260315000000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260315000000 +0000" stop="20260315030000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
@@ -1412,6 +1421,17 @@
 <programme start="20260315100000 +0000" stop="20260315130000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260315130000 +0000" stop="20260315150000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
 <programme start="20260315150000 +0000" stop="20260315180000 +0000" channel="66e7e5cdcfef0b374461c45b"><title lang="tr">Spor Çoklu Ekran</title><category lang="tr">Spor</category><category lang="tr">Genel</category></programme>
+<programme start="20260313210000 +0000" stop="20260313230000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260313230000 +0000" stop="20260314000000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314000000 +0000" stop="20260314030000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314030000 +0000" stop="20260314060000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314060000 +0000" stop="20260314080000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314080000 +0000" stop="20260314100000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314100000 +0000" stop="20260314130000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314130000 +0000" stop="20260314150000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314150000 +0000" stop="20260314170000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314170000 +0000" stop="20260314190000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260314190000 +0000" stop="20260314220000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
 <programme start="20260314210000 +0000" stop="20260314230000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
 <programme start="20260314230000 +0000" stop="20260315000000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
 <programme start="20260315000000 +0000" stop="20260315030000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
@@ -1423,6 +1443,16 @@
 <programme start="20260315150000 +0000" stop="20260315170000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
 <programme start="20260315170000 +0000" stop="20260315190000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
 <programme start="20260315190000 +0000" stop="20260315220000 +0000" channel="66e7e50dcfef0b374461c36e"><title lang="tr">Eğlence Çoklu Ekran</title></programme>
+<programme start="20260313210000 +0000" stop="20260313230000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260313230000 +0000" stop="20260314000000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314000000 +0000" stop="20260314030000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314030000 +0000" stop="20260314060000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314060000 +0000" stop="20260314080000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314080000 +0000" stop="20260314100000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314100000 +0000" stop="20260314130000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314130000 +0000" stop="20260314150000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314150000 +0000" stop="20260314170000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260314170000 +0000" stop="20260314200000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260314210000 +0000" stop="20260314230000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260314230000 +0000" stop="20260315000000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260315000000 +0000" stop="20260315030000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
