@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260319">
 <channel id="NPO1.nl@SD"><display-name>NPO 1</display-name><icon src="https://i.imgur.com/HEtJEBa.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NL_900019_000000"><display-name>Ziggo TV</display-name><url>https://ziggogo.tv</url></channel>
-<channel id="ViaplayTV.nl@HD"><display-name>Viaplay TV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-tv-nl.png?raw=true"/><url>https://ziggogo.tv</url></channel>
-<channel id="ESPN.nl@HD"><display-name>ESPN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="Colors.in@SD"><display-name>Colors TV</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="SonyMax.uk@SD"><display-name>Sony Max</display-name><icon src="https://i.imgur.com/LBICKI5.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="ZiggoSportExtra.nl@HD"><display-name>Ziggo Sport Extra</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg"/><url>https://ziggogo.tv</url></channel>
-<channel id="ViaplayTVPlus.nl@HD"><display-name>Viaplay TV+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg"/><url>https://ziggogo.tv</url></channel>
-<channel id="Top40TV.nl@HD"><display-name>Top 40 TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Top_40_2023_logo.svg"/><url>https://ziggogo.tv</url></channel>
-<channel id="MoonbugKids.uk@SD"><display-name>Moonbug</display-name><icon src="https://i.imgur.com/vZHtxQb.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NPO2.nl@SD"><display-name>NPO 2</display-name><icon src="https://i.imgur.com/wmqaoXS.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTL4.nl@SD"><display-name>RTL 4</display-name><icon src="https://i.imgur.com/WPOcwO9.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="VeronicaDisneyJr.nl@SD"><display-name>Veronica / Disney Jr.</display-name><icon src="https://i.imgur.com/5L5TcYz.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTL7.nl@SD"><display-name>RTL 7</display-name><icon src="https://i.imgur.com/k3NwiUB.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="NPO3.nl@SD"><display-name>NPO 3</display-name><icon src="https://i.imgur.com/lKcFUqi.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="SBS6.nl@SD"><display-name>SBS6</display-name><icon src="https://i.imgur.com/pCfKkqB.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTLZ.nl@SD"><display-name>RTL Z</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTLZ_2023.svg"/><url>https://ziggogo.tv</url></channel>
+<channel id="STARChannel.nl@SD"><display-name>STAR Channel</display-name><icon src="https://i.imgur.com/5xeR7Ec.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTL5.nl@SD"><display-name>RTL 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/07/RTL5_2023.svg"/><url>https://ziggogo.tv</url></channel>
+<channel id="RTL8.nl@SD"><display-name>RTL 8</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/5/52/RTL8_2023.svg"/><url>https://ziggogo.tv</url></channel>
+<channel id="NET5.nl@SD"><display-name>NET5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Net5_Logo_2023.jpg"/><url>https://ziggogo.tv</url></channel>
 <channel id="DorcelTV.nl@SD"><display-name>Dorcel TV</display-name><icon src="https://i.imgur.com/RkzyjEd.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="BrazzersTVEurope.us@SD"><display-name>Brazzers TV</display-name><icon src="https://i.imgur.com/95nP0Pb.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="HGTV.nl@HD"><display-name>HGTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg"/><url>https://ziggogo.tv</url></channel>
@@ -73,6 +75,7 @@
 <channel id="ESPN4.nl@HD"><display-name>ESPN 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ESPN3.nl@HD"><display-name>ESPN 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ESPN2.nl@HD"><display-name>ESPN 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="ESPN.nl@HD"><display-name>ESPN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="Eurosport2.fr@Netherlands"><display-name>Eurosport 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ZiggoSport6.nl@HD"><display-name>Ziggo Sport 6</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg"/><url>https://ziggogo.tv</url></channel>
 <channel id="ZiggoSport5.nl@HD"><display-name>Ziggo Sport 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg"/><url>https://ziggogo.tv</url></channel>
@@ -141,17 +144,14 @@
 <channel id="ParamountNetwork.nl@SD"><display-name>Paramount Network</display-name><icon src="https://i.imgur.com/I0JJySN.png"/><url>https://ziggogo.tv</url></channel>
 <channel id="ComedyCentral.nl@SD"><display-name>Comedy Central</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg"/><url>https://ziggogo.tv</url></channel>
 <channel id="NL_000013_019327"><display-name>Ziggo TV</display-name><url>https://ziggogo.tv</url></channel>
-<channel id="RTLZ.nl@SD"><display-name>RTL Z</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTLZ_2023.svg"/><url>https://ziggogo.tv</url></channel>
-<channel id="STARChannel.nl@SD"><display-name>STAR Channel</display-name><icon src="https://i.imgur.com/5xeR7Ec.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="RTL8.nl@SD"><display-name>RTL 8</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/5/52/RTL8_2023.svg"/><url>https://ziggogo.tv</url></channel>
-<channel id="NET5.nl@SD"><display-name>NET5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Net5_Logo_2023.jpg"/><url>https://ziggogo.tv</url></channel>
-<channel id="VeronicaDisneyJr.nl@SD"><display-name>Veronica / Disney Jr.</display-name><icon src="https://i.imgur.com/5L5TcYz.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="RTL7.nl@SD"><display-name>RTL 7</display-name><icon src="https://i.imgur.com/k3NwiUB.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="SBS6.nl@SD"><display-name>SBS6</display-name><icon src="https://i.imgur.com/pCfKkqB.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="RTL5.nl@SD"><display-name>RTL 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/07/RTL5_2023.svg"/><url>https://ziggogo.tv</url></channel>
-<channel id="RTL4.nl@SD"><display-name>RTL 4</display-name><icon src="https://i.imgur.com/WPOcwO9.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NPO3.nl@SD"><display-name>NPO 3</display-name><icon src="https://i.imgur.com/lKcFUqi.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="NPO2.nl@SD"><display-name>NPO 2</display-name><icon src="https://i.imgur.com/wmqaoXS.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="Colors.in@SD"><display-name>Colors TV</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="SonyMax.uk@SD"><display-name>Sony Max</display-name><icon src="https://i.imgur.com/LBICKI5.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="ZiggoSportExtra.nl@HD"><display-name>Ziggo Sport Extra</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg"/><url>https://ziggogo.tv</url></channel>
+<channel id="ViaplayTVPlus.nl@HD"><display-name>Viaplay TV+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg"/><url>https://ziggogo.tv</url></channel>
+<channel id="ViaplayTV.nl@HD"><display-name>Viaplay TV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-tv-nl.png?raw=true"/><url>https://ziggogo.tv</url></channel>
+<channel id="Top40TV.nl@HD"><display-name>Top 40 TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Top_40_2023_logo.svg"/><url>https://ziggogo.tv</url></channel>
+<channel id="NL_900019_000000"><display-name>Ziggo TV</display-name><url>https://ziggogo.tv</url></channel>
+<channel id="MoonbugKids.uk@SD"><display-name>Moonbug</display-name><icon src="https://i.imgur.com/vZHtxQb.png"/><url>https://ziggogo.tv</url></channel>
 <programme start="20260318234500 +0000" stop="20260319003000 +0000" channel="2MMonde.ma@SD"><title lang="en">Al Amanah</title><desc lang="en">Morad, a dedicated officer, finds himself in a difficult situation after killing a man by mistake. Later, he feels that he is obligated to take care of the man&apos;s wife and son.</desc><credits><director>Ayhan Özen</director><actor>Berat Rüzgar Özkan</actor><actor>Binnaz Ekren</actor><actor>Adnan Mehmet Ali Aslan</actor><actor>Özge Agyar</actor><actor>Volkan Yildirim</actor><producer>Nazmiye Yilmaz</producer></credits><category lang="en">Drama</category><category lang="en">Documentaire</category><country lang="en">MA</country></programme>
 <programme start="20260319003000 +0000" stop="20260319020000 +0000" channel="2MMonde.ma@SD"><title lang="en">Studio Live</title><desc lang="en">The host invites some of the biggest and most popular Arab artists to discuss their latest projects and perform some of their greatest hits.</desc><category lang="en">Talkshow</category><episode-num system="xmltv_ns">70599999.464289869.0/1</episode-num><episode-num system="onscreen">S70600000E464289870</episode-num></programme>
 <programme start="20260319020000 +0000" stop="20260319024500 +0000" channel="2MMonde.ma@SD"><title lang="en">Al Okhwat Al Thalathah</title><desc lang="en">Three sisters begin facing obstacles and challenges as they grow older and deal with life and realise that their childhood dreams may not come true.</desc><category lang="en">Dramaseries</category><category lang="en">Documentaire</category><episode-num system="xmltv_ns">62309999.464289870.0/1</episode-num><episode-num system="onscreen">S62310000E464289871</episode-num></programme>
