@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260409">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="66337391cfef0b02d78776c8"><display-name>Ekol Tv</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="67e5c246cfef0b3744c53a83"><display-name>TLC</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="67e5c4c6cfef0b3744c556fa"><display-name>DMAX</display-name><url>https://dsmart.com.tr</url></channel>
@@ -93,12 +94,11 @@
 <channel id="SinemaAksiyon.tr@SD"><display-name>Sinema TV Aksiyon</display-name><icon src="https://i.imgur.com/kd1PUID.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Sinema2.tr@SD"><display-name>Sinema TV 2</display-name><icon src="https://i.imgur.com/mUjeqJM.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SinemaTV.tr@SD"><display-name>Sinema TV</display-name><icon src="https://i.imgur.com/qstBXDP.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="SporSmart2.tr@SD"><display-name>SPOR SMART 2</display-name><icon src="https://i.imgur.com/qyUKCUa.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr@SD"><display-name>Trt Spor Yıldız</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TV100.tr@SD"><display-name>Tv 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/><url>https://dsmart.com.tr</url></channel>
-<channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e50dcfef0b374461c36e"><display-name>Ulusal Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="66e7e5cdcfef0b374461c45b"><display-name>Spor Çoklu Ekran</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/><url>https://dsmart.com.tr</url></channel>
 <programme start="20260408220000 +0000" stop="20260408230000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc></programme>
 <programme start="20260408230000 +0000" stop="20260409011500 +0000" channel="24TV.tr@SD"><title lang="tr">Açık Görüş (Tekrar)</title></programme>
 <programme start="20260409011500 +0000" stop="20260409014500 +0000" channel="24TV.tr@SD"><title lang="tr">Neler Oluyor Hayatta?</title></programme>
@@ -917,6 +917,27 @@
 <programme start="20260410193000 +0000" stop="20260410200000 +0000" channel="58d29bb0eefad3db9c60626d"><title lang="tr">Robocar Poli</title></programme>
 <programme start="20260410200000 +0000" stop="20260410203000 +0000" channel="58d29bb0eefad3db9c60626d"><title lang="tr">Jonny Jetboy</title></programme>
 <programme start="20260410203000 +0000" stop="20260410210000 +0000" channel="58d29bb0eefad3db9c60626d"><title lang="tr">Puffin Rock</title></programme>
+<programme start="20260408213000 +0000" stop="20260408230000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Avrupa Stüdyosu</title></programme>
+<programme start="20260408230000 +0000" stop="20260409010000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Uefa Şampiyonlar Ligi Çeyrek Final Futbol Karşılaşması Özetler</title></programme>
+<programme start="20260409010000 +0000" stop="20260409023000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Avrupa Stüdyosu</title></programme>
+<programme start="20260409023000 +0000" stop="20260409041300 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Al Hilal-Al Kholood</title></programme>
+<programme start="20260409041300 +0000" stop="20260409041500 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20260409041500 +0000" stop="20260409043000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Portekiz Premier Lig Özetler</title></programme>
+<programme start="20260409043000 +0000" stop="20260409050000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">İtalya Seri A Özetler</title></programme>
+<programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20260409070000 +0000" stop="20260409071500 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">İşitme Engelliler Spor Bülteni</title></programme>
+<programme start="20260409071500 +0000" stop="20260409072500 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Trendyol Süper Lig Goller</title></programme>
+<programme start="20260409072500 +0000" stop="20260409080000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20260409080000 +0000" stop="20260409093000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Spor Manşet</title></programme>
+<programme start="20260409093000 +0000" stop="20260409103000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20260409103000 +0000" stop="20260409110000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Uefa Şampiyonlar Ligi Çeyrek Final Futbol Karşılaşması Özetler</title></programme>
+<programme start="20260409110000 +0000" stop="20260409123000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Spor Stüdyosu</title></programme>
+<programme start="20260409123000 +0000" stop="20260409140000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Gündem Futbol</title></programme>
+<programme start="20260409140000 +0000" stop="20260409160000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Boluspor - Özbelsan Sivasspor</title></programme>
+<programme start="20260409160000 +0000" stop="20260409163000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Spor Merkezi</title></programme>
+<programme start="20260409163000 +0000" stop="20260409170000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Sormazsam Olmaz</title></programme>
+<programme start="20260409170000 +0000" stop="20260409190000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Özetler</title></programme>
+<programme start="20260409190000 +0000" stop="20260409210000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Aktüel Futbol</title></programme>
 <programme start="20260409210000 +0000" stop="20260409223000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Avrupa Stüdyosu</title></programme>
 <programme start="20260409223000 +0000" stop="20260409230000 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Spor Artı</title></programme>
 <programme start="20260409230000 +0000" stop="20260409231500 +0000" channel="58d29bb0eefad3db9c606231"><title lang="tr">Uefa Avrupa Ligi Çeyrek Final Futbol Karşılaşması Özetler</title></programme>
@@ -5047,6 +5068,43 @@
 <programme start="20260410160000 +0000" stop="20260410165500 +0000" channel="TRT1.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260410165500 +0000" stop="20260410170000 +0000" channel="TRT1.tr@SD"><title lang="tr">İddiaların Aksine Bölüm 1168</title></programme>
 <programme start="20260410170000 +0000" stop="20260410200000 +0000" channel="TRT1.tr@SD"><title lang="tr">Taşacak Bu Deniz Bölüm 24</title></programme>
+<programme start="20260408220000 +0000" stop="20260408234500 +0000" channel="TRT2.tr@SD"><title lang="tr">Yabancı Sinema: Notting Hill&apos;deki Pastane (Love Sarah)</title></programme>
+<programme start="20260408234500 +0000" stop="20260409001500 +0000" channel="TRT2.tr@SD"><title lang="tr">Akustik Sırlar Bölüm 3</title><desc lang="tr">Sesin görünmeyen dünyasını keşfe çıkan Akustik Sırlar programında bu hafta görme engellilerin müzik besteleme süreçleri, sesleri algılama biçimleri ve özgün ifade yolları ekrana taşınıyor.</desc></programme>
+<programme start="20260409001500 +0000" stop="20260409010000 +0000" channel="TRT2.tr@SD"><title lang="tr">Bakış Boşluğu Bölüm 12</title><desc lang="tr">Bakış Boşluğu programında bu hafta Mutlu Kurnalı ve sinema yazarı Enver Gülşen, temsilin, teslimiyetin, inancın sınırlarını deşerek; sinemada ve yaşamda &quot;din&quot; hallerini tartışıyor.</desc></programme>
+<programme start="20260409010000 +0000" stop="20260409013000 +0000" channel="TRT2.tr@SD"><title lang="tr">Müstesna Bölüm 11</title><desc lang="tr">Müstesna programının bu bölümünde bedensel engelli yazar Mustafa Oğuz Mucurluoğlu&apos;nun edebiyat dünyası ekrana taşınıyor.</desc></programme>
+<programme start="20260409013000 +0000" stop="20260409015800 +0000" channel="TRT2.tr@SD"><title lang="tr">Anlatı Bölüm 9</title><desc lang="tr">Anlatı programında bu hafta Türk edebiyatının öykü yazarlarından Sait Faik Abasıyanık imzalı &quot;Hişt Hişt&quot; öyküsü sahneye taşınıyor. Tiyatro sanatçısı Hakan Gerçek&apos;in seslendirdiği öyküye ressam Birim Erol Veysel ve gitarist Olgun Öner eşlik ediyor.</desc></programme>
+<programme start="20260409015800 +0000" stop="20260409020000 +0000" channel="TRT2.tr@SD"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20260409020000 +0000" stop="20260409023000 +0000" channel="TRT2.tr@SD"><title lang="tr">Geometrik Desenler Bölüm 7</title><desc lang="tr">Geometrik Desenler programında bu hafta İslami geometrik süslemelerdeki sonsuzluk ilkesini tek başına sağlamayan beşgen şeklinden beşli desenler türetilerek ve yardımcı elemanlar kullanılarak sanatçıların kısıtları olan şekillerle sınırları zorlaması ekrana geliyor.</desc></programme>
+<programme start="20260409023000 +0000" stop="20260409031500 +0000" channel="TRT2.tr@SD"><title lang="tr">Evliya Çelebi Bölüm 49</title><desc lang="tr">Seyyah Evliya Çelebi&apos;nin rotasını takip ettiğimiz program bu hafta Manisa&apos;da.</desc></programme>
+<programme start="20260409031500 +0000" stop="20260409033000 +0000" channel="TRT2.tr@SD"><title lang="tr">Hüner Bölüm 8</title><desc lang="tr">Hüner programında bu hafta ebru sanatı yapımının aşamaları anlatılıyor.</desc></programme>
+<programme start="20260409033000 +0000" stop="20260409040000 +0000" channel="TRT2.tr@SD"><title lang="tr">Antik Miras Bölüm 6</title><desc lang="tr">Antik Miras programında bu hafta uzmanlar, dünyanın en iyi korunmuş Roma garnizonlarından olan Zerzavan Kalesi&apos;ni ve içerisinde yer alan Roma&apos;nın Doğu sınırında bulunan tek Mithras Tapınağı&apos;nı 3D modellemeler ile anlatıyor.</desc></programme>
+<programme start="20260409040000 +0000" stop="20260409043000 +0000" channel="TRT2.tr@SD"><title lang="tr">Edebî Sofralar Bölüm 8</title><desc lang="tr">Baha Aydın&apos;ın sunduğu &quot;Edebî Sofralar&quot; programında bu hafta yazar Haşmet Babaoğlu ile &quot;Peyami Safa&quot; ve &quot;Yalnızız&quot; romanı, dönemi yansıtan bir sofra eşliğinde konuşuluyor.</desc></programme>
+<programme start="20260409043000 +0000" stop="20260409050000 +0000" channel="TRT2.tr@SD"><title lang="tr">Hayat Sanat Bölüm 1829</title></programme>
+<programme start="20260409050000 +0000" stop="20260409053000 +0000" channel="TRT2.tr@SD"><title lang="tr">Sinem Çapraz İle Lezzet Atlası Bölüm 19</title><desc lang="tr">Antik çağlardan günümüze kadar uzanan yemeklerin, mutfak kültüründeki gelişmelerin ve tarihi mekanların hikayelerinin anlatıldığı ‘&apos;Sinem Çapraz ile Lezzet Atlası&apos;&apos; bu hafta Ayvacık&apos;ta.</desc></programme>
+<programme start="20260409053000 +0000" stop="20260409060000 +0000" channel="TRT2.tr@SD"><title lang="tr">Kim Korkar Geleneksel Sanattan Bölüm 10</title><desc lang="tr">Samed Karagöz&apos;ün sunumuyla &quot;Kim Korkar Geleneksel Sanattan&quot; programında bu hafta bir geleneksel sanat eserinin ekonomik değerinin nasıl belirlendiği konuşuluyor.</desc></programme>
+<programme start="20260409060000 +0000" stop="20260409063000 +0000" channel="TRT2.tr@SD"><title lang="tr">Selçuklu Mirası Bölüm 7</title><desc lang="tr">Selçuklu Mirası programında bu hafta Selçuklu Devleti&apos;nin ticaret ve ticareti geliştirmek üzerine yaptığı çalışmalar, sırasıyla dönemsel olarak basılan paralar anlatılıyor.</desc></programme>
+<programme start="20260409063000 +0000" stop="20260409070000 +0000" channel="TRT2.tr@SD"><title lang="tr">Sinematograf Bölüm 39</title><desc lang="tr">Sinematograf programında bu hafta Prof. Dr. Arda Odabaşı ve Ayşe Betül Kayahan, Türk sinemasının önemli yönetmenlerinden biri olan Faruk Kenç&apos;in sineması üzerine konuşuyor.</desc></programme>
+<programme start="20260409070000 +0000" stop="20260409073000 +0000" channel="TRT2.tr@SD"><title lang="tr">Eve Dönen Miras Bölüm 12</title><desc lang="tr">Anadolu topraklarından kaçırılan fakat hukuk mücadeleleri sonucu ülkemize geri dönen tarihi eserlerin anlatıldığı Eve Dönen Miras programında bu hafta, Macaristan&apos;dan iadesi sağlanan Urartu eserleri ekrana geliyor.</desc></programme>
+<programme start="20260409073000 +0000" stop="20260409080000 +0000" channel="TRT2.tr@SD"><title lang="tr">Eşik Bölüm 20</title><desc lang="tr">Eşik programında bu hafta yirmi yıl önce bir yarışma sonucu inşasına başlanan ve günümüzde kullanıma açılan Cumhurbaşkanlığı Senfoni Orkestrası binasının sürecini yapının mimarlarından dinliyoruz.</desc></programme>
+<programme start="20260409080000 +0000" stop="20260409083000 +0000" channel="TRT2.tr@SD"><title lang="tr">Akustik Sırlar Bölüm 3</title><desc lang="tr">Sesin görünmeyen dünyasını keşfe çıkan Akustik Sırlar programında bu hafta görme engellilerin müzik besteleme süreçleri, sesleri algılama biçimleri ve özgün ifade yolları ekrana taşınıyor.</desc></programme>
+<programme start="20260409083000 +0000" stop="20260409090000 +0000" channel="TRT2.tr@SD"><title lang="tr">Anadolu&apos;da Giyimin Ayak İzleri Bölüm 13</title><desc lang="tr">Anadolu&apos;da Giyimin Ayak İzleri programında Günseli Kato bu hafta Keles&apos;te geleneksel giyimin yaşayan izlerini sürüyor; Yörük desenlerinin ve korunmuş ritüellerin derin mesajlarını uzmanlarla izleyiciye aktarıyor.</desc></programme>
+<programme start="20260409090000 +0000" stop="20260409093000 +0000" channel="TRT2.tr@SD"><title lang="tr">Hayat Sanat Bölüm 1829</title></programme>
+<programme start="20260409093000 +0000" stop="20260409100000 +0000" channel="TRT2.tr@SD"><title lang="tr">Adagio Bölüm 10</title><desc lang="tr">Klasik müzik tarihinde önemli yere sahip eserlerin ekrana taşındığı Adagio&apos;da bu hafta; Frédéric Chopin&apos;in yazdığı Noktürne Op. 9 No. 2 parçasını piyanist Özgür Ünaldı sergilerken Prof. Ahmet Bülent Alaner ve müzik yazarı Aydın Büke parça hakkında görüşlerini dile getiriyor.</desc></programme>
+<programme start="20260409100000 +0000" stop="20260409103000 +0000" channel="TRT2.tr@SD"><title lang="tr">Resme Yolculuk Bölüm 6</title><desc lang="tr">Cumhuriyetin 100. yılında Türkiye&apos;nin en güzel yerlerini resmetmek üzere çıkılan yolculukta bu hafta ressam Murat Turan, Kırklareli&apos;yi resmeden Saip Tuna&apos;nın izinden gidiyor.</desc></programme>
+<programme start="20260409103000 +0000" stop="20260409110000 +0000" channel="TRT2.tr@SD"><title lang="tr">İşaretler Bölüm 10</title><desc lang="tr">Şule Denli&apos;nin Şanlıurfa Müzesi&apos;ndeki keşif yolculuğunun bu bölümünde, tarih öncesi dönemlerden günümüze sanatın ve işaret dilinin evrimi ekrana taşıyor.</desc></programme>
+<programme start="20260409110000 +0000" stop="20260409113000 +0000" channel="TRT2.tr@SD"><title lang="tr">Edebî Sofralar Bölüm 8</title><desc lang="tr">Baha Aydın&apos;ın sunduğu &quot;Edebî Sofralar&quot; programında bu hafta yazar Haşmet Babaoğlu ile &quot;Peyami Safa&quot; ve &quot;Yalnızız&quot; romanı, dönemi yansıtan bir sofra eşliğinde konuşuluyor.</desc></programme>
+<programme start="20260409113000 +0000" stop="20260409120000 +0000" channel="TRT2.tr@SD"><title lang="tr">Tiyatrovizyon Bölüm 13</title><desc lang="tr">Devlet Tiyatroları&apos;nda sahnelenen eserlerin hazırlık ve izleyiciyle buluşma süreçlerinin ekrana taşındığı Tiyatrovizyon&apos;da bu hafta; Lysistrata.</desc></programme>
+<programme start="20260409120000 +0000" stop="20260409134500 +0000" channel="TRT2.tr@SD"><title lang="tr">Yabancı Sinema: Notting Hill&apos;deki Pastane (Love Sarah)</title></programme>
+<programme start="20260409134500 +0000" stop="20260409140000 +0000" channel="TRT2.tr@SD"><title lang="tr">Hüner Bölüm 8</title><desc lang="tr">Hüner programında bu hafta ebru sanatı yapımının aşamaları anlatılıyor.</desc></programme>
+<programme start="20260409140000 +0000" stop="20260409150000 +0000" channel="TRT2.tr@SD"><title lang="tr">Hülya Koçyiğit İle Film Gibi Hayatlar Bölüm 312</title><desc lang="tr">Hülya Koçyiğit ile Film Gibi Hayatlar&apos;ın bu haftaki konuğu İlhami Atalay.</desc></programme>
+<programme start="20260409150000 +0000" stop="20260409153000 +0000" channel="TRT2.tr@SD"><title lang="tr">Hayat Sanat Bölüm 1830</title></programme>
+<programme start="20260409153000 +0000" stop="20260409160000 +0000" channel="TRT2.tr@SD"><title lang="tr">Hatır Bölüm 10</title><desc lang="tr">Hatır programında bu hafta sanat tarihçileri, Halil Paşa&apos;nın Şakayıklar ve Kadın eserini ve eserde yer alan kat&apos;ı sanatını konuşuyorlar.</desc></programme>
+<programme start="20260409160000 +0000" stop="20260409163000 +0000" channel="TRT2.tr@SD"><title lang="tr">Geometrik Desenler Bölüm 7</title><desc lang="tr">Geometrik Desenler programında bu hafta İslami geometrik süslemelerdeki sonsuzluk ilkesini tek başına sağlamayan beşgen şeklinden beşli desenler türetilerek ve yardımcı elemanlar kullanılarak sanatçıların kısıtları olan şekillerle sınırları zorlaması ekrana geliyor.</desc></programme>
+<programme start="20260409163000 +0000" stop="20260409173000 +0000" channel="TRT2.tr@SD"><title lang="tr">Sinema + Bölüm 367</title></programme>
+<programme start="20260409173000 +0000" stop="20260409180000 +0000" channel="TRT2.tr@SD"><title lang="tr">Sanatkâr Gönüller Bölüm 7</title><desc lang="tr">Sanatkâr Gönüller programında bu hafta Rana Uslu ve Yedikule Göğüs Hastalıkları Eğitim ve Araştırma Hastanesi&apos;ndeki sağlık çalışanlarının, yoğun meslek hayatı içinde resim ve sanat aracılığıyla kurdukları iyileştirici dayanışma dünyası ekrana geliyor.</desc></programme>
+<programme start="20260409180000 +0000" stop="20260409183000 +0000" channel="TRT2.tr@SD"><title lang="tr">Koca Sinan Bölüm 3</title><desc lang="tr">Osmanlı Devleti&apos;nin en önemli mimarı Mimar Sinan&apos;ın yaşantısı ve eserlerinin anlatıldığı &quot;Koca Sinan&quot; programında bu bölüm &quot;Büyükçekmece Köprüsü&quot; anlatılıyor.</desc></programme>
+<programme start="20260409183000 +0000" stop="20260409200000 +0000" channel="TRT2.tr@SD"><title lang="tr">Yabancı Sinema: Mücadele (Harka)</title></programme>
+<programme start="20260409200000 +0000" stop="20260409211500 +0000" channel="TRT2.tr@SD"><title lang="tr">Belgesel: Mimar Olmanın Önemi (The Importance of Being an Arthitect)</title></programme>
 <programme start="20260409211500 +0000" stop="20260409221500 +0000" channel="TRT2.tr@SD"><title lang="tr">Felsefenin Serüveni Bölüm 1</title><desc lang="tr">İsak Baydaroğlu&apos;nun moderatörlüğü, Prof. Dr. Cengiz Çakmak&apos;ın anlatımıyla Felsefenin Serüveni&apos;nde bu hafta, &quot;sınır&quot; kavramı ve Eski Yunan felsefesinin hangi düşünce havzalarıyla beslendiği tartışılıyor.</desc></programme>
 <programme start="20260409221500 +0000" stop="20260409234500 +0000" channel="TRT2.tr@SD"><title lang="tr">Yabancı Sinema: Mücadele (Harka)</title></programme>
 <programme start="20260409234500 +0000" stop="20260410004500 +0000" channel="TRT2.tr@SD"><title lang="tr">Sinema + Bölüm 367</title></programme>
@@ -5749,6 +5807,51 @@
 <programme start="20260410192500 +0000" stop="20260410195000 +0000" channel="TRTSporYildiz.tr@SD"><title lang="tr">Sporun İkonları</title></programme>
 <programme start="20260410195000 +0000" stop="20260410200500 +0000" channel="TRTSporYildiz.tr@SD"><title lang="tr">Sormazsam Olmaz</title></programme>
 <programme start="20260410200500 +0000" stop="20260410230500 +0000" channel="TRTSporYildiz.tr@SD"><title lang="tr">Kadınlar Basketbol Eurocup | Mersin Çbk-Athınaıkos Qualco</title></programme>
+<programme start="20260408211500 +0000" stop="20260408220000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Böyle Bitmesin Bölüm 118</title></programme>
+<programme start="20260408220000 +0000" stop="20260408221500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Fabrika Ayarı Bölüm 36</title></programme>
+<programme start="20260408221500 +0000" stop="20260408230000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz Bölüm 20</title></programme>
+<programme start="20260408230000 +0000" stop="20260408234000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Dünyadaki Türkiye Bölüm 45</title><desc lang="tr">Yeni Zelanda Türkiye ilişkileri</desc></programme>
+<programme start="20260408234000 +0000" stop="20260409001000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Yedi Tepeli Şehirde Bir Gün Bölüm 13</title></programme>
+<programme start="20260409001000 +0000" stop="20260409004000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Kalbimdeki Türkiye Bölüm 39</title></programme>
+<programme start="20260409004000 +0000" stop="20260409011000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Misafir Kapıda Bölüm 56</title></programme>
+<programme start="20260409011000 +0000" stop="20260409014000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Gönül Verenler Bölüm 63</title></programme>
+<programme start="20260409014000 +0000" stop="20260409015500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Fabrika Ayarı Bölüm 36</title></programme>
+<programme start="20260409015500 +0000" stop="20260409023000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">İnsan İnsan Bölüm 14</title></programme>
+<programme start="20260409023000 +0000" stop="20260409030000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Aşkın Yolculuğu Yunus Emre Bölüm 13</title></programme>
+<programme start="20260409030000 +0000" stop="20260409033000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Bir Cami Bir Hikaye Bölüm 13</title></programme>
+<programme start="20260409033000 +0000" stop="20260409034000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">En Güzel Bölüm 13</title></programme>
+<programme start="20260409034000 +0000" stop="20260409035500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Örnek Bölüm 13</title></programme>
+<programme start="20260409035500 +0000" stop="20260409040000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">İstiklal Marşı Çocuk</title></programme>
+<programme start="20260409040000 +0000" stop="20260409043000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">İnsan İnsan Bölüm 15</title></programme>
+<programme start="20260409043000 +0000" stop="20260409044000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Kıbrıs Masalları Bölüm 4</title></programme>
+<programme start="20260409044000 +0000" stop="20260409045000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Burak İle Bubu Bölüm 14</title></programme>
+<programme start="20260409045000 +0000" stop="20260409050500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Gökten Üç Elma Düştü Bölüm 4</title></programme>
+<programme start="20260409050500 +0000" stop="20260409052000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Arkadaşım Kirpi Bölüm 9</title></programme>
+<programme start="20260409052000 +0000" stop="20260409053000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Kitapçı Dükkanı Bölüm 4</title></programme>
+<programme start="20260409053000 +0000" stop="20260409060000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Temizlik Kulübü Bölüm 14</title></programme>
+<programme start="20260409060000 +0000" stop="20260409063000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Aşkın Yolculuğu Yunus Emre Bölüm 14</title></programme>
+<programme start="20260409063000 +0000" stop="20260409070000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Memleket Kreuzberg Bölüm 14</title></programme>
+<programme start="20260409070000 +0000" stop="20260409073000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Haberdar Bölüm 322</title></programme>
+<programme start="20260409073000 +0000" stop="20260409080000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Rumeli Saati Bölüm 28</title></programme>
+<programme start="20260409080000 +0000" stop="20260409090000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Rehber Bölüm 741</title></programme>
+<programme start="20260409090000 +0000" stop="20260409093000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Annem Yapardı Bölüm 34</title></programme>
+<programme start="20260409093000 +0000" stop="20260409100000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Rumeli Lezzetleri Bölüm 39</title></programme>
+<programme start="20260409100000 +0000" stop="20260409110000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Aile Bölüm 480</title></programme>
+<programme start="20260409110000 +0000" stop="20260409115000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Öğle Ana Haber</title></programme>
+<programme start="20260409115000 +0000" stop="20260409120000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Fabrika Ayarı Bölüm 32</title></programme>
+<programme start="20260409120000 +0000" stop="20260409130000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Sağlık Olsun Bölüm 761</title></programme>
+<programme start="20260409130000 +0000" stop="20260409135000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Beni Böyle Sev 131/89</title></programme>
+<programme start="20260409135000 +0000" stop="20260409140000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Kıbrıs Sözlüğü Bölüm 4</title></programme>
+<programme start="20260409140000 +0000" stop="20260409143000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Temizlik Kulübü Bölüm 14</title></programme>
+<programme start="20260409143000 +0000" stop="20260409150000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Köy Havası Bölüm 4</title></programme>
+<programme start="20260409150000 +0000" stop="20260409160000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Belgesel: Zeytin Ağacının Altında (Under An Olive Tree)</title></programme>
+<programme start="20260409160000 +0000" stop="20260409164500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Sıcak Haber</title></programme>
+<programme start="20260409164500 +0000" stop="20260409170000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Mikrofon Senin &quot;Danimarka&quot; Bölüm 11</title></programme>
+<programme start="20260409170000 +0000" stop="20260409190000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">TRT TÜRK</title></programme>
+<programme start="20260409190000 +0000" stop="20260409191500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Fabrika Ayarı Bölüm 32</title></programme>
+<programme start="20260409191500 +0000" stop="20260409194500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Aşkın Yolculuğu Yunus Emre Bölüm 14</title></programme>
+<programme start="20260409194500 +0000" stop="20260409203000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Tutunamayanlar Bölüm 9</title><desc lang="tr">Tarık, İrem&apos;le samimi bir şekilde konuşmak, duygularını açmak isterken onun başını belaya sokar. Lütfü, çalıştığı reklam ajansında fikren karşı olduğu bir sisteme dahil olur.</desc></programme>
+<programme start="20260409203000 +0000" stop="20260409211500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Teşkilat Bölüm 14</title><desc lang="tr">Çatışmada araçta sıkışan Pınar&apos;ın hayatı tehlikededir. Serdar, peşinde olduğu teröristin uçağı kaçırmasının ardından büyük saldırı planının uçakla gerçekleşeceğini anlar. Fadi&apos;nin kaçtığı ve Serdar&apos;ın içinde olduğu uçağın kaçırıldığı bilgisi karargaha ulaşınca ekip teyakkuza geçer.</desc></programme>
 <programme start="20260409211500 +0000" stop="20260409220000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Böyle Bitmesin Bölüm 119</title></programme>
 <programme start="20260409220000 +0000" stop="20260409221500 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Fabrika Ayarı Bölüm 32</title></programme>
 <programme start="20260409221500 +0000" stop="20260409230000 +0000" channel="TRTTurk.tr@SD"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz Bölüm 18</title></programme>
