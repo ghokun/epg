@@ -33,13 +33,13 @@ jobs:
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git
           cd epg
           npm install
-          # npm run grab --- --site=tvplus.com.tr --output=../bin/tvplus.com.tr/guide.xml
-          npm run grab --- --site=dsmart.com.tr --output=../bin/dsmart.com.tr/guide.xml
-          # npm run grab --- --site=digiturk.com.tr --output=../bin/digiturk.com.tr/guide.xml
+          npm run grab --- --sites=tvplus.com.tr --output=../bin/tvplus.com.tr/guide.xml
+          npm run grab --- --sites=dsmart.com.tr --output=../bin/dsmart.com.tr/guide.xml
+          npm run grab --- --sites=digiturk.com.tr --output=../bin/digiturk.com.tr/guide.xml
           # Disabled until certificate is resolved
-          # npm run grab --- --site=turksatkablo.com.tr --output=../bin/turksatkablo.com.tr/guide.xml
-          npm run grab --- --site=ziggogo.tv --output=../bin/ziggogo.tv/guide.xml
-          npm run grab --- --site=tv.blue.ch --output=../bin/tv.blue.ch/guide.xml
+          # npm run grab --- --sites=turksatkablo.com.tr --output=../bin/turksatkablo.com.tr/guide.xml
+          npm run grab --- --sites=ziggogo.tv --output=../bin/ziggogo.tv/guide.xml
+          npm run grab --- --sites=tv.blue.ch --output=../bin/tv.blue.ch/guide.xml
           cd ..
           rm -rf epg
       - name: Commit and push
