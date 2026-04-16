@@ -1364,7 +1364,7 @@
 <programme start="20260416143000 +0000" stop="20260416160000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Yarım kalan Saadet&quot;</title></programme>
 <programme start="20260416160000 +0000" stop="20260416180000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title><desc lang="tr">Siz de “Ben Bilirim” diyorsanız tüm aile 360 ekranlarına Alper Ateş’le Ben Bilirim’e davetlisiniz...</desc></programme>
 <programme start="20260416180000 +0000" stop="20260416200000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Alev Alev&quot;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri 360 ekranlarında seyircisiyle buluşuyor.</desc></programme>
-<programme start="20260416200000 +0000" stop="20260416211500 +0000" channel="360.tr@SD"><title lang="tr">Pınar Altuğ Atacan İle Kim O?</title></programme>
+<programme start="20260416200000 +0000" stop="20260416211500 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &apos;&apos;Yarım Kalan Saadet&apos;&apos;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri 360 ekranlarında seyircisiyle buluşuyor.</desc></programme>
 <programme start="20260416211500 +0000" stop="20260416214500 +0000" channel="360.tr@SD"><title lang="tr">Lezzet Peşinde &quot;Tekrar&quot;</title></programme>
 <programme start="20260416214500 +0000" stop="20260416230000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title><desc lang="tr">Siz de “Ben Bilirim” diyorsanız tüm aile 360 ekranlarına Alper Ateş’le Ben Bilirim’e davetlisiniz...</desc></programme>
 <programme start="20260416230000 +0000" stop="20260417004500 +0000" channel="360.tr@SD"><title lang="tr">Zamanı Geldi &quot;Tekrar&quot;</title></programme>
@@ -1377,9 +1377,9 @@
 <programme start="20260417100000 +0000" stop="20260417120000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Yarım Kalan Saadet&quot;</title></programme>
 <programme start="20260417120000 +0000" stop="20260417130000 +0000" channel="360.tr@SD"><title lang="tr">Seren&apos;le Mutfakta Buluşalım &quot;Tekrar&quot;</title></programme>
 <programme start="20260417130000 +0000" stop="20260417143000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Alev Alev&quot;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri 360 ekranlarında seyircisiyle buluşuyor.</desc></programme>
-<programme start="20260417143000 +0000" stop="20260417160000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Gülşah&quot;</title></programme>
+<programme start="20260417143000 +0000" stop="20260417160000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Hıçkırık&quot;</title></programme>
 <programme start="20260417160000 +0000" stop="20260417180000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title><desc lang="tr">Siz de “Ben Bilirim” diyorsanız tüm aile 360 ekranlarına Alper Ateş’le Ben Bilirim’e davetlisiniz...</desc></programme>
-<programme start="20260417180000 +0000" stop="20260417200000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Bitirimler Sosyetede&quot;</title></programme>
+<programme start="20260417180000 +0000" stop="20260417200000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Hayat Köprüsü&quot;</title></programme>
 <programme start="20260417200000 +0000" stop="20260417213000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Hınç&quot;</title></programme>
 <programme start="20260415210000 +0000" stop="20260416000000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
 <programme start="20260416000000 +0000" stop="20260416010000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Zeynep Yılmazok İle Yerinde Lezzet</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
@@ -2921,7 +2921,7 @@
 <programme start="20260417180000 +0000" stop="20260417190000 +0000" channel="CNNInternational.us@MENA"><title lang="tr">Isa Soares Tonight</title><desc lang="tr">Isa Soares deep dives into today&apos;s top stories with insightful conversations and reports from around the world.</desc><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="CNNInternational.us@MENA"><title lang="tr">What We Know with Max Foster</title><desc lang="tr">Max Foster has a definitive roundup of the day&apos;s top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="CNNInternational.us@MENA"><title lang="tr">Quest Means Business</title><desc lang="tr">Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260415220000 +0000" stop="20260416003000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Tarafsız Bölge( T)</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260415210000 +0000" stop="20260416003000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Tarafsız Bölge( T)</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260416003000 +0000" stop="20260416030000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gece Haberleri</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260416030000 +0000" stop="20260416060000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">A&apos;dan Z&apos;ye</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260416060000 +0000" stop="20260416090000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gündem</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
@@ -3823,11 +3823,9 @@
 <programme start="20260417020000 +0000" stop="20260417030000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260417030000 +0000" stop="20260417040000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260417040000 +0000" stop="20260417070000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Başlıyor</title></programme>
-<programme start="20260417070000 +0000" stop="20260417084500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Para Gündem</title></programme>
-<programme start="20260417084500 +0000" stop="20260417090000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20260417070000 +0000" stop="20260417090000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Para Gündem</title></programme>
 <programme start="20260417090000 +0000" stop="20260417110000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20260417110000 +0000" stop="20260417124500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Hattı</title></programme>
-<programme start="20260417124500 +0000" stop="20260417130000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20260417110000 +0000" stop="20260417130000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Hattı</title></programme>
 <programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">HT360</title></programme>
 <programme start="20260417140000 +0000" stop="20260417160000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
 <programme start="20260417160000 +0000" stop="20260417170000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
@@ -3937,7 +3935,26 @@
 <programme start="20260417203000 +0000" stop="20260418033000 +0000" channel="Kanal7.tr@SD"><title lang="tr">TV Filmi</title></programme>
 <programme start="20260415211500 +0000" stop="20260415233000 +0000" channel="KanalD.tr@SD"><title lang="tr">Uzak Şehir</title></programme>
 <programme start="20260415233000 +0000" stop="20260416020000 +0000" channel="KanalD.tr@SD"><title lang="tr">Gelinim Mutfakta</title></programme>
-<programme start="20260416020000 +0000" stop="20260416050000 +0000" channel="KanalD.tr@SD"><title lang="tr">Zalim İstanbul</title></programme>
+<programme start="20260416020000 +0000" stop="20260416040000 +0000" channel="KanalD.tr@SD"><title lang="tr">Zalim İstanbul</title></programme>
+<programme start="20260416040000 +0000" stop="20260416060000 +0000" channel="KanalD.tr@SD"><title lang="tr">Küçük Ağa</title></programme>
+<programme start="20260416060000 +0000" stop="20260416080000 +0000" channel="KanalD.tr@SD"><title lang="tr">Neler Oluyor Hayatta</title></programme>
+<programme start="20260416080000 +0000" stop="20260416110000 +0000" channel="KanalD.tr@SD"><title lang="tr">Yaprak Dökümü</title></programme>
+<programme start="20260416110000 +0000" stop="20260416134500 +0000" channel="KanalD.tr@SD"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20260416134500 +0000" stop="20260416160000 +0000" channel="KanalD.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20260416160000 +0000" stop="20260416170000 +0000" channel="KanalD.tr@SD"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20260416170000 +0000" stop="20260416184500 +0000" channel="KanalD.tr@SD"><title lang="tr">Kılıbık</title><desc lang="tr">Karısının sözünden çıkmayan saf bir adamın hikayesini konu eden “Kılıbık” bu akşam Kanal D’de ekrana geliyor. Genç bir adam olan Kamil’in hayatı evi ve eşinden ibarettir. İşinden evine, evinden işine gidip geldiği hayatında, karısı ne derse onu harfiyen yerine getirmektedir. Geçimini zor sağlayan Kamil, ev kirasını ödeyemez hale gelince kapının önüne konulmakla tehdit edilir.</desc></programme>
+<programme start="20260416184500 +0000" stop="20260416203000 +0000" channel="KanalD.tr@SD"><title lang="tr">The Traitors Türkiye</title><desc lang="tr">Giray Altınok&apos;un sunumuyla Türkiye&apos;nin ilk akıl oyunu yarışması olma özelliğini taşıyor. Entrika, manipülasyon ve ihanet dolu dünyanın en büyük akıl oyunu...</desc></programme>
+<programme start="20260416203000 +0000" stop="20260416221500 +0000" channel="KanalD.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20260416221500 +0000" stop="20260416233000 +0000" channel="KanalD.tr@SD"><title lang="tr">Washington&apos;da Deprem</title><desc lang="tr">Washington DC&apos;de meydana gelen bir depremin ardından, Ordu Kolordusu enkaz altında kalan başkanı kurtarmak için zamanla yarışır; bu sırada kötü niyetli bir plan da felaketten faydalanmayı amaçlamaktadır.</desc></programme>
+<programme start="20260416233000 +0000" stop="20260417014500 +0000" channel="KanalD.tr@SD"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20260417014500 +0000" stop="20260417040000 +0000" channel="KanalD.tr@SD"><title lang="tr">Zalim İstanbul</title></programme>
+<programme start="20260417040000 +0000" stop="20260417060000 +0000" channel="KanalD.tr@SD"><title lang="tr">Küçük Ağa</title></programme>
+<programme start="20260417060000 +0000" stop="20260417080000 +0000" channel="KanalD.tr@SD"><title lang="tr">Neler Oluyor Hayatta</title></programme>
+<programme start="20260417080000 +0000" stop="20260417110000 +0000" channel="KanalD.tr@SD"><title lang="tr">Yaprak Dökümü</title></programme>
+<programme start="20260417110000 +0000" stop="20260417134500 +0000" channel="KanalD.tr@SD"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20260417134500 +0000" stop="20260417160000 +0000" channel="KanalD.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20260417160000 +0000" stop="20260417170000 +0000" channel="KanalD.tr@SD"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20260417170000 +0000" stop="20260417200000 +0000" channel="KanalD.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20260415214000 +0000" stop="20260415223500 +0000" channel="LoveNature.ca@SD"><title lang="tr">Zambiya&apos;nın Yabani Yüzü</title><desc lang="tr">Kuraklık mevsimi başlarken, binlerce hayvan Akasya Döngüsü&apos;ne doğru yola çıkar. Her biri, ast üst sisteminde kendi yerini almalı ve arazinin, dikkatsiz hayvanları kendine yem etmeye derece istekli olan tehlikeli sakinlerden kaçınmalıdır.</desc><category lang="tr">Belgesel</category><category lang="tr">Doga-belgeseli</category></programme>
 <programme start="20260415223500 +0000" stop="20260415232500 +0000" channel="LoveNature.ca@SD"><title lang="tr">Mekong&apos;un Gizemleri</title><desc lang="tr">Mekong, özellikle nemin güç bulunduğu kavurucu kurak mevsimde Kamboçya&apos;nın can damarıdır. Yağmur mevsimi tatlı bir rahatlama getirene dek, kuşlardan yarasalara, her türden uçan canlının kaynakları nasıl yönettiğini öğrenin.</desc><category lang="tr">Belgesel</category><category lang="tr">Doga-belgeseli</category></programme>
 <programme start="20260415232500 +0000" stop="20260416002000 +0000" channel="LoveNature.ca@SD"><title lang="tr">Büyülü Ormanın Gizemleri</title><desc lang="tr">Kuzey Kutbu&apos;na seyahat ederek boreal ormandaki yaşamın acımasız zorluklarına bir göz atın ve ardından bazı hayvanların muhteşem uyum sağlama yetilerine hayran kalın. Ren geyiklerinin gizli bir süper gücüne tanık olun, kemirgenlerin kardaki labirentinde gezinin ve geyiklerin neden gurme olduklarını öğrenin.</desc><category lang="tr">Belgesel</category><category lang="tr">Doga-belgeseli</category></programme>
@@ -4302,7 +4319,7 @@
 <programme start="20260417074500 +0000" stop="20260417093000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
 <programme start="20260417093000 +0000" stop="20260417103000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Yasak Elma - Tekrar</title></programme>
 <programme start="20260417103000 +0000" stop="20260417133000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Kadir Ezildi İle En Hamarat Benim</title><desc lang="tr">Birbirinden eğlenceli ve becerikli beş yarışmacı önce temizlik dedektifi Kadir Ezildi’nin göz hapsinde kendi evlerinin temizliğini yapacaklar, evler temizlendikten sonra ise mutfakta hünerlerini sergileyecekler.</desc></programme>
-<programme start="20260417133000 +0000" stop="20260417160000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Yeraltı - Tekrar</title></programme>
+<programme start="20260417133000 +0000" stop="20260417160000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Halef : Köklerin Çağrısı - Tekrar</title></programme>
 <programme start="20260417160000 +0000" stop="20260417170000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Selçuk Tepeli ile Now Ana Haber</title></programme>
 <programme start="20260417170000 +0000" stop="20260417200000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Halef : Köklerin Çağrısı - Tekrar</title></programme>
 <programme start="20260417200000 +0000" stop="20260417224500 +0000" channel="NOWTV.tr@SD"><title lang="tr">Yeraltı - Tekrar</title></programme>
@@ -4350,26 +4367,23 @@
 <programme start="20260416113000 +0000" stop="20260416115000 +0000" channel="NTV.tr@SD"><title lang="tr">Finans Kafe</title></programme>
 <programme start="20260416115000 +0000" stop="20260416115500 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20260416115500 +0000" stop="20260416120000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260416120000 +0000" stop="20260416122500 +0000" channel="NTV.tr@SD"><title lang="tr">Öğle Bülteni</title></programme>
-<programme start="20260416122500 +0000" stop="20260416123000 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
-<programme start="20260416123000 +0000" stop="20260416125500 +0000" channel="NTV.tr@SD"><title lang="tr">Bakış</title></programme>
+<programme start="20260416120000 +0000" stop="20260416125000 +0000" channel="NTV.tr@SD"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20260416125000 +0000" stop="20260416125500 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20260416125500 +0000" stop="20260416130000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260416130000 +0000" stop="20260416134000 +0000" channel="NTV.tr@SD"><title lang="tr">Günün İçinden</title></programme>
 <programme start="20260416134000 +0000" stop="20260416134500 +0000" channel="NTV.tr@SD"><title lang="tr">Piyasalar</title></programme>
 <programme start="20260416134500 +0000" stop="20260416135500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
 <programme start="20260416135500 +0000" stop="20260416140000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260416140000 +0000" stop="20260416143500 +0000" channel="NTV.tr@SD"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20260416143500 +0000" stop="20260416144000 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
-<programme start="20260416144000 +0000" stop="20260416145500 +0000" channel="NTV.tr@SD"><title lang="tr">Gece Gündüz</title></programme>
+<programme start="20260416140000 +0000" stop="20260416145000 +0000" channel="NTV.tr@SD"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20260416145000 +0000" stop="20260416145500 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20260416145500 +0000" stop="20260416150000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260416150000 +0000" stop="20260416153500 +0000" channel="NTV.tr@SD"><title lang="tr">Günün İçinden</title></programme>
 <programme start="20260416153500 +0000" stop="20260416154000 +0000" channel="NTV.tr@SD"><title lang="tr">Piyasalar</title></programme>
 <programme start="20260416154000 +0000" stop="20260416154500 +0000" channel="NTV.tr@SD"><title lang="tr">Uzman Bakışı</title></programme>
 <programme start="20260416154500 +0000" stop="20260416155500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
 <programme start="20260416155500 +0000" stop="20260416160000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260416160000 +0000" stop="20260416161000 +0000" channel="NTV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
-<programme start="20260416161000 +0000" stop="20260416161500 +0000" channel="NTV.tr@SD"><title lang="tr">Piyasalar</title></programme>
-<programme start="20260416161500 +0000" stop="20260416165500 +0000" channel="NTV.tr@SD"><title lang="tr">Ceyda Düvenci ile Bambaşka Sohbetler</title></programme>
+<programme start="20260416160000 +0000" stop="20260416165000 +0000" channel="NTV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20260416165000 +0000" stop="20260416165500 +0000" channel="NTV.tr@SD"><title lang="tr">Piyasalar</title></programme>
 <programme start="20260416165500 +0000" stop="20260416170000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260416170000 +0000" stop="20260416175000 +0000" channel="NTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260416175000 +0000" stop="20260416175500 +0000" channel="NTV.tr@SD"><title lang="tr">Piyasalar</title></programme>
@@ -4461,8 +4475,8 @@
 <programme start="20260416093000 +0000" stop="20260416120000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gelin Evi</title><desc lang="tr">Yeni Bölüm</desc></programme>
 <programme start="20260416120000 +0000" stop="20260416154500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Didem Arslan Yılmaz&apos;la Vazgeçme</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260416154500 +0000" stop="20260416170000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260416170000 +0000" stop="20260416194500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Delikanlı</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260416194500 +0000" stop="20260416211500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Güldür Güldür Show</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260416170000 +0000" stop="20260416184500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Kapımdaki Casus</title><desc lang="tr">Yönetmen: Brian Levant Oyuncular: Jackie Chan, Amber Valletta, Madeline Carroll, Billy Ray Cyrus, George Lopez</desc></programme>
+<programme start="20260416184500 +0000" stop="20260416211500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Delikanlı</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260416211500 +0000" stop="20260416221500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gece Hattı</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260416221500 +0000" stop="20260417003000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260417003000 +0000" stop="20260417030000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Delikanlı</title><desc lang="tr">Tekrar</desc></programme>
@@ -5803,7 +5817,7 @@
 <programme start="20260416074500 +0000" stop="20260416083000 +0000" channel="TV4.tr@SD"><title lang="tr">Metrekare (Tekrar)</title></programme>
 <programme start="20260416083000 +0000" stop="20260416084500 +0000" channel="TV4.tr@SD"><title lang="tr">Mutlu Kahvaltılar (Tekrar)</title></programme>
 <programme start="20260416084500 +0000" stop="20260416090000 +0000" channel="TV4.tr@SD"><title lang="tr">Kolay Mı Sandın</title></programme>
-<programme start="20260416090000 +0000" stop="20260416110000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Ne Umduk Ne Bulduk&quot;</title></programme>
+<programme start="20260416090000 +0000" stop="20260416110000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Söz Müdafanın&quot;</title></programme>
 <programme start="20260416110000 +0000" stop="20260416120000 +0000" channel="TV4.tr@SD"><title lang="tr">Süper Kumbara (Tekrar)</title></programme>
 <programme start="20260416120000 +0000" stop="20260416121500 +0000" channel="TV4.tr@SD"><title lang="tr">Tatlı Tuzlu (Tekrar)</title></programme>
 <programme start="20260416121500 +0000" stop="20260416130000 +0000" channel="TV4.tr@SD"><title lang="tr">Gezmek Olsun (Tekrar)</title></programme>
@@ -5812,7 +5826,7 @@
 <programme start="20260416150000 +0000" stop="20260416170000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Akrep&quot;</title></programme>
 <programme start="20260416170000 +0000" stop="20260416190000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;İstanbul Tatili&quot;</title></programme>
 <programme start="20260416190000 +0000" stop="20260416204500 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Akrep&quot;</title></programme>
-<programme start="20260416204500 +0000" stop="20260416234500 +0000" channel="TV4.tr@SD"><title lang="tr">Ataman İle Devr-i Alem (Tekrar)</title></programme>
+<programme start="20260416204500 +0000" stop="20260416210000 +0000" channel="TV4.tr@SD"><title lang="tr">Ataman İle Devr-i Alem (Tekrar)</title></programme>
 <programme start="20260416210000 +0000" stop="20260416214500 +0000" channel="TV4.tr@SD"><title lang="tr">Gezmek Olsun (Tekrar)</title></programme>
 <programme start="20260416214500 +0000" stop="20260416234500 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;İstanbul Tatili&quot;</title></programme>
 <programme start="20260416234500 +0000" stop="20260417011500 +0000" channel="TV4.tr@SD"><title lang="tr">Benim Yemeğim</title></programme>
@@ -5833,11 +5847,11 @@
 <programme start="20260417120000 +0000" stop="20260417121500 +0000" channel="TV4.tr@SD"><title lang="tr">Tatlı Tuzlu (Tekrar)</title></programme>
 <programme start="20260417121500 +0000" stop="20260417130000 +0000" channel="TV4.tr@SD"><title lang="tr">Gezmek Olsun (Tekrar)</title></programme>
 <programme start="20260417130000 +0000" stop="20260417131500 +0000" channel="TV4.tr@SD"><title lang="tr">Kolay Mı Sandın</title></programme>
-<programme start="20260417131500 +0000" stop="20260417150000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Evcilik Oyunu&quot;</title></programme>
-<programme start="20260417150000 +0000" stop="20260417170000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Yumurcak Köprü Altı Çocuğu&quot;</title></programme>
-<programme start="20260417170000 +0000" stop="20260417190000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Evcilik Oyunu&quot;</title></programme>
-<programme start="20260417190000 +0000" stop="20260417204500 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Yumurcak Köprü Altı Çocuğu&quot;</title></programme>
-<programme start="20260417204500 +0000" stop="20260417234500 +0000" channel="TV4.tr@SD"><title lang="tr">Ataman İle Devr-i Alem (Tekrar)</title></programme>
+<programme start="20260417131500 +0000" stop="20260417150000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Ömrümce Aradım&quot;</title></programme>
+<programme start="20260417150000 +0000" stop="20260417170000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Gelin&quot;</title></programme>
+<programme start="20260417170000 +0000" stop="20260417190000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Ömrümce Aradım&quot;</title></programme>
+<programme start="20260417190000 +0000" stop="20260417204500 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Gelin&quot;</title></programme>
+<programme start="20260417204500 +0000" stop="20260417210000 +0000" channel="TV4.tr@SD"><title lang="tr">Ataman İle Devr-i Alem (Tekrar)</title></programme>
 <programme start="20260415211500 +0000" stop="20260415233000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title><desc lang="tr">Efsane yarışma &quot;Zuhal Topal&apos;la Yemekteyiz&quot; hafta içi her gün 16.00&apos;da TV8 ekranlarında sizlerle!</desc><category lang="tr">Eglence</category><category lang="tr">Yarisma</category></programme>
 <programme start="20260415233000 +0000" stop="20260416013000 +0000" channel="TV8.tr@SD"><title lang="tr">Gel Konuşalım</title><desc lang="tr">Bu programda yok yok! En sıcak haberler en ilginç olaylar, modadan estetiğe, spordan ilişkiye, ünlülerin özel hayatlarından sokaktaki yaşama dair ne varsa kadın ve erkek gözünden Gel Konuşalım’da yorumlanıp, tartışılıyor.</desc><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
 <programme start="20260416013000 +0000" stop="20260416023000 +0000" channel="TV8.tr@SD"><title lang="tr">Oynat Bakalım</title><desc lang="tr">En eğlenceli videolar, en komik olaylar Oynat Bakalım&apos;da ekranlarınıza geliyor.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
@@ -5889,7 +5903,7 @@
 <programme start="20260416100000 +0000" stop="20260416130000 +0000" channel="TV100.tr@SD"><title lang="tr">Haberde Gün Ortası</title><desc lang="tr">DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN SİYASİ, EKONOMİK, SOSYAL GELİŞMELERİ, CANLI BAĞLANTILAR VE SON DAKİKA HABERLERİ &quot;TV 100&quot; KALİTESİYLE EKRANLARINIZA TAŞIYORUZ...</desc></programme>
 <programme start="20260416130000 +0000" stop="20260416153000 +0000" channel="TV100.tr@SD"><title lang="tr">Başlıklar</title><desc lang="tr">Günün Öne Çıkan Başlıklarını Değerlendiriyoruz...</desc></programme>
 <programme start="20260416153000 +0000" stop="20260416173000 +0000" channel="TV100.tr@SD"><title lang="tr">Kübra Par ile Ana Haber</title><desc lang="tr">Türkiye&apos;den Ve Dünyadan Siyasi, Ekonomik, Sosyal Gelişmelerin Yer Aldığı Geniş Haber Bülteni...</desc></programme>
-<programme start="20260416173000 +0000" stop="20260416203000 +0000" channel="TV100.tr@SD"><title lang="tr">Başak Şengül ile Doğru Yorum</title><desc lang="tr">Başak Şengül Modaretörlüğünde Doğru Yorum, Alanında Uzman Konukların Yorumlarıyla Siyaset, Ekonomi, Hukuk, Dış Politika Konularını Masaya Yatırıyor...</desc></programme>
+<programme start="20260416173000 +0000" stop="20260416210000 +0000" channel="TV100.tr@SD"><title lang="tr">Başak Şengül ile Doğru Yorum</title><desc lang="tr">Başak Şengül Modaretörlüğünde Doğru Yorum, Alanında Uzman Konukların Yorumlarıyla Siyaset, Ekonomi, Hukuk, Dış Politika Konularını Masaya Yatırıyor...</desc></programme>
 <programme start="20260416210000 +0000" stop="20260416220000 +0000" channel="TV100.tr@SD"><title lang="tr">Gece Haberi</title><desc lang="tr">DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN OLAYLAR, SİYASİ, EKONOMİK, SOSYAL GELİŞMELER, CANLI BAĞLANTILAR VE SON DAKİKA HABERLERİ &quot;TV 100&quot; KALİTESİYLE...</desc></programme>
 <programme start="20260416220000 +0000" stop="20260417010000 +0000" channel="TV100.tr@SD"><title lang="tr">Başak Şengül ile Doğru Yorum</title><desc lang="tr">Başak Şengül Modaretörlüğünde Doğru Yorum, Alanında Uzman Konukların Yorumlarıyla Siyaset, Ekonomi, Hukuk, Dış Politika Konularını Masaya Yatırıyor...</desc></programme>
 <programme start="20260417010000 +0000" stop="20260417021500 +0000" channel="TV100.tr@SD"><title lang="tr">Haber Bülteni</title><desc lang="tr">DÜNYADA VE TÜRKİYE&apos;DE MEYDANA GELEN OLAYLAR, SİYASİ, EKONOMİK, SOSYAL GELİŞMELER, CANLI BAĞLANTILAR VE SON DAKİKA HABERLERİ &quot;TV 100&quot; KALİTESİYLE...</desc></programme>
