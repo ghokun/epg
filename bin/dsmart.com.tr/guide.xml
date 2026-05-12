@@ -1810,9 +1810,9 @@
 <programme start="20260512180000 +0000" stop="20260512190000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Ekonomik Görünüm</title></programme>
 <programme start="20260512190000 +0000" stop="20260512201000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Küresel Piyasalar</title></programme>
 <programme start="20260512201000 +0000" stop="20260512213000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Dört Kadın Bir Dünya</title></programme>
-<programme start="20260512214000 +0000" stop="20260512223000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Aslı Şafak&apos;la İşin Aslı</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260512213000 +0000" stop="20260512223000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Aslı Şafak&apos;la İşin Aslı</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260512223000 +0000" stop="20260512232000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Ece Saruhan&apos;la Oyuna Devam</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260512232000 +0000" stop="20260512234500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Girişimcilik Dünyası</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260512232000 +0000" stop="20260512234500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Girişim Dünyası</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260512234500 +0000" stop="20260513001000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Akıllı Tarım</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260513001000 +0000" stop="20260513013000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Dört Kadın Bir Dünya</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260513013000 +0000" stop="20260513015500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Maden Dünyası</title><desc lang="tr">Tekrar</desc></programme>
@@ -1827,9 +1827,7 @@
 <programme start="20260513080000 +0000" stop="20260513081500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Grafik Düellosu</title></programme>
 <programme start="20260513081500 +0000" stop="20260513090000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Fokus</title></programme>
 <programme start="20260513090000 +0000" stop="20260513093000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">30 Dakika</title></programme>
-<programme start="20260513093000 +0000" stop="20260513100000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Tarım Analiz</title></programme>
-<programme start="20260513100000 +0000" stop="20260513103000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Seans Ortası</title></programme>
-<programme start="20260513103000 +0000" stop="20260513110000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Finansal Teknoloji</title></programme>
+<programme start="20260513093000 +0000" stop="20260513110000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Finansal Teknoloji</title></programme>
 <programme start="20260513110000 +0000" stop="20260513114500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Piyasa Hattı</title></programme>
 <programme start="20260513114500 +0000" stop="20260513121500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">İş Dünyası</title></programme>
 <programme start="20260513121500 +0000" stop="20260513130000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Akıllı Para</title></programme>
@@ -3390,7 +3388,7 @@
 <programme start="20260512170000 +0000" stop="20260512200000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Nedir Ne Değildir?</title></programme>
 <programme start="20260512200000 +0000" stop="20260512220000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gece Raporu</title></programme>
 <programme start="20260512220000 +0000" stop="20260512231500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260512231500 +0000" stop="20260513020000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Nedir Ne Değildir?</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260512231500 +0000" stop="20260513020000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Nedir Ne Değildir?</title></programme>
 <programme start="20260513020000 +0000" stop="20260513030000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260513030000 +0000" stop="20260513040000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260513040000 +0000" stop="20260513070000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Başlıyor</title></programme>
