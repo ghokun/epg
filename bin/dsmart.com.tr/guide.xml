@@ -1619,9 +1619,9 @@
 <programme start="20260514193000 +0000" stop="20260514200000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Context USA</title></programme>
 <programme start="20260514200000 +0000" stop="20260514203000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Context</title></programme>
 <programme start="20260514203000 +0000" stop="20260514210000 +0000" channel="BBCNews.uk@Europe"><title lang="tr">The Context</title></programme>
-<programme start="20260512214000 +0000" stop="20260512223000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Aslı Şafak&apos;la İşin Aslı</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260512213000 +0000" stop="20260512223000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Aslı Şafak&apos;la İşin Aslı</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260512223000 +0000" stop="20260512232000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Ece Saruhan&apos;la Oyuna Devam</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260512232000 +0000" stop="20260512234500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Girişimcilik Dünyası</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260512232000 +0000" stop="20260512234500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Girişim Dünyası</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260512234500 +0000" stop="20260513001000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Akıllı Tarım</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260513001000 +0000" stop="20260513013000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Dört Kadın Bir Dünya</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260513013000 +0000" stop="20260513015500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Maden Dünyası</title><desc lang="tr">Tekrar</desc></programme>
@@ -1636,9 +1636,7 @@
 <programme start="20260513080000 +0000" stop="20260513081500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Grafik Düellosu</title></programme>
 <programme start="20260513081500 +0000" stop="20260513090000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Fokus</title></programme>
 <programme start="20260513090000 +0000" stop="20260513093000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">30 Dakika</title></programme>
-<programme start="20260513093000 +0000" stop="20260513100000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Tarım Analiz</title></programme>
-<programme start="20260513100000 +0000" stop="20260513103000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Seans Ortası</title></programme>
-<programme start="20260513103000 +0000" stop="20260513110000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Finansal Teknoloji</title></programme>
+<programme start="20260513093000 +0000" stop="20260513110000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Finansal Teknoloji</title></programme>
 <programme start="20260513110000 +0000" stop="20260513114500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Piyasa Hattı</title></programme>
 <programme start="20260513114500 +0000" stop="20260513121500 +0000" channel="BloombergHT.tr@SD"><title lang="tr">İş Dünyası</title></programme>
 <programme start="20260513121500 +0000" stop="20260513130000 +0000" channel="BloombergHT.tr@SD"><title lang="tr">Akıllı Para</title></programme>
@@ -3179,7 +3177,7 @@
 <programme start="20260514160000 +0000" stop="20260514170000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Ana Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260514170000 +0000" stop="20260514210000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Mesele</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260512220000 +0000" stop="20260512231500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260512231500 +0000" stop="20260513020000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Nedir Ne Değildir?</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260512231500 +0000" stop="20260513020000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Nedir Ne Değildir?</title></programme>
 <programme start="20260513020000 +0000" stop="20260513030000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260513030000 +0000" stop="20260513040000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260513040000 +0000" stop="20260513070000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Başlıyor</title></programme>
@@ -4267,40 +4265,6 @@
 <programme start="20260514163000 +0000" stop="20260514181500 +0000" channel="Teve2.tr@SD"><title lang="tr">Kelime Oyunu</title></programme>
 <programme start="20260514181500 +0000" stop="20260514204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
 <programme start="20260514204500 +0000" stop="20260514223000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
-<programme start="20260513210000 +0000" stop="20260513214500 +0000" channel="TV4.tr@SD"><title lang="tr">Gezmek Olsun (Tekrar)</title></programme>
-<programme start="20260513214500 +0000" stop="20260513234500 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Memleketim&quot;</title></programme>
-<programme start="20260513234500 +0000" stop="20260514011500 +0000" channel="TV4.tr@SD"><title lang="tr">Benim Hikayem</title></programme>
-<programme start="20260514011500 +0000" stop="20260514014500 +0000" channel="TV4.tr@SD"><title lang="tr">Taşların Dili</title></programme>
-<programme start="20260514014500 +0000" stop="20260514031500 +0000" channel="TV4.tr@SD"><title lang="tr">Cevap Soruda (Tekrar)</title></programme>
-<programme start="20260514031500 +0000" stop="20260514033000 +0000" channel="TV4.tr@SD"><title lang="tr">Kolay Mı Sandın (Tekrar)</title></programme>
-<programme start="20260514033000 +0000" stop="20260514034500 +0000" channel="TV4.tr@SD"><title lang="tr">Ne Yapmalı (Tekrar)</title><desc lang="tr">Psikolog Doç. Dr. Mehmet Şakiroğlu “Ne Yapmalı?’’ diyerek, yaşamamızda daha mutlu olmamızı sağlayacak ipuçlarından, sağlıklı ailenin anahtarına kadar merak edilen birçok konuyu sizler için anlatıyor.</desc></programme>
-<programme start="20260514034500 +0000" stop="20260514040000 +0000" channel="TV4.tr@SD"><title lang="tr">Mutlu Kahvaltılar (Tekrar)</title></programme>
-<programme start="20260514040000 +0000" stop="20260514041500 +0000" channel="TV4.tr@SD"><title lang="tr">Ataman İle Devr-i Alem</title></programme>
-<programme start="20260514041500 +0000" stop="20260514060000 +0000" channel="TV4.tr@SD"><title lang="tr">Cevap Soruda</title></programme>
-<programme start="20260514060000 +0000" stop="20260514064500 +0000" channel="TV4.tr@SD"><title lang="tr">Tarihi Rotalar (Tekrar)</title><desc lang="tr">İstanbul’un tarihi semtlerinde oluşturulan rotaları gezerken ilginç hikayelerin içinde kaybolmaya hazır mısınız?</desc></programme>
-<programme start="20260514064500 +0000" stop="20260514074500 +0000" channel="TV4.tr@SD"><title lang="tr">Tuğçe&apos;nin Mutfağı (Tekrar)</title></programme>
-<programme start="20260514074500 +0000" stop="20260514083000 +0000" channel="TV4.tr@SD"><title lang="tr">Metrekare (Tekrar)</title></programme>
-<programme start="20260514083000 +0000" stop="20260514084500 +0000" channel="TV4.tr@SD"><title lang="tr">Mutlu Kahvaltılar (Tekrar)</title></programme>
-<programme start="20260514084500 +0000" stop="20260514090000 +0000" channel="TV4.tr@SD"><title lang="tr">Kolay Mı Sandın</title></programme>
-<programme start="20260514090000 +0000" stop="20260514110000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Akma Tuna&quot;</title></programme>
-<programme start="20260514110000 +0000" stop="20260514120000 +0000" channel="TV4.tr@SD"><title lang="tr">Süper Kumbara (Tekrar)</title></programme>
-<programme start="20260514120000 +0000" stop="20260514121500 +0000" channel="TV4.tr@SD"><title lang="tr">Tatlı Tuzlu (Tekrar)</title></programme>
-<programme start="20260514121500 +0000" stop="20260514130000 +0000" channel="TV4.tr@SD"><title lang="tr">Gezmek Olsun (Tekrar)</title></programme>
-<programme start="20260514130000 +0000" stop="20260514131500 +0000" channel="TV4.tr@SD"><title lang="tr">Kolay Mı Sandın</title></programme>
-<programme start="20260514131500 +0000" stop="20260514150000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Ezo Gelin&quot;</title></programme>
-<programme start="20260514150000 +0000" stop="20260514170000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Şenlik Var&quot;</title></programme>
-<programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Ezo Gelin&quot;</title></programme>
-<programme start="20260514190000 +0000" stop="20260514204500 +0000" channel="TV4.tr@SD"><title lang="tr">Türk Sineması &quot;Şenlik Var&quot;</title></programme>
-<programme start="20260514204500 +0000" stop="20260514234500 +0000" channel="TV4.tr@SD"><title lang="tr">Ataman İle Devr-i Alem</title></programme>
-<programme start="20260513211500 +0000" stop="20260513233000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title><desc lang="tr">Efsane yarışma &quot;Zuhal Topal&apos;la Yemekteyiz&quot; hafta içi her gün 16.00&apos;da TV8 ekranlarında sizlerle!</desc><category lang="tr">Eglence</category><category lang="tr">Yarisma</category></programme>
-<programme start="20260513233000 +0000" stop="20260514013000 +0000" channel="TV8.tr@SD"><title lang="tr">Gazete Magazin</title><desc lang="tr">Ezgi Avcı&apos;nın sunumuyla en sıcak magazin haberleri, aşklar, kaçamaklar, açılışlar, davetler, özel röportajlar ve magazin dünyasından en özel haberler &quot;Gazete Magazin&quot; ile şimdi TV8&apos;de.</desc><category lang="tr">Haber</category><category lang="tr">Magazin</category></programme>
-<programme start="20260514013000 +0000" stop="20260514023000 +0000" channel="TV8.tr@SD"><title lang="tr">Oynat Bakalım</title><desc lang="tr">En eğlenceli videolar, en komik olaylar Oynat Bakalım&apos;da ekranlarınıza geliyor.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260514023000 +0000" stop="20260514041500 +0000" channel="TV8.tr@SD"><title lang="tr">Tuzak</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260514041500 +0000" stop="20260514060000 +0000" channel="TV8.tr@SD"><title lang="tr">Ebru ile 8&apos;de Sağlık</title><desc lang="tr">Ebru Şallı&apos;nın sunumuyla &apos;&apos;8&apos;de Sağlık&apos;&apos; hafta içi her gün 07.15&apos;te TV8&apos;de.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260514060000 +0000" stop="20260514093000 +0000" channel="TV8.tr@SD"><title lang="tr">Gel Konuşalım</title><desc lang="tr">Bu programda yok yok! En sıcak haberler en ilginç olaylar, modadan estetiğe, spordan ilişkiye, ünlülerin özel hayatlarından sokaktaki yaşama dair ne varsa kadın ve erkek gözünden Gel Konuşalım’da yorumlanıp, tartışılıyor.</desc><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
-<programme start="20260514093000 +0000" stop="20260514124500 +0000" channel="TV8.tr@SD"><title lang="tr">Survivor Ekstra</title><desc lang="tr">Dünyanın en zor ve heyecanlı yarışması ile ilgili tüm merak ettikleriniz “Survivor Ekstra” ile TV8&apos;de.</desc><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
-<programme start="20260514124500 +0000" stop="20260514170000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title><desc lang="tr">Efsane yarışma &quot;Zuhal Topal&apos;la Yemekteyiz&quot; hafta içi her gün 16.00&apos;da TV8 ekranlarında sizlerle!</desc><category lang="tr">Eglence</category><category lang="tr">Yarisma</category></programme>
-<programme start="20260514170000 +0000" stop="20260514211500 +0000" channel="TV8.tr@SD"><title lang="tr">Survivor 2026 &quot;Ünlüler - Gönüllüler&quot;</title><category lang="tr">Eglence</category><category lang="tr">Yarisma</category></programme>
 <programme start="20260512211500 +0000" stop="20260512221500 +0000" channel="TV85.tr@SD"><title lang="tr">En İyi Nakavtlar</title><category lang="tr">Spor</category><category lang="tr">Boks</category></programme>
 <programme start="20260512221500 +0000" stop="20260513001500 +0000" channel="TV85.tr@SD"><title lang="tr">Bir Demet Tiyatro</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260513001500 +0000" stop="20260513023000 +0000" channel="TV85.tr@SD"><title lang="tr">Arkadaşım Hoşgeldin</title><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
