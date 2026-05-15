@@ -2665,7 +2665,8 @@
 <programme start="20260516040000 +0000" stop="20260516060000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Güne Merhaba Hafta Sonu</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260516060000 +0000" stop="20260516063000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260516063000 +0000" stop="20260516070000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Çalışan Türkiye</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
-<programme start="20260516070000 +0000" stop="20260516090000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Hafta Sonu</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260516070000 +0000" stop="20260516083000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Hafta Sonu</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260516083000 +0000" stop="20260516090000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Yeşil Doğa</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260516090000 +0000" stop="20260516120000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260516120000 +0000" stop="20260516140000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260516140000 +0000" stop="20260516150000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
@@ -3724,7 +3725,7 @@
 <programme start="20260515211500 +0000" stop="20260516000000 +0000" channel="KanalD.tr@SD"><title lang="tr">Uzak Şehir</title></programme>
 <programme start="20260516000000 +0000" stop="20260516020000 +0000" channel="KanalD.tr@SD"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20260516020000 +0000" stop="20260516040000 +0000" channel="KanalD.tr@SD"><title lang="tr">Siyah Beyaz Aşk</title></programme>
-<programme start="20260516040000 +0000" stop="20260516053000 +0000" channel="KanalD.tr@SD"><title lang="tr">Yabancı Damat</title></programme>
+<programme start="20260516040000 +0000" stop="20260516053000 +0000" channel="KanalD.tr@SD"><title lang="tr">Küçük Ağa</title></programme>
 <programme start="20260516053000 +0000" stop="20260516064500 +0000" channel="KanalD.tr@SD"><title lang="tr">Konuştukça</title></programme>
 <programme start="20260516064500 +0000" stop="20260516100000 +0000" channel="KanalD.tr@SD"><title lang="tr">Magazin D Cumartesi</title></programme>
 <programme start="20260516100000 +0000" stop="20260516110000 +0000" channel="KanalD.tr@SD"><title lang="tr">Arda&apos;nın Mutfağı</title></programme>
