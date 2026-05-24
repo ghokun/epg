@@ -3794,26 +3794,34 @@
 <programme start="20260524025500 +0000" stop="20260524030000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260524030000 +0000" stop="20260524035500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260524035500 +0000" stop="20260524040000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524040000 +0000" stop="20260524045500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524040000 +0000" stop="20260524043500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524043500 +0000" stop="20260524045500 +0000" channel="NTV.tr@SD"><title lang="tr">Gece Gündüz</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260524045500 +0000" stop="20260524050000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524050000 +0000" stop="20260524055500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524050000 +0000" stop="20260524055000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524055000 +0000" stop="20260524055500 +0000" channel="NTV.tr@SD"><title lang="tr">Bambaşka Sohbetler Kısa</title></programme>
 <programme start="20260524055500 +0000" stop="20260524060000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524060000 +0000" stop="20260524065500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524060000 +0000" stop="20260524061500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524061500 +0000" stop="20260524065500 +0000" channel="NTV.tr@SD"><title lang="tr">Sinan Canan ile Açık Beyin</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260524065500 +0000" stop="20260524070000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524070000 +0000" stop="20260524075500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524070000 +0000" stop="20260524071500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524071500 +0000" stop="20260524075500 +0000" channel="NTV.tr@SD"><title lang="tr">Halkın Mutfağı Esnaf Lokantaları</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260524075500 +0000" stop="20260524080000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260524080000 +0000" stop="20260524081500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260524081500 +0000" stop="20260524085500 +0000" channel="NTV.tr@SD"><title lang="tr">Birol Güven ile Beyaz Perde</title></programme>
 <programme start="20260524085500 +0000" stop="20260524090000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524090000 +0000" stop="20260524094500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524090000 +0000" stop="20260524091500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524091500 +0000" stop="20260524094500 +0000" channel="NTV.tr@SD"><title lang="tr">Anadoludakiler</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260524094500 +0000" stop="20260524095500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
 <programme start="20260524095500 +0000" stop="20260524100000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260524100000 +0000" stop="20260524105500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260524105500 +0000" stop="20260524110000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524110000 +0000" stop="20260524114500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524110000 +0000" stop="20260524111500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524111500 +0000" stop="20260524114500 +0000" channel="NTV.tr@SD"><title lang="tr">Tekno Hayat</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260524114500 +0000" stop="20260524115500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
 <programme start="20260524115500 +0000" stop="20260524120000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524120000 +0000" stop="20260524125500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524120000 +0000" stop="20260524122500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524122500 +0000" stop="20260524124000 +0000" channel="NTV.tr@SD"><title lang="tr">Müze Ziyaretçisi</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260524124000 +0000" stop="20260524125500 +0000" channel="NTV.tr@SD"><title lang="tr">Yeşil Ekran</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260524125500 +0000" stop="20260524130000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260524130000 +0000" stop="20260524131500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260524131500 +0000" stop="20260524132500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
@@ -3831,7 +3839,12 @@
 <programme start="20260524165500 +0000" stop="20260524170000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260524170000 +0000" stop="20260524175500 +0000" channel="NTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
 <programme start="20260524175500 +0000" stop="20260524180000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260524180000 +0000" stop="20260524205500 +0000" channel="NTV.tr@SD"><title lang="tr">Yakın Plan</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260524180000 +0000" stop="20260524185500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524185500 +0000" stop="20260524190000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260524190000 +0000" stop="20260524191500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260524191500 +0000" stop="20260524195500 +0000" channel="NTV.tr@SD"><title lang="tr">Ahmet Mümtaz Taylan ile Empati</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260524195500 +0000" stop="20260524200000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260524200000 +0000" stop="20260524205500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260524205500 +0000" stop="20260524210000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260524210000 +0000" stop="20260524215500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260524215500 +0000" stop="20260524220000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
@@ -4197,21 +4210,6 @@
 <programme start="20260524170000 +0000" stop="20260524180000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Aklın Yolu</title><desc lang="tr">Gündemdeki konular, donanımlı konuklar ve canlı bağlantılar ile masaya yatırılıyor.</desc></programme>
 <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Aklın Yolu</title><desc lang="tr">Gündemdeki konular, donanımlı konuklar ve canlı bağlantılar ile masaya yatırılıyor.</desc></programme>
 <programme start="20260524200000 +0000" stop="20260524230000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Aklın Yolu</title><desc lang="tr">Gündemdeki konular, donanımlı konuklar ve canlı bağlantılar ile masaya yatırılıyor.</desc></programme>
-<programme start="20260524210000 +0000" stop="20260524220000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">S Raporu</title><desc lang="tr">Gün boyunca yaşanan gelişmelerin S Raporu alınıyor.</desc></programme>
-<programme start="20260524220000 +0000" stop="20260525020000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Aklın Yolu</title><desc lang="tr">Gündemdeki konular, donanımlı konuklar ve canlı bağlantılar ile masaya yatırılıyor.</desc></programme>
-<programme start="20260525020000 +0000" stop="20260525040000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title><desc lang="tr">Gündemin öne çıkan haberleri ve olayları Sözcü Televizyonu&apos;nda ekrana getiriliyor. Haberlerde öne çıkan başlıklar, gözden kaçan detaylar analiz ediliyor.</desc></programme>
-<programme start="20260525040000 +0000" stop="20260525050000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Sözcü İle Uyanma Vakti</title><desc lang="tr">Sabahın ilk saatlerinde dünün ve bugünün gündemine dair haberler ekrana geliyor. Gazete manşetleri, donanımlı konuklar ve canlı bağlantılar ile gündemin nabzı tutuluyor.</desc></programme>
-<programme start="20260525050000 +0000" stop="20260525080000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Sözcü Masası</title></programme>
-<programme start="20260525080000 +0000" stop="20260525100000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Öğle Bülteni</title><desc lang="tr">Gündeme dair başlıklar uzman konuk bağlantıları ile ekrana getiriliyor.</desc></programme>
-<programme start="20260525100000 +0000" stop="20260525120000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Öncesi Sonrası</title><desc lang="tr">Gündemin öne çıkan haberleri ve olayları Senem Toluay Ilgaz&apos;ın sunumu ile Sözcü Televizyonu&apos;nda ekrana getiriliyor.</desc></programme>
-<programme start="20260525120000 +0000" stop="20260525140000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Haber Saati</title><desc lang="tr">Gündeme dair başlıklar ve son dakika gelişmeleri Serap Belovacıklı ile ekrana getiriliyor.</desc></programme>
-<programme start="20260525140000 +0000" stop="20260525145000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">İş Çıkışı</title></programme>
-<programme start="20260525145000 +0000" stop="20260525155000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">İçinizden Biri</title><desc lang="tr">Ekrem Açıkel, hafta içi her akşam memleketin nabzını, duygusunu ve gerçeğini en yalın haliyle ortaya koyuyor.</desc></programme>
-<programme start="20260525155000 +0000" stop="20260525170000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Ana Haber</title><desc lang="tr">Gündemin öne çıkan haberleri ve olayları Sözcü Televizyonu&apos;nda ekrana getiriliyor. Haberlerde öne çıkan başlıklar, gözden kaçan detaylar analiz ediliyor.</desc></programme>
-<programme start="20260525170000 +0000" stop="20260525180000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Hafta Başı</title><desc lang="tr">Siyasetten ekonomiye, öne çıkan başlıklar ve dikkat çeken açıklamalar Ekrem Açıkel ve Damla Doğan Tuncel’in sunumuyla değerlendiriliyor.</desc></programme>
-<programme start="20260525180000 +0000" stop="20260525190000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Hafta Başı</title><desc lang="tr">Siyasetten ekonomiye, öne çıkan başlıklar ve dikkat çeken açıklamalar Ekrem Açıkel ve Damla Doğan Tuncel’in sunumuyla değerlendiriliyor.</desc></programme>
-<programme start="20260525190000 +0000" stop="20260525200000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Hafta Başı</title><desc lang="tr">Siyasetten ekonomiye, öne çıkan başlıklar ve dikkat çeken açıklamalar Ekrem Açıkel ve Damla Doğan Tuncel’in sunumuyla değerlendiriliyor.</desc></programme>
-<programme start="20260525200000 +0000" stop="20260525210000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Hafta Başı</title><desc lang="tr">Siyasetten ekonomiye, öne çıkan başlıklar ve dikkat çeken açıklamalar Ekrem Açıkel ve Damla Doğan Tuncel’in sunumuyla değerlendiriliyor.</desc></programme>
 <programme start="20260523210000 +0000" stop="20260523234500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Al Ahli - Machida &quot;Tekrar&quot;</title></programme>
 <programme start="20260523234500 +0000" stop="20260524010000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">90&apos;lar Futbol Smart &quot;Tekrar&quot;</title></programme>
 <programme start="20260524010000 +0000" stop="20260524050000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Thy Golf Turnuvası &quot;Tekrar&quot;</title></programme>
