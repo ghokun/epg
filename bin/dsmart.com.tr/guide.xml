@@ -2849,6 +2849,8 @@
 <programme start="20260607201500 +0000" stop="20260607202500 +0000" channel="DisneyJr.tr@SD"><title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category></programme>
 <programme start="20260607202500 +0000" stop="20260607205000 +0000" channel="DisneyJr.tr@SD"><title lang="tr">Pijamaskeliler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category></programme>
 <programme start="20260607205000 +0000" stop="20260607211500 +0000" channel="DisneyJr.tr@SD"><title lang="tr">Pijamaskeliler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category></programme>
+<programme start="20260606230500 +0000" stop="20260607012500 +0000" channel="DiziSmartMax.tr@SD"><title lang="tr">Adı Efsane</title><desc lang="tr">Hakan ile Naz arasındaki yakınlaşmaya Reyhan&apos;ın tavrı sert olur.</desc></programme>
+<programme start="20260607012500 +0000" stop="20260607042500 +0000" channel="DiziSmartMax.tr@SD"><title lang="tr">Ayça Şen İle Ortaya Karışık</title><desc lang="tr">Ayça Şen&apos;le Ortaya Karışık&apos;ta her bölüm farklı konular işlenmektedir.</desc></programme>
 <programme start="20260605040000 +0000" stop="20260605070000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
 <programme start="20260605070000 +0000" stop="20260605100000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
 <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="DreamTurk.tr@SD"><title lang="tr">Dream Hits</title></programme>
@@ -3179,11 +3181,11 @@
 <programme start="20260606170000 +0000" stop="20260606190000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title></programme>
 <programme start="20260606190000 +0000" stop="20260606220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title></programme>
 <programme start="20260606210000 +0000" stop="20260606220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Özel Röportaj</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607000000 +0000" stop="20260607020000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607020000 +0000" stop="20260607030000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Magazin</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Haber Bülteni</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Özel Röportaj</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607050000 +0000" stop="20260607060000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607060000 +0000" stop="20260607090000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Hafta Sonu</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260607090000 +0000" stop="20260607100000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Zone press</title></programme>
@@ -4058,6 +4060,25 @@
 <programme start="20260607170000 +0000" stop="20260607190000 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
 <programme start="20260607190000 +0000" stop="20260607204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Amerikan Savaş Gemileri</title></programme>
 <programme start="20260607204500 +0000" stop="20260607234500 +0000" channel="Teve2.tr@SD"><title lang="tr">2021 Dünyalar Savaşı</title></programme>
+<programme start="20260606213000 +0000" stop="20260606230000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Stüdyoda Futbol</title></programme>
+<programme start="20260606230000 +0000" stop="20260607023000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Taksim Meydanı Tkr</title></programme>
+<programme start="20260607023000 +0000" stop="20260607030000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gecenin İçinden</title></programme>
+<programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607050000 +0000" stop="20260607080000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gün Başlıyor</title></programme>
+<programme start="20260607080000 +0000" stop="20260607081500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607081500 +0000" stop="20260607090000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Lezzetin İzinde</title></programme>
+<programme start="20260607090000 +0000" stop="20260607100000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607100000 +0000" stop="20260607110000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Yasemin&apos;in Penceresi</title></programme>
+<programme start="20260607110000 +0000" stop="20260607120000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607120000 +0000" stop="20260607130000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607130000 +0000" stop="20260607131500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607131500 +0000" stop="20260607140000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Doğa Ve Biz</title></programme>
+<programme start="20260607140000 +0000" stop="20260607150000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607150000 +0000" stop="20260607160000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20260607160000 +0000" stop="20260607164500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20260607164500 +0000" stop="20260607180000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260607180000 +0000" stop="20260607210000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20260605211500 +0000" stop="20260605223000 +0000" channel="TV8.tr@SD"><title lang="tr">Caner Taslaman ile Aklımdaki Sorular</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260605223000 +0000" stop="20260606003000 +0000" channel="TV8.tr@SD"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title><desc lang="tr">Efsane yarışma &quot;Zuhal Topal&apos;la Yemekteyiz&quot; hafta içi her gün 16.00&apos;da TV8 ekranlarında sizlerle!</desc><category lang="tr">Eglence</category><category lang="tr">Yarisma</category></programme>
 <programme start="20260606003000 +0000" stop="20260606023000 +0000" channel="TV8.tr@SD"><title lang="tr">Gel Konuşalım</title><desc lang="tr">Bu programda yok yok! En sıcak haberler en ilginç olaylar, modadan estetiğe, spordan ilişkiye, ünlülerin özel hayatlarından sokaktaki yaşama dair ne varsa kadın ve erkek gözünden Gel Konuşalım’da yorumlanıp, tartışılıyor.</desc><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
