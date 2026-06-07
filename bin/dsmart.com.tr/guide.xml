@@ -2668,6 +2668,8 @@
 <programme start="20260608201500 +0000" stop="20260608202500 +0000" channel="DisneyJr.tr@SD"><title lang="tr">Bluey</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category></programme>
 <programme start="20260608202500 +0000" stop="20260608205000 +0000" channel="DisneyJr.tr@SD"><title lang="tr">Pijamaskeliler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category></programme>
 <programme start="20260608205000 +0000" stop="20260608211500 +0000" channel="DisneyJr.tr@SD"><title lang="tr">Pijamaskeliler</title><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Genel</category></programme>
+<programme start="20260606230500 +0000" stop="20260607012500 +0000" channel="DiziSmartMax.tr@SD"><title lang="tr">Adı Efsane</title><desc lang="tr">Hakan ile Naz arasındaki yakınlaşmaya Reyhan&apos;ın tavrı sert olur.</desc></programme>
+<programme start="20260607012500 +0000" stop="20260607042500 +0000" channel="DiziSmartMax.tr@SD"><title lang="tr">Ayça Şen İle Ortaya Karışık</title><desc lang="tr">Ayça Şen&apos;le Ortaya Karışık&apos;ta her bölüm farklı konular işlenmektedir.</desc></programme>
 <programme start="20260606222700 +0000" stop="20260606234900 +0000" channel="EuroD.tr@SD"><title lang="tr">Büyük Aşk</title><desc lang="tr">Gümüş boyalı sokak sanatçısı ve ona aşık olan yumuşak sesli hayvanat bahçesi görevlisi hakkında sıradışı bir romantik komedi.</desc><category lang="tr">Sinema</category><category lang="tr">Romantik</category></programme>
 <programme start="20260606234900 +0000" stop="20260607011100 +0000" channel="EuroD.tr@SD"><title lang="tr">Büyük Aşk</title><desc lang="tr">Gümüş boyalı sokak sanatçısı ve ona aşık olan yumuşak sesli hayvanat bahçesi görevlisi hakkında sıradışı bir romantik komedi.</desc><category lang="tr">Sinema</category><category lang="tr">Romantik</category></programme>
 <programme start="20260607011100 +0000" stop="20260607021500 +0000" channel="EuroD.tr@SD"><title lang="tr">Büyük Aşk</title><desc lang="tr">Gümüş boyalı sokak sanatçısı ve ona aşık olan yumuşak sesli hayvanat bahçesi görevlisi hakkında sıradışı bir romantik komedi.</desc><category lang="tr">Sinema</category><category lang="tr">Romantik</category></programme>
@@ -2968,13 +2970,25 @@
 <programme start="20260607210000 +0000" stop="20260607223000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260607223000 +0000" stop="20260608011500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Habertürk Gündem</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260608011500 +0000" stop="20260608020000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Dünyada Nasıl?</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260608020000 +0000" stop="20260608050000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260608020000 +0000" stop="20260608040000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260608040000 +0000" stop="20260608070000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Başlıyor</title></programme>
+<programme start="20260608070000 +0000" stop="20260608083000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Para Gündem</title></programme>
+<programme start="20260608083000 +0000" stop="20260608090000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Ayılar ve Boğalar</title></programme>
+<programme start="20260608090000 +0000" stop="20260608110000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20260608110000 +0000" stop="20260608124500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Hattı</title></programme>
+<programme start="20260608124500 +0000" stop="20260608130000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Spor Bültenleri</title></programme>
+<programme start="20260608130000 +0000" stop="20260608140000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">HT360</title></programme>
+<programme start="20260608140000 +0000" stop="20260608150000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Habertürk Manşet</title></programme>
+<programme start="20260608150000 +0000" stop="20260608160000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20260608160000 +0000" stop="20260608170000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260608170000 +0000" stop="20260608200000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20260608200000 +0000" stop="20260608230000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gece Raporu</title></programme>
 <programme start="20260606210000 +0000" stop="20260606220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Özel Röportaj</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607000000 +0000" stop="20260607020000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607020000 +0000" stop="20260607030000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Magazin</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Haber Bülteni</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Özel Röportaj</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607050000 +0000" stop="20260607060000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260607060000 +0000" stop="20260607090000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Hafta Sonu</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260607090000 +0000" stop="20260607100000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Zone press</title></programme>
@@ -3728,6 +3742,52 @@
 <programme start="20260607170000 +0000" stop="20260607190000 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
 <programme start="20260607190000 +0000" stop="20260607204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Amerikan Savaş Gemileri</title></programme>
 <programme start="20260607204500 +0000" stop="20260607234500 +0000" channel="Teve2.tr@SD"><title lang="tr">2021 Dünyalar Savaşı</title></programme>
+<programme start="20260606213000 +0000" stop="20260606230000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Stüdyoda Futbol</title></programme>
+<programme start="20260606230000 +0000" stop="20260607023000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Taksim Meydanı Tkr</title></programme>
+<programme start="20260607023000 +0000" stop="20260607030000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gecenin İçinden</title></programme>
+<programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607050000 +0000" stop="20260607080000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gün Başlıyor</title></programme>
+<programme start="20260607080000 +0000" stop="20260607081500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607081500 +0000" stop="20260607090000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Lezzetin İzinde</title></programme>
+<programme start="20260607090000 +0000" stop="20260607100000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607100000 +0000" stop="20260607110000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Yasemin&apos;in Penceresi</title></programme>
+<programme start="20260607110000 +0000" stop="20260607120000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607120000 +0000" stop="20260607130000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607130000 +0000" stop="20260607131500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607131500 +0000" stop="20260607140000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Doğa Ve Biz</title></programme>
+<programme start="20260607140000 +0000" stop="20260607150000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hafta Sonu Haber</title></programme>
+<programme start="20260607150000 +0000" stop="20260607160000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20260607160000 +0000" stop="20260607164500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20260607164500 +0000" stop="20260607180000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260607180000 +0000" stop="20260607210000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gündem Özel</title></programme>
+<programme start="20260607210000 +0000" stop="20260607230000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Stüdyoda Futbol</title></programme>
+<programme start="20260607230000 +0000" stop="20260608020000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gündem Özel Tkr</title></programme>
+<programme start="20260608020000 +0000" stop="20260608021500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20260608021500 +0000" stop="20260608030000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Huzura Doğru</title></programme>
+<programme start="20260608030000 +0000" stop="20260608040000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Haber</title></programme>
+<programme start="20260608040000 +0000" stop="20260608064500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Günaydın Türkiye</title></programme>
+<programme start="20260608064500 +0000" stop="20260608070000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608070000 +0000" stop="20260608083000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Haberin İçinden</title></programme>
+<programme start="20260608083000 +0000" stop="20260608090000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Emlak Dünyası</title></programme>
+<programme start="20260608090000 +0000" stop="20260608094500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20260608094500 +0000" stop="20260608100000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608100000 +0000" stop="20260608104500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20260608104500 +0000" stop="20260608110000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608110000 +0000" stop="20260608114500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20260608114500 +0000" stop="20260608120000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608120000 +0000" stop="20260608124500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20260608124500 +0000" stop="20260608130000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608130000 +0000" stop="20260608134500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gündem</title></programme>
+<programme start="20260608134500 +0000" stop="20260608140000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608140000 +0000" stop="20260608144500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Dünyada Bugün</title></programme>
+<programme start="20260608144500 +0000" stop="20260608150000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608150000 +0000" stop="20260608154500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Akşam Gündemi</title></programme>
+<programme start="20260608154500 +0000" stop="20260608160000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608160000 +0000" stop="20260608163000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Akşam Gündemi</title></programme>
+<programme start="20260608163000 +0000" stop="20260608164500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
+<programme start="20260608164500 +0000" stop="20260608180000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260608180000 +0000" stop="20260608210000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Medya Kritik</title></programme>
 <programme start="20260606210000 +0000" stop="20260607000000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260607000000 +0000" stop="20260607030000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260607030000 +0000" stop="20260607070000 +0000" channel="TVNET.tr@SD"><title lang="tr">Hatim</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
