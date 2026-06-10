@@ -2615,6 +2615,21 @@
 <programme start="20260611150000 +0000" stop="20260611160000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Günün Nabzı</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260611160000 +0000" stop="20260611170000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Ana Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260611170000 +0000" stop="20260611210000 +0000" channel="HaberGlobal.tr@SD"><title lang="tr">Mesele</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260609220000 +0000" stop="20260609231500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260609231500 +0000" stop="20260610020000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Nedir Ne Değildir?</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260610040000 +0000" stop="20260610070000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Başlıyor</title></programme>
+<programme start="20260610070000 +0000" stop="20260610084500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Para Gündem</title></programme>
+<programme start="20260610084500 +0000" stop="20260610090000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Spor Bültenleri</title></programme>
+<programme start="20260610090000 +0000" stop="20260610110000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20260610110000 +0000" stop="20260610124500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Hattı</title></programme>
+<programme start="20260610124500 +0000" stop="20260610130000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Spor Bültenleri</title></programme>
+<programme start="20260610130000 +0000" stop="20260610140000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">HT 360</title></programme>
+<programme start="20260610140000 +0000" stop="20260610150000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Habertürk Manşet</title></programme>
+<programme start="20260610150000 +0000" stop="20260610160000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20260610160000 +0000" stop="20260610170000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260610170000 +0000" stop="20260610200000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20260610200000 +0000" stop="20260610230000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Gece Raporu</title></programme>
 <programme start="20260610220000 +0000" stop="20260610231500 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260610231500 +0000" stop="20260611020000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Açık ve Net</title></programme>
 <programme start="20260611020000 +0000" stop="20260611040000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
