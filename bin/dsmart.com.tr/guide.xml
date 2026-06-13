@@ -2927,17 +2927,6 @@
 <programme start="20260614195500 +0000" stop="20260614200000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260614200000 +0000" stop="20260614205500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260614205500 +0000" stop="20260614235500 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260612211500 +0000" stop="20260612221500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gece Hattı</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260612221500 +0000" stop="20260613000000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Belalı Tanık 2 (Hıtman’s Wıfe Bodyguard)</title><desc lang="tr">Yönetmen: Patrıck Hughes Oyuncular: Samuel L.Jackson, Salma Hayek, Ryan Reynolds, Antonıo Banderas</desc></programme>
-<programme start="20260613000000 +0000" stop="20260613030000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gelsin Hayat Bildiği Gibi</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260613030000 +0000" stop="20260613050000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Kuzey Yıldızı &apos;&apos; İlk Aşk&apos;&apos;</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20260613050000 +0000" stop="20260613070000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Hafız Yusuf Efendi</title><desc lang="tr">Yönetmen: Türker İnanoğlu Oyuncular : Ahmet Özhan, Sibel Turnagöl, Fulden Uras, Şemsi İnkaya, Haluk Kurtoğlu, Sümer Tilmaç</desc></programme>
-<programme start="20260613070000 +0000" stop="20260613100000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Cumartesi Sürprizi</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Dolap Beygiri</title><desc lang="tr">Yönetmen: Atıf Yılmaz Oyuncular: İlyas Sayman, Şener Şen, Yaprak Özdemiroğlu, Ayşen Gruda, Şevket Altuğ, İhsan Yüce</desc></programme>
-<programme start="20260613120000 +0000" stop="20260613134500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Evlidir Ne Yapsa Yeridir</title><desc lang="tr">Yönetmen: Şerif Gören Oyuncular: Hülya Koçyiğit, Kadir İnanır, Perran Kutman, Şemsi İnkaya, Halit Akçatepe, Neriman Köksal</desc></programme>
-<programme start="20260613134500 +0000" stop="20260613152500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Hanzo</title><desc lang="tr">Yönetmen: Zeki Ökten Oyuncular: Kemal Sunal, Meral Zeren, Adile Naşit</desc></programme>
-<programme start="20260613152500 +0000" stop="20260613170000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260613170000 +0000" stop="20260613200000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Güldür Güldür Show</title><desc lang="tr">Yeni Bölüm</desc></programme>
 <programme start="20260613211500 +0000" stop="20260613224500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Cici Babam</title><desc lang="tr">Yönetmen: Meltem Bozoflu Oyuncular: Onur Buldu, Yasemin Çonka, Mahir İpek, Aslı İnandık, Meltem Yılmazkaya</desc></programme>
 <programme start="20260613224500 +0000" stop="20260614000000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Hanzo</title><desc lang="tr">Yönetmen: Zeki Ökten Oyuncular: Kemal Sunal, Meral Zeren, Adile Naşit</desc></programme>
 <programme start="20260614000000 +0000" stop="20260614013000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Dolap Beygiri</title><desc lang="tr">Yönetmen: Atıf Yılmaz Oyuncular: İlyas Sayman, Şener Şen, Yaprak Özdemiroğlu, Ayşen Gruda, Şevket Altuğ, İhsan Yüce</desc></programme>
@@ -3353,19 +3342,6 @@
 <programme start="20260614180000 +0000" stop="20260614190000 +0000" channel="TarihTV.tr@SD"><title lang="tr">Zaman Tüneli</title><desc lang="tr">Koray Şerbetçi, izleyenleri zamanda yolculuğa çıkarıyor. Göktürkler’den Selçuklular’a, Anadolu medeniyetlerinden Roma İmparatorluğu’na, Osmanlı’dan günümüze tarihi olayları uzman konuklarıyla konuşuyor. Geçmişe doğru geniş bir pencere açarak tarihin bilinmeyenlerini izleyiciyle buluşturuyor.</desc></programme>
 <programme start="20260614190000 +0000" stop="20260614200000 +0000" channel="TarihTV.tr@SD"><title lang="tr">Viking Rollo</title><desc lang="tr">Muhtemelen Vikings dizisinin ana karakterlerinden Rollo’yu tanıyorsunuzdur. Peki onun, gerçek bir Viking lideri olan Rollo’dan esinlendiğini biliyor muydunuz? Yıllar süren araştırmalar ve tarihî bir el yazmasına dayanan bu yapım, uzman görüşleri ve canlandırmalar eşliğinde, Fatih William’ın atası olan bu unutulmuş kahramanın destansı hikâyesini gün yüzüne çıkarıyor. Macera 876 yılında başlıyor.</desc><category lang="tr">Sinema</category><category lang="tr">Genel</category></programme>
 <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="TarihTV.tr@SD"><title lang="tr">Nereden Nereye</title><desc lang="tr">Uluslararası gerginlikler, küresel krizler geçmişteki hangi olaylara dayanıyor? Tarihteki olayların bugüne ve geleceğe etkisi ne olabilir? Prof. Dr. Ahmet Kasım Han ve Prof. Dr. Burak Küntay, dünyanın gündemindeki olayların tarihine, dayandığı temellere yeni bir pencere açıyor. Dünyadaki güç savaşlarının yarına nasıl yansıyabileceğini değerlendiriyorlar.</desc></programme>
-<programme start="20260612223000 +0000" stop="20260612233000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kelime Oyunu</title></programme>
-<programme start="20260612233000 +0000" stop="20260613004500 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
-<programme start="20260613004500 +0000" stop="20260613030000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
-<programme start="20260613030000 +0000" stop="20260613043000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kavak Yelleri</title></programme>
-<programme start="20260613043000 +0000" stop="20260613063000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
-<programme start="20260613063000 +0000" stop="20260613084500 +0000" channel="Teve2.tr@SD"><title lang="tr">Geniş Aile</title></programme>
-<programme start="20260613084500 +0000" stop="20260613100000 +0000" channel="Teve2.tr@SD"><title lang="tr">Rehber</title></programme>
-<programme start="20260613100000 +0000" stop="20260613111500 +0000" channel="Teve2.tr@SD"><title lang="tr">Çok Gezenti</title></programme>
-<programme start="20260613111500 +0000" stop="20260613123000 +0000" channel="Teve2.tr@SD"><title lang="tr">Mutfağım</title></programme>
-<programme start="20260613123000 +0000" stop="20260613150000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
-<programme start="20260613150000 +0000" stop="20260613170000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
-<programme start="20260613170000 +0000" stop="20260613204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
-<programme start="20260613204500 +0000" stop="20260613223000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
 <programme start="20260613223000 +0000" stop="20260613233000 +0000" channel="Teve2.tr@SD"><title lang="tr">Rehber</title></programme>
 <programme start="20260613233000 +0000" stop="20260614010000 +0000" channel="Teve2.tr@SD"><title lang="tr">Geniş Aile</title></programme>
 <programme start="20260614010000 +0000" stop="20260614023000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
