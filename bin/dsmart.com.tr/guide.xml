@@ -592,7 +592,7 @@
 <programme start="20260613000000 +0000" stop="20260613001000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613001000 +0000" stop="20260613010000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613010000 +0000" stop="20260613011000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613011000 +0000" stop="20260613020000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613011000 +0000" stop="20260613020000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Barakan Discovers Tosa</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613020000 +0000" stop="20260613021000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613021000 +0000" stop="20260613030000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cycle Around Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613030000 +0000" stop="20260613031000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -600,7 +600,9 @@
 <programme start="20260613034000 +0000" stop="20260613035000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">u&amp;i</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613035000 +0000" stop="20260613040000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Viewpoint Science</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613040000 +0000" stop="20260613041000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613041000 +0000" stop="20260613050000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Time and Tide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613041000 +0000" stop="20260613044000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Mount Fuji Truth</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613044000 +0000" stop="20260613045500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cinematic Journey</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613045500 +0000" stop="20260613050000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Ukiyo-e Edo-Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613050000 +0000" stop="20260613051000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613051000 +0000" stop="20260613052500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Bosai: Science That Can Save Your Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613052500 +0000" stop="20260613053000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Design Museum Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -608,9 +610,11 @@
 <programme start="20260613060000 +0000" stop="20260613061000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613061000 +0000" stop="20260613070000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613070000 +0000" stop="20260613071000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613071000 +0000" stop="20260613080000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613071000 +0000" stop="20260613080000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Barakan Discovers Tosa</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613080000 +0000" stop="20260613081000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613081000 +0000" stop="20260613090000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Time and Tide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613081000 +0000" stop="20260613084000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Mount Fuji Truth</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613084000 +0000" stop="20260613085500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cinematic Journey</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613085500 +0000" stop="20260613090000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Ukiyo-e Edo-Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613090000 +0000" stop="20260613091000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613091000 +0000" stop="20260613094000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Design X Stories</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613094000 +0000" stop="20260613095000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">u&amp;i</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -624,7 +628,7 @@
 <programme start="20260613120000 +0000" stop="20260613121000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613121000 +0000" stop="20260613130000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613130000 +0000" stop="20260613131000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613131000 +0000" stop="20260613140000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613131000 +0000" stop="20260613140000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Barakan Discovers Tosa</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613140000 +0000" stop="20260613141000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613141000 +0000" stop="20260613144000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Biz Stream</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613144000 +0000" stop="20260613145000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">u&amp;i</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -632,7 +636,9 @@
 <programme start="20260613150000 +0000" stop="20260613151000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613151000 +0000" stop="20260613160000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cycle Around Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613160000 +0000" stop="20260613161000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613161000 +0000" stop="20260613170000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Time and Tide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613161000 +0000" stop="20260613164000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Mount Fuji Truth</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613164000 +0000" stop="20260613165500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cinematic Journey</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613165500 +0000" stop="20260613170000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Ukiyo-e Edo-Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613170000 +0000" stop="20260613171000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613171000 +0000" stop="20260613172500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Bosai: Science That Can Save Your Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613172500 +0000" stop="20260613173000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Design Museum Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -640,7 +646,7 @@
 <programme start="20260613180000 +0000" stop="20260613181000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613181000 +0000" stop="20260613190000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613190000 +0000" stop="20260613191000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613191000 +0000" stop="20260613200000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613191000 +0000" stop="20260613200000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Barakan Discovers Tosa</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613200000 +0000" stop="20260613201000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613201000 +0000" stop="20260613204000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Biz Stream</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613204000 +0000" stop="20260613205000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">u&amp;i</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -648,14 +654,17 @@
 <programme start="20260613210000 +0000" stop="20260613211000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613211000 +0000" stop="20260613220000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cycle Around Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613220000 +0000" stop="20260613221000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260613221000 +0000" stop="20260613230000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Time and Tide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613221000 +0000" stop="20260613224000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Mount Fuji Truth</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613224000 +0000" stop="20260613225500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cinematic Journey</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260613225500 +0000" stop="20260613230000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Ukiyo-e Edo-Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613230000 +0000" stop="20260613231000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613231000 +0000" stop="20260613232500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Bosai: Science That Can Save Your Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613232500 +0000" stop="20260613233000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Design Museum Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260613233000 +0000" stop="20260614000000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Kabuki Kool</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614000000 +0000" stop="20260614010000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614000000 +0000" stop="20260614005000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614005000 +0000" stop="20260614010000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Gourmet in the Park</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614010000 +0000" stop="20260614011000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614011000 +0000" stop="20260614020000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614011000 +0000" stop="20260614020000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">The Perfect 2-Hour Guide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614020000 +0000" stop="20260614021000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614021000 +0000" stop="20260614024000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">J-Melo</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614024000 +0000" stop="20260614025000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Little Charo</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -668,14 +677,14 @@
 <programme start="20260614040000 +0000" stop="20260614041000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614041000 +0000" stop="20260614050000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Somewhere Street</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614050000 +0000" stop="20260614051000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614051000 +0000" stop="20260614052500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Selection</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614051000 +0000" stop="20260614052500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Ramen Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614052500 +0000" stop="20260614053000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Core Kyoto Mini</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614053000 +0000" stop="20260614054500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Easy Japanese for Work</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614054500 +0000" stop="20260614060000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Zero Waste Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614060000 +0000" stop="20260614061000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614061000 +0000" stop="20260614070000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614070000 +0000" stop="20260614071000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614071000 +0000" stop="20260614080000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614071000 +0000" stop="20260614080000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">The Perfect 2-Hour Guide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614080000 +0000" stop="20260614081000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614081000 +0000" stop="20260614090000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Somewhere Street</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614090000 +0000" stop="20260614091000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -688,14 +697,14 @@
 <programme start="20260614105000 +0000" stop="20260614105500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Japanology Plus mini</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614105500 +0000" stop="20260614110000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">A Cat&apos;s-Eye View of Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614110000 +0000" stop="20260614111000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614111000 +0000" stop="20260614112500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Selection</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614111000 +0000" stop="20260614112500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Ramen Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614112500 +0000" stop="20260614113000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Core Kyoto Mini</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614113000 +0000" stop="20260614114500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Easy Japanese for Work</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614114500 +0000" stop="20260614120000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Zero Waste Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614120000 +0000" stop="20260614121000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614121000 +0000" stop="20260614130000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614130000 +0000" stop="20260614131000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614131000 +0000" stop="20260614140000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614131000 +0000" stop="20260614140000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">The Perfect 2-Hour Guide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614140000 +0000" stop="20260614141000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614141000 +0000" stop="20260614144000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cycle Around Japan Highlights</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614144000 +0000" stop="20260614145000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">I Love &apos;Mee&apos;</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -708,13 +717,14 @@
 <programme start="20260614160000 +0000" stop="20260614161000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614161000 +0000" stop="20260614170000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Somewhere Street</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614170000 +0000" stop="20260614171000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614171000 +0000" stop="20260614172500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Selection</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614171000 +0000" stop="20260614172500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Ramen Japan</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614172500 +0000" stop="20260614173000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Core Kyoto Mini</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614173000 +0000" stop="20260614174500 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Easy Japanese for Work</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614174500 +0000" stop="20260614180000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Zero Waste Life</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614180000 +0000" stop="20260614190000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614180000 +0000" stop="20260614185000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Documentary 360</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614185000 +0000" stop="20260614190000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Gourmet in the Park</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614190000 +0000" stop="20260614191000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
-<programme start="20260614191000 +0000" stop="20260614200000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK World Showcase</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260614191000 +0000" stop="20260614200000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">The Perfect 2-Hour Guide</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614200000 +0000" stop="20260614201000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">NHK Newsline</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614201000 +0000" stop="20260614204000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">Cycle Around Japan Highlights</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614204000 +0000" stop="20260614205000 +0000" channel="58d29bb0eefad3db9c60624f"><title lang="tr">I Love &apos;Mee&apos;</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
@@ -1131,6 +1141,54 @@
 <programme start="20260614130000 +0000" stop="20260614150000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
 <programme start="20260614170000 +0000" stop="20260614200000 +0000" channel="66e7e54ccfef0b374461c370"><title lang="tr">Haber Çoklu Ekran</title><category lang="tr">Haber</category><category lang="tr">Genel</category></programme>
+<programme start="20260612210000 +0000" stop="20260612220000 +0000" channel="APara.tr@SD"><title lang="tr">İnsan Hali</title></programme>
+<programme start="20260612220000 +0000" stop="20260613000000 +0000" channel="APara.tr@SD"><title lang="tr">Destan</title></programme>
+<programme start="20260613000000 +0000" stop="20260613020000 +0000" channel="APara.tr@SD"><title lang="tr">İnsan Hali</title></programme>
+<programme start="20260613020000 +0000" stop="20260613030000 +0000" channel="APara.tr@SD"><title lang="tr">Yüksek Topuklar</title></programme>
+<programme start="20260613030000 +0000" stop="20260613033000 +0000" channel="APara.tr@SD"><title lang="tr">Enerji Hattı</title></programme>
+<programme start="20260613033000 +0000" stop="20260613040000 +0000" channel="APara.tr@SD"><title lang="tr">Çarklar Dönüyor</title></programme>
+<programme start="20260613040000 +0000" stop="20260613050000 +0000" channel="APara.tr@SD"><title lang="tr">A Para&apos;da Söylediler</title></programme>
+<programme start="20260613050000 +0000" stop="20260613060000 +0000" channel="APara.tr@SD"><title lang="tr">Nostalji</title></programme>
+<programme start="20260613060000 +0000" stop="20260613070000 +0000" channel="APara.tr@SD"><title lang="tr">İzlence Çocuk</title></programme>
+<programme start="20260613070000 +0000" stop="20260613080000 +0000" channel="APara.tr@SD"><title lang="tr">Akılda Kalanlar</title></programme>
+<programme start="20260613080000 +0000" stop="20260613100000 +0000" channel="APara.tr@SD"><title lang="tr">Biz Bize</title></programme>
+<programme start="20260613100000 +0000" stop="20260613110000 +0000" channel="APara.tr@SD"><title lang="tr">Evvel Zaman İçinde</title></programme>
+<programme start="20260613110000 +0000" stop="20260613130000 +0000" channel="APara.tr@SD"><title lang="tr">İzlence</title></programme>
+<programme start="20260613130000 +0000" stop="20260613140000 +0000" channel="APara.tr@SD"><title lang="tr">Dijital Çağ</title></programme>
+<programme start="20260613140000 +0000" stop="20260613150000 +0000" channel="APara.tr@SD"><title lang="tr">Her Şeyi Konuşalım</title></programme>
+<programme start="20260613150000 +0000" stop="20260613160000 +0000" channel="APara.tr@SD"><title lang="tr">Yüksek Topuklar</title></programme>
+<programme start="20260613160000 +0000" stop="20260613170000 +0000" channel="APara.tr@SD"><title lang="tr">Muhteşem Düetler</title></programme>
+<programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="APara.tr@SD"><title lang="tr">Film Kuşağı</title></programme>
+<programme start="20260613190000 +0000" stop="20260613200000 +0000" channel="APara.tr@SD"><title lang="tr">Sır Küpü</title></programme>
+<programme start="20260613200000 +0000" stop="20260613230000 +0000" channel="APara.tr@SD"><title lang="tr">Biz Bize</title></programme>
+<programme start="20260613210000 +0000" stop="20260613220000 +0000" channel="APara.tr@SD"><title lang="tr">Biz Bize</title></programme>
+<programme start="20260613220000 +0000" stop="20260613230000 +0000" channel="APara.tr@SD"><title lang="tr">Sır Küpü</title></programme>
+<programme start="20260613230000 +0000" stop="20260614010000 +0000" channel="APara.tr@SD"><title lang="tr">Film Kuşağı</title></programme>
+<programme start="20260614010000 +0000" stop="20260614030000 +0000" channel="APara.tr@SD"><title lang="tr">Biz Bize</title></programme>
+<programme start="20260614030000 +0000" stop="20260614040000 +0000" channel="APara.tr@SD"><title lang="tr">Her Şeyi Konuşalım</title></programme>
+<programme start="20260614040000 +0000" stop="20260614050000 +0000" channel="APara.tr@SD"><title lang="tr">A Para&apos;da Söylediler</title></programme>
+<programme start="20260614050000 +0000" stop="20260614055500 +0000" channel="APara.tr@SD"><title lang="tr">Muhteşem Düetler</title></programme>
+<programme start="20260614055500 +0000" stop="20260614060000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614060000 +0000" stop="20260614070000 +0000" channel="APara.tr@SD"><title lang="tr">İzlence Çocuk</title></programme>
+<programme start="20260614070000 +0000" stop="20260614075500 +0000" channel="APara.tr@SD"><title lang="tr">Akılda Kalanlar</title></programme>
+<programme start="20260614075500 +0000" stop="20260614080000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614080000 +0000" stop="20260614095500 +0000" channel="APara.tr@SD"><title lang="tr">Biz Bize</title></programme>
+<programme start="20260614095500 +0000" stop="20260614100000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614100000 +0000" stop="20260614105500 +0000" channel="APara.tr@SD"><title lang="tr">Dijital Çağ</title></programme>
+<programme start="20260614105500 +0000" stop="20260614110000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614110000 +0000" stop="20260614120000 +0000" channel="APara.tr@SD"><title lang="tr">Dünyanın Rengi</title></programme>
+<programme start="20260614120000 +0000" stop="20260614125500 +0000" channel="APara.tr@SD"><title lang="tr">Evvel Zaman İçinde</title></programme>
+<programme start="20260614125500 +0000" stop="20260614130000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614130000 +0000" stop="20260614145500 +0000" channel="APara.tr@SD"><title lang="tr">İzlence</title></programme>
+<programme start="20260614145500 +0000" stop="20260614150000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614150000 +0000" stop="20260614155500 +0000" channel="APara.tr@SD"><title lang="tr">Her Şeyi Konuşalım</title></programme>
+<programme start="20260614155500 +0000" stop="20260614160000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614160000 +0000" stop="20260614165500 +0000" channel="APara.tr@SD"><title lang="tr">Muhteşem Düetler</title></programme>
+<programme start="20260614165500 +0000" stop="20260614170000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614170000 +0000" stop="20260614185500 +0000" channel="APara.tr@SD"><title lang="tr">Film Kuşağı</title></programme>
+<programme start="20260614185500 +0000" stop="20260614190000 +0000" channel="APara.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614190000 +0000" stop="20260614200000 +0000" channel="APara.tr@SD"><title lang="tr">Sır Küpü</title></programme>
+<programme start="20260614200000 +0000" stop="20260614230000 +0000" channel="APara.tr@SD"><title lang="tr">İnsan Hali</title></programme>
 <programme start="20260612210000 +0000" stop="20260612213000 +0000" channel="BabyTV.uk@France"><title lang="tr">Rüya Dolu Geceler</title><desc lang="tr">Kayan Yıldız,Şarkılar &amp; Kafiyeler ,Şarkılar &amp; Kafiyeler ,Okyanus,Çiçekler</desc><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Cizgi-film</category></programme>
 <programme start="20260612213000 +0000" stop="20260612220000 +0000" channel="BabyTV.uk@France"><title lang="tr">Rüya Dolu Geceler</title><desc lang="tr">Alacakaranlık,Kayan Yıldız,Samanyolu,Sihirli Yıldızlar,Okyanus,Akşam Seması</desc><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Cizgi-film</category></programme>
 <programme start="20260612220000 +0000" stop="20260612223000 +0000" channel="BabyTV.uk@France"><title lang="tr">Rüya Dolu Geceler</title><desc lang="tr">Çiçekler,Gözlerini Kapat,Şarkılar &amp; Kafiyeler ,Samanyolu,Gökyüzü,İyi Geceler</desc><category lang="tr">Cocuk-ve-genc</category><category lang="tr">Cizgi-film</category></programme>
@@ -1653,6 +1711,65 @@
 <programme start="20260613203500 +0000" stop="20260613204500 +0000" channel="CartoonNetwork.tr@SD"><title lang="tr">Teen Titans Go!</title><desc lang="tr">Bu kez sizlere gerçekten de bu dünyada genç bir süper kahraman olmanın ne demek olduğunu gösterecekler.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260613204500 +0000" stop="20260613205500 +0000" channel="CartoonNetwork.tr@SD"><title lang="tr">Teen Titans Go!</title><desc lang="tr">Bu kez sizlere gerçekten de bu dünyada genç bir süper kahraman olmanın ne demek olduğunu gösterecekler.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260613205500 +0000" stop="20260614000500 +0000" channel="CartoonNetwork.tr@SD"><title lang="tr">Teen Titans Go!</title><desc lang="tr">Bu kez sizlere gerçekten de bu dünyada genç bir süper kahraman olmanın ne demek olduğunu gösterecekler.</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260612210000 +0000" stop="20260612220000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Saba Tümer&apos;le</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260612220000 +0000" stop="20260612225000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">The Tonight Show Jimmy Fallon</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260612225000 +0000" stop="20260612234000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Birlikte Keyifli</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260612234000 +0000" stop="20260613004000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Serda ile Masadaki Sırlar</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613004000 +0000" stop="20260613013000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">0&apos;dan 1&apos;e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613013000 +0000" stop="20260613020000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Yaşamdan İzler</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613020000 +0000" stop="20260613025000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">art-e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613025000 +0000" stop="20260613063000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Ekonomi Tekrarları</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613063000 +0000" stop="20260613070000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Data Talks</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613070000 +0000" stop="20260613073000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Yaşamın Gücü</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613073000 +0000" stop="20260613080000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Ümit Aktaş ile İyilik Hareketi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613080000 +0000" stop="20260613093000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Ana Sahne Diana Krall</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613093000 +0000" stop="20260613100000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Unlocked</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613100000 +0000" stop="20260613103000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Gelecegimiz için Eğitim</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613103000 +0000" stop="20260613112000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">0&apos;dan 1&apos;e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613112000 +0000" stop="20260613115000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Documentary Junk</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613115000 +0000" stop="20260613124000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Saba Tümer&apos;le</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613124000 +0000" stop="20260613132000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">The Tonight Show Jimmy Fallon</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613132000 +0000" stop="20260613135000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Art-e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613135000 +0000" stop="20260613144000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Birlikte Keyifli</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613144000 +0000" stop="20260613151000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">İş&apos;ten Sohbetler</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613151000 +0000" stop="20260613170000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Film Kuşağı Music of Silence</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613170000 +0000" stop="20260613180000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Dünya Kupası 2026 Özel Maç Önü</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613180000 +0000" stop="20260613190000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Çok Akustik</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613190000 +0000" stop="20260613195000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">The Tonight Show Jimmy Fallon</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613195000 +0000" stop="20260613202000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Documentary Junk</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613202000 +0000" stop="20260613211000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Saba Tümer&apos;le</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613211000 +0000" stop="20260613221000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Dünya Kupası 2026 Özel Maç Önü</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613221000 +0000" stop="20260613230000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">The Tonight Show Jimmy Fallon</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613230000 +0000" stop="20260613233000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Documentary Junk</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613233000 +0000" stop="20260614001000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Unlocked</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614001000 +0000" stop="20260614011000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">0&apos;dan 1&apos;e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614011000 +0000" stop="20260614014000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Yapay Zeka ve Ötesi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614014000 +0000" stop="20260614021000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Art-e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614021000 +0000" stop="20260614024000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Yaşamın Gücü</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614024000 +0000" stop="20260614031000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Ümit Aktaş ile İyilik Hareketi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614031000 +0000" stop="20260614034000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Nasıl Başardık</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614034000 +0000" stop="20260614040000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">İş&apos;ten Sohbetler</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614040000 +0000" stop="20260614063000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Ekonomi Tekrarları</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614063000 +0000" stop="20260614070000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Yapay Zeka ve Ötesi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614070000 +0000" stop="20260614073000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Yaşamdan İzler</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Ümit Aktaş ile İyilik Hareketi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614080000 +0000" stop="20260614093000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Ana Sahne Melody Gardot</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614093000 +0000" stop="20260614100000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Unlocked</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614100000 +0000" stop="20260614103000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Art-e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614103000 +0000" stop="20260614112000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Birlikte Keyifli</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614112000 +0000" stop="20260614115000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Documentary Junk</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614115000 +0000" stop="20260614124000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Saba Tümer&apos;le</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614124000 +0000" stop="20260614132000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">The Tonight Show Jimmy Fallon</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614132000 +0000" stop="20260614135000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Art-e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614135000 +0000" stop="20260614141000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Oto Ekonomi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614141000 +0000" stop="20260614144000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Yapay Zeka ve Ötesi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614144000 +0000" stop="20260614153000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">0&apos;dan 1&apos;e</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614153000 +0000" stop="20260614160000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Dünya Kupası Belgesel</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614160000 +0000" stop="20260614170000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Dünya Kupası 2026 Özel Maç Sonu</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614170000 +0000" stop="20260614174500 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">The Tonight Show Jimmy Fallon</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614174500 +0000" stop="20260614190000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Serda ile Masadaki Sırlar</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614190000 +0000" stop="20260614200000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Spor Seansı Dünya Kupası 2026 Özel</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614200000 +0000" stop="20260614230000 +0000" channel="CNBCEurope.uk@SD"><title lang="tr">Çok Akustik</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260612220000 +0000" stop="20260612231500 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Gece Haberleri</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260612231500 +0000" stop="20260613030000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Akıl Çemberi (T)</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260613030000 +0000" stop="20260613040000 +0000" channel="CNNTurk.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
@@ -2402,6 +2519,35 @@
 <programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Haftasonu Ana Haber Bülteni</title></programme>
 <programme start="20260614170000 +0000" stop="20260614200000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Habertürk Gündem</title></programme>
 <programme start="20260614200000 +0000" stop="20260614230000 +0000" channel="HaberturkTV.tr@SD"><title lang="tr">Ben&apos;ce</title></programme>
+<programme start="20260612210000 +0000" stop="20260612220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dünya Kupası Raporu</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260612220000 +0000" stop="20260612230000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Spor Meddahı</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613010000 +0000" stop="20260613030000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613030000 +0000" stop="20260613040000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dünya Kupası Raporu</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613040000 +0000" stop="20260613060000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613060000 +0000" stop="20260613090000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Hafta Sonu</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260613090000 +0000" stop="20260613100000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Magazin</title></programme>
+<programme start="20260613100000 +0000" stop="20260613110000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Zone Press</title></programme>
+<programme start="20260613110000 +0000" stop="20260613140000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Spor Hattı</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260613140000 +0000" stop="20260613150000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dünya Kupası Özel</title></programme>
+<programme start="20260613150000 +0000" stop="20260613170000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Milli Maç Özel</title></programme>
+<programme start="20260613190000 +0000" stop="20260613210000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title></programme>
+<programme start="20260613210000 +0000" stop="20260613220000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dünya Kupası Raporu</title></programme>
+<programme start="20260613220000 +0000" stop="20260613230000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Zone Press</title></programme>
+<programme start="20260613230000 +0000" stop="20260614010000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Milli Maç Özel</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614010000 +0000" stop="20260614030000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614030000 +0000" stop="20260614040000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Magazin</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614040000 +0000" stop="20260614050000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dünya Kupası Raporu</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614050000 +0000" stop="20260614060000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Spor Meddahı</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614060000 +0000" stop="20260614080000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Milli Maç Özel</title></programme>
+<programme start="20260614080000 +0000" stop="20260614093000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Gündem</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260614093000 +0000" stop="20260614120000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">HT Spor Hafta Sonu</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260614120000 +0000" stop="20260614140000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Spor Hattı</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260614140000 +0000" stop="20260614150000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Dünya Kupası Özel</title></programme>
+<programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Ana Haber Bülteni</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20260614170000 +0000" stop="20260614190000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Nokta Transfer</title></programme>
+<programme start="20260614190000 +0000" stop="20260614210000 +0000" channel="HTSporTV.tr@SD"><title lang="tr">Gece Yarısı</title></programme>
 <programme start="20260612210000 +0000" stop="20260612220000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Kapan: Wendy Williams&apos;a Ne Oluyor?</title><desc lang="tr">Wendy Williams&apos;ın yakaladığı şöhretin ve başkasının vesayeti altındaki yaşamının hikâyesini; olayın tanıkları, uzmanlar ve bizzat Wendy anlatıyor.</desc></programme>
 <programme start="20260612220000 +0000" stop="20260613000000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">Hollywood&apos;un Şeytanları</title><desc lang="tr">Marilyn Monroe&apos;dan Matthew Perry&apos;ye kadar birçok ünlünün ölümüne yol açan doktorlar ve milyonlarca dolarlık ilaç imparatorlukları masaya yatırılıyor.</desc></programme>
 <programme start="20260613000000 +0000" stop="20260613010000 +0000" channel="InvestigationDiscoveryEurope.us@SD"><title lang="tr">People Dergisi Araştırıyor</title><desc lang="tr">Michigan kırsalında yaşayan beş çocuk annesi girişimci Dee Warner&apos;ın kaybolmasıyla cevapsız sorular ve suçlamalar peş peşe gelir.</desc></programme>
@@ -2645,6 +2791,142 @@
 <programme start="20260614190000 +0000" stop="20260614195000 +0000" channel="NationalGeographicWild.tr@SD"><title lang="tr">Okyanusun Devleri</title><desc lang="tr">Tarih öncesi devler dünyamızın okyanuslarında dolaşıyor. Suyun yüzeyinden aşağıya dalın ve bu heybetli yaratıkların olağanüstü dünyalarına şahit olun! Balinalar.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260614195000 +0000" stop="20260614204500 +0000" channel="NationalGeographicWild.tr@SD"><title lang="tr">Kızıldeniz: Yaşamın Büyülü Bahçesi</title><desc lang="tr">Kızıldeniz’in dev resiflerinden çöllerindeki egzotik yaşama kadar bu doğa harikasını keşfedin. Binlerce balık türü, dugonglar ve ejder kanadı ağaçlarıyla dolu bu eşsiz dünyaya tanıklık edin.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260614204500 +0000" stop="20260614213500 +0000" channel="NationalGeographicWild.tr@SD"><title lang="tr">Yetenekli Dr. Pol</title><desc lang="tr">Bu sezon, her gün yeni ve zorlu vakalarla dolu, her zamanki gibi çılgın bir yolculuk.</desc><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
+<programme start="20260612210000 +0000" stop="20260612215000 +0000" channel="NTV.tr@SD"><title lang="tr">Bugün Yarın</title></programme>
+<programme start="20260612215000 +0000" stop="20260612215500 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20260612215500 +0000" stop="20260612220000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260612220000 +0000" stop="20260612223500 +0000" channel="NTV.tr@SD"><title lang="tr">Bugün Yarın</title></programme>
+<programme start="20260612223500 +0000" stop="20260612225500 +0000" channel="NTV.tr@SD"><title lang="tr">Gece Gündüz</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260612225500 +0000" stop="20260612230000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260612230000 +0000" stop="20260612235500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260612235500 +0000" stop="20260613000000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613000000 +0000" stop="20260613003000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613003000 +0000" stop="20260613005500 +0000" channel="NTV.tr@SD"><title lang="tr">Yakın Plan</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613005500 +0000" stop="20260613010000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613010000 +0000" stop="20260613013000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613013000 +0000" stop="20260613015500 +0000" channel="NTV.tr@SD"><title lang="tr">Yakın Plan</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613015500 +0000" stop="20260613020000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613020000 +0000" stop="20260613024000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613024000 +0000" stop="20260613025500 +0000" channel="NTV.tr@SD"><title lang="tr">Yeşil Ekran</title></programme>
+<programme start="20260613025500 +0000" stop="20260613030000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613030000 +0000" stop="20260613035000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613035000 +0000" stop="20260613035500 +0000" channel="NTV.tr@SD"><title lang="tr">Laf Aramızda</title></programme>
+<programme start="20260613035500 +0000" stop="20260613040000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613040000 +0000" stop="20260613043500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613043500 +0000" stop="20260613045500 +0000" channel="NTV.tr@SD"><title lang="tr">Gece Gündüz</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613045500 +0000" stop="20260613050000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613050000 +0000" stop="20260613055000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613055000 +0000" stop="20260613055500 +0000" channel="NTV.tr@SD"><title lang="tr">Bambaşka Sohbetler Kısa</title></programme>
+<programme start="20260613055500 +0000" stop="20260613060000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613060000 +0000" stop="20260613061500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613061500 +0000" stop="20260613065500 +0000" channel="NTV.tr@SD"><title lang="tr">Nasıl İyileştim?</title></programme>
+<programme start="20260613065500 +0000" stop="20260613070000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613070000 +0000" stop="20260613071500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Merkezi</title></programme>
+<programme start="20260613071500 +0000" stop="20260613075500 +0000" channel="NTV.tr@SD"><title lang="tr">Dünyanın Rotası</title></programme>
+<programme start="20260613075500 +0000" stop="20260613080000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613080000 +0000" stop="20260613083000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Merkezi</title></programme>
+<programme start="20260613083000 +0000" stop="20260613085500 +0000" channel="NTV.tr@SD"><title lang="tr">Tekno Hayat</title></programme>
+<programme start="20260613085500 +0000" stop="20260613090000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613090000 +0000" stop="20260613091500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Merkezi</title></programme>
+<programme start="20260613091500 +0000" stop="20260613095500 +0000" channel="NTV.tr@SD"><title lang="tr">Beraber Büyüdük</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613095500 +0000" stop="20260613100000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613100000 +0000" stop="20260613105500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613105500 +0000" stop="20260613110000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613110000 +0000" stop="20260613111500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613111500 +0000" stop="20260613114500 +0000" channel="NTV.tr@SD"><title lang="tr">0-&gt;100</title></programme>
+<programme start="20260613114500 +0000" stop="20260613115500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
+<programme start="20260613115500 +0000" stop="20260613120000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613120000 +0000" stop="20260613125500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613125500 +0000" stop="20260613130000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613130000 +0000" stop="20260613131500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613131500 +0000" stop="20260613132500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
+<programme start="20260613132500 +0000" stop="20260613135500 +0000" channel="NTV.tr@SD"><title lang="tr">Halkın Mutfağı Esnaf Lokantaları</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613135500 +0000" stop="20260613140000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613140000 +0000" stop="20260613145500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613145500 +0000" stop="20260613150000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613150000 +0000" stop="20260613151000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613151000 +0000" stop="20260613152000 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
+<programme start="20260613152000 +0000" stop="20260613155500 +0000" channel="NTV.tr@SD"><title lang="tr">Osman Müftüoğlu ile Yaşasın Hayat</title></programme>
+<programme start="20260613155500 +0000" stop="20260613160000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613160000 +0000" stop="20260613163500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613163500 +0000" stop="20260613164000 +0000" channel="NTV.tr@SD"><title lang="tr">Uzman Bakışı</title></programme>
+<programme start="20260613164000 +0000" stop="20260613165500 +0000" channel="NTV.tr@SD"><title lang="tr">Müze Ziyaretçisi</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613165500 +0000" stop="20260613170000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613170000 +0000" stop="20260613175500 +0000" channel="NTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
+<programme start="20260613175500 +0000" stop="20260613180000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613180000 +0000" stop="20260613191500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613191500 +0000" stop="20260613195500 +0000" channel="NTV.tr@SD"><title lang="tr">Sinan Canan ile Açık Beyin</title></programme>
+<programme start="20260613195500 +0000" stop="20260613200000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613200000 +0000" stop="20260613205500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613205500 +0000" stop="20260613235500 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613210000 +0000" stop="20260613215500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613215500 +0000" stop="20260613220000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613220000 +0000" stop="20260613224500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613224500 +0000" stop="20260613225500 +0000" channel="NTV.tr@SD"><title lang="tr">Müze Ziyaretçisi</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260613225500 +0000" stop="20260613230000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260613230000 +0000" stop="20260613235500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260613235500 +0000" stop="20260614000000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614000000 +0000" stop="20260614001500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614001500 +0000" stop="20260614005500 +0000" channel="NTV.tr@SD"><title lang="tr">Sinan Canan ile Açık Beyin</title></programme>
+<programme start="20260614005500 +0000" stop="20260614010000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614010000 +0000" stop="20260614013000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614013000 +0000" stop="20260614015500 +0000" channel="NTV.tr@SD"><title lang="tr">Tekno Hayat</title></programme>
+<programme start="20260614015500 +0000" stop="20260614020000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614020000 +0000" stop="20260614025500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614025500 +0000" stop="20260614030000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614030000 +0000" stop="20260614035000 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614035000 +0000" stop="20260614035500 +0000" channel="NTV.tr@SD"><title lang="tr">Laf Aramızda</title></programme>
+<programme start="20260614035500 +0000" stop="20260614040000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614040000 +0000" stop="20260614043500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614043500 +0000" stop="20260614045500 +0000" channel="NTV.tr@SD"><title lang="tr">Gece Gündüz</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614045500 +0000" stop="20260614050000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614050000 +0000" stop="20260614055500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614055500 +0000" stop="20260614060000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614060000 +0000" stop="20260614061500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614061500 +0000" stop="20260614065500 +0000" channel="NTV.tr@SD"><title lang="tr">Yarınlar İçin Sıfır Atık</title></programme>
+<programme start="20260614065500 +0000" stop="20260614070000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614070000 +0000" stop="20260614071500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614071500 +0000" stop="20260614075500 +0000" channel="NTV.tr@SD"><title lang="tr">Halkın Mutfağı Esnaf Lokantaları</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614075500 +0000" stop="20260614080000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614080000 +0000" stop="20260614081500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614081500 +0000" stop="20260614085500 +0000" channel="NTV.tr@SD"><title lang="tr">Birol Güven ile Beyaz Perde</title></programme>
+<programme start="20260614085500 +0000" stop="20260614090000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614090000 +0000" stop="20260614091500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614091500 +0000" stop="20260614094500 +0000" channel="NTV.tr@SD"><title lang="tr">Anadoludakiler</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614094500 +0000" stop="20260614095500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
+<programme start="20260614095500 +0000" stop="20260614100000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614100000 +0000" stop="20260614105500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614105500 +0000" stop="20260614110000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614110000 +0000" stop="20260614111500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614111500 +0000" stop="20260614114500 +0000" channel="NTV.tr@SD"><title lang="tr">Tekno Hayat</title></programme>
+<programme start="20260614114500 +0000" stop="20260614115500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
+<programme start="20260614115500 +0000" stop="20260614120000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614120000 +0000" stop="20260614122500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614122500 +0000" stop="20260614124000 +0000" channel="NTV.tr@SD"><title lang="tr">Müze Ziyaretçisi</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614124000 +0000" stop="20260614125500 +0000" channel="NTV.tr@SD"><title lang="tr">Yeşil Ekran</title></programme>
+<programme start="20260614125500 +0000" stop="20260614130000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614130000 +0000" stop="20260614131500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614131500 +0000" stop="20260614132500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
+<programme start="20260614132500 +0000" stop="20260614135500 +0000" channel="NTV.tr@SD"><title lang="tr">Beraber Büyüdük</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260614135500 +0000" stop="20260614140000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614140000 +0000" stop="20260614145500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614145500 +0000" stop="20260614150000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614150000 +0000" stop="20260614151500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614151500 +0000" stop="20260614152500 +0000" channel="NTV.tr@SD"><title lang="tr">Spor</title></programme>
+<programme start="20260614152500 +0000" stop="20260614153000 +0000" channel="NTV.tr@SD"><title lang="tr">Uzman Bakışı</title></programme>
+<programme start="20260614153000 +0000" stop="20260614155500 +0000" channel="NTV.tr@SD"><title lang="tr">0-&gt;100</title></programme>
+<programme start="20260614155500 +0000" stop="20260614160000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614160000 +0000" stop="20260614161500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614161500 +0000" stop="20260614165500 +0000" channel="NTV.tr@SD"><title lang="tr">Osman Müftüoğlu ile Yaşasın Hayat</title></programme>
+<programme start="20260614165500 +0000" stop="20260614170000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614170000 +0000" stop="20260614175500 +0000" channel="NTV.tr@SD"><title lang="tr">Ana Haber</title></programme>
+<programme start="20260614175500 +0000" stop="20260614180000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614180000 +0000" stop="20260614185500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614185500 +0000" stop="20260614190000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614190000 +0000" stop="20260614191500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614191500 +0000" stop="20260614195500 +0000" channel="NTV.tr@SD"><title lang="tr">Ahmet Mümtaz Taylan ile Empati</title></programme>
+<programme start="20260614195500 +0000" stop="20260614200000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20260614200000 +0000" stop="20260614205500 +0000" channel="NTV.tr@SD"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20260614205500 +0000" stop="20260614235500 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260612211500 +0000" stop="20260612221500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gece Hattı</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20260612221500 +0000" stop="20260613000000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Belalı Tanık 2 (Hıtman’s Wıfe Bodyguard)</title><desc lang="tr">Yönetmen: Patrıck Hughes Oyuncular: Samuel L.Jackson, Salma Hayek, Ryan Reynolds, Antonıo Banderas</desc></programme>
 <programme start="20260613000000 +0000" stop="20260613030000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gelsin Hayat Bildiği Gibi</title><desc lang="tr">Tekrar</desc></programme>
@@ -2959,6 +3241,56 @@
 <programme start="20260614170000 +0000" stop="20260614180000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Sözü</title><desc lang="tr">Ülke gündeminde bulunan en önemli başlıklar masaya yatırılıyor.</desc></programme>
 <programme start="20260614180000 +0000" stop="20260614200000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Sözü</title><desc lang="tr">Ülke gündeminde bulunan en önemli başlıklar masaya yatırılıyor.</desc></programme>
 <programme start="20260614200000 +0000" stop="20260614230000 +0000" channel="SozcuTV.tr@SD"><title lang="tr">Türkiye&apos;nin Sözü</title><desc lang="tr">Ülke gündeminde bulunan en önemli başlıklar masaya yatırılıyor.</desc></programme>
+<programme start="20260612210000 +0000" stop="20260612230000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Gremio - Corinthians &quot;Tekrar&quot;</title></programme>
+<programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Cruzeiro-Fluminense &quot;Tekrar&quot;</title></programme>
+<programme start="20260613010000 +0000" stop="20260613030000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Sao Paulo-Botafogo &quot;Tekrar&quot;</title></programme>
+<programme start="20260613030000 +0000" stop="20260613050000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Kuzey Kore - Japonya &quot;Tekrar&quot;</title></programme>
+<programme start="20260613050000 +0000" stop="20260613060000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Monster Jam &apos;&apos;Yarış&apos;&apos;</title></programme>
+<programme start="20260613060000 +0000" stop="20260613080000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Palmeiras-Chapecoense &quot;Tkr&quot;</title></programme>
+<programme start="20260613080000 +0000" stop="20260613100000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">River Plate - Belgrano &quot;Tekrar&quot;</title></programme>
+<programme start="20260613100000 +0000" stop="20260613104500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">FoodBall &quot;Tekrar&quot;</title></programme>
+<programme start="20260613104500 +0000" stop="20260613120000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">90&apos;lar Futbol Smart &quot;Tekrar&quot;</title></programme>
+<programme start="20260613120000 +0000" stop="20260613140000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Bragantino-Internacional &quot;Tkr&quot;</title></programme>
+<programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Gremio - Corinthians &quot;Tekrar&quot;</title></programme>
+<programme start="20260613160000 +0000" stop="20260613180000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Cruzeiro-Fluminense &quot;Tekrar&quot;</title></programme>
+<programme start="20260613180000 +0000" stop="20260613200000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">LaLiga Endesa Play Off &quot;Canlı&quot;</title></programme>
+<programme start="20260613200000 +0000" stop="20260613230000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Al Ahli - Machida &quot;Tekrar&quot;</title></programme>
+<programme start="20260613224500 +0000" stop="20260614013000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Akın Fight Arena Kickbox &quot;Tkr&quot;</title></programme>
+<programme start="20260614013000 +0000" stop="20260614050000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Thy Golf Turnuvası &quot;Tekrar&quot;</title></programme>
+<programme start="20260614050000 +0000" stop="20260614071500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">River Plate-Belgrano &quot;Tekrar&quot;</title></programme>
+<programme start="20260614071500 +0000" stop="20260614091500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Gremio - Corinthians &quot;Tekrar&quot;</title></programme>
+<programme start="20260614091500 +0000" stop="20260614111500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Palmeiras-Chapecoense &quot;Tkr&quot;</title></programme>
+<programme start="20260614111500 +0000" stop="20260614131500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Sao Paulo - Botafogo &quot;Tekrar&quot;</title></programme>
+<programme start="20260614131500 +0000" stop="20260614140000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">FoodBall &quot;Tekrar&quot;</title></programme>
+<programme start="20260614140000 +0000" stop="20260614164500 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Al Ahli - Machida &quot;Tekrar&quot;</title></programme>
+<programme start="20260614164500 +0000" stop="20260614190000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Al Nassr - Gamba Osaka &quot;Tkr&quot;</title></programme>
+<programme start="20260614190000 +0000" stop="20260614220000 +0000" channel="SporSmart2.tr@SD"><title lang="tr">Beleza - Naegohyang &quot;Tekrar&quot;</title></programme>
+<programme start="20260612211500 +0000" stop="20260613000000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Akın Fight Arena &quot;Tekrar&quot;</title></programme>
+<programme start="20260613000000 +0000" stop="20260613020000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Kuzey Kore - Japonya &quot;Tekrar&quot;</title></programme>
+<programme start="20260613020000 +0000" stop="20260613050000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Thy Open Golf Turnuvası &quot;Tkr&quot;</title></programme>
+<programme start="20260613050000 +0000" stop="20260613073000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Al Ahli - Machida &quot;Tekrar&quot;</title></programme>
+<programme start="20260613073000 +0000" stop="20260613093000 +0000" channel="SporSmart.tr@SD"><title lang="tr">LaLiga Endesa PlayOff &quot;Tkr&quot;</title></programme>
+<programme start="20260613093000 +0000" stop="20260613114500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Beleza - Naegohyang &quot;Tekrar&quot;</title></programme>
+<programme start="20260613114500 +0000" stop="20260613134500 +0000" channel="SporSmart.tr@SD"><title lang="tr">River Plate - Belgrano &quot;Tekrar&quot;</title></programme>
+<programme start="20260613134500 +0000" stop="20260613143000 +0000" channel="SporSmart.tr@SD"><title lang="tr">FoodBall &quot;Tekrar&quot;</title></programme>
+<programme start="20260613143000 +0000" stop="20260613163000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Al Nassr - Gamba Osaka &quot;Tkr&quot;</title></programme>
+<programme start="20260613163000 +0000" stop="20260613170000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Dünya Kupası Unutulmaz Anlar</title></programme>
+<programme start="20260613170000 +0000" stop="20260613183000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Kupa Günlüğü &quot;Canlı&quot;</title></programme>
+<programme start="20260613183000 +0000" stop="20260613211500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Akın Fight Arena &quot;Tekrar&quot;</title></programme>
+<programme start="20260613211500 +0000" stop="20260613221500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Yabancı At Yarışları 2026</title></programme>
+<programme start="20260613221500 +0000" stop="20260614001500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Palmeiras-Chapecoense &quot;Tkr&quot;</title></programme>
+<programme start="20260614001500 +0000" stop="20260614021500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Gremio-Corinthians &quot;Tekrar&quot;</title></programme>
+<programme start="20260614021500 +0000" stop="20260614030000 +0000" channel="SporSmart.tr@SD"><title lang="tr">FoodBall &quot;Tekrar&quot;</title></programme>
+<programme start="20260614030000 +0000" stop="20260614041500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Kupa Günlüğü Özel &quot;Canlı&quot;</title></programme>
+<programme start="20260614041500 +0000" stop="20260614060000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Al Nassr - Gamba Osaka &quot;Tkr&quot;</title></programme>
+<programme start="20260614060000 +0000" stop="20260614073000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Kupa Günlüğü Özel &quot;Canlı&quot;</title></programme>
+<programme start="20260614073000 +0000" stop="20260614101500 +0000" channel="SporSmart.tr@SD"><title lang="tr">Al Ahli - Machida &quot;Tekrar&quot;</title></programme>
+<programme start="20260614101500 +0000" stop="20260614123000 +0000" channel="SporSmart.tr@SD"><title lang="tr">River Plate - Belgrano &quot;Tekrar&quot;</title></programme>
+<programme start="20260614123000 +0000" stop="20260614143000 +0000" channel="SporSmart.tr@SD"><title lang="tr">LaLiga Endesa PlayOff &quot;Tkr&quot;</title></programme>
+<programme start="20260614143000 +0000" stop="20260614163000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Bragantino-Internacional &quot;Tkr&quot;</title></programme>
+<programme start="20260614163000 +0000" stop="20260614180000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Thy Open Golf Turnuvası &quot;Tkr&quot;</title></programme>
+<programme start="20260614180000 +0000" stop="20260614200000 +0000" channel="SporSmart.tr@SD"><title lang="tr">LaLiga Endesa PlayOff &quot;Canlı&quot;</title></programme>
+<programme start="20260614200000 +0000" stop="20260614230000 +0000" channel="SporSmart.tr@SD"><title lang="tr">Akın Fight Arena &quot;Tekrar&quot;</title></programme>
 <programme start="20260612210000 +0000" stop="20260612214500 +0000" channel="TarihTV.tr@SD"><title lang="tr">Belgelerle Tarih</title><desc lang="tr">Yakın tarihin tozlu sayfalarında kalmış, dünya ve ülke kaderini değiştiren kritik dönemeçler gün yüzüne çıkan arşiv belgeleri ve çarpıcı görüntülerle yeniden hayat buluyor. Belgelerle Tarih’te, siyasi stratejilerin perde arkasından askeri deha örneklerine, diplomatik hamlelerden unutulmaz toplumsal olaylara kadar tarihimizin en sarsıcı dönemlerini keşfetmeye hazır olun.</desc></programme>
 <programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="TarihTV.tr@SD"><title lang="tr">İster İnan İster İnanma</title><desc lang="tr">Belgelerden ve hatıratlardan derlenen, daha önce belki de hiç duymadığınız hikayeler. Bazen güldüren, bazen şaşırtan öyküler Ercan Demirel&apos;in sunumuyla İster İnan İster İnanma&apos;da.</desc><category lang="tr">Sinema</category><category lang="tr">Genel</category></programme>
 <programme start="20260612220000 +0000" stop="20260612230000 +0000" channel="TarihTV.tr@SD"><title lang="tr">Osmanlı Hükümdarları</title><desc lang="tr">600 yıl, 3 kıtada hüküm süren bir cihan devleti… Tarihin kesintisiz en uzun süren hanedanlarından biri… Osmanlı’da beylikten imparatorluğa tahta geçen padişahların hayatları… Prof. Dr. Feridun Emecen ve Prof. Dr. Haşim Şahin her bölümde farklı bir padişahı anlatıyor…</desc></programme>
@@ -3021,10 +3353,58 @@
 <programme start="20260614180000 +0000" stop="20260614190000 +0000" channel="TarihTV.tr@SD"><title lang="tr">Zaman Tüneli</title><desc lang="tr">Koray Şerbetçi, izleyenleri zamanda yolculuğa çıkarıyor. Göktürkler’den Selçuklular’a, Anadolu medeniyetlerinden Roma İmparatorluğu’na, Osmanlı’dan günümüze tarihi olayları uzman konuklarıyla konuşuyor. Geçmişe doğru geniş bir pencere açarak tarihin bilinmeyenlerini izleyiciyle buluşturuyor.</desc></programme>
 <programme start="20260614190000 +0000" stop="20260614200000 +0000" channel="TarihTV.tr@SD"><title lang="tr">Viking Rollo</title><desc lang="tr">Muhtemelen Vikings dizisinin ana karakterlerinden Rollo’yu tanıyorsunuzdur. Peki onun, gerçek bir Viking lideri olan Rollo’dan esinlendiğini biliyor muydunuz? Yıllar süren araştırmalar ve tarihî bir el yazmasına dayanan bu yapım, uzman görüşleri ve canlandırmalar eşliğinde, Fatih William’ın atası olan bu unutulmuş kahramanın destansı hikâyesini gün yüzüne çıkarıyor. Macera 876 yılında başlıyor.</desc><category lang="tr">Sinema</category><category lang="tr">Genel</category></programme>
 <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="TarihTV.tr@SD"><title lang="tr">Nereden Nereye</title><desc lang="tr">Uluslararası gerginlikler, küresel krizler geçmişteki hangi olaylara dayanıyor? Tarihteki olayların bugüne ve geleceğe etkisi ne olabilir? Prof. Dr. Ahmet Kasım Han ve Prof. Dr. Burak Küntay, dünyanın gündemindeki olayların tarihine, dayandığı temellere yeni bir pencere açıyor. Dünyadaki güç savaşlarının yarına nasıl yansıyabileceğini değerlendiriyorlar.</desc></programme>
+<programme start="20260612223000 +0000" stop="20260612233000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kelime Oyunu</title></programme>
+<programme start="20260612233000 +0000" stop="20260613004500 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
+<programme start="20260613004500 +0000" stop="20260613030000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
+<programme start="20260613030000 +0000" stop="20260613043000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kavak Yelleri</title></programme>
+<programme start="20260613043000 +0000" stop="20260613063000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
+<programme start="20260613063000 +0000" stop="20260613084500 +0000" channel="Teve2.tr@SD"><title lang="tr">Geniş Aile</title></programme>
+<programme start="20260613084500 +0000" stop="20260613100000 +0000" channel="Teve2.tr@SD"><title lang="tr">Rehber</title></programme>
+<programme start="20260613100000 +0000" stop="20260613111500 +0000" channel="Teve2.tr@SD"><title lang="tr">Çok Gezenti</title></programme>
+<programme start="20260613111500 +0000" stop="20260613123000 +0000" channel="Teve2.tr@SD"><title lang="tr">Mutfağım</title></programme>
+<programme start="20260613123000 +0000" stop="20260613150000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
+<programme start="20260613150000 +0000" stop="20260613170000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
+<programme start="20260613170000 +0000" stop="20260613204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
+<programme start="20260613204500 +0000" stop="20260613223000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
+<programme start="20260613223000 +0000" stop="20260613233000 +0000" channel="Teve2.tr@SD"><title lang="tr">Rehber</title></programme>
+<programme start="20260613233000 +0000" stop="20260614010000 +0000" channel="Teve2.tr@SD"><title lang="tr">Geniş Aile</title></programme>
+<programme start="20260614010000 +0000" stop="20260614023000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
+<programme start="20260614023000 +0000" stop="20260614030000 +0000" channel="Teve2.tr@SD"><title lang="tr">Müzik</title></programme>
+<programme start="20260614030000 +0000" stop="20260614043000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kavak Yelleri</title></programme>
+<programme start="20260614043000 +0000" stop="20260614063000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
+<programme start="20260614063000 +0000" stop="20260614084500 +0000" channel="Teve2.tr@SD"><title lang="tr">Geniş Aile</title></programme>
+<programme start="20260614084500 +0000" stop="20260614100000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çok Gezenti Yeni Bölüm</title></programme>
+<programme start="20260614100000 +0000" stop="20260614111500 +0000" channel="Teve2.tr@SD"><title lang="tr">Rehber Yeni Bölüm</title></programme>
+<programme start="20260614111500 +0000" stop="20260614123000 +0000" channel="Teve2.tr@SD"><title lang="tr">Mutfağım</title></programme>
+<programme start="20260614123000 +0000" stop="20260614150000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
+<programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
+<programme start="20260614170000 +0000" stop="20260614204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
+<programme start="20260614204500 +0000" stop="20260614223000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
 <programme start="20260612211500 +0000" stop="20260612221500 +0000" channel="TV85.tr@SD"><title lang="tr">En İyi Nakavtlar</title><category lang="tr">Spor</category><category lang="tr">Boks</category></programme>
 <programme start="20260612221500 +0000" stop="20260613003000 +0000" channel="TV85.tr@SD"><title lang="tr">Bir Demet Tiyatro</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260613003000 +0000" stop="20260613023000 +0000" channel="TV85.tr@SD"><title lang="tr">Çok Güzel Hareketler Bunlar</title><category lang="tr">Eglence</category><category lang="tr">Genel</category></programme>
 <programme start="20260613023000 +0000" stop="20260613053000 +0000" channel="TV85.tr@SD"><title lang="tr">8 X 8</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260612210000 +0000" stop="20260613030000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613030000 +0000" stop="20260613040000 +0000" channel="TVNET.tr@SD"><title lang="tr">Hatim</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613040000 +0000" stop="20260613073000 +0000" channel="TVNET.tr@SD"><title lang="tr">Türk Kahvesi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613073000 +0000" stop="20260613112000 +0000" channel="TVNET.tr@SD"><title lang="tr">Başkent</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613112000 +0000" stop="20260613130000 +0000" channel="TVNET.tr@SD"><title lang="tr">Ketebe</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613130000 +0000" stop="20260613140000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613160000 +0000" stop="20260613170000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613170000 +0000" stop="20260613193000 +0000" channel="TVNET.tr@SD"><title lang="tr">Konuşmak Lazım</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613193000 +0000" stop="20260613223000 +0000" channel="TVNET.tr@SD"><title lang="tr">Düşünmeye Değer</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260613210000 +0000" stop="20260614000000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614000000 +0000" stop="20260614030000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614030000 +0000" stop="20260614070000 +0000" channel="TVNET.tr@SD"><title lang="tr">Hatim</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614070000 +0000" stop="20260614073000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614073000 +0000" stop="20260614081000 +0000" channel="TVNET.tr@SD"><title lang="tr">Başkent</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614081000 +0000" stop="20260614112000 +0000" channel="TVNET.tr@SD"><title lang="tr">Türk Kahvesi</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614112000 +0000" stop="20260614120000 +0000" channel="TVNET.tr@SD"><title lang="tr">Ketebe</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614120000 +0000" stop="20260614140000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614140000 +0000" stop="20260614170000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614170000 +0000" stop="20260614190000 +0000" channel="TVNET.tr@SD"><title lang="tr">Radikal Zanaat</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260614190000 +0000" stop="20260614220000 +0000" channel="TVNET.tr@SD"><title lang="tr">4x4 Futbol</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260612210000 +0000" stop="20260612214500 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Gizli Nazi Üsleri</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260612214500 +0000" stop="20260612223000 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Ramses: Mısır&apos;ın Muhteşem Kralı</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
 <programme start="20260612223000 +0000" stop="20260612232000 +0000" channel="ViasatHistory.tr@SD"><title lang="tr">Bettany Hughes&apos;la Hazine Peşinde</title><category lang="tr">Belgesel</category><category lang="tr">Genel</category></programme>
