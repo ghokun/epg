@@ -3604,13 +3604,13 @@
 <programme start="20260721205500 +0000" stop="20260721235500 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20260719213000 +0000" stop="20260720000000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Muhtemel Aşk</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260720000000 +0000" stop="20260720013000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Üçkağıtçı</title><desc lang="tr">Yönetmen: Natuk Baytan Oyuncular: Kemal Sunal, Ülkü Özen, Ali Şen</desc></programme>
-<programme start="20260720013000 +0000" stop="20260720030000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Aşk Tutulması</title><desc lang="tr">Yönetmen: Murat Şeker Oyuncular: Fahriye Evcen, Tolgahan Sayışman, Tim Seyfi, Filiz Ahmet, Yasemin Öztürk</desc></programme>
+<programme start="20260720013000 +0000" stop="20260720030000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Dönerse Senindir</title><desc lang="tr">Yönetmen: Erol Özlevi Oyuncular: Murat Boz, İrem Sak, Yasemin Allen, Uraz Kaygılaroğlu</desc></programme>
 <programme start="20260720030000 +0000" stop="20260720060000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Yeni Gelin</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260720060000 +0000" stop="20260720090000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Aşk Laftan Anlamaz</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260720090000 +0000" stop="20260720120000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gelsin Hayat Bildiği Gibi</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260720120000 +0000" stop="20260720152500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260720152500 +0000" stop="20260720170000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
-<programme start="20260720170000 +0000" stop="20260720211500 +0000" channel="ShowTV.tr@SD"><title lang="tr">Güldür Güldür Show</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20260720170000 +0000" stop="20260720200000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Güldür Güldür Show</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260720211500 +0000" stop="20260721000000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Muhtemel Aşk</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260721000000 +0000" stop="20260721030000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Gelsin Hayat Bildiği Gibi</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20260721030000 +0000" stop="20260721060000 +0000" channel="ShowTV.tr@SD"><title lang="tr">Yeni Gelin</title><desc lang="tr">Tekrar</desc></programme>
@@ -3981,27 +3981,13 @@
 <programme start="20260720030000 +0000" stop="20260720043000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kavak Yelleri</title></programme>
 <programme start="20260720043000 +0000" stop="20260720060000 +0000" channel="Teve2.tr@SD"><title lang="tr">Fırtına</title></programme>
 <programme start="20260720060000 +0000" stop="20260720080000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
-<programme start="20260720080000 +0000" stop="20260720100000 +0000" channel="Teve2.tr@SD"><title lang="tr">Üç Kız Kardeş</title></programme>
-<programme start="20260720100000 +0000" stop="20260720123000 +0000" channel="Teve2.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20260720080000 +0000" stop="20260720103000 +0000" channel="Teve2.tr@SD"><title lang="tr">Üç Kız Kardeş</title></programme>
+<programme start="20260720103000 +0000" stop="20260720123000 +0000" channel="Teve2.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20260720123000 +0000" stop="20260720150000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
 <programme start="20260720150000 +0000" stop="20260720170000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
 <programme start="20260720170000 +0000" stop="20260720194500 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
 <programme start="20260720194500 +0000" stop="20260720204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Criminal Minds</title></programme>
-<programme start="20260720204500 +0000" stop="20260720223000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
-<programme start="20260720223000 +0000" stop="20260720234500 +0000" channel="Teve2.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20260720234500 +0000" stop="20260721003000 +0000" channel="Teve2.tr@SD"><title lang="tr">Criminal Minds</title></programme>
-<programme start="20260721003000 +0000" stop="20260721014500 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
-<programme start="20260721014500 +0000" stop="20260721030000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
-<programme start="20260721030000 +0000" stop="20260721043000 +0000" channel="Teve2.tr@SD"><title lang="tr">Kavak Yelleri</title></programme>
-<programme start="20260721043000 +0000" stop="20260721060000 +0000" channel="Teve2.tr@SD"><title lang="tr">Fırtına</title></programme>
-<programme start="20260721060000 +0000" stop="20260721080000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
-<programme start="20260721080000 +0000" stop="20260721100000 +0000" channel="Teve2.tr@SD"><title lang="tr">Merhamet</title></programme>
-<programme start="20260721100000 +0000" stop="20260721123000 +0000" channel="Teve2.tr@SD"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20260721123000 +0000" stop="20260721150000 +0000" channel="Teve2.tr@SD"><title lang="tr">Çocuklar Duymasın</title></programme>
-<programme start="20260721150000 +0000" stop="20260721170000 +0000" channel="Teve2.tr@SD"><title lang="tr">Akasya Durağı</title></programme>
-<programme start="20260721170000 +0000" stop="20260721194500 +0000" channel="Teve2.tr@SD"><title lang="tr">Ben Bilmem Eşim Bilir</title></programme>
-<programme start="20260721194500 +0000" stop="20260721204500 +0000" channel="Teve2.tr@SD"><title lang="tr">Criminal Minds</title></programme>
-<programme start="20260721204500 +0000" stop="20260721234500 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
+<programme start="20260720204500 +0000" stop="20260720234500 +0000" channel="Teve2.tr@SD"><title lang="tr">Kanıt</title></programme>
 <programme start="20260719220000 +0000" stop="20260719223000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Yasemin&apos;in Penceresi Tkr</title></programme>
 <programme start="20260719223000 +0000" stop="20260719230000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gecenin İçinden</title></programme>
 <programme start="20260719230000 +0000" stop="20260720023000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Gündem Özel Tkr</title></programme>
@@ -4055,19 +4041,6 @@
 <programme start="20260721163000 +0000" stop="20260721164500 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Hayatın İçinden</title></programme>
 <programme start="20260721164500 +0000" stop="20260721180000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Ana Haber Bülteni</title></programme>
 <programme start="20260721180000 +0000" stop="20260721213000 +0000" channel="TGRTHaber.tr@SD"><title lang="tr">Taksim Meydanı</title></programme>
-<programme start="20260719223000 +0000" stop="20260720000000 +0000" channel="TV4.tr@SD"><title lang="tr">Benim Yemeğim</title></programme>
-<programme start="20260720000000 +0000" stop="20260720003000 +0000" channel="TV4.tr@SD"><title lang="tr">Metrekare</title></programme>
-<programme start="20260720003000 +0000" stop="20260720004500 +0000" channel="TV4.tr@SD"><title lang="tr">Gökyüzünden Rehber</title></programme>
-<programme start="20260720004500 +0000" stop="20260720011500 +0000" channel="TV4.tr@SD"><title lang="tr">Benim Hikayem</title></programme>
-<programme start="20260720011500 +0000" stop="20260720020000 +0000" channel="TV4.tr@SD"><title lang="tr">Birol Güven İle Gelecek Geliyor</title></programme>
-<programme start="20260720020000 +0000" stop="20260720023000 +0000" channel="TV4.tr@SD"><title lang="tr">Kolay Mı Sandın</title></programme>
-<programme start="20260720023000 +0000" stop="20260720030000 +0000" channel="TV4.tr@SD"><title lang="tr">Bil BilebilirsenTekrar)</title></programme>
-<programme start="20260720030000 +0000" stop="20260720031500 +0000" channel="TV4.tr@SD"><title lang="tr">Gökyüzünden</title></programme>
-<programme start="20260720031500 +0000" stop="20260720040000 +0000" channel="TV4.tr@SD"><title lang="tr">Gezmek Olsun</title></programme>
-<programme start="20260720040000 +0000" stop="20260720041500 +0000" channel="TV4.tr@SD"><title lang="tr">Ataman İle Devri Alem</title><desc lang="tr">Paris&apos;in Eyfel&apos;i, İtalya&apos;nın Pissa Kulesi, Venedik&apos;in gondolları… Farklı bir soluk, farklı bir macera… Ataman Erkul&apos;un gözünden dünya turuna ne dersiniz? Eğer siz de keyifli bir dünya turuna çıkmak isterseniz, &quot;Ataman ile Devri Alem&quot; tv4’te.</desc></programme>
-<programme start="20260720041500 +0000" stop="20260720060000 +0000" channel="TV4.tr@SD"><title lang="tr">Cevap Soruda</title></programme>
-<programme start="20260720060000 +0000" stop="20260720064500 +0000" channel="TV4.tr@SD"><title lang="tr">Tarihi Rotalar</title><desc lang="tr">İstanbul’un tarihi semtlerinde oluşturulan rotaları gezerken ilginç hikayelerin içinde kaybolmaya hazır mısınız?</desc></programme>
-<programme start="20260720064500 +0000" stop="20260720094500 +0000" channel="TV4.tr@SD"><title lang="tr">Tuğçe&apos;nin Mutfağı</title></programme>
 <programme start="20260719210000 +0000" stop="20260720000000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260720000000 +0000" stop="20260720030000 +0000" channel="TVNET.tr@SD"><title lang="tr">Haber</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260720030000 +0000" stop="20260720040000 +0000" channel="TVNET.tr@SD"><title lang="tr">Hatim</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
