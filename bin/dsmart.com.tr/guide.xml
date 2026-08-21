@@ -4265,8 +4265,8 @@
 <programme start="20260821170000 +0000" stop="20260821190000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Postacı</title><desc lang="tr">Postacı Adem ile Sevtap birbirini sevmektedir. Kısa bir süre sonra da evlenmeyi plânlarlar. Fakat Sevtap&apos;ın ailesi bu evliliğe karşı çıkmaktadır. Sevtap’ın babasını bir telgrafla kandıran ikilinin plânları, Sevtap’ın ağabeyi Latif’in İstanbul’a gelmesiyle suya düşer.</desc></programme>
 <programme start="20260821190000 +0000" stop="20260821201500 +0000" channel="NOWTV.tr@SD"><title lang="tr">Şevkat Yerimdar - Tekrar</title></programme>
 <programme start="20260821201500 +0000" stop="20260821210000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Futbol Merkezi Süper Lig</title></programme>
-<programme start="20260821220000 +0000" stop="20260822000000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Postacı</title><desc lang="tr">Postacı Adem ile Sevtap birbirini sevmektedir. Kısa bir süre sonra da evlenmeyi plânlarlar. Fakat Sevtap&apos;ın ailesi bu evliliğe karşı çıkmaktadır. Sevtap’ın babasını bir telgrafla kandıran ikilinin plânları, Sevtap’ın ağabeyi Latif’in İstanbul’a gelmesiyle suya düşer.</desc></programme>
-<programme start="20260822000000 +0000" stop="20260822013000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Her Yerde Sen - Tekrar</title></programme>
+<programme start="20260821210000 +0000" stop="20260821233000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Aşk Yeniden - Tekrar</title></programme>
+<programme start="20260821233000 +0000" stop="20260822013000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Her Yerde Sen - Tekrar</title></programme>
 <programme start="20260822013000 +0000" stop="20260822030000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Yasak Elma - Tekrar</title></programme>
 <programme start="20260822030000 +0000" stop="20260822053000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Şahane Hayatım - Tekrar</title></programme>
 <programme start="20260822053000 +0000" stop="20260822070000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Çalar Saat Hafta Sonu</title></programme>
@@ -4275,9 +4275,8 @@
 <programme start="20260822110000 +0000" stop="20260822133000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Ben Leman - Tekrar</title></programme>
 <programme start="20260822133000 +0000" stop="20260822160000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Karagül - Tekrar</title></programme>
 <programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="NOWTV.tr@SD"><title lang="tr">NOW Ana Haber Haftasonu</title></programme>
-<programme start="20260822170000 +0000" stop="20260822193000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Eski Köye Yeni Adet</title><desc lang="tr">Sağlık ekibinin köyden ayrılmasıyla köyün erkekleri toplanıp kadınlara takılan cihazın ne olduğuna dair fikirler üretirken birbirinden komik yanlış anlamalarla aletin bir mikrofon olduğuna kanaat getirirler.</desc></programme>
-<programme start="20260822193000 +0000" stop="20260822201500 +0000" channel="NOWTV.tr@SD"><title lang="tr">Şevkat Yerimdar - Tekrar</title></programme>
-<programme start="20260822201500 +0000" stop="20260822220000 +0000" channel="NOWTV.tr@SD"><title lang="tr">Futbol Merkezi Süper Lig</title></programme>
+<programme start="20260822170000 +0000" stop="20260822194500 +0000" channel="NOWTV.tr@SD"><title lang="tr">Eski Köye Yeni Adet</title><desc lang="tr">Sağlık ekibinin köyden ayrılmasıyla köyün erkekleri toplanıp kadınlara takılan cihazın ne olduğuna dair fikirler üretirken birbirinden komik yanlış anlamalarla aletin bir mikrofon olduğuna kanaat getirirler.</desc></programme>
+<programme start="20260822194500 +0000" stop="20260822224500 +0000" channel="NOWTV.tr@SD"><title lang="tr">Çifte Milyon - Tekrar</title></programme>
 <programme start="20260820210000 +0000" stop="20260820215000 +0000" channel="NTV.tr@SD"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20260820215000 +0000" stop="20260820215500 +0000" channel="NTV.tr@SD"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20260820215500 +0000" stop="20260820220000 +0000" channel="NTV.tr@SD"><title lang="tr">Hava Durumu</title></programme>
