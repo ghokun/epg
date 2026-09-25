@@ -67,7 +67,7 @@
 <channel id="StarTV.tr@SD"><display-name>Star</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/></channel>
 <channel id="TRT2.tr@SD"><display-name>trt 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/></channel>
 <channel id="TRTMuzik.tr@SD"><display-name>TRT Müzik</display-name><icon src="https://i.imgur.com/JgUzRH8.png"/></channel>
-<channel id="FX.us@East"><display-name>FX</display-name><icon src="https://i.ibb.co/35wTxjfF/IMG-2451.png"/></channel>
+<channel id="FX.us@East"><display-name>FX</display-name><icon src="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9093579/138c80c6dc73af87744353ee32f2fd18/284x160-Q75_138c80c6dc73af87744353ee32f2fd18.png"/></channel>
 <channel id="TRT1.tr@SD"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png"/></channel>
 <channel id="DiziSmartMax.tr@SD"><display-name>Dizi Smart Max</display-name><icon src="https://i.imgur.com/mb3jM28.png"/></channel>
 <channel id="58d29bb0eefad3db9c606281"><display-name>Eurosport 2</display-name></channel>
@@ -1314,6 +1314,24 @@
 <programme start="20260925160000 +0000" stop="20260925180000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title><desc lang="tr">Siz de “Ben Bilirim” diyorsanız tüm aile 360 ekranlarına Alper Ateş’le Ben Bilirim’e davetlisiniz...</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260925180000 +0000" stop="20260925200000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &quot;Bitirim Sosyetede&quot;</title></programme>
 <programme start="20260925200000 +0000" stop="20260925230000 +0000" channel="360.tr@SD"><title lang="tr">Pınar Altuğ Atacan İle Kim O? (Yeni)</title></programme>
+<programme start="20260925214500 +0000" stop="20260925230000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim (Tekrar)</title><desc lang="tr">Siz de &quot;Ben Bilirim&quot; diyorsanız, tüm aile hafta içi her akşam 360 ekranlarına Alper Ateş&apos;le Ben Bilirim&apos;e davetlisiniz..</desc></programme>
+<programme start="20260925230000 +0000" stop="20260926001500 +0000" channel="360.tr@SD"><title lang="tr">Seren&apos;le Buluşalım (Tekrar)</title></programme>
+<programme start="20260926001500 +0000" stop="20260926020000 +0000" channel="360.tr@SD"><title lang="tr">Zaman Geldi</title></programme>
+<programme start="20260926020000 +0000" stop="20260926031500 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &apos;&apos;Bitirimler Sosyetede&apos;&apos;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri 360 ekranlarında seyircisiyle buluşuyor.</desc></programme>
+<programme start="20260926031500 +0000" stop="20260926034500 +0000" channel="360.tr@SD"><title lang="tr">Ataman İle Devr-i Alem</title></programme>
+<programme start="20260926034500 +0000" stop="20260926041500 +0000" channel="360.tr@SD"><title lang="tr">Lezzet Peşinde (Tekrar)</title></programme>
+<programme start="20260926041500 +0000" stop="20260926053000 +0000" channel="360.tr@SD"><title lang="tr">Ben Bilirim</title><desc lang="tr">Siz de “Ben Bilirim” diyorsanız tüm aile 360 ekranlarına Alper Ateş’le Ben Bilirim’e davetlisiniz...</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260926053000 +0000" stop="20260926071500 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &apos;&apos;Şenlik Var&apos;&apos;</title></programme>
+<programme start="20260926071500 +0000" stop="20260926090000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &apos;&apos;İtham Ediyorum&apos;&apos;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri 360 ekranlarında seyircisiyle buluşuyor.</desc></programme>
+<programme start="20260926090000 +0000" stop="20260926094500 +0000" channel="360.tr@SD"><title lang="tr">Ataman İle Devri Alem</title></programme>
+<programme start="20260926094500 +0000" stop="20260926124500 +0000" channel="360.tr@SD"><title lang="tr">Seksenler</title><desc lang="tr">Seksenli yıllarda İstanbul’un küçük bir mahallesinde yaşayan insanların hikâyesi. Her sahnesiyle tam bir dönem dizisi… Hem nostaljik, hem enerjik, hem de çok komik...</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260926124500 +0000" stop="20260926130000 +0000" channel="360.tr@SD"><title lang="tr">Hiç Düşündün Mü?</title></programme>
+<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="360.tr@SD"><title lang="tr">Ece Vahapoğlu İle Mutluluk İçin</title></programme>
+<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="360.tr@SD"><title lang="tr">Lezzet Peşinde</title><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
+<programme start="20260926143000 +0000" stop="20260926163000 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &apos;&apos;Bitirimler Sosyetede&apos;&apos;</title><desc lang="tr">Türk sinemasının sevilen tüm filmleri 360 ekranlarında seyircisiyle buluşuyor.</desc></programme>
+<programme start="20260926163000 +0000" stop="20260926174500 +0000" channel="360.tr@SD"><title lang="tr">Öykü Cengiz İle O An&apos;ın Öyküsü</title></programme>
+<programme start="20260926174500 +0000" stop="20260926194500 +0000" channel="360.tr@SD"><title lang="tr">Türk Sineması &apos;&apos;Akrep&apos;&apos;</title></programme>
+<programme start="20260926194500 +0000" stop="20260926224500 +0000" channel="360.tr@SD"><title lang="tr">Seksenler</title><desc lang="tr">Seksenli yıllarda İstanbul’un küçük bir mahallesinde yaşayan insanların hikâyesi. Her sahnesiyle tam bir dönem dizisi… Hem nostaljik, hem enerjik, hem de çok komik...</desc><category lang="tr">Genel</category><category lang="tr">Genel</category></programme>
 <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
 <programme start="20260924220000 +0000" stop="20260924230000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
 <programme start="20260924230000 +0000" stop="20260925000000 +0000" channel="679b51bdcfef0b3744a77893"><title lang="tr">Klip</title><category lang="tr">Muzik</category><category lang="tr">Genel</category></programme>
